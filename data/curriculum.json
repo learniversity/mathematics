@@ -160,6 +160,12 @@
       "path": "data/primary/year-1/place-value.json"
     },
     {
+      "id": "primary-1-comparison",
+      "level": "primary-1",
+      "title": "Comparing and Ordering Numbers",
+      "path": "data/primary/year-1/comparison.json"
+    },
+    {
       "id": "primary-1-addition",
       "level": "primary-1",
       "title": "Addition",
@@ -172,6 +178,12 @@
       "path": "data/primary/year-1/subtraction.json"
     },
     {
+      "id": "primary-1-mixed-operations",
+      "level": "primary-1",
+      "title": "Mixed Addition and Subtraction",
+      "path": "data/primary/year-1/mixed-operations.json"
+    },
+    {
       "id": "primary-1-multiplication",
       "level": "primary-1",
       "title": "Introduction to Multiplication",
@@ -182,6 +194,66 @@
       "level": "primary-1",
       "title": "Introduction to Division",
       "path": "data/primary/year-1/division.json"
+    },
+    {
+      "id": "primary-1-fractions",
+      "level": "primary-1",
+      "title": "Introduction to Fractions",
+      "path": "data/primary/year-1/fractions.json"
+    },
+    {
+      "id": "primary-1-money",
+      "level": "primary-1",
+      "title": "Money in Ringgit and Sen",
+      "path": "data/primary/year-1/money.json"
+    },
+    {
+      "id": "primary-1-time",
+      "level": "primary-1",
+      "title": "Reading Clocks and Calendars",
+      "path": "data/primary/year-1/time.json"
+    },
+    {
+      "id": "primary-1-length",
+      "level": "primary-1",
+      "title": "Measuring Length",
+      "path": "data/primary/year-1/length.json"
+    },
+    {
+      "id": "primary-1-mass",
+      "level": "primary-1",
+      "title": "Measuring Mass",
+      "path": "data/primary/year-1/mass.json"
+    },
+    {
+      "id": "primary-1-capacity",
+      "level": "primary-1",
+      "title": "Measuring Capacity",
+      "path": "data/primary/year-1/capacity.json"
+    },
+    {
+      "id": "primary-1-plane-shapes",
+      "level": "primary-1",
+      "title": "Two-Dimensional Shapes",
+      "path": "data/primary/year-1/plane-shapes.json"
+    },
+    {
+      "id": "primary-1-solid-shapes",
+      "level": "primary-1",
+      "title": "Three-Dimensional Shapes",
+      "path": "data/primary/year-1/solid-shapes.json"
+    },
+    {
+      "id": "primary-1-data-handling",
+      "level": "primary-1",
+      "title": "Collecting and Reading Data",
+      "path": "data/primary/year-1/data-handling.json"
+    },
+    {
+      "id": "primary-1-word-problems",
+      "level": "primary-1",
+      "title": "Solving Word Problems",
+      "path": "data/primary/year-1/word-problems.json"
     }
   ]
 }
