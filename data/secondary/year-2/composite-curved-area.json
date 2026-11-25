@@ -121,6 +121,6 @@
   "summary": "Split composite regions into rectangles, triangles, circles or semicircles, then add nonoverlapping areas or subtract holes. Perimeter follows only the external boundary, including curved arcs where present. Shared internal edges do not count.",
   "relatedTopics": [
     "secondary-2-circle-area",
-    "primary-6-prisms-cylinders"
+    "secondary-2-volume-prisms-cylinders"
   ]
 }

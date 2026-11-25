@@ -75,6 +75,6 @@
   "summary": "Factorisation reverses expansion. Find a common numerical or variable factor in all terms, divide every term by it and write the remaining expression in brackets. Expand to verify the result.",
   "relatedTopics": [
     "secondary-2-algebraic-expansion",
-    "primary-6-equations"
+    "secondary-1-linear-equations"
   ]
 }

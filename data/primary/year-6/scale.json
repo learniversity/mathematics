@@ -154,7 +154,7 @@
   ],
   "summary": "A scale is the ratio of drawing length to actual length in the same units. A scale of 1:n means one drawing unit represents n actual units. Multiply drawing length by n to find actual length and divide actual length by n to find drawing length.",
   "relatedTopics": [
-    "primary-6-pythagoras",
-    "primary-6-transformations"
+    "secondary-1-pythagoras",
+    "secondary-5-enlargement"
   ]
 }

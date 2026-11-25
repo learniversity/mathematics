@@ -69,7 +69,7 @@
   ],
   "summary": "Solve linear equations by expanding brackets if necessary, collecting variable terms on one side and constants on the other, then dividing by the nonzero coefficient. Each step must preserve equality. Check the solution by substitution.",
   "relatedTopics": [
-    "primary-6-factorisation",
+    "secondary-2-factorisation",
     "secondary-1-inequalities"
   ]
 }
