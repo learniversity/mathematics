@@ -1,5 +1,5 @@
 {
-  "id": "secondary-1-from-p5-equations",
+  "id": "secondary-1-one-two-step-equations",
   "title": "Solving One- and Two-Step Equations",
   "level": "secondary-1",
   "category": "Algebra",
@@ -190,7 +190,7 @@
   ],
   "summary": "An equation states two expressions are equal. Solve for the unknown by applying the same operation to both sides. Undo additions or subtractions, then undo multiplication or division, and substitute the result to check.",
   "relatedTopics": [
-    "secondary-1-from-p5-algebra",
+    "secondary-1-algebraic-expressions",
     "primary-5-sequences"
   ]
 }

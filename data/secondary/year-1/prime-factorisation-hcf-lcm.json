@@ -1,5 +1,5 @@
 {
-  "id": "secondary-1-from-p6-prime-factorisation",
+  "id": "secondary-1-prime-factorisation-hcf-lcm",
   "title": "Prime Factors, HCF and LCM",
   "level": "secondary-1",
   "category": "Arithmetic",
@@ -74,7 +74,7 @@
   ],
   "summary": "Every integer greater than 1 has a prime factorisation unique apart from order. Use the smallest exponent of each common prime for HCF and the largest exponent of every prime present for LCM. A prime not present has exponent zero.",
   "relatedTopics": [
-    "secondary-1-from-p6-order-of-operations",
-    "secondary-1-from-p6-powers-roots"
+    "secondary-1-integer-order-of-operations",
+    "secondary-1-powers-roots"
   ]
 }

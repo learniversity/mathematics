@@ -1,5 +1,5 @@
 {
-  "id": "secondary-1-from-p6-equations",
+  "id": "secondary-1-linear-equations",
   "title": "Linear Equations with Brackets and Variables on Both Sides",
   "level": "secondary-1",
   "category": "Algebra",
@@ -70,6 +70,6 @@
   "summary": "Solve linear equations by expanding brackets if necessary, collecting variable terms on one side and constants on the other, then dividing by the nonzero coefficient. Each step must preserve equality. Check the solution by substitution.",
   "relatedTopics": [
     "primary-6-factorisation",
-    "secondary-1-from-p6-inequalities"
+    "secondary-1-inequalities"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "secondary-1-from-p6-order-of-operations",
+  "id": "secondary-1-integer-order-of-operations",
   "title": "Order of Operations with Powers and Integers",
   "level": "secondary-1",
   "category": "Arithmetic",
@@ -69,7 +69,7 @@
   ],
   "summary": "Evaluate brackets first, then powers, then multiplication and division from left to right, followed by addition and subtraction from left to right. A negative sign outside a power is different from a negative base enclosed in brackets.",
   "relatedTopics": [
-    "secondary-1-from-p6-integer-operations",
-    "secondary-1-from-p6-prime-factorisation"
+    "secondary-1-integer-operations",
+    "secondary-1-prime-factorisation-hcf-lcm"
   ]
 }

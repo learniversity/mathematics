@@ -1,5 +1,5 @@
 {
-  "id": "secondary-1-from-p5-hcf-lcm",
+  "id": "secondary-1-hcf-lcm-applications",
   "title": "Common Factors and Multiples in Applications",
   "level": "secondary-1",
   "category": "Arithmetic",
@@ -76,7 +76,7 @@
   ],
   "summary": "For the highest common factor, take common prime factors with their smallest powers. For the lowest common multiple, take all prime factors with their largest powers. HCF helps divide quantities into the largest equal groups; LCM helps find when repeating events coincide.",
   "relatedTopics": [
-    "secondary-1-from-p5-divisibility",
-    "secondary-1-from-p5-negative-numbers"
+    "secondary-1-divisibility-prime-factorisation",
+    "secondary-1-negative-numbers"
   ]
 }

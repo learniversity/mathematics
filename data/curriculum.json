@@ -1114,85 +1114,85 @@
       "path": "data/secondary/year-1/pythagoras.json"
     },
     {
-      "id": "secondary-1-from-p3-factors-multiples",
+      "id": "secondary-1-factors-multiples",
       "level": "secondary-1",
       "title": "Factors and Multiples",
       "path": "data/secondary/year-1/factors-multiples.json"
     },
     {
-      "id": "secondary-1-from-p4-hcf-lcm",
+      "id": "secondary-1-hcf-lcm",
       "level": "secondary-1",
       "title": "Highest Common Factor and Lowest Common Multiple",
       "path": "data/secondary/year-1/hcf-lcm.json"
     },
     {
-      "id": "secondary-1-from-p5-divisibility",
+      "id": "secondary-1-divisibility-prime-factorisation",
       "level": "secondary-1",
       "title": "Divisibility Rules and Prime Factorisation",
-      "path": "data/secondary/year-1/divisibility.json"
+      "path": "data/secondary/year-1/divisibility-prime-factorisation.json"
     },
     {
-      "id": "secondary-1-from-p5-hcf-lcm",
+      "id": "secondary-1-hcf-lcm-applications",
       "level": "secondary-1",
       "title": "Common Factors and Multiples in Applications",
-      "path": "data/secondary/year-1/extended-hcf-lcm.json"
+      "path": "data/secondary/year-1/hcf-lcm-applications.json"
     },
     {
-      "id": "secondary-1-from-p5-negative-numbers",
+      "id": "secondary-1-negative-numbers",
       "level": "secondary-1",
       "title": "Introduction to Negative Numbers",
       "path": "data/secondary/year-1/negative-numbers.json"
     },
     {
-      "id": "secondary-1-from-p5-powers",
+      "id": "secondary-1-squares-cubes",
       "level": "secondary-1",
       "title": "Squares, Cubes and Powers",
-      "path": "data/secondary/year-1/powers.json"
+      "path": "data/secondary/year-1/squares-cubes.json"
     },
     {
-      "id": "secondary-1-from-p5-algebra",
+      "id": "secondary-1-algebraic-expressions",
       "level": "secondary-1",
       "title": "Introduction to Algebraic Expressions",
-      "path": "data/secondary/year-1/algebra.json"
+      "path": "data/secondary/year-1/algebraic-expressions.json"
     },
     {
-      "id": "secondary-1-from-p5-equations",
+      "id": "secondary-1-one-two-step-equations",
       "level": "secondary-1",
       "title": "Solving One- and Two-Step Equations",
-      "path": "data/secondary/year-1/equations.json"
+      "path": "data/secondary/year-1/one-two-step-equations.json"
     },
     {
-      "id": "secondary-1-from-p6-integer-operations",
+      "id": "secondary-1-integer-operations",
       "level": "secondary-1",
       "title": "Operations with Positive and Negative Integers",
       "path": "data/secondary/year-1/integer-operations.json"
     },
     {
-      "id": "secondary-1-from-p6-order-of-operations",
+      "id": "secondary-1-integer-order-of-operations",
       "level": "secondary-1",
       "title": "Order of Operations with Powers and Integers",
-      "path": "data/secondary/year-1/order-of-operations.json"
+      "path": "data/secondary/year-1/integer-order-of-operations.json"
     },
     {
-      "id": "secondary-1-from-p6-prime-factorisation",
+      "id": "secondary-1-prime-factorisation-hcf-lcm",
       "level": "secondary-1",
       "title": "Prime Factors, HCF and LCM",
-      "path": "data/secondary/year-1/prime-factorisation.json"
+      "path": "data/secondary/year-1/prime-factorisation-hcf-lcm.json"
     },
     {
-      "id": "secondary-1-from-p6-powers-roots",
+      "id": "secondary-1-powers-roots",
       "level": "secondary-1",
       "title": "Powers, Square Roots and Cube Roots",
       "path": "data/secondary/year-1/powers-roots.json"
     },
     {
-      "id": "secondary-1-from-p6-equations",
+      "id": "secondary-1-linear-equations",
       "level": "secondary-1",
       "title": "Linear Equations with Brackets and Variables on Both Sides",
-      "path": "data/secondary/year-1/extended-equations.json"
+      "path": "data/secondary/year-1/linear-equations.json"
     },
     {
-      "id": "secondary-1-from-p6-inequalities",
+      "id": "secondary-1-inequalities",
       "level": "secondary-1",
       "title": "Introduction to Inequalities",
       "path": "data/secondary/year-1/inequalities.json"

@@ -1,5 +1,5 @@
 {
-  "id": "secondary-1-from-p6-powers-roots",
+  "id": "secondary-1-powers-roots",
   "title": "Powers, Square Roots and Cube Roots",
   "level": "secondary-1",
   "category": "Arithmetic",
@@ -386,7 +386,7 @@
   ],
   "summary": "A power aⁿ means repeated multiplication of a for positive integer n. The principal square root of a nonnegative number is its nonnegative square root. A cube root is the real number whose cube equals the given number.",
   "relatedTopics": [
-    "secondary-1-from-p6-prime-factorisation",
+    "secondary-1-prime-factorisation-hcf-lcm",
     "primary-6-fractions"
   ]
 }

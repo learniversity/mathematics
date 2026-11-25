@@ -1,5 +1,5 @@
 {
-  "id": "secondary-1-from-p5-powers",
+  "id": "secondary-1-squares-cubes",
   "title": "Squares, Cubes and Powers",
   "level": "secondary-1",
   "category": "Arithmetic",
@@ -278,7 +278,7 @@
   ],
   "summary": "A power is repeated multiplication: aⁿ means n factors of a for a positive integer n. A square is a number multiplied by itself; a cube is a number multiplied by itself three times. The square root of a nonnegative number is the nonnegative value whose square equals that number.",
   "relatedTopics": [
-    "secondary-1-from-p5-negative-numbers",
+    "secondary-1-negative-numbers",
     "primary-5-fraction-division"
   ]
 }

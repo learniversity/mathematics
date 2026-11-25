@@ -1,5 +1,5 @@
 {
-  "id": "secondary-1-from-p6-inequalities",
+  "id": "secondary-1-inequalities",
   "title": "Introduction to Inequalities",
   "level": "secondary-1",
   "category": "Algebra",
@@ -69,7 +69,7 @@
   ],
   "summary": "An inequality compares expressions using <, >, ≤ or ≥. Adding or subtracting the same number on both sides preserves its direction. Multiplying or dividing both sides by a negative number reverses the inequality sign.",
   "relatedTopics": [
-    "secondary-1-from-p6-equations",
+    "secondary-1-linear-equations",
     "primary-6-formula-substitution"
   ]
 }
