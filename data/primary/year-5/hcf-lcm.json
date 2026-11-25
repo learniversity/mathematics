@@ -1,0 +1,82 @@
+{
+  "id": "primary-5-hcf-lcm",
+  "title": "Common Factors and Multiples in Applications",
+  "level": "primary-5",
+  "category": "Arithmetic",
+  "introduction": "Build on earlier mathematics by studying common factors and multiples in applications.",
+  "definition": "For the highest common factor, take common prime factors with their smallest powers. For the lowest common multiple, take all prime factors with their largest powers. HCF helps divide quantities into the largest equal groups; LCM helps find when repeating events coincide.",
+  "visuals": [],
+  "formulas": [
+    {
+      "expression": "HCF(a,b) × LCM(a,b) = ab",
+      "description": "For positive integers."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Find HCF and LCM of 36 and 48.",
+      "steps": [
+        "36 = 2² × 3²; 48 = 2⁴ × 3",
+        "HCF = 2² × 3",
+        "LCM = 2⁴ × 3²."
+      ],
+      "answer": "HCF 12; LCM 144"
+    },
+    {
+      "question": "Two bells ring every 8 and 12 minutes, starting together.",
+      "steps": [
+        "LCM of 8 and 12 is 24."
+      ],
+      "answer": "24 minutes"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "HCF of 48 and 72?",
+      "answer": 24,
+      "solution": "Both share 2³ × 3."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "LCM of 18 and 24?",
+      "answer": 72,
+      "solution": "2³ × 3²."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "HCF of 45 and 60?",
+      "answer": 15,
+      "solution": "3 × 5."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "LCM of 15 and 20?",
+      "answer": 60,
+      "solution": "2² × 3 × 5."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Two lights flash every 6 and 14 seconds. Next simultaneous flash in seconds?",
+      "answer": 42,
+      "solution": "LCM(6,14)."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Cut 36 cm and 60 cm ribbons into longest equal pieces without waste. Piece length?",
+      "answer": 12,
+      "solution": "HCF(36,60)."
+    }
+  ],
+  "summary": "For the highest common factor, take common prime factors with their smallest powers. For the lowest common multiple, take all prime factors with their largest powers. HCF helps divide quantities into the largest equal groups; LCM helps find when repeating events coincide.",
+  "relatedTopics": [
+    "primary-5-divisibility",
+    "primary-5-negative-numbers"
+  ]
+}

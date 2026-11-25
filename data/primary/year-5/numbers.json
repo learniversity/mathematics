@@ -1,0 +1,291 @@
+{
+  "id": "primary-5-numbers",
+  "title": "Whole Numbers to 1,000,000",
+  "level": "primary-5",
+  "category": "Arithmetic",
+  "introduction": "Build on earlier mathematics by studying whole numbers to 1,000,000.",
+  "definition": "A six-digit number has hundred-thousands, ten-thousands, thousands, hundreds, tens and ones. Each position is ten times the value of the position immediately to its right. A million is ten hundred-thousands.",
+  "visuals": [
+    {
+      "label": "604,083",
+      "description": "Place values from hundred-thousands to ones.",
+      "alt": "604,083 — Place values from hundred-thousands to ones.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 5,
+            "y": 15,
+            "width": 150,
+            "height": 70
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 30,
+            "y1": 15,
+            "x2": 30,
+            "y2": 85
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 55,
+            "y1": 15,
+            "x2": 55,
+            "y2": 85
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 80,
+            "y1": 15,
+            "x2": 80,
+            "y2": 85
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 105,
+            "y1": 15,
+            "x2": 105,
+            "y2": 85
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 130,
+            "y1": 15,
+            "x2": 130,
+            "y2": 85
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 17.5,
+            "y": 35,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "HTh"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 42.5,
+            "y": 35,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "TTh"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 67.5,
+            "y": 35,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "Th"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 92.5,
+            "y": 35,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "H"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 117.5,
+            "y": 35,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "T"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 142.5,
+            "y": 35,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "O"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 17.5,
+            "y": 70,
+            "font-size": 22,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "6"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 42.5,
+            "y": 70,
+            "font-size": 22,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "0"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 67.5,
+            "y": 70,
+            "font-size": 22,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "4"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 92.5,
+            "y": 70,
+            "font-size": 22,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "0"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 117.5,
+            "y": 70,
+            "font-size": 22,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "8"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 142.5,
+            "y": 70,
+            "font-size": 22,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "3"
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "1,000,000 = 1,000 × 1,000",
+      "description": "One million."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Read and expand 604,083.",
+      "steps": [
+        "6 × 100,000 + 4 × 1,000 + 8 × 10 + 3."
+      ],
+      "answer": "600,000 + 4,000 + 80 + 3"
+    },
+    {
+      "question": "Form the number with 8 hundred-thousands, 2 thousands and 9 ones.",
+      "steps": [
+        "800,000 + 2,000 + 9."
+      ],
+      "answer": "802,009"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Value of 7 in 725,309?",
+      "answer": 700000,
+      "solution": "7 × 100,000."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Hundreds digit in 308,416?",
+      "answer": 4,
+      "solution": "The third digit from the right is 4."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "500,000 + 20,000 + 600 + 8",
+      "answer": 520608,
+      "solution": "Combine place values."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "What follows 999,999?",
+      "answer": 1000000,
+      "solution": "Add 1."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "How many thousands are in 1,000,000?",
+      "answer": 1000,
+      "solution": "1,000,000 ÷ 1,000."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Write nine hundred thousand and forty in digits.",
+      "answer": 900040,
+      "solution": "900,000 + 40."
+    }
+  ],
+  "summary": "A six-digit number has hundred-thousands, ten-thousands, thousands, hundreds, tens and ones. Each position is ten times the value of the position immediately to its right. A million is ten hundred-thousands.",
+  "relatedTopics": [
+    "primary-5-rounding"
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "id": "primary-5-area",
+  "title": "Area of Parallelograms and Trapeziums",
+  "level": "primary-5",
+  "category": "Geometry",
+  "introduction": "Build on earlier mathematics by studying area of parallelograms and trapeziums.",
+  "definition": "A parallelogram has area equal to base times perpendicular height. A trapezium has area equal to half the sum of its parallel sides times their perpendicular separation. The sloping side is not the height unless perpendicular to the base.",
+  "visuals": [
+    {
+      "label": "Parallelogram",
+      "description": "Base × perpendicular height.",
+      "alt": "Parallelogram — Base × perpendicular height.",
+      "elements": [
+        {
+          "tag": "polygon",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "points": "43,20 145,20 117,80 15,80"
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 43,
+            "y1": 20,
+            "x2": 43,
+            "y2": 80,
+            "stroke-dasharray": "4 3"
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 43,
+            "y": 70,
+            "width": 10,
+            "height": 10
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 65,
+            "y": 94,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "base"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 34,
+            "y": 51,
+            "font-size": 11,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "h"
+        }
+      ]
+    },
+    {
+      "label": "Trapezium",
+      "description": "Average of parallel sides × perpendicular height.",
+      "alt": "Trapezium — Average of parallel sides × perpendicular height.",
+      "elements": [
+        {
+          "tag": "polygon",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "points": "45,18 115,18 145,80 15,80"
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 45,
+            "y1": 18,
+            "x2": 45,
+            "y2": 80,
+            "stroke-dasharray": "4 3"
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 13,
+            "font-size": 11,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "a"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 94,
+            "font-size": 11,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "b"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 35,
+            "y": 50,
+            "font-size": 11,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "h"
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "A = bh",
+      "description": "Parallelogram."
+    },
+    {
+      "expression": "A = (a + b)h/2",
+      "description": "Trapezium with parallel sides a,b."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Find area of a parallelogram, base 12 cm and height 7 cm.",
+      "steps": [
+        "12 × 7."
+      ],
+      "answer": "84 cm²"
+    },
+    {
+      "question": "Trapezium parallel sides 8 cm and 14 cm, height 5 cm.",
+      "steps": [
+        "(8 + 14) × 5 ÷ 2."
+      ],
+      "answer": "55 cm²"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Parallelogram base 9 cm, height 6 cm. Area cm²?",
+      "answer": 54,
+      "solution": "9 × 6."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Trapezium parallel sides 6 and 10 cm, height 4 cm. Area?",
+      "answer": 32,
+      "solution": "(6 + 10) × 4 ÷ 2."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Parallelogram area 72 cm², base 8 cm. Height?",
+      "answer": 9,
+      "solution": "72 ÷ 8."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Trapezium parallel sides 12 and 18 cm, height 3 cm. Area?",
+      "answer": 45,
+      "solution": "30 × 3 ÷ 2."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Triangle base 14 cm, height 6 cm. Area?",
+      "answer": 42,
+      "solution": "14 × 6 ÷ 2."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Composite area: parallelogram 48 cm² and nonoverlapping triangle 15 cm². Total?",
+      "answer": 63,
+      "solution": "48 + 15."
+    }
+  ],
+  "summary": "A parallelogram has area equal to base times perpendicular height. A trapezium has area equal to half the sum of its parallel sides times their perpendicular separation. The sloping side is not the height unless perpendicular to the base.",
+  "relatedTopics": [
+    "primary-5-angles",
+    "primary-5-circles"
+  ]
+}

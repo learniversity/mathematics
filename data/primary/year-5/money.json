@@ -1,0 +1,88 @@
+{
+  "id": "primary-5-money",
+  "title": "Financial Mathematics: Savings and Profit",
+  "level": "primary-5",
+  "category": "Measurement",
+  "introduction": "Build on earlier mathematics by studying financial mathematics: savings and profit.",
+  "definition": "Savings are income minus spending. Profit occurs when selling price exceeds cost price; loss occurs when cost exceeds selling price. Profit and loss percentages are usually calculated relative to cost price.",
+  "visuals": [],
+  "formulas": [
+    {
+      "expression": "Profit = selling price − cost price",
+      "description": "When selling price is higher."
+    },
+    {
+      "expression": "Profit percentage = profit/cost price × 100%",
+      "description": "Positive cost price."
+    },
+    {
+      "expression": "Savings = income − expenditure",
+      "description": "Net savings."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Buy an item for RM80 and sell for RM100.",
+      "steps": [
+        "Profit = 100 − 80 = 20; percentage = 20 ÷ 80 × 100."
+      ],
+      "answer": "RM20 profit; 25%"
+    },
+    {
+      "question": "Save RM35 each week for 12 weeks.",
+      "steps": [
+        "35 × 12."
+      ],
+      "answer": "RM420"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Cost RM60, selling price RM75. Profit RM?",
+      "answer": 15,
+      "solution": "75 − 60."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Cost RM100, selling price RM85. Loss RM?",
+      "answer": 15,
+      "solution": "100 − 85."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Cost RM50, profit RM10. Profit percent (number only)?",
+      "answer": 20,
+      "solution": "10 ÷ 50 × 100."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Income RM250, spending RM175. Savings RM?",
+      "answer": 75,
+      "solution": "250 − 175."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Save RM25 per week for 16 weeks. Total RM?",
+      "answer": 400,
+      "solution": "25 × 16."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Cost RM120, loss 10%. Selling price RM?",
+      "answer": 108,
+      "solution": "120 × 0.9."
+    }
+  ],
+  "summary": "Savings are income minus spending. Profit occurs when selling price exceeds cost price; loss occurs when cost exceeds selling price. Profit and loss percentages are usually calculated relative to cost price.",
+  "relatedTopics": [
+    "primary-5-rates",
+    "primary-5-time"
+  ]
+}

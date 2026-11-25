@@ -1,0 +1,606 @@
+{
+  "id": "primary-5-coordinates",
+  "title": "Coordinates in Four Quadrants",
+  "level": "primary-5",
+  "category": "Geometry",
+  "introduction": "Build on earlier mathematics by studying coordinates in four quadrants.",
+  "definition": "The Cartesian plane has perpendicular x and y axes crossing at the origin. A point (x,y) gives the horizontal and vertical coordinates. Positive x moves right, negative x left; positive y moves up, negative y down. Quadrants I, II, III and IV are numbered anticlockwise starting at the upper right.",
+  "visuals": [
+    {
+      "label": "Four quadrants",
+      "description": "I, II, III, IV in anticlockwise order.",
+      "alt": "Four quadrants — I, II, III, IV in anticlockwise order.",
+      "elements": [
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 16,
+            "y1": 10,
+            "x2": 16,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 32,
+            "y1": 10,
+            "x2": 32,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 48,
+            "y1": 10,
+            "x2": 48,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 64,
+            "y1": 10,
+            "x2": 64,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 80,
+            "y1": 10,
+            "x2": 80,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 96,
+            "y1": 10,
+            "x2": 96,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 112,
+            "y1": 10,
+            "x2": 112,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 128,
+            "y1": 10,
+            "x2": 128,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 144,
+            "y1": 10,
+            "x2": 144,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 16,
+            "y1": 10,
+            "x2": 144,
+            "y2": 10
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 16,
+            "y1": 30,
+            "x2": 144,
+            "y2": 30
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 16,
+            "y1": 50,
+            "x2": 144,
+            "y2": 50
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 16,
+            "y1": 70,
+            "x2": 144,
+            "y2": 70
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 16,
+            "y1": 90,
+            "x2": 144,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 12,
+            "y1": 50,
+            "x2": 150,
+            "y2": 50
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 80,
+            "y1": 5,
+            "x2": 80,
+            "y2": 95
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 148,
+            "y": 44,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "x"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 87,
+            "y": 10,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "y"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 75,
+            "y": 62,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "0"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 112,
+            "y": 26,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "I"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 47,
+            "y": 26,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "II"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 47,
+            "y": 77,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "III"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 112,
+            "y": 77,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "IV"
+        }
+      ]
+    },
+    {
+      "label": "(−3,2)",
+      "description": "Left three, up two.",
+      "alt": "(−3,2) — Left three, up two.",
+      "elements": [
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 16,
+            "y1": 10,
+            "x2": 16,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 32,
+            "y1": 10,
+            "x2": 32,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 48,
+            "y1": 10,
+            "x2": 48,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 64,
+            "y1": 10,
+            "x2": 64,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 80,
+            "y1": 10,
+            "x2": 80,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 96,
+            "y1": 10,
+            "x2": 96,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 112,
+            "y1": 10,
+            "x2": 112,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 128,
+            "y1": 10,
+            "x2": 128,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 144,
+            "y1": 10,
+            "x2": 144,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 16,
+            "y1": 10,
+            "x2": 144,
+            "y2": 10
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 16,
+            "y1": 30,
+            "x2": 144,
+            "y2": 30
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 16,
+            "y1": 50,
+            "x2": 144,
+            "y2": 50
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 16,
+            "y1": 70,
+            "x2": 144,
+            "y2": 70
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 16,
+            "y1": 90,
+            "x2": 144,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 12,
+            "y1": 50,
+            "x2": 150,
+            "y2": 50
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 80,
+            "y1": 5,
+            "x2": 80,
+            "y2": 95
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 148,
+            "y": 44,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "x"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 87,
+            "y": 10,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "y"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 75,
+            "y": 62,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "0"
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 32,
+            "cy": 10,
+            "r": 3
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 45,
+            "y": 21,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "(−3,2)"
+        }
+      ]
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Locate (−3,2).",
+      "steps": [
+        "Move three units left and two up."
+      ],
+      "answer": "Quadrant II"
+    },
+    {
+      "question": "A point (2,−4) moves five units up.",
+      "steps": [
+        "x remains 2; y = −4 + 5."
+      ],
+      "answer": "(2,1)"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "x-coordinate of (−5,3)?",
+      "answer": -5,
+      "solution": "First coordinate."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "y-coordinate of (4,−7)?",
+      "answer": -7,
+      "solution": "Second coordinate."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Quadrant of (−2,−3)? Enter 1, 2, 3 or 4.",
+      "answer": 3,
+      "solution": "Both coordinates negative."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Point (−3,5) moves 6 right. New x?",
+      "answer": 3,
+      "solution": "−3 + 6."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Point (2,−1) moves 4 down. New y?",
+      "answer": -5,
+      "solution": "−1 − 4."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Distance along x-axis from (−2,0) to (5,0)?",
+      "answer": 7,
+      "solution": "5 − (−2)."
+    }
+  ],
+  "summary": "The Cartesian plane has perpendicular x and y axes crossing at the origin. A point (x,y) gives the horizontal and vertical coordinates. Positive x moves right, negative x left; positive y moves up, negative y down. Quadrants I, II, III and IV are numbered anticlockwise starting at the upper right.",
+  "relatedTopics": [
+    "primary-5-volume",
+    "primary-5-transformations"
+  ]
+}

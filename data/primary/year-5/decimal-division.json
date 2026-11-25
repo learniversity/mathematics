@@ -1,0 +1,80 @@
+{
+  "id": "primary-5-decimal-division",
+  "title": "Dividing Decimals by Decimals",
+  "level": "primary-5",
+  "category": "Arithmetic",
+  "introduction": "Build on earlier mathematics by studying dividing decimals by decimals.",
+  "definition": "Multiply both dividend and divisor by the same power of ten until the divisor is a whole number, then divide. This preserves the quotient. The divisor must not be zero.",
+  "visuals": [],
+  "formulas": [
+    {
+      "expression": "a ÷ b = (a × k) ÷ (b × k)",
+      "description": "For nonzero b and k."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Calculate 6.72 ÷ 0.8.",
+      "steps": [
+        "Multiply both by 10: 67.2 ÷ 8."
+      ],
+      "answer": "8.4"
+    },
+    {
+      "question": "Calculate 0.375 ÷ 0.05.",
+      "steps": [
+        "Multiply both by 100: 37.5 ÷ 5."
+      ],
+      "answer": "7.5"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "4.8 ÷ 0.6",
+      "answer": 8,
+      "solution": "48 ÷ 6."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "2.25 ÷ 0.5",
+      "answer": 4.5,
+      "solution": "22.5 ÷ 5."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "0.96 ÷ 0.12",
+      "answer": 8,
+      "solution": "96 ÷ 12."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "7.5 ÷ 0.25",
+      "answer": 30,
+      "solution": "750 ÷ 25."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "1.44 ÷ 1.2",
+      "answer": 1.2,
+      "solution": "14.4 ÷ 12."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "A 3.6 m rope is cut into pieces of 0.45 m. Number of pieces?",
+      "answer": 8,
+      "solution": "3.6 ÷ 0.45."
+    }
+  ],
+  "summary": "Multiply both dividend and divisor by the same power of ten until the divisor is a whole number, then divide. This preserves the quotient. The divisor must not be zero.",
+  "relatedTopics": [
+    "primary-5-decimal-multiplication",
+    "primary-5-conversions"
+  ]
+}

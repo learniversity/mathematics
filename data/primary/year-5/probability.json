@@ -1,0 +1,180 @@
+{
+  "id": "primary-5-probability",
+  "title": "Probability of Events and Complements",
+  "level": "primary-5",
+  "category": "Probability",
+  "introduction": "Build on earlier mathematics by studying probability of events and complements.",
+  "definition": "Probability ranges from 0 to 1. An event's complement consists of all outcomes in which it does not occur. For equally likely outcomes, probability is favourable outcomes divided by total outcomes. An event and its complement have probabilities that sum to 1.",
+  "visuals": [
+    {
+      "label": "Complement",
+      "description": "Three filled counters; five unfilled counters.",
+      "alt": "Complement — Three filled counters; five unfilled counters.",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 25,
+            "cy": 28,
+            "r": 10
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 61,
+            "cy": 28,
+            "r": 10
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 97,
+            "cy": 28,
+            "r": 10
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 133,
+            "cy": 28,
+            "r": 10
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 25,
+            "cy": 71,
+            "r": 10
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 61,
+            "cy": 71,
+            "r": 10
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 97,
+            "cy": 71,
+            "r": 10
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 133,
+            "cy": 71,
+            "r": 10
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "P(A) = favourable/total",
+      "description": "Equally likely outcomes."
+    },
+    {
+      "expression": "P(not A) = 1 − P(A)",
+      "description": "Complement."
+    }
+  ],
+  "examples": [
+    {
+      "question": "A fair die is rolled. Find probability of not rolling 6.",
+      "steps": [
+        "Five of the six outcomes are not 6."
+      ],
+      "answer": "5/6"
+    },
+    {
+      "question": "A bag has 4 red, 3 blue and 5 green counters. Find probability of red or blue.",
+      "steps": [
+        "Favourable counters = 7; total = 12."
+      ],
+      "answer": "7/12"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Fair die: probability of not rolling 1, lowest terms?",
+      "answer": "5/6",
+      "solution": "Five favourable outcomes."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Fair die: probability of rolling above 4, lowest terms?",
+      "answer": "1/3",
+      "solution": "2/6."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Event probability 0.3. Complement probability?",
+      "answer": 0.7,
+      "solution": "1 − 0.3."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Bag 3 red and 7 blue. Probability red as decimal?",
+      "answer": 0.3,
+      "solution": "3 ÷ 10."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Probability of an impossible event?",
+      "answer": 0,
+      "solution": "No outcomes."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Probability of not drawing red from 2 red and 6 blue, lowest terms?",
+      "answer": "3/4",
+      "solution": "6/8."
+    }
+  ],
+  "summary": "Probability ranges from 0 to 1. An event's complement consists of all outcomes in which it does not occur. For equally likely outcomes, probability is favourable outcomes divided by total outcomes. An event and its complement have probabilities that sum to 1.",
+  "relatedTopics": [
+    "primary-5-graphs",
+    "primary-5-word-problems"
+  ]
+}

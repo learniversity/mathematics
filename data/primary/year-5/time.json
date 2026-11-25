@@ -1,0 +1,229 @@
+{
+  "id": "primary-5-time",
+  "title": "Elapsed Time and Timetables",
+  "level": "primary-5",
+  "category": "Measurement",
+  "introduction": "Build on earlier mathematics by studying elapsed time and timetables.",
+  "definition": "Elapsed time is the interval between start and finish. Timetables record events at specified times. Convert durations to common units before adding, allow for midnight crossings and distinguish waiting time from travel time.",
+  "visuals": [
+    {
+      "label": "08:47 to 11:23",
+      "description": "13 min + 120 min + 23 min = 156 min.",
+      "alt": "08:47 to 11:23 — 13 min + 120 min + 23 min = 156 min.",
+      "elements": [
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 8,
+            "y1": 50,
+            "x2": 152,
+            "y2": 50
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 8,
+            "y1": 43,
+            "x2": 8,
+            "y2": 57
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 16,
+            "y": 37,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "08:47"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 35,
+            "y1": 43,
+            "x2": 35,
+            "y2": 57
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 35,
+            "y": 72,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "09:00"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 120,
+            "y1": 43,
+            "x2": 120,
+            "y2": 57
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 120,
+            "y": 37,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "11:00"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 152,
+            "y1": 43,
+            "x2": 152,
+            "y2": 57
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 144,
+            "y": 72,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "11:23"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 21,
+            "y": 16,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "13"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 78,
+            "y": 16,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "120"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 136,
+            "y": 16,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "23"
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "Elapsed time = finish − start",
+      "description": "Account for date changes."
+    },
+    {
+      "expression": "1 h = 60 min",
+      "description": "Time conversion."
+    }
+  ],
+  "examples": [
+    {
+      "question": "A train leaves 08:47 and arrives 11:23.",
+      "steps": [
+        "08:47 to 09:00 = 13 min; 09:00 to 11:00 = 120 min; add 23 min."
+      ],
+      "answer": "156 minutes"
+    },
+    {
+      "question": "A bus leaves 23:40 and travels 2 h 35 min.",
+      "steps": [
+        "23:40 + 20 min = midnight; remaining 2 h 15 min."
+      ],
+      "answer": "02:15 next day"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Duration 09:25–12:10 in minutes?",
+      "answer": 165,
+      "solution": "2 h 45 min."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Duration 21:50–00:35 next day in minutes?",
+      "answer": 165,
+      "solution": "130 + 35."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Train arrives 14:35; connection leaves 15:12. Wait in minutes?",
+      "answer": 37,
+      "solution": "25 + 12."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Start 08:20, travel 95 min. Arrival HH:MM?",
+      "answer": "09:55",
+      "solution": "Add 1 h 35 min."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "3 h 25 min in minutes?",
+      "answer": 205,
+      "solution": "180 + 25."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "A lesson lasts 45 min and break lasts 15 min. Three such cycles in minutes?",
+      "answer": 180,
+      "solution": "3 × 60."
+    }
+  ],
+  "summary": "Elapsed time is the interval between start and finish. Timetables record events at specified times. Convert durations to common units before adding, allow for midnight crossings and distinguish waiting time from travel time.",
+  "relatedTopics": [
+    "primary-5-money",
+    "primary-5-speed"
+  ]
+}

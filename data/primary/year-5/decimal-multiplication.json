@@ -1,0 +1,75 @@
+{
+  "id": "primary-5-decimal-multiplication",
+  "title": "Multiplying Decimals by Decimals",
+  "level": "primary-5",
+  "category": "Arithmetic",
+  "introduction": "Build on earlier mathematics by studying multiplying decimals by decimals.",
+  "definition": "Multiply as whole numbers, then place the decimal point so the product has as many decimal places as the two factors have combined. Estimate before calculating to check the size of the product.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Calculate 2.4 × 1.35.",
+      "steps": [
+        "24 × 135 = 3,240; use three decimal places."
+      ],
+      "answer": "3.240 = 3.24"
+    },
+    {
+      "question": "Calculate 0.08 × 0.6.",
+      "steps": [
+        "8 × 6 = 48; use three decimal places."
+      ],
+      "answer": "0.048"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "1.2 × 0.5",
+      "answer": 0.6,
+      "solution": "12 × 5 = 60 hundredths."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "2.5 × 1.6",
+      "answer": 4,
+      "solution": "25 × 16 = 400 hundredths."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "0.25 × 0.8",
+      "answer": 0.2,
+      "solution": "25 × 8 = 200 thousandths."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "3.14 × 2.5",
+      "answer": 7.85,
+      "solution": "314 × 25 = 7850 thousandths."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "0.04 × 0.03",
+      "answer": 0.0012,
+      "solution": "4 × 3 = 12 ten-thousandths."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "A rectangle measures 2.4 m by 1.5 m. Area in m²?",
+      "answer": 3.6,
+      "solution": "2.4 × 1.5."
+    }
+  ],
+  "summary": "Multiply as whole numbers, then place the decimal point so the product has as many decimal places as the two factors have combined. Estimate before calculating to check the size of the product.",
+  "relatedTopics": [
+    "primary-5-fraction-operations",
+    "primary-5-decimal-division"
+  ]
+}

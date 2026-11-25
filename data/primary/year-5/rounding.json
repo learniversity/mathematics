@@ -1,0 +1,75 @@
+{
+  "id": "primary-5-rounding",
+  "title": "Rounding and Estimating Large Numbers",
+  "level": "primary-5",
+  "category": "Arithmetic",
+  "introduction": "Build on earlier mathematics by studying rounding and estimating large numbers.",
+  "definition": "Round to a required place by looking at the digit immediately to its right. If it is 5 or more, increase the retained digit; otherwise retain it. Replace all lower places with zero. Round each input before calculating an estimate.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Round 486,729 to the nearest ten-thousand.",
+      "steps": [
+        "The thousands digit is 6, so round 480,000 upward."
+      ],
+      "answer": "490,000"
+    },
+    {
+      "question": "Estimate 296,800 + 407,100 by rounding to the nearest hundred-thousand.",
+      "steps": [
+        "300,000 + 400,000."
+      ],
+      "answer": "700,000"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Round 684,321 to nearest thousand.",
+      "answer": 684000,
+      "solution": "Hundreds digit is 3."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Round 684,321 to nearest ten-thousand.",
+      "answer": 680000,
+      "solution": "Thousands digit is 4."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Round 684,321 to nearest hundred-thousand.",
+      "answer": 700000,
+      "solution": "Ten-thousands digit is 8."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Round 995,000 to nearest ten-thousand.",
+      "answer": 1000000,
+      "solution": "Halfway rounds up."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Estimate 198 × 51 by rounding both to nearest ten.",
+      "answer": 10000,
+      "solution": "200 × 50."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Estimate 492,100 − 198,400 by rounding each to nearest hundred-thousand.",
+      "answer": 300000,
+      "solution": "500,000 − 200,000."
+    }
+  ],
+  "summary": "Round to a required place by looking at the digit immediately to its right. If it is 5 or more, increase the retained digit; otherwise retain it. Replace all lower places with zero. Round each input before calculating an estimate.",
+  "relatedTopics": [
+    "primary-5-numbers",
+    "primary-5-whole-operations"
+  ]
+}

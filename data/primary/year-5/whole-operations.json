@@ -1,0 +1,75 @@
+{
+  "id": "primary-5-whole-operations",
+  "title": "Operations with Large Whole Numbers",
+  "level": "primary-5",
+  "category": "Arithmetic",
+  "introduction": "Build on earlier mathematics by studying operations with large whole numbers.",
+  "definition": "Use place-value alignment for addition and subtraction, partial products for multiplication and place-value division for long division. Estimate to check the scale of the result and use inverse operations to check exact answers.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Calculate 245,678 + 386,952.",
+      "steps": [
+        "Add the columns from right to left, regrouping as necessary."
+      ],
+      "answer": "632,630"
+    },
+    {
+      "question": "Calculate 1,248 × 36.",
+      "steps": [
+        "1,248 × 30 = 37,440; 1,248 × 6 = 7,488; add."
+      ],
+      "answer": "44,928"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "356,728 + 145,609",
+      "answer": 502337,
+      "solution": "Add corresponding digits."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "800,000 − 375,486",
+      "answer": 424514,
+      "solution": "Regroup across zeros."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "2,345 × 24",
+      "answer": 56280,
+      "solution": "46,900 + 9,380."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "86,400 ÷ 48",
+      "answer": 1800,
+      "solution": "48 × 1,800 = 86,400."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "75 × 1,248",
+      "answer": 93600,
+      "solution": "1,248 × (50 + 25)."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "A factory makes 1,250 units daily for 48 days. Total?",
+      "answer": 60000,
+      "solution": "1,250 × 48."
+    }
+  ],
+  "summary": "Use place-value alignment for addition and subtraction, partial products for multiplication and place-value division for long division. Estimate to check the scale of the result and use inverse operations to check exact answers.",
+  "relatedTopics": [
+    "primary-5-rounding",
+    "primary-5-divisibility"
+  ]
+}

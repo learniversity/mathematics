@@ -1,0 +1,390 @@
+{
+  "id": "primary-5-negative-numbers",
+  "title": "Introduction to Negative Numbers",
+  "level": "primary-5",
+  "category": "Arithmetic",
+  "introduction": "Build on earlier mathematics by studying introduction to negative numbers.",
+  "definition": "Negative numbers lie below zero on a number line. Numbers increase to the right. Adding a positive number moves right; subtracting a positive number moves left. Negative values can represent temperatures below zero, debts and elevations below a reference level.",
+  "visuals": [
+    {
+      "label": "Number line −5 to 5",
+      "description": "Numbers increase from left to right.",
+      "alt": "Number line −5 to 5 — Numbers increase from left to right.",
+      "elements": [
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 8,
+            "y1": 45,
+            "x2": 152,
+            "y2": 45
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 10,
+            "y1": 40,
+            "x2": 10,
+            "y2": 50
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 10,
+            "y": 66,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "-5"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 24,
+            "y1": 40,
+            "x2": 24,
+            "y2": 50
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 24,
+            "y": 66,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "-4"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 38,
+            "y1": 40,
+            "x2": 38,
+            "y2": 50
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 38,
+            "y": 66,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "-3"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 52,
+            "y1": 40,
+            "x2": 52,
+            "y2": 50
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 52,
+            "y": 66,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "-2"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 66,
+            "y1": 40,
+            "x2": 66,
+            "y2": 50
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 66,
+            "y": 66,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "-1"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 80,
+            "y1": 40,
+            "x2": 80,
+            "y2": 50
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 66,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "0"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 94,
+            "y1": 40,
+            "x2": 94,
+            "y2": 50
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 94,
+            "y": 66,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "1"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 108,
+            "y1": 40,
+            "x2": 108,
+            "y2": 50
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 108,
+            "y": 66,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "2"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 122,
+            "y1": 40,
+            "x2": 122,
+            "y2": 50
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 122,
+            "y": 66,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "3"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 136,
+            "y1": 40,
+            "x2": 136,
+            "y2": 50
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 136,
+            "y": 66,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "4"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 150,
+            "y1": 40,
+            "x2": 150,
+            "y2": 50
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 150,
+            "y": 66,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "5"
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 38,
+            "cy": 45,
+            "r": 4
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 136,
+            "cy": 45,
+            "r": 4
+          }
+        },
+        {
+          "tag": "path",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "d": "M38 30 H136 L128 25 M136 30 L128 35"
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 87,
+            "y": 20,
+            "font-size": 11,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "+7"
+        }
+      ]
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "A temperature of −3°C rises by 7°C.",
+      "steps": [
+        "Move seven units right from −3."
+      ],
+      "answer": "4°C"
+    },
+    {
+      "question": "Compare −5 and −2.",
+      "steps": [
+        "−5 is farther left than −2."
+      ],
+      "answer": "−5 < −2"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "−4 + 9",
+      "answer": 5,
+      "solution": "Move 9 units right."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "3 − 8",
+      "answer": -5,
+      "solution": "Move 8 units left."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Which is larger: −7 or −2?",
+      "answer": -2,
+      "solution": "−2 is farther right."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Temperature falls from 2°C by 6°C. Final temperature?",
+      "answer": -4,
+      "solution": "2 − 6."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Distance from −6 to zero?",
+      "answer": 6,
+      "solution": "Six units."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "−8 + 8",
+      "answer": 0,
+      "solution": "Opposite values cancel."
+    }
+  ],
+  "summary": "Negative numbers lie below zero on a number line. Numbers increase to the right. Adding a positive number moves right; subtracting a positive number moves left. Negative values can represent temperatures below zero, debts and elevations below a reference level.",
+  "relatedTopics": [
+    "primary-5-hcf-lcm",
+    "primary-5-powers"
+  ]
+}

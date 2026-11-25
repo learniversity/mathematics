@@ -1,0 +1,160 @@
+{
+  "id": "primary-5-circles",
+  "title": "Introduction to Circles and Circumference",
+  "level": "primary-5",
+  "category": "Geometry",
+  "introduction": "Build on earlier mathematics by studying introduction to circles and circumference.",
+  "definition": "A circle is the set of points in a plane at a fixed distance from its centre. The radius is that distance; a diameter passes through the centre and is twice the radius. Circumference is the distance around the circle. Pi is the constant ratio of circumference to diameter, approximately 3.14.",
+  "visuals": [
+    {
+      "label": "Radius and diameter",
+      "description": "The diameter is two radii.",
+      "alt": "Radius and diameter — The diameter is two radii.",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 80,
+            "cy": 50,
+            "r": 39
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 41,
+            "y1": 50,
+            "x2": 119,
+            "y2": 50
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 80,
+            "y1": 50,
+            "x2": 80,
+            "y2": 11
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 80,
+            "cy": 50,
+            "r": 2
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 95,
+            "y": 32,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "r"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 65,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "d"
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "d = 2r",
+      "description": "Diameter."
+    },
+    {
+      "expression": "C = πd = 2πr",
+      "description": "Circumference."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Find circumference of a circle with radius 5 cm, using π = 3.14.",
+      "steps": [
+        "2 × 3.14 × 5."
+      ],
+      "answer": "31.4 cm"
+    },
+    {
+      "question": "Find diameter if radius is 7 cm.",
+      "steps": [
+        "2 × 7."
+      ],
+      "answer": "14 cm"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Radius 8 cm. Diameter cm?",
+      "answer": 16,
+      "solution": "2 × 8."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Diameter 18 cm. Radius cm?",
+      "answer": 9,
+      "solution": "18 ÷ 2."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Diameter 10 cm. Circumference using π = 3.14?",
+      "answer": 31.4,
+      "solution": "3.14 × 10."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Radius 4 cm. Circumference using π = 3.14?",
+      "answer": 25.12,
+      "solution": "2 × 3.14 × 4."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Circumference 62.8 cm using π = 3.14. Diameter?",
+      "answer": 20,
+      "solution": "62.8 ÷ 3.14."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "How many radii fit along a diameter?",
+      "answer": 2,
+      "solution": "Diameter = 2 radii."
+    }
+  ],
+  "summary": "A circle is the set of points in a plane at a fixed distance from its centre. The radius is that distance; a diameter passes through the centre and is twice the radius. Circumference is the distance around the circle. Pi is the constant ratio of circumference to diameter, approximately 3.14.",
+  "relatedTopics": [
+    "primary-5-area",
+    "primary-5-surface-area"
+  ]
+}

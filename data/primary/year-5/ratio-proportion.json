@@ -1,0 +1,210 @@
+{
+  "id": "primary-5-ratio-proportion",
+  "title": "Ratio and Direct Proportion",
+  "level": "primary-5",
+  "category": "Arithmetic",
+  "introduction": "Build on earlier mathematics by studying ratio and direct proportion.",
+  "definition": "A ratio compares quantities in a fixed order. Equivalent ratios are formed by multiplying both terms by the same positive factor. In direct proportion, one quantity is a constant multiple of another.",
+  "visuals": [
+    {
+      "label": "Ratio 5:3",
+      "description": "Eight equal parts, five for A and three for B.",
+      "alt": "Ratio 5:3 — Eight equal parts, five for A and three for B.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 8,
+            "y": 30,
+            "width": 18,
+            "height": 38
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 26,
+            "y": 30,
+            "width": 18,
+            "height": 38
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 44,
+            "y": 30,
+            "width": 18,
+            "height": 38
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 62,
+            "y": 30,
+            "width": 18,
+            "height": 38
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 80,
+            "y": 30,
+            "width": 18,
+            "height": 38
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 98,
+            "y": 30,
+            "width": 18,
+            "height": 38
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 116,
+            "y": 30,
+            "width": 18,
+            "height": 38
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 134,
+            "y": 30,
+            "width": 18,
+            "height": 38
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 53,
+            "y": 22,
+            "font-size": 11,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "A: 5 parts"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 125,
+            "y": 82,
+            "font-size": 11,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "B: 3"
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "y = kx",
+      "description": "Direct proportion with constant k."
+    },
+    {
+      "expression": "Share = total × part/sum of parts",
+      "description": "Ratio allocation."
+    }
+  ],
+  "examples": [
+    {
+      "question": "A recipe uses flour and sugar in ratio 5:2. Flour is 350 g.",
+      "steps": [
+        "One part = 350 ÷ 5 = 70 g; sugar = 2 × 70."
+      ],
+      "answer": "140 g"
+    },
+    {
+      "question": "Share RM96 in ratio 5:3.",
+      "steps": [
+        "8 parts; each part RM12."
+      ],
+      "answer": "RM60 and RM36"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Simplify 24:36.",
+      "answer": "2:3",
+      "solution": "Divide both by 12."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Share 84 in ratio 3:4. Larger share?",
+      "answer": 48,
+      "solution": "84 ÷ 7 × 4."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Ratio 2:5; first quantity 14. Second?",
+      "answer": 35,
+      "solution": "14 ÷ 2 × 5."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Four identical books cost RM28. Six cost RM?",
+      "answer": 42,
+      "solution": "28 ÷ 4 × 6."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Recipe for 3 people needs 150 g. For 8 people, grams?",
+      "answer": 400,
+      "solution": "150 ÷ 3 × 8."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Simplify 1.5 m : 50 cm.",
+      "answer": "3:1",
+      "solution": "150:50."
+    }
+  ],
+  "summary": "A ratio compares quantities in a fixed order. Equivalent ratios are formed by multiplying both terms by the same positive factor. In direct proportion, one quantity is a constant multiple of another.",
+  "relatedTopics": [
+    "primary-5-percent-change",
+    "primary-5-rates"
+  ]
+}

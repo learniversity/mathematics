@@ -1,0 +1,284 @@
+{
+  "id": "primary-5-powers",
+  "title": "Squares, Cubes and Powers",
+  "level": "primary-5",
+  "category": "Arithmetic",
+  "introduction": "Build on earlier mathematics by studying squares, cubes and powers.",
+  "definition": "A power is repeated multiplication: aⁿ means n factors of a for a positive integer n. A square is a number multiplied by itself; a cube is a number multiplied by itself three times. The square root of a nonnegative number is the nonnegative value whose square equals that number.",
+  "visuals": [
+    {
+      "label": "4² = 16",
+      "description": "A square array of 4 rows and 4 columns.",
+      "alt": "4² = 16 — A square array of 4 rows and 4 columns.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 44,
+            "y": 14,
+            "width": 18,
+            "height": 18
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 62,
+            "y": 14,
+            "width": 18,
+            "height": 18
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 80,
+            "y": 14,
+            "width": 18,
+            "height": 18
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 98,
+            "y": 14,
+            "width": 18,
+            "height": 18
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 44,
+            "y": 32,
+            "width": 18,
+            "height": 18
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 62,
+            "y": 32,
+            "width": 18,
+            "height": 18
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 80,
+            "y": 32,
+            "width": 18,
+            "height": 18
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 98,
+            "y": 32,
+            "width": 18,
+            "height": 18
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 44,
+            "y": 50,
+            "width": 18,
+            "height": 18
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 62,
+            "y": 50,
+            "width": 18,
+            "height": 18
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 80,
+            "y": 50,
+            "width": 18,
+            "height": 18
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 98,
+            "y": 50,
+            "width": 18,
+            "height": 18
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 44,
+            "y": 68,
+            "width": 18,
+            "height": 18
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 62,
+            "y": 68,
+            "width": 18,
+            "height": 18
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 80,
+            "y": 68,
+            "width": 18,
+            "height": 18
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 98,
+            "y": 68,
+            "width": 18,
+            "height": 18
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "a² = a × a",
+      "description": "Square."
+    },
+    {
+      "expression": "a³ = a × a × a",
+      "description": "Cube."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Calculate 7².",
+      "steps": [
+        "7 × 7."
+      ],
+      "answer": "49"
+    },
+    {
+      "question": "Find the square root of 81.",
+      "steps": [
+        "9 × 9 = 81."
+      ],
+      "answer": "9"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "12²",
+      "answer": 144,
+      "solution": "12 × 12."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "5³",
+      "answer": 125,
+      "solution": "5 × 5 × 5."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Square root of 64?",
+      "answer": 8,
+      "solution": "8² = 64."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "2⁴",
+      "answer": 16,
+      "solution": "2 × 2 × 2 × 2."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "10³",
+      "answer": 1000,
+      "solution": "10 × 10 × 10."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Square root of 121?",
+      "answer": 11,
+      "solution": "11² = 121."
+    }
+  ],
+  "summary": "A power is repeated multiplication: aⁿ means n factors of a for a positive integer n. A square is a number multiplied by itself; a cube is a number multiplied by itself three times. The square root of a nonnegative number is the nonnegative value whose square equals that number.",
+  "relatedTopics": [
+    "primary-5-negative-numbers",
+    "primary-5-fraction-division"
+  ]
+}

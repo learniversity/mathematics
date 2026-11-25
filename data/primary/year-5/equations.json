@@ -1,0 +1,196 @@
+{
+  "id": "primary-5-equations",
+  "title": "Solving One- and Two-Step Equations",
+  "level": "primary-5",
+  "category": "Algebra",
+  "introduction": "Build on earlier mathematics by studying solving one- and two-step equations.",
+  "definition": "An equation states two expressions are equal. Solve for the unknown by applying the same operation to both sides. Undo additions or subtractions, then undo multiplication or division, and substitute the result to check.",
+  "visuals": [
+    {
+      "label": "Balance equation",
+      "description": "3x = 12, so each x equals 4.",
+      "alt": "Balance equation — 3x = 12, so each x equals 4.",
+      "elements": [
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 16,
+            "y1": 58,
+            "x2": 144,
+            "y2": 58
+          }
+        },
+        {
+          "tag": "polygon",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "points": "80,58 65,90 95,90"
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 20,
+            "y": 33,
+            "width": 17,
+            "height": 23
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 28,
+            "y": 49,
+            "font-size": 11,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "x"
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 39,
+            "y": 33,
+            "width": 17,
+            "height": 23
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 47,
+            "y": 49,
+            "font-size": 11,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "x"
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 58,
+            "y": 33,
+            "width": 17,
+            "height": 23
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 66,
+            "y": 49,
+            "font-size": 11,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "x"
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 103,
+            "y": 33,
+            "width": 33,
+            "height": 23
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 119,
+            "y": 49,
+            "font-size": 13,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "12"
+        }
+      ]
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Solve 5x + 7 = 42.",
+      "steps": [
+        "Subtract 7: 5x = 35; divide by 5."
+      ],
+      "answer": "x = 7"
+    },
+    {
+      "question": "Solve 3x − 4 = 20.",
+      "steps": [
+        "Add 4: 3x = 24; divide by 3."
+      ],
+      "answer": "x = 8"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "x + 19 = 45. Find x.",
+      "answer": 26,
+      "solution": "45 − 19."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "7x = 63. Find x.",
+      "answer": 9,
+      "solution": "63 ÷ 7."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "x/4 = 8. Find x.",
+      "answer": 32,
+      "solution": "8 × 4."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "4x + 5 = 29. Find x.",
+      "answer": 6,
+      "solution": "(29 − 5) ÷ 4."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "6x − 8 = 34. Find x.",
+      "answer": 7,
+      "solution": "(34 + 8) ÷ 6."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "2(x + 3) = 18. Find x.",
+      "answer": 6,
+      "solution": "18 ÷ 2 − 3."
+    }
+  ],
+  "summary": "An equation states two expressions are equal. Solve for the unknown by applying the same operation to both sides. Undo additions or subtractions, then undo multiplication or division, and substitute the result to check.",
+  "relatedTopics": [
+    "primary-5-algebra",
+    "primary-5-sequences"
+  ]
+}

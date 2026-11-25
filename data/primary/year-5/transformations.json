@@ -1,0 +1,340 @@
+{
+  "id": "primary-5-transformations",
+  "title": "Reflection, Translation and Rotation",
+  "level": "primary-5",
+  "category": "Geometry",
+  "introduction": "Build on earlier mathematics by studying reflection, translation and rotation.",
+  "definition": "A translation moves every point by the same displacement. A reflection flips a shape across a mirror line. A rotation turns a shape about a fixed centre through an angle. These transformations preserve lengths and angles.",
+  "visuals": [
+    {
+      "label": "Reflection across y-axis",
+      "description": "The x-coordinate changes sign.",
+      "alt": "Reflection across y-axis — The x-coordinate changes sign.",
+      "elements": [
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 16,
+            "y1": 10,
+            "x2": 16,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 32,
+            "y1": 10,
+            "x2": 32,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 48,
+            "y1": 10,
+            "x2": 48,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 64,
+            "y1": 10,
+            "x2": 64,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 80,
+            "y1": 10,
+            "x2": 80,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 96,
+            "y1": 10,
+            "x2": 96,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 112,
+            "y1": 10,
+            "x2": 112,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 128,
+            "y1": 10,
+            "x2": 128,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 144,
+            "y1": 10,
+            "x2": 144,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 16,
+            "y1": 10,
+            "x2": 144,
+            "y2": 10
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 16,
+            "y1": 30,
+            "x2": 144,
+            "y2": 30
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 16,
+            "y1": 50,
+            "x2": 144,
+            "y2": 50
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 16,
+            "y1": 70,
+            "x2": 144,
+            "y2": 70
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 16,
+            "y1": 90,
+            "x2": 144,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 12,
+            "y1": 50,
+            "x2": 150,
+            "y2": 50
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 80,
+            "y1": 5,
+            "x2": 80,
+            "y2": 95
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 148,
+            "y": 44,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "x"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 87,
+            "y": 10,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "y"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 75,
+            "y": 62,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "0"
+        },
+        {
+          "tag": "polygon",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "points": "96,50 128,50 96,10"
+          }
+        },
+        {
+          "tag": "polygon",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "points": "64,50 32,50 64,10",
+            "stroke-dasharray": "3 2"
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "Reflection in x-axis: (x,y) → (x,−y)",
+      "description": "Coordinate rule."
+    },
+    {
+      "expression": "Reflection in y-axis: (x,y) → (−x,y)",
+      "description": "Coordinate rule."
+    },
+    {
+      "expression": "Translation: (x,y) → (x+a,y+b)",
+      "description": "Displacement (a,b)."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Reflect (3,−2) in the y-axis.",
+      "steps": [
+        "Reverse the sign of x; keep y."
+      ],
+      "answer": "(−3,−2)"
+    },
+    {
+      "question": "Translate (−1,4) by 3 right and 2 down.",
+      "steps": [
+        "x = −1 + 3; y = 4 − 2."
+      ],
+      "answer": "(2,2)"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Reflect (4,2) in y-axis. New x?",
+      "answer": -4,
+      "solution": "Reverse x."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Reflect (−3,5) in x-axis. New y?",
+      "answer": -5,
+      "solution": "Reverse y."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Translate (2,3) by 5 right. New x?",
+      "answer": 7,
+      "solution": "2 + 5."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Translate (4,−1) by 3 down. New y?",
+      "answer": -4,
+      "solution": "−1 − 3."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "A half-turn is how many degrees?",
+      "answer": 180,
+      "solution": "Half of 360°."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Does translation change side lengths? yes/no",
+      "answer": "no",
+      "solution": "Translations preserve distances."
+    }
+  ],
+  "summary": "A translation moves every point by the same displacement. A reflection flips a shape across a mirror line. A rotation turns a shape about a fixed centre through an angle. These transformations preserve lengths and angles.",
+  "relatedTopics": [
+    "primary-5-coordinates",
+    "primary-5-algebra"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "primary-5-word-problems",
+  "title": "Multi-Step Problem Solving",
+  "level": "primary-5",
+  "category": "Arithmetic",
+  "introduction": "Build on earlier mathematics by studying multi-step problem solving.",
+  "definition": "Identify the required quantity, choose the relevant information, represent the relationships using arithmetic, ratios or equations, calculate in a sensible order and verify units and reasonableness. An estimate can help catch mistakes.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "A shop buys 24 boxes of 36 pens and sells 75% of them.",
+      "steps": [
+        "24 × 36 = 864; remaining 25% = 864 ÷ 4."
+      ],
+      "answer": "216 pens"
+    },
+    {
+      "question": "A 12 m by 8 m garden has a 4 m by 3 m pond; grass costs RM5 per m².",
+      "steps": [
+        "Grass area = 96 − 12 = 84 m²; cost = 84 × 5."
+      ],
+      "answer": "RM420"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "A RM250 item is discounted 12%, then RM8 delivery. Total RM?",
+      "answer": 228,
+      "solution": "250 × 0.88 + 8."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Share 180 in ratio 4:5. Smaller share?",
+      "answer": 80,
+      "solution": "180 ÷ 9 × 4."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Travel 150 km at 60 km/h. Duration minutes?",
+      "answer": 150,
+      "solution": "150 ÷ 60 × 60."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "A tank of 25 L is 3/5 full. Liquid L?",
+      "answer": 15,
+      "solution": "25 × 3/5."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "A cuboid 8 × 5 × 4 cm has a 2 × 2 × 2 cm piece removed. Volume?",
+      "answer": 152,
+      "solution": "160 − 8."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Four numbers have mean 18. Three are 12, 17 and 20. Fourth?",
+      "answer": 23,
+      "solution": "72 − 49."
+    }
+  ],
+  "summary": "Identify the required quantity, choose the relevant information, represent the relationships using arithmetic, ratios or equations, calculate in a sensible order and verify units and reasonableness. An estimate can help catch mistakes.",
+  "relatedTopics": [
+    "primary-5-probability"
+  ]
+}

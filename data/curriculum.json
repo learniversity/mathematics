@@ -758,6 +758,204 @@
       "level": "primary-4",
       "title": "Multi-Step Applied Mathematics",
       "path": "data/primary/year-4/word-problems.json"
+    },
+    {
+      "id": "primary-5-numbers",
+      "level": "primary-5",
+      "title": "Whole Numbers to 1,000,000",
+      "path": "data/primary/year-5/numbers.json"
+    },
+    {
+      "id": "primary-5-rounding",
+      "level": "primary-5",
+      "title": "Rounding and Estimating Large Numbers",
+      "path": "data/primary/year-5/rounding.json"
+    },
+    {
+      "id": "primary-5-whole-operations",
+      "level": "primary-5",
+      "title": "Operations with Large Whole Numbers",
+      "path": "data/primary/year-5/whole-operations.json"
+    },
+    {
+      "id": "primary-5-divisibility",
+      "level": "primary-5",
+      "title": "Divisibility Rules and Prime Factorisation",
+      "path": "data/primary/year-5/divisibility.json"
+    },
+    {
+      "id": "primary-5-hcf-lcm",
+      "level": "primary-5",
+      "title": "Common Factors and Multiples in Applications",
+      "path": "data/primary/year-5/hcf-lcm.json"
+    },
+    {
+      "id": "primary-5-negative-numbers",
+      "level": "primary-5",
+      "title": "Introduction to Negative Numbers",
+      "path": "data/primary/year-5/negative-numbers.json"
+    },
+    {
+      "id": "primary-5-powers",
+      "level": "primary-5",
+      "title": "Squares, Cubes and Powers",
+      "path": "data/primary/year-5/powers.json"
+    },
+    {
+      "id": "primary-5-fraction-division",
+      "level": "primary-5",
+      "title": "Dividing Fractions and Mixed Numbers",
+      "path": "data/primary/year-5/fraction-division.json"
+    },
+    {
+      "id": "primary-5-fraction-operations",
+      "level": "primary-5",
+      "title": "Mixed Operations with Fractions",
+      "path": "data/primary/year-5/fraction-operations.json"
+    },
+    {
+      "id": "primary-5-decimal-multiplication",
+      "level": "primary-5",
+      "title": "Multiplying Decimals by Decimals",
+      "path": "data/primary/year-5/decimal-multiplication.json"
+    },
+    {
+      "id": "primary-5-decimal-division",
+      "level": "primary-5",
+      "title": "Dividing Decimals by Decimals",
+      "path": "data/primary/year-5/decimal-division.json"
+    },
+    {
+      "id": "primary-5-conversions",
+      "level": "primary-5",
+      "title": "Fractions, Decimals and Percentages",
+      "path": "data/primary/year-5/conversions.json"
+    },
+    {
+      "id": "primary-5-percent-change",
+      "level": "primary-5",
+      "title": "Percentage Increase and Decrease",
+      "path": "data/primary/year-5/percent-change.json"
+    },
+    {
+      "id": "primary-5-ratio-proportion",
+      "level": "primary-5",
+      "title": "Ratio and Direct Proportion",
+      "path": "data/primary/year-5/ratio-proportion.json"
+    },
+    {
+      "id": "primary-5-rates",
+      "level": "primary-5",
+      "title": "Unit Rates and Best Value",
+      "path": "data/primary/year-5/rates.json"
+    },
+    {
+      "id": "primary-5-money",
+      "level": "primary-5",
+      "title": "Financial Mathematics: Savings and Profit",
+      "path": "data/primary/year-5/money.json"
+    },
+    {
+      "id": "primary-5-time",
+      "level": "primary-5",
+      "title": "Elapsed Time and Timetables",
+      "path": "data/primary/year-5/time.json"
+    },
+    {
+      "id": "primary-5-speed",
+      "level": "primary-5",
+      "title": "Introduction to Speed, Distance and Time",
+      "path": "data/primary/year-5/speed.json"
+    },
+    {
+      "id": "primary-5-metric-conversions",
+      "level": "primary-5",
+      "title": "Metric Conversions and Compound Measures",
+      "path": "data/primary/year-5/metric-conversions.json"
+    },
+    {
+      "id": "primary-5-angles",
+      "level": "primary-5",
+      "title": "Angles at Intersections and in Polygons",
+      "path": "data/primary/year-5/angles.json"
+    },
+    {
+      "id": "primary-5-area",
+      "level": "primary-5",
+      "title": "Area of Parallelograms and Trapeziums",
+      "path": "data/primary/year-5/area.json"
+    },
+    {
+      "id": "primary-5-circles",
+      "level": "primary-5",
+      "title": "Introduction to Circles and Circumference",
+      "path": "data/primary/year-5/circles.json"
+    },
+    {
+      "id": "primary-5-surface-area",
+      "level": "primary-5",
+      "title": "Surface Area and Nets",
+      "path": "data/primary/year-5/surface-area.json"
+    },
+    {
+      "id": "primary-5-volume",
+      "level": "primary-5",
+      "title": "Volume and Capacity of Composite Solids",
+      "path": "data/primary/year-5/volume.json"
+    },
+    {
+      "id": "primary-5-coordinates",
+      "level": "primary-5",
+      "title": "Coordinates in Four Quadrants",
+      "path": "data/primary/year-5/coordinates.json"
+    },
+    {
+      "id": "primary-5-transformations",
+      "level": "primary-5",
+      "title": "Reflection, Translation and Rotation",
+      "path": "data/primary/year-5/transformations.json"
+    },
+    {
+      "id": "primary-5-algebra",
+      "level": "primary-5",
+      "title": "Introduction to Algebraic Expressions",
+      "path": "data/primary/year-5/algebra.json"
+    },
+    {
+      "id": "primary-5-equations",
+      "level": "primary-5",
+      "title": "Solving One- and Two-Step Equations",
+      "path": "data/primary/year-5/equations.json"
+    },
+    {
+      "id": "primary-5-sequences",
+      "level": "primary-5",
+      "title": "Number Sequences and General Rules",
+      "path": "data/primary/year-5/sequences.json"
+    },
+    {
+      "id": "primary-5-statistics",
+      "level": "primary-5",
+      "title": "Mean, Median, Mode and Range",
+      "path": "data/primary/year-5/statistics.json"
+    },
+    {
+      "id": "primary-5-graphs",
+      "level": "primary-5",
+      "title": "Interpreting Line Graphs and Pie Charts",
+      "path": "data/primary/year-5/graphs.json"
+    },
+    {
+      "id": "primary-5-probability",
+      "level": "primary-5",
+      "title": "Probability of Events and Complements",
+      "path": "data/primary/year-5/probability.json"
+    },
+    {
+      "id": "primary-5-word-problems",
+      "level": "primary-5",
+      "title": "Multi-Step Problem Solving",
+      "path": "data/primary/year-5/word-problems.json"
     }
   ]
 }

@@ -1,0 +1,160 @@
+{
+  "id": "primary-5-angles",
+  "title": "Angles at Intersections and in Polygons",
+  "level": "primary-5",
+  "category": "Geometry",
+  "introduction": "Build on earlier mathematics by studying angles at intersections and in polygons.",
+  "definition": "Adjacent angles forming a straight line sum to 180°. Vertically opposite angles formed by intersecting straight lines are equal. The interior angles of a simple n-sided polygon sum to (n−2) × 180°, because it can be divided into n−2 triangles.",
+  "visuals": [
+    {
+      "label": "Vertically opposite angles",
+      "description": "Opposite angles are equal.",
+      "alt": "Vertically opposite angles — Opposite angles are equal.",
+      "elements": [
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 15,
+            "y1": 50,
+            "x2": 145,
+            "y2": 50
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 55,
+            "y1": 10,
+            "x2": 105,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 112,
+            "y": 36,
+            "font-size": 11,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "122°"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 46,
+            "y": 68,
+            "font-size": 11,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "122°"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 55,
+            "y": 35,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "58°"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 107,
+            "y": 72,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "58°"
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "Interior angle sum = (n − 2) × 180°",
+      "description": "Simple polygon with n ≥ 3."
+    },
+    {
+      "expression": "Regular polygon interior angle = (n − 2) × 180°/n",
+      "description": "Equal interior angles."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Two lines intersect; one angle is 67°.",
+      "steps": [
+        "Its opposite angle equals 67°; an adjacent angle is 180 − 67."
+      ],
+      "answer": "67° opposite; 113° adjacent"
+    },
+    {
+      "question": "Find the interior angle sum of a pentagon.",
+      "steps": [
+        "(5 − 2) × 180."
+      ],
+      "answer": "540°"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Adjacent supplementary angle to 48°?",
+      "answer": 132,
+      "solution": "180 − 48."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Vertically opposite angle to 115°?",
+      "answer": 115,
+      "solution": "Opposite angles equal."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Interior angle sum of a hexagon?",
+      "answer": 720,
+      "solution": "(6 − 2) × 180."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Each interior angle of a regular pentagon?",
+      "answer": 108,
+      "solution": "540 ÷ 5."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Triangle angles 37° and 86°. Third angle?",
+      "answer": 57,
+      "solution": "180 − 123."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Angles around a point 95°, 85°, 110°, x. Find x.",
+      "answer": 70,
+      "solution": "360 − 290."
+    }
+  ],
+  "summary": "Adjacent angles forming a straight line sum to 180°. Vertically opposite angles formed by intersecting straight lines are equal. The interior angles of a simple n-sided polygon sum to (n−2) × 180°, because it can be divided into n−2 triangles.",
+  "relatedTopics": [
+    "primary-5-metric-conversions",
+    "primary-5-area"
+  ]
+}

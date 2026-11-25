@@ -1,0 +1,207 @@
+{
+  "id": "primary-5-statistics",
+  "title": "Mean, Median, Mode and Range",
+  "level": "primary-5",
+  "category": "Statistics",
+  "introduction": "Build on earlier mathematics by studying mean, median, mode and range.",
+  "definition": "The mean is the sum divided by count. The median is the middle value after sorting, or the mean of the two middle values if the count is even. The mode is the most frequent value or values. Range measures the difference between largest and smallest.",
+  "visuals": [
+    {
+      "label": "Median",
+      "description": "Sort the data; the middle value is 7.",
+      "alt": "Median — Sort the data; the middle value is 7.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 6,
+            "y": 34,
+            "width": 28,
+            "height": 32
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 20,
+            "y": 55,
+            "font-size": 14,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "3"
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 36,
+            "y": 34,
+            "width": 28,
+            "height": 32
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 50,
+            "y": 55,
+            "font-size": 14,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "5"
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 66,
+            "y": 34,
+            "width": 28,
+            "height": 32
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 55,
+            "font-size": 14,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "7"
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 96,
+            "y": 34,
+            "width": 28,
+            "height": 32
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 110,
+            "y": 55,
+            "font-size": 14,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "8"
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 126,
+            "y": 34,
+            "width": 28,
+            "height": 32
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 140,
+            "y": 55,
+            "font-size": 14,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "10"
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "Mean = sum/count",
+      "description": "Nonempty numerical data."
+    },
+    {
+      "expression": "Range = maximum − minimum",
+      "description": "Spread."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Find the median of 7, 3, 10, 5, 8.",
+      "steps": [
+        "Sort: 3, 5, 7, 8, 10."
+      ],
+      "answer": "7"
+    },
+    {
+      "question": "Find mean of 6, 8, 8, 10, 13.",
+      "steps": [
+        "Sum = 45; count = 5."
+      ],
+      "answer": "9"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Median of 4, 2, 9, 6, 7?",
+      "answer": 6,
+      "solution": "Sorted: 2,4,6,7,9."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Median of 2, 4, 8, 10?",
+      "answer": 6,
+      "solution": "(4 + 8) ÷ 2."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Mean of 12, 15, 18?",
+      "answer": 15,
+      "solution": "45 ÷ 3."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Mode of 3, 4, 4, 6, 9?",
+      "answer": 4,
+      "solution": "Occurs twice."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Range of 25, 14, 36, 20?",
+      "answer": 22,
+      "solution": "36 − 14."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Five values have mean 12. Sum?",
+      "answer": 60,
+      "solution": "5 × 12."
+    }
+  ],
+  "summary": "The mean is the sum divided by count. The median is the middle value after sorting, or the mean of the two middle values if the count is even. The mode is the most frequent value or values. Range measures the difference between largest and smallest.",
+  "relatedTopics": [
+    "primary-5-sequences",
+    "primary-5-graphs"
+  ]
+}

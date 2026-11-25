@@ -1,0 +1,84 @@
+{
+  "id": "primary-5-metric-conversions",
+  "title": "Metric Conversions and Compound Measures",
+  "level": "primary-5",
+  "category": "Measurement",
+  "introduction": "Build on earlier mathematics by studying metric conversions and compound measures.",
+  "definition": "Metric prefixes describe powers of ten. Length conversions multiply or divide by the relevant factor; area conversions use the square of that factor, and volume conversions use its cube. Convert like quantities to the same unit before calculation.",
+  "visuals": [],
+  "formulas": [
+    {
+      "expression": "1 m² = 10,000 cm²",
+      "description": "Square length conversion."
+    },
+    {
+      "expression": "1 m³ = 1,000 L = 1,000,000 cm³",
+      "description": "Volume conversion."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Convert 2.5 m² to cm².",
+      "steps": [
+        "1 m = 100 cm, so 1 m² = 10,000 cm²."
+      ],
+      "answer": "25,000 cm²"
+    },
+    {
+      "question": "Convert 0.003 m³ to litres.",
+      "steps": [
+        "1 m³ = 1,000 L."
+      ],
+      "answer": "3 L"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "2.4 km in metres?",
+      "answer": 2400,
+      "solution": "Multiply by 1,000."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "3.75 kg in grams?",
+      "answer": 3750,
+      "solution": "Multiply by 1,000."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "4500 mL in L?",
+      "answer": 4.5,
+      "solution": "Divide by 1,000."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "3 m² in cm²?",
+      "answer": 30000,
+      "solution": "3 × 10,000."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "2500 cm³ in L?",
+      "answer": 2.5,
+      "solution": "1,000 cm³ = 1 L."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "0.5 m³ in L?",
+      "answer": 500,
+      "solution": "0.5 × 1,000."
+    }
+  ],
+  "summary": "Metric prefixes describe powers of ten. Length conversions multiply or divide by the relevant factor; area conversions use the square of that factor, and volume conversions use its cube. Convert like quantities to the same unit before calculation.",
+  "relatedTopics": [
+    "primary-5-speed",
+    "primary-5-angles"
+  ]
+}

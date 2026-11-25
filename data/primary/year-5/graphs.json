@@ -1,0 +1,157 @@
+{
+  "id": "primary-5-graphs",
+  "title": "Interpreting Line Graphs and Pie Charts",
+  "level": "primary-5",
+  "category": "Statistics",
+  "introduction": "Build on earlier mathematics by studying interpreting line graphs and pie charts.",
+  "definition": "Line graphs show ordered observations, often changes over time. Pie charts divide a whole into sectors proportional to the categories. A full circle represents 100% or 360°. Always read labels, scales and units.",
+  "visuals": [
+    {
+      "label": "Pie chart",
+      "description": "50%, 25%, 25%.",
+      "alt": "Pie chart — 50%, 25%, 25%.",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 80,
+            "cy": 50,
+            "r": 40
+          }
+        },
+        {
+          "tag": "path",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "d": "M80 50 L80 10 A40 40 0 0 1 80 90 Z"
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 40,
+            "y1": 50,
+            "x2": 80,
+            "y2": 50
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 101,
+            "y": 54,
+            "font-size": 11,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "50%"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 60,
+            "y": 34,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "25%"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 60,
+            "y": 73,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "25%"
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "Sector angle = fraction × 360°",
+      "description": "Pie chart."
+    },
+    {
+      "expression": "Category count = fraction × total",
+      "description": "Read category frequency."
+    }
+  ],
+  "examples": [
+    {
+      "question": "A pie chart represents 80 pupils; a sector is 25%.",
+      "steps": [
+        "80 × 0.25."
+      ],
+      "answer": "20 pupils"
+    },
+    {
+      "question": "A line graph rises from 15 to 27 units.",
+      "steps": [
+        "27 − 15."
+      ],
+      "answer": "12 units"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Sector for 50% of a circle, in degrees?",
+      "answer": 180,
+      "solution": "360 × 0.5."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Sector for 25%, in degrees?",
+      "answer": 90,
+      "solution": "360 ÷ 4."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "A pie chart shows 120 people; 30% chose A. Number?",
+      "answer": 36,
+      "solution": "120 × 0.3."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "A 72° sector represents what percent? Number only.",
+      "answer": 20,
+      "solution": "72 ÷ 360 × 100."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Sales rise from 45 to 68. Increase?",
+      "answer": 23,
+      "solution": "68 − 45."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Values Mon 12, Tue 20, Wed 16. Average?",
+      "answer": 16,
+      "solution": "48 ÷ 3."
+    }
+  ],
+  "summary": "Line graphs show ordered observations, often changes over time. Pie charts divide a whole into sectors proportional to the categories. A full circle represents 100% or 360°. Always read labels, scales and units.",
+  "relatedTopics": [
+    "primary-5-statistics",
+    "primary-5-probability"
+  ]
+}

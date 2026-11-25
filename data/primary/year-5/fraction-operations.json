@@ -1,0 +1,162 @@
+{
+  "id": "primary-5-fraction-operations",
+  "title": "Mixed Operations with Fractions",
+  "level": "primary-5",
+  "category": "Arithmetic",
+  "introduction": "Build on earlier mathematics by studying mixed operations with fractions.",
+  "definition": "Apply brackets first, multiplication and division next from left to right, then addition and subtraction from left to right. Use equivalent fractions and simplify whenever helpful.",
+  "visuals": [
+    {
+      "label": "1/2",
+      "description": "1 of 2 equal parts shaded.",
+      "alt": "1/2 — 1 of 2 equal parts shaded.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 10,
+            "y": 28,
+            "width": 70,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 80,
+            "y": 28,
+            "width": 70,
+            "height": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "3/4",
+      "description": "3 of 4 equal parts shaded.",
+      "alt": "3/4 — 3 of 4 equal parts shaded.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 10,
+            "y": 28,
+            "width": 35,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 45,
+            "y": 28,
+            "width": 35,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 80,
+            "y": 28,
+            "width": 35,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 115,
+            "y": 28,
+            "width": 35,
+            "height": 44
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Calculate 1/2 + 3/4 × 2/3.",
+      "steps": [
+        "3/4 × 2/3 = 1/2; add 1/2."
+      ],
+      "answer": "1"
+    },
+    {
+      "question": "Calculate (2/3 − 1/6) ÷ 1/4.",
+      "steps": [
+        "2/3 − 1/6 = 1/2; 1/2 × 4."
+      ],
+      "answer": "2"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "1/2 + 1/4 × 2",
+      "answer": 1,
+      "solution": "1/4 × 2 = 1/2."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "(3/4 − 1/4) × 6",
+      "answer": 3,
+      "solution": "1/2 × 6."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "2/3 + 1/6, lowest terms.",
+      "answer": "5/6",
+      "solution": "4/6 + 1/6."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "3/5 ÷ 1/5 − 1",
+      "answer": 2,
+      "solution": "3 − 1."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "1 − 2/3 × 3/4, lowest terms.",
+      "answer": "1/2",
+      "solution": "1 − 1/2."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "(1/2 + 1/4) ÷ 1/4",
+      "answer": 3,
+      "solution": "3/4 × 4."
+    }
+  ],
+  "summary": "Apply brackets first, multiplication and division next from left to right, then addition and subtraction from left to right. Use equivalent fractions and simplify whenever helpful.",
+  "relatedTopics": [
+    "primary-5-fraction-division",
+    "primary-5-decimal-multiplication"
+  ]
+}

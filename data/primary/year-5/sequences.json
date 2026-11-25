@@ -1,0 +1,80 @@
+{
+  "id": "primary-5-sequences",
+  "title": "Number Sequences and General Rules",
+  "level": "primary-5",
+  "category": "Algebra",
+  "introduction": "Build on earlier mathematics by studying number sequences and general rules.",
+  "definition": "A sequence is an ordered list of terms. An arithmetic sequence has a constant difference between consecutive terms. Its nth term can be calculated from its first term and common difference.",
+  "visuals": [],
+  "formulas": [
+    {
+      "expression": "aₙ = a₁ + (n−1)d",
+      "description": "Arithmetic sequence."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Find the 10th term of 5, 8, 11, 14, ...",
+      "steps": [
+        "First term 5, common difference 3; 5 + 9 × 3."
+      ],
+      "answer": "32"
+    },
+    {
+      "question": "Find the rule of 12, 17, 22, 27, ...",
+      "steps": [
+        "Common difference is 5; nth term = 12 + (n−1) × 5."
+      ],
+      "answer": "5n + 7"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Next term 14, 21, 28, 35, ... (constant difference)?",
+      "answer": 42,
+      "solution": "Add 7."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Common difference of 22, 18, 14, 10, ...?",
+      "answer": -4,
+      "solution": "18 − 22."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "10th term when first term 2, difference 4?",
+      "answer": 38,
+      "solution": "2 + 9 × 4."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "5th term of rule 3n + 2?",
+      "answer": 17,
+      "solution": "3 × 5 + 2."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "First term of rule 6n − 1?",
+      "answer": 5,
+      "solution": "6 × 1 − 1."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Next term 3, 6, 12, 24, ... (double each term)?",
+      "answer": 48,
+      "solution": "24 × 2."
+    }
+  ],
+  "summary": "A sequence is an ordered list of terms. An arithmetic sequence has a constant difference between consecutive terms. Its nth term can be calculated from its first term and common difference.",
+  "relatedTopics": [
+    "primary-5-equations",
+    "primary-5-statistics"
+  ]
+}
