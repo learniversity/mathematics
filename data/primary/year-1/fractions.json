@@ -1,0 +1,170 @@
+{
+  "id": "primary-1-fractions",
+  "title": "Introduction to Fractions",
+  "level": "primary-1",
+  "category": "Arithmetic",
+  "introduction": "Learn introduction to fractions through explanations and practice.",
+  "definition": "A fraction describes equal parts of a whole. One half means one of two equal parts; one quarter means one of four equal parts. The denominator tells how many equal parts the whole is divided into.",
+  "visuals": [
+    {
+      "label": "One half",
+      "description": "One of two equal parts shaded.",
+      "alt": "One half — One of two equal parts shaded.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "x": 20,
+            "y": 20,
+            "width": 60,
+            "height": 60,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x": 20,
+            "y": 20,
+            "width": 120,
+            "height": 60
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 80,
+            "y1": 20,
+            "x2": 80,
+            "y2": 80
+          }
+        }
+      ]
+    },
+    {
+      "label": "One quarter",
+      "description": "One of four equal parts shaded.",
+      "alt": "One quarter — One of four equal parts shaded.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "x": 40,
+            "y": 10,
+            "width": 40,
+            "height": 40,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x": 40,
+            "y": 10,
+            "width": 80,
+            "height": 80
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 80,
+            "y1": 10,
+            "x2": 80,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 40,
+            "y1": 50,
+            "x2": 120,
+            "y2": 50
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "1/2 + 1/2 = 1",
+      "description": "Two halves make a whole."
+    },
+    {
+      "expression": "1/4 + 1/4 + 1/4 + 1/4 = 1",
+      "description": "Four quarters make a whole."
+    }
+  ],
+  "examples": [
+    {
+      "question": "A pizza is cut into four equal pieces. You eat one.",
+      "steps": [
+        "There are four equal pieces in the whole.",
+        "One piece is one quarter."
+      ],
+      "answer": "1/4"
+    },
+    {
+      "question": "A ribbon is split into two equal pieces.",
+      "steps": [
+        "Each piece is one of two equal parts."
+      ],
+      "answer": "1/2"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "How many equal pieces make two halves?",
+      "answer": 2,
+      "solution": "Answer: 2"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "How many quarters make a whole?",
+      "answer": 4,
+      "solution": "Answer: 4"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Write the fraction for one of two equal parts.",
+      "answer": "1/2",
+      "solution": "Answer: 1/2"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Write the fraction for one of four equal parts.",
+      "answer": "1/4",
+      "solution": "Answer: 1/4"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "How many quarters are in one half?",
+      "answer": 2,
+      "solution": "Answer: 2"
+    }
+  ],
+  "summary": "A fraction describes equal parts of a whole. One half means one of two equal parts; one quarter means one of four equal parts. The denominator tells how many equal parts the whole is divided into.",
+  "relatedTopics": []
+}
