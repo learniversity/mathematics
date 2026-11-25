@@ -1,0 +1,48 @@
+{
+  "id": "preschool-combining",
+  "title": "Combining Groups",
+  "level": "preschool",
+  "category": "Arithmetic",
+  "introduction": "Explore combining groups through definitions, examples and practice.",
+  "definition": "When we put groups together, we count all the objects to find the total.",
+  "formulas": [
+    {
+      "expression": "2 + 3 = 5",
+      "description": "Two objects and three objects make five."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Combine ● ● and ● ● ●.",
+      "steps": [],
+      "answer": "5"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "1 + 1",
+      "answer": 2,
+      "solution": "Answer: 2"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "2 + 2",
+      "answer": 4,
+      "solution": "Answer: 4"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "3 + 1",
+      "answer": 4,
+      "solution": "Answer: 4"
+    }
+  ],
+  "summary": "When we put groups together, we count all the objects to find the total.",
+  "relatedTopics": [
+    "preschool-shapes"
+  ]
+}
