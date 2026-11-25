@@ -1,0 +1,115 @@
+{
+  "id": "preschool-position",
+  "title": "Position and Direction",
+  "level": "preschool",
+  "category": "Geometry",
+  "introduction": "Explore position and direction with pictures and practice.",
+  "definition": "Position words tell us where something is: above, below, beside, inside, outside, left and right.",
+  "visuals": [
+    {
+      "label": "Above and below",
+      "description": "The circle is above the square.",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "cx": 80,
+            "cy": 22,
+            "r": 13
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x": 61,
+            "y": 55,
+            "width": 38,
+            "height": 38
+          }
+        }
+      ],
+      "alt": "Above and below"
+    },
+    {
+      "label": "Inside and outside",
+      "description": "One dot is inside the box; one is outside.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x": 15,
+            "y": 15,
+            "width": 85,
+            "height": 70
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 55,
+            "cy": 50,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 130,
+            "cy": 50,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        }
+      ],
+      "alt": "Inside and outside"
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "A book rests on top of a table. Is it above or below the tabletop?",
+      "steps": [
+        "It is above the tabletop."
+      ],
+      "answer": "above"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "A shoe is under a bed. Is it above or below the bed?",
+      "answer": "below",
+      "solution": "Answer: below"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "A toy is in a closed box. Is it inside or outside?",
+      "answer": "inside",
+      "solution": "Answer: inside"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "What is the opposite of left?",
+      "answer": "right",
+      "solution": "Answer: right"
+    }
+  ],
+  "summary": "Position words describe where objects are.",
+  "relatedTopics": [
+    "preschool-measurement",
+    "preschool-time"
+  ]
+}
