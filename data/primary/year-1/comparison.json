@@ -1,0 +1,75 @@
+{
+  "id": "primary-1-comparison",
+  "title": "Comparing and Ordering Numbers",
+  "level": "primary-1",
+  "category": "Arithmetic",
+  "introduction": "Learn comparing and ordering numbers through explanations and practice.",
+  "definition": "Compare whole numbers by checking the tens digit first, then the ones digit. The symbols >, < and = mean greater than, less than and equal to.",
+  "visuals": [],
+  "formulas": [
+    {
+      "expression": "47 < 52",
+      "description": "47 is less than 52."
+    },
+    {
+      "expression": "63 > 36",
+      "description": "63 is greater than 36."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Compare 47 and 52.",
+      "steps": [
+        "47 has four tens; 52 has five tens.",
+        "Four tens are fewer than five tens."
+      ],
+      "answer": "47 < 52"
+    },
+    {
+      "question": "Arrange 18, 81, 28 from smallest to largest.",
+      "steps": [
+        "Compare the tens: 1, 8 and 2."
+      ],
+      "answer": "18, 28, 81"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Which is greater: 36 or 63?",
+      "answer": 63,
+      "solution": "Answer: 63"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Which is smaller: 72 or 27?",
+      "answer": 27,
+      "solution": "Answer: 27"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "What number is between 49 and 51?",
+      "answer": 50,
+      "solution": "Answer: 50"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Write >, < or = : 45 __ 54",
+      "answer": "<",
+      "solution": "Answer: <"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Write >, < or = : 80 __ 80",
+      "answer": "=",
+      "solution": "Answer: ="
+    }
+  ],
+  "summary": "Compare whole numbers by checking the tens digit first, then the ones digit. The symbols >, < and = mean greater than, less than and equal to.",
+  "relatedTopics": []
+}
