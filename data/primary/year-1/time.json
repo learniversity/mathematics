@@ -1,0 +1,425 @@
+{
+  "id": "primary-1-time",
+  "title": "Reading Clocks and Calendars",
+  "level": "primary-1",
+  "category": "Measurement",
+  "introduction": "Learn reading clocks and calendars through explanations and practice.",
+  "definition": "A clock measures time. On an analogue clock, the short hand shows the hour and the long hand shows the minutes. When the long hand points to 12, the time is an exact hour. A calendar organises days into weeks and months.",
+  "visuals": [
+    {
+      "label": "3:00",
+      "description": "The long hand points to 12; the short hand points to 3.",
+      "alt": "3:00 — The long hand points to 12; the short hand points to 3.",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "cx": 80,
+            "cy": 50,
+            "r": 44
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 97.5,
+            "y": 23.689110867544645,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "1"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 110.31088913245534,
+            "y": 36.5,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "2"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 115,
+            "y": 54,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "3"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 110.31088913245536,
+            "y": 71.5,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "4"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 97.5,
+            "y": 84.31088913245536,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "5"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 89,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "6"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 62.500000000000014,
+            "y": 84.31088913245536,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "7"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 49.689110867544656,
+            "y": 71.50000000000001,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "8"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 45,
+            "y": 54.00000000000001,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "9"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 49.68911086754465,
+            "y": 36.5,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "10"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 62.499999999999986,
+            "y": 23.689110867544656,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "11"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 79.99999999999999,
+            "y": 19,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "12"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 80,
+            "y1": 50,
+            "x2": 80,
+            "y2": 22
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 80,
+            "y1": 50,
+            "x2": 103,
+            "y2": 50
+          }
+        }
+      ]
+    },
+    {
+      "label": "8:00",
+      "description": "The long hand points to 12; the short hand points to 8.",
+      "alt": "8:00 — The long hand points to 12; the short hand points to 8.",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "cx": 80,
+            "cy": 50,
+            "r": 44
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 97.5,
+            "y": 23.689110867544645,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "1"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 110.31088913245534,
+            "y": 36.5,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "2"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 115,
+            "y": 54,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "3"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 110.31088913245536,
+            "y": 71.5,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "4"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 97.5,
+            "y": 84.31088913245536,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "5"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 89,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "6"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 62.500000000000014,
+            "y": 84.31088913245536,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "7"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 49.689110867544656,
+            "y": 71.50000000000001,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "8"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 45,
+            "y": 54.00000000000001,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "9"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 49.68911086754465,
+            "y": 36.5,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "10"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 62.499999999999986,
+            "y": 23.689110867544656,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "11"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 79.99999999999999,
+            "y": 19,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "12"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 80,
+            "y1": 50,
+            "x2": 80,
+            "y2": 22
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 80,
+            "y1": 50,
+            "x2": 60.08141571295792,
+            "y2": 61.500000000000014
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "1 hour = 60 minutes",
+      "description": "Time unit conversion."
+    },
+    {
+      "expression": "1 week = 7 days",
+      "description": "Calendar unit conversion."
+    }
+  ],
+  "examples": [
+    {
+      "question": "The short hand points to 3 and the long hand points to 12.",
+      "steps": [
+        "The minute hand shows zero minutes.",
+        "The hour hand shows three."
+      ],
+      "answer": "3:00"
+    },
+    {
+      "question": "How many days are in two weeks?",
+      "steps": [
+        "One week has 7 days.",
+        "7 + 7 = 14."
+      ],
+      "answer": "14"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "How many minutes are in one hour?",
+      "answer": 60,
+      "solution": "Answer: 60"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "How many days are in a week?",
+      "answer": 7,
+      "solution": "Answer: 7"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "How many months are in a year?",
+      "answer": 12,
+      "solution": "Answer: 12"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "What hour is shown when the short hand is at 8 and long hand at 12?",
+      "answer": 8,
+      "solution": "Answer: 8"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "How many days are in three weeks?",
+      "answer": 21,
+      "solution": "Answer: 21"
+    }
+  ],
+  "summary": "A clock measures time. On an analogue clock, the short hand shows the hour and the long hand shows the minutes. When the long hand points to 12, the time is an exact hour. A calendar organises days into weeks and months.",
+  "relatedTopics": []
+}
