@@ -1,0 +1,44 @@
+{
+  "id": "preschool-shapes",
+  "title": "Basic Shapes",
+  "level": "preschool",
+  "category": "Geometry",
+  "introduction": "Explore basic shapes through definitions, examples and practice.",
+  "definition": "A shape describes the outline of an object. A circle is round; a triangle has three straight sides; a square has four equal sides and four right angles.",
+  "formulas": [],
+  "examples": [
+    {
+      "question": "How many sides does a triangle have?",
+      "steps": [],
+      "answer": "3"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "How many straight sides does a square have?",
+      "answer": 4,
+      "solution": "Answer: 4"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "How many straight sides does a circle have?",
+      "answer": 0,
+      "solution": "Answer: 0"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "How many corners does a triangle have?",
+      "answer": 3,
+      "solution": "Answer: 3"
+    }
+  ],
+  "summary": "A shape describes the outline of an object. A circle is round; a triangle has three straight sides; a square has four equal sides and four right angles.",
+  "relatedTopics": [
+    "preschool-numbers",
+    "preschool-combining"
+  ]
+}
