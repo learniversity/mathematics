@@ -66,20 +66,98 @@
     {
       "id": "preschool-numbers",
       "level": "preschool",
-      "title": "Numbers and Counting",
+      "title": "Digits 0–9",
       "path": "data/preschool/numbers.json"
     },
     {
-      "id": "preschool-shapes",
+      "id": "preschool-counting",
       "level": "preschool",
-      "title": "Basic Shapes",
-      "path": "data/preschool/shapes.json"
+      "title": "Counting to 20",
+      "path": "data/preschool/counting.json"
+    },
+    {
+      "id": "preschool-number-names",
+      "level": "preschool",
+      "title": "Number Names 0–20",
+      "path": "data/preschool/number-names.json"
+    },
+    {
+      "id": "preschool-tens-and-ones",
+      "level": "preschool",
+      "title": "Tens and Ones",
+      "path": "data/preschool/tens-and-ones.json"
+    },
+    {
+      "id": "preschool-counting-tens",
+      "level": "preschool",
+      "title": "Counting in Tens",
+      "path": "data/preschool/counting-tens.json"
+    },
+    {
+      "id": "preschool-number-order",
+      "level": "preschool",
+      "title": "Number Order",
+      "path": "data/preschool/number-order.json"
+    },
+    {
+      "id": "preschool-comparison",
+      "level": "preschool",
+      "title": "More, Less and Equal",
+      "path": "data/preschool/comparison.json"
     },
     {
       "id": "preschool-combining",
       "level": "preschool",
       "title": "Combining Groups",
       "path": "data/preschool/combining.json"
+    },
+    {
+      "id": "preschool-taking-away",
+      "level": "preschool",
+      "title": "Taking Away",
+      "path": "data/preschool/taking-away.json"
+    },
+    {
+      "id": "preschool-shapes",
+      "level": "preschool",
+      "title": "Basic 2D Shapes",
+      "path": "data/preschool/shapes.json"
+    },
+    {
+      "id": "preschool-solid-shapes",
+      "level": "preschool",
+      "title": "Basic 3D Shapes",
+      "path": "data/preschool/solid-shapes.json"
+    },
+    {
+      "id": "preschool-patterns",
+      "level": "preschool",
+      "title": "Patterns",
+      "path": "data/preschool/patterns.json"
+    },
+    {
+      "id": "preschool-sorting",
+      "level": "preschool",
+      "title": "Sorting and Grouping",
+      "path": "data/preschool/sorting.json"
+    },
+    {
+      "id": "preschool-measurement",
+      "level": "preschool",
+      "title": "Size and Measurement",
+      "path": "data/preschool/measurement.json"
+    },
+    {
+      "id": "preschool-position",
+      "level": "preschool",
+      "title": "Position and Direction",
+      "path": "data/preschool/position.json"
+    },
+    {
+      "id": "preschool-time",
+      "level": "preschool",
+      "title": "Everyday Time",
+      "path": "data/preschool/time.json"
     },
     {
       "id": "primary-1-whole-numbers",
