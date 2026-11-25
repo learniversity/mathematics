@@ -3,18 +3,51 @@
   "title": "Combining Groups",
   "level": "preschool",
   "category": "Arithmetic",
-  "introduction": "Explore combining groups through definitions, examples and practice.",
-  "definition": "When we put groups together, we count all the objects to find the total.",
+  "introduction": "Explore combining groups with pictures and practice.",
+  "definition": "Addition combines groups to find how many objects there are altogether.",
+  "visuals": [
+    {
+      "label": "2 + 3 = 5",
+      "description": "Two dots and three dots make five.",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 30,
+            "font-size": 17,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "● ● + ● ● ●"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 70,
+            "font-size": 19,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "● ● ● ● ●"
+        }
+      ],
+      "alt": "2 + 3 = 5"
+    }
+  ],
   "formulas": [
     {
       "expression": "2 + 3 = 5",
-      "description": "Two objects and three objects make five."
+      "description": "Two and three make five."
     }
   ],
   "examples": [
     {
-      "question": "Combine ● ● and ● ● ●.",
-      "steps": [],
+      "question": "You have 2 apples and receive 3 more.",
+      "steps": [
+        "Count all five apples."
+      ],
       "answer": "5"
     }
   ],
@@ -29,20 +62,35 @@
     {
       "id": "q2",
       "type": "numeric",
-      "question": "2 + 2",
-      "answer": 4,
-      "solution": "Answer: 4"
+      "question": "2 + 3",
+      "answer": 5,
+      "solution": "Answer: 5"
     },
     {
       "id": "q3",
       "type": "numeric",
-      "question": "3 + 1",
-      "answer": 4,
-      "solution": "Answer: 4"
+      "question": "4 + 1",
+      "answer": 5,
+      "solution": "Answer: 5"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "0 + 3",
+      "answer": 3,
+      "solution": "Answer: 3"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "5 + 5",
+      "answer": 10,
+      "solution": "Answer: 10"
     }
   ],
-  "summary": "When we put groups together, we count all the objects to find the total.",
+  "summary": "Putting groups together is addition.",
   "relatedTopics": [
-    "preschool-shapes"
+    "preschool-comparison",
+    "preschool-taking-away"
   ]
 }
