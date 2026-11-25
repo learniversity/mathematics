@@ -448,12 +448,6 @@
       "path": "data/primary/year-3/division.json"
     },
     {
-      "id": "primary-3-order-of-operations",
-      "level": "primary-3",
-      "title": "Order of Operations",
-      "path": "data/primary/year-3/order-of-operations.json"
-    },
-    {
       "id": "primary-3-fraction-simplification",
       "level": "primary-3",
       "title": "Simplifying and Comparing Fractions",
@@ -502,12 +496,6 @@
       "path": "data/primary/year-3/mass-capacity.json"
     },
     {
-      "id": "primary-3-angles",
-      "level": "primary-3",
-      "title": "Angles and Turns",
-      "path": "data/primary/year-3/angles.json"
-    },
-    {
       "id": "primary-3-solids",
       "level": "primary-3",
       "title": "Faces, Edges and Vertices",
@@ -530,6 +518,18 @@
       "level": "primary-3",
       "title": "Multi-Step Mathematical Problems",
       "path": "data/primary/year-3/word-problems.json"
+    },
+    {
+      "id": "primary-4-order-of-operations",
+      "level": "primary-4",
+      "title": "Order of Operations",
+      "path": "data/primary/year-4/order-of-operations.json"
+    },
+    {
+      "id": "primary-4-angles-and-turns",
+      "level": "primary-4",
+      "title": "Angles and Turns",
+      "path": "data/primary/year-4/angles-and-turns.json"
     },
     {
       "id": "primary-4-perimeter-introduction",
@@ -712,16 +712,16 @@
       "path": "data/primary/year-4/data-handling.json"
     },
     {
-      "id": "primary-4-patterns",
-      "level": "primary-4",
-      "title": "Sequences and Simple Unknowns",
-      "path": "data/primary/year-4/patterns.json"
-    },
-    {
       "id": "primary-4-word-problems",
       "level": "primary-4",
       "title": "Multi-Step Applied Mathematics",
       "path": "data/primary/year-4/word-problems.json"
+    },
+    {
+      "id": "primary-5-unknowns-and-patterns",
+      "level": "primary-5",
+      "title": "Sequences and Simple Unknowns",
+      "path": "data/primary/year-5/unknowns-and-patterns.json"
     },
     {
       "id": "primary-5-numbers",
@@ -802,12 +802,6 @@
       "path": "data/primary/year-5/time.json"
     },
     {
-      "id": "primary-5-speed",
-      "level": "primary-5",
-      "title": "Introduction to Speed, Distance and Time",
-      "path": "data/primary/year-5/speed.json"
-    },
-    {
       "id": "primary-5-volume",
       "level": "primary-5",
       "title": "Volume and Capacity of Composite Solids",
@@ -824,6 +818,12 @@
       "level": "primary-5",
       "title": "Multi-Step Problem Solving",
       "path": "data/primary/year-5/word-problems.json"
+    },
+    {
+      "id": "primary-5-statistics",
+      "level": "primary-5",
+      "title": "Mean, Median, Mode and Range",
+      "path": "data/primary/year-5/statistics.json"
     },
     {
       "id": "primary-6-prime-composite",
@@ -862,12 +862,6 @@
       "path": "data/primary/year-6/ratio.json"
     },
     {
-      "id": "primary-6-proportion",
-      "level": "primary-6",
-      "title": "Direct and Inverse Proportion",
-      "path": "data/primary/year-6/proportion.json"
-    },
-    {
       "id": "primary-6-financial-maths",
       "level": "primary-6",
       "title": "Financial Mathematics: Interest, Tax and Discounts",
@@ -898,6 +892,12 @@
       "path": "data/primary/year-6/word-problems.json"
     },
     {
+      "id": "secondary-1-direct-inverse-proportion",
+      "level": "secondary-1",
+      "title": "Direct and Inverse Proportion",
+      "path": "data/secondary/year-1/direct-inverse-proportion.json"
+    },
+    {
       "id": "secondary-1-angle-calculations",
       "level": "secondary-1",
       "title": "Measuring and Calculating Angles",
@@ -908,24 +908,6 @@
       "level": "secondary-1",
       "title": "Angles at Intersections and in Polygons",
       "path": "data/secondary/year-1/intersecting-angles.json"
-    },
-    {
-      "id": "secondary-1-mean-mode-range",
-      "level": "secondary-1",
-      "title": "Mean, Mode and Range",
-      "path": "data/secondary/year-1/mean-mode-range.json"
-    },
-    {
-      "id": "secondary-1-statistical-measures",
-      "level": "secondary-1",
-      "title": "Mean, Median, Mode and Range",
-      "path": "data/secondary/year-1/statistical-measures.json"
-    },
-    {
-      "id": "secondary-1-frequency-table-measures",
-      "level": "secondary-1",
-      "title": "Frequency Tables and Statistical Measures",
-      "path": "data/secondary/year-1/frequency-table-measures.json"
     },
     {
       "id": "secondary-1-area-parallelograms-trapeziums",
@@ -1028,6 +1010,24 @@
       "level": "secondary-1",
       "title": "Introduction to Inequalities",
       "path": "data/secondary/year-1/inequalities.json"
+    },
+    {
+      "id": "secondary-2-speed-distance-time",
+      "level": "secondary-2",
+      "title": "Introduction to Speed, Distance and Time",
+      "path": "data/secondary/year-2/speed-distance-time.json"
+    },
+    {
+      "id": "secondary-2-mean-mode-range",
+      "level": "secondary-2",
+      "title": "Mean, Mode and Range",
+      "path": "data/secondary/year-2/mean-mode-range.json"
+    },
+    {
+      "id": "secondary-2-frequency-table-measures",
+      "level": "secondary-2",
+      "title": "Frequency Tables and Statistical Measures",
+      "path": "data/secondary/year-2/frequency-table-measures.json"
     },
     {
       "id": "secondary-2-average-speed",

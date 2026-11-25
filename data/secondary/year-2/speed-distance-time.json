@@ -1,9 +1,9 @@
 {
-  "id": "primary-5-speed",
+  "id": "secondary-2-speed-distance-time",
   "title": "Introduction to Speed, Distance and Time",
-  "level": "primary-5",
+  "level": "secondary-2",
   "category": "Measurement",
-  "introduction": "Build on earlier mathematics by studying introduction to speed, distance and time.",
+  "introduction": "Learn introduction to speed, distance and time through explanations and practice.",
   "definition": "Average speed is total distance divided by total elapsed time. Speed describes distance travelled per unit time. Use compatible units such as kilometres and hours or metres and seconds.",
   "visuals": [
     {

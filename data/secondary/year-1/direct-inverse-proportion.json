@@ -1,9 +1,9 @@
 {
-  "id": "primary-6-proportion",
+  "id": "secondary-1-direct-inverse-proportion",
   "title": "Direct and Inverse Proportion",
-  "level": "primary-6",
+  "level": "secondary-1",
   "category": "Arithmetic",
-  "introduction": "Consolidate primary mathematics and prepare for secondary study through direct and inverse proportion.",
+  "introduction": "Learn direct and inverse proportion through explanations and practice.",
   "definition": "In direct proportion, the ratio y/x remains constant for nonzero x. In inverse proportion, the product xy remains constant for nonzero x. Use inverse proportion only when the situation justifies a fixed total of work or quantity.",
   "visuals": [
     {

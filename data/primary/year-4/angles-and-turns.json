@@ -1,9 +1,9 @@
 {
-  "id": "primary-3-angles",
+  "id": "primary-4-angles-and-turns",
   "title": "Angles and Turns",
-  "level": "primary-3",
+  "level": "primary-4",
   "category": "Geometry",
-  "introduction": "Develop Primary 3 skills in angles and turns.",
+  "introduction": "Learn angles and turns through explanations and practice.",
   "definition": "An angle describes the amount of turn between two rays meeting at a vertex. A right angle is 90°, an acute angle is greater than 0° and less than 90°, an obtuse angle is greater than 90° and less than 180°, and a straight angle is 180°.",
   "visuals": [
     {

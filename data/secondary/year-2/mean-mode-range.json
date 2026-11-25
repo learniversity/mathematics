@@ -1,9 +1,9 @@
 {
-  "id": "secondary-1-mean-mode-range",
+  "id": "secondary-2-mean-mode-range",
   "title": "Mean, Mode and Range",
-  "level": "secondary-1",
+  "level": "secondary-2",
   "category": "Statistics",
-  "introduction": "Develop mathematical understanding through mean, mode and range.",
+  "introduction": "Learn mean, mode and range through explanations and practice.",
   "definition": "The arithmetic mean is the total of numerical values divided by their count. The mode is a value occurring most frequently; more than one mode can exist. The range is the maximum minus the minimum.",
   "visuals": [
     {

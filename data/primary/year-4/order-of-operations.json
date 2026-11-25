@@ -1,9 +1,9 @@
 {
-  "id": "primary-3-order-of-operations",
+  "id": "primary-4-order-of-operations",
   "title": "Order of Operations",
-  "level": "primary-3",
+  "level": "primary-4",
   "category": "Arithmetic",
-  "introduction": "Develop Primary 3 skills in order of operations.",
+  "introduction": "Learn order of operations through explanations and practice.",
   "definition": "Calculate brackets first, then multiplication and division from left to right, then addition and subtraction from left to right. Operations at the same priority are not automatically evaluated in symbol order.",
   "visuals": [],
   "formulas": [],
