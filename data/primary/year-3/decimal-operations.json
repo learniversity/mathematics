@@ -1,0 +1,141 @@
+{
+  "id": "primary-3-decimal-operations",
+  "title": "Addition and Subtraction of Decimals",
+  "level": "primary-3",
+  "category": "Arithmetic",
+  "introduction": "Develop Primary 3 skills in addition and subtraction of decimals.",
+  "definition": "Align decimal points before adding or subtracting. Add trailing zeros if necessary to align place values. The decimal point in the answer remains in the same column.",
+  "visuals": [
+    {
+      "label": "4.75 + 2.80",
+      "description": "Align decimal points.",
+      "alt": "4.75 + 2.80 — Align decimal points.",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 90,
+            "y": 26,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "4.75"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 90,
+            "y": 52,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "2.80"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 35,
+            "y": 52,
+            "font-size": 20,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "+"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 35,
+            "y1": 59,
+            "x2": 145,
+            "y2": 59
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 90,
+            "y": 85,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "7.55"
+        }
+      ]
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Calculate 4.75 + 2.8.",
+      "steps": [
+        "Write 2.8 as 2.80.",
+        "4.75 + 2.80."
+      ],
+      "answer": "7.55"
+    },
+    {
+      "question": "Calculate 8 − 3.46.",
+      "steps": [
+        "Write 8 as 8.00.",
+        "Regroup from whole units into tenths and hundredths."
+      ],
+      "answer": "4.54"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "2.35 + 1.42",
+      "answer": 3.77,
+      "solution": "Add corresponding places."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "5.6 + 0.75",
+      "answer": 6.35,
+      "solution": "5.60 + 0.75."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "9.2 − 3.47",
+      "answer": 5.73,
+      "solution": "9.20 − 3.47."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "10 − 0.85",
+      "answer": 9.15,
+      "solution": "10.00 − 0.85."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "4.08 + 2.9",
+      "answer": 6.98,
+      "solution": "4.08 + 2.90."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "7.50 − 2.25",
+      "answer": 5.25,
+      "solution": "750 hundredths − 225 hundredths."
+    }
+  ],
+  "summary": "Align decimal points before adding or subtracting. Add trailing zeros if necessary to align place values. The decimal point in the answer remains in the same column.",
+  "relatedTopics": [
+    "primary-3-decimals",
+    "primary-3-money"
+  ]
+}

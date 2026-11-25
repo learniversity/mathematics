@@ -1,0 +1,81 @@
+{
+  "id": "primary-3-subtraction",
+  "title": "Subtraction within 10,000",
+  "level": "primary-3",
+  "category": "Arithmetic",
+  "introduction": "Develop Primary 3 skills in subtraction within 10,000.",
+  "definition": "Subtract corresponding digits from right to left, regrouping from a higher place when necessary. If a place contains zero, regroup across it. Verify by adding the difference to the subtrahend.",
+  "visuals": [],
+  "formulas": [
+    {
+      "expression": "a − b = c ⇔ c + b = a",
+      "description": "Use addition to check subtraction."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Calculate 7,002 − 3,568.",
+      "steps": [
+        "Regroup across the zeros: 12 ones, 9 tens, 9 hundreds, 6 thousands.",
+        "12−8=4; 9−6=3; 9−5=4; 6−3=3."
+      ],
+      "answer": "3434"
+    },
+    {
+      "question": "Calculate 8,450 − 2,375.",
+      "steps": [
+        "Subtract by columns with regrouping."
+      ],
+      "answer": "6075"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "5,432 − 2,111",
+      "answer": 3321,
+      "solution": "Subtract matching places."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "8,000 − 3,456",
+      "answer": 4544,
+      "solution": "Regroup across zeros."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "9,100 − 875",
+      "answer": 8225,
+      "solution": "9,100 − 900 + 25."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "6,205 − 2,789",
+      "answer": 3416,
+      "solution": "Regroup ones and hundreds as needed."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "4,000 − 1",
+      "answer": 3999,
+      "solution": "One less than 4,000."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "A shop has 5,120 items and sells 1,875. Remaining?",
+      "answer": 3245,
+      "solution": "5,120 − 1,875 = 3,245."
+    }
+  ],
+  "summary": "Subtract corresponding digits from right to left, regrouping from a higher place when necessary. If a place contains zero, regroup across it. Verify by adding the difference to the subtrahend.",
+  "relatedTopics": [
+    "primary-3-addition",
+    "primary-3-multiplication"
+  ]
+}

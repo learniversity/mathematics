@@ -1,0 +1,162 @@
+{
+  "id": "primary-3-addition",
+  "title": "Addition within 10,000",
+  "level": "primary-3",
+  "category": "Arithmetic",
+  "introduction": "Develop Primary 3 skills in addition within 10,000.",
+  "definition": "Add corresponding place values from right to left. Regroup whenever a column total reaches ten. Use estimation to check whether an answer is reasonable.",
+  "visuals": [
+    {
+      "label": "Column addition",
+      "description": "Regroup from right to left.",
+      "alt": "Column addition — Regroup from right to left.",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 105,
+            "y": 20,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "1 1 1"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 105,
+            "y": 43,
+            "font-size": 22,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "3786"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 105,
+            "y": 65,
+            "font-size": 22,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "2547"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 44,
+            "y": 65,
+            "font-size": 20,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "+"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 45,
+            "y1": 70,
+            "x2": 145,
+            "y2": 70
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 105,
+            "y": 92,
+            "font-size": 22,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "6333"
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "a + b = b + a",
+      "description": "Commutative property."
+    },
+    {
+      "expression": "(a + b) + c = a + (b + c)",
+      "description": "Associative property."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Calculate 3,786 + 2,547.",
+      "steps": [
+        "Ones 6 + 7 = 13; carry 1.",
+        "Tens 8 + 4 + 1 = 13; carry 1.",
+        "Hundreds 7 + 5 + 1 = 13; carry 1.",
+        "Thousands 3 + 2 + 1 = 6."
+      ],
+      "answer": "6333"
+    },
+    {
+      "question": "Calculate 4,009 + 986.",
+      "steps": [
+        "4,009 + 900 + 80 + 6."
+      ],
+      "answer": "4995"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "2,341 + 1,527",
+      "answer": 3868,
+      "solution": "Add matching places."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "4,678 + 2,456",
+      "answer": 7134,
+      "solution": "Regroup ones, tens and hundreds."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "3,999 + 1",
+      "answer": 4000,
+      "solution": "Carry through all lower places."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "5,080 + 930",
+      "answer": 6010,
+      "solution": "5,080 + 900 + 30."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "6,542 + 1,358",
+      "answer": 7900,
+      "solution": "Add in columns."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "A library has 3,258 books and receives 1,467. Total?",
+      "answer": 4725,
+      "solution": "3,258 + 1,467 = 4,725."
+    }
+  ],
+  "summary": "Add corresponding place values from right to left. Regroup whenever a column total reaches ten. Use estimation to check whether an answer is reasonable.",
+  "relatedTopics": [
+    "primary-3-rounding",
+    "primary-3-subtraction"
+  ]
+}

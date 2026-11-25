@@ -1,0 +1,77 @@
+{
+  "id": "primary-3-order-of-operations",
+  "title": "Order of Operations",
+  "level": "primary-3",
+  "category": "Arithmetic",
+  "introduction": "Develop Primary 3 skills in order of operations.",
+  "definition": "Calculate brackets first, then multiplication and division from left to right, then addition and subtraction from left to right. Operations at the same priority are not automatically evaluated in symbol order.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Calculate 8 + 4 × 5.",
+      "steps": [
+        "4 × 5 = 20 first.",
+        "8 + 20 = 28."
+      ],
+      "answer": "28"
+    },
+    {
+      "question": "Calculate (8 + 4) × 5.",
+      "steps": [
+        "8 + 4 = 12 first.",
+        "12 × 5 = 60."
+      ],
+      "answer": "60"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "6 + 3 × 4",
+      "answer": 18,
+      "solution": "6 + 12 = 18."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "(6 + 3) × 4",
+      "answer": 36,
+      "solution": "9 × 4 = 36."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "30 − 18 ÷ 3",
+      "answer": 24,
+      "solution": "30 − 6 = 24."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "24 ÷ 4 × 2",
+      "answer": 12,
+      "solution": "6 × 2 = 12."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "20 − 7 + 3",
+      "answer": 16,
+      "solution": "13 + 3 = 16."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "5 × (12 − 8) + 2",
+      "answer": 22,
+      "solution": "5 × 4 + 2 = 22."
+    }
+  ],
+  "summary": "Calculate brackets first, then multiplication and division from left to right, then addition and subtraction from left to right. Operations at the same priority are not automatically evaluated in symbol order.",
+  "relatedTopics": [
+    "primary-3-division",
+    "primary-3-factors-multiples"
+  ]
+}

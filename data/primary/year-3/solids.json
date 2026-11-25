@@ -1,0 +1,179 @@
+{
+  "id": "primary-3-solids",
+  "title": "Faces, Edges and Vertices",
+  "level": "primary-3",
+  "category": "Geometry",
+  "introduction": "Develop Primary 3 skills in faces, edges and vertices.",
+  "definition": "Polyhedra are solids with flat polygonal faces. Faces meet along edges, and edges meet at vertices. A cube and cuboid each have 6 faces, 12 edges and 8 vertices. A triangular prism has 5 faces, 9 edges and 6 vertices.",
+  "visuals": [
+    {
+      "label": "Triangular prism",
+      "description": "Two triangular faces and three rectangular faces.",
+      "alt": "Triangular prism — Two triangular faces and three rectangular faces.",
+      "elements": [
+        {
+          "tag": "polygon",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "points": "20,75 50,15 80,75"
+          }
+        },
+        {
+          "tag": "polyline",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "points": "50,15 115,15 145,75 80,75"
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 20,
+            "y1": 75,
+            "x2": 85,
+            "y2": 75,
+            "stroke-dasharray": "3 3"
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 85,
+            "y1": 75,
+            "x2": 115,
+            "y2": 15,
+            "stroke-dasharray": "3 3"
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 85,
+            "y1": 75,
+            "x2": 145,
+            "y2": 75
+          }
+        }
+      ]
+    },
+    {
+      "label": "Cube",
+      "description": "6 faces, 12 edges, 8 vertices.",
+      "alt": "Cube — 6 faces, 12 edges, 8 vertices.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 32,
+            "y": 32,
+            "width": 55,
+            "height": 55
+          }
+        },
+        {
+          "tag": "polyline",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "points": "32,32 59,10 114,10 114,65 87,87"
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 87,
+            "y1": 32,
+            "x2": 114,
+            "y2": 10
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Count the vertices of a cuboid.",
+      "steps": [
+        "There are 4 corners on each of two opposite faces."
+      ],
+      "answer": "8"
+    },
+    {
+      "question": "Count the faces of a triangular prism.",
+      "steps": [
+        "Two triangular faces and three rectangular faces."
+      ],
+      "answer": "5"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Faces of a cube?",
+      "answer": 6,
+      "solution": "Six square faces."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Edges of a cuboid?",
+      "answer": 12,
+      "solution": "4 + 4 + 4."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Vertices of a triangular prism?",
+      "answer": 6,
+      "solution": "3 + 3."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Faces of a square-based pyramid?",
+      "answer": 5,
+      "solution": "1 square + 4 triangles."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Vertices of a square-based pyramid?",
+      "answer": 5,
+      "solution": "4 base corners + apex."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Edges of a triangular prism?",
+      "answer": 9,
+      "solution": "3 + 3 + 3."
+    }
+  ],
+  "summary": "Polyhedra are solids with flat polygonal faces. Faces meet along edges, and edges meet at vertices. A cube and cuboid each have 6 faces, 12 edges and 8 vertices. A triangular prism has 5 faces, 9 edges and 6 vertices.",
+  "relatedTopics": [
+    "primary-3-area",
+    "primary-3-data-handling"
+  ]
+}

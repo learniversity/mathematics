@@ -1,0 +1,89 @@
+{
+  "id": "primary-3-length",
+  "title": "Kilometres, Metres and Centimetres",
+  "level": "primary-3",
+  "category": "Measurement",
+  "introduction": "Develop Primary 3 skills in kilometres, metres and centimetres.",
+  "definition": "Length measures distance. Use kilometres for longer distances, metres for everyday lengths, centimetres and millimetres for smaller lengths. Convert all measurements to the same unit before calculating.",
+  "visuals": [],
+  "formulas": [
+    {
+      "expression": "1 km = 1,000 m",
+      "description": "Length conversion."
+    },
+    {
+      "expression": "1 m = 100 cm",
+      "description": "Length conversion."
+    },
+    {
+      "expression": "1 cm = 10 mm",
+      "description": "Length conversion."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Convert 3 km 250 m to metres.",
+      "steps": [
+        "3 × 1,000 = 3,000.",
+        "3,000 + 250."
+      ],
+      "answer": "3250"
+    },
+    {
+      "question": "Convert 7 cm 4 mm to millimetres.",
+      "steps": [
+        "7 × 10 + 4."
+      ],
+      "answer": "74"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "5 km in metres?",
+      "answer": 5000,
+      "solution": "5 × 1,000."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "2 km 80 m in metres?",
+      "answer": 2080,
+      "solution": "2,000 + 80."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "8 cm in mm?",
+      "answer": 80,
+      "solution": "8 × 10."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "1 m 25 cm in cm?",
+      "answer": 125,
+      "solution": "100 + 25."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "2 km − 350 m in metres?",
+      "answer": 1650,
+      "solution": "2,000 − 350."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "450 m + 750 m in metres?",
+      "answer": 1200,
+      "solution": "450 + 750."
+    }
+  ],
+  "summary": "Length measures distance. Use kilometres for longer distances, metres for everyday lengths, centimetres and millimetres for smaller lengths. Convert all measurements to the same unit before calculating.",
+  "relatedTopics": [
+    "primary-3-calendar",
+    "primary-3-mass-capacity"
+  ]
+}

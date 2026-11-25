@@ -1,0 +1,143 @@
+{
+  "id": "primary-3-geometry",
+  "title": "Parallel and Perpendicular Lines",
+  "level": "primary-3",
+  "category": "Geometry",
+  "introduction": "Develop Primary 3 skills in parallel and perpendicular lines.",
+  "definition": "Parallel lines in a plane never meet, even when extended. Perpendicular lines meet at a right angle. Opposite sides of rectangles are parallel; adjacent sides are perpendicular.",
+  "visuals": [
+    {
+      "label": "Parallel",
+      "description": "Two lines never meet.",
+      "alt": "Parallel — Two lines never meet.",
+      "elements": [
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 15,
+            "y1": 25,
+            "x2": 145,
+            "y2": 25
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 15,
+            "y1": 75,
+            "x2": 145,
+            "y2": 75
+          }
+        }
+      ]
+    },
+    {
+      "label": "Perpendicular",
+      "description": "Lines meet at 90°.",
+      "alt": "Perpendicular — Lines meet at 90°.",
+      "elements": [
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 20,
+            "y1": 50,
+            "x2": 140,
+            "y2": 50
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 80,
+            "y1": 10,
+            "x2": 80,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 80,
+            "y": 32,
+            "width": 18,
+            "height": 18
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Describe the opposite sides of a rectangle.",
+      "steps": [
+        "They remain the same distance apart."
+      ],
+      "answer": "parallel"
+    },
+    {
+      "question": "Describe lines meeting at 90°.",
+      "steps": [
+        "A 90° angle is a right angle."
+      ],
+      "answer": "perpendicular"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Angle between perpendicular lines, in degrees?",
+      "answer": 90,
+      "solution": "They meet at a right angle."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Do distinct parallel lines meet? yes/no",
+      "answer": "no",
+      "solution": "They never intersect in a plane."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "How many pairs of opposite parallel sides has a rectangle?",
+      "answer": 2,
+      "solution": "Top/bottom and left/right."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Are adjacent sides of a square perpendicular? yes/no",
+      "answer": "yes",
+      "solution": "They meet at 90°."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Name lines that never meet in a plane.",
+      "answer": "parallel",
+      "solution": "Distinct parallel lines never intersect."
+    }
+  ],
+  "summary": "Parallel lines in a plane never meet, even when extended. Perpendicular lines meet at a right angle. Opposite sides of rectangles are parallel; adjacent sides are perpendicular.",
+  "relatedTopics": [
+    "primary-3-angles",
+    "primary-3-perimeter"
+  ]
+}

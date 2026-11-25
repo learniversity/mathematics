@@ -1,0 +1,75 @@
+{
+  "id": "primary-3-patterns",
+  "title": "Number Patterns and Missing Values",
+  "level": "primary-3",
+  "category": "Arithmetic",
+  "introduction": "Develop Primary 3 skills in number patterns and missing values.",
+  "definition": "A sequence follows an ordering rule. Rules may involve repeated addition, subtraction, multiplication or alternating steps. Use the stated rule or a simple consistent rule to find missing terms.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Continue 3, 6, 12, 24 (double each time).",
+      "steps": [
+        "24 × 2."
+      ],
+      "answer": "48"
+    },
+    {
+      "question": "Find the missing number: 100, 92, ?, 76 (subtract 8).",
+      "steps": [
+        "92 − 8."
+      ],
+      "answer": "84"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "15, 30, 45, ? (add 15)",
+      "answer": 60,
+      "solution": "45 + 15."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "4, 12, 36, ? (multiply by 3)",
+      "answer": 108,
+      "solution": "36 × 3."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "250, 225, 200, ? (subtract 25)",
+      "answer": 175,
+      "solution": "200 − 25."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "8, 16, ?, 64 (double)",
+      "answer": 32,
+      "solution": "16 × 2."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "2, 5, 7, 10, 12, ? (alternate +3,+2)",
+      "answer": 15,
+      "solution": "12 + 3."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "? + 35 = 100",
+      "answer": 65,
+      "solution": "100 − 35."
+    }
+  ],
+  "summary": "A sequence follows an ordering rule. Rules may involve repeated addition, subtraction, multiplication or alternating steps. Use the stated rule or a simple consistent rule to find missing terms.",
+  "relatedTopics": [
+    "primary-3-data-handling",
+    "primary-3-word-problems"
+  ]
+}

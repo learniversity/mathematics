@@ -1,0 +1,76 @@
+{
+  "id": "primary-3-word-problems",
+  "title": "Multi-Step Mathematical Problems",
+  "level": "primary-3",
+  "category": "Arithmetic",
+  "introduction": "Develop Primary 3 skills in multi-step mathematical problems.",
+  "definition": "A multi-step problem requires a plan. Identify relevant quantities, use matching units, choose operations, calculate in a logical order and check the final answer against the question.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "A school buys 8 boxes of 125 pencils and gives away 368.",
+      "steps": [
+        "8 × 125 = 1,000.",
+        "1,000 − 368 = 632."
+      ],
+      "answer": "632"
+    },
+    {
+      "question": "A runner completes 3 laps of 400 m and then runs another 250 m.",
+      "steps": [
+        "3 × 400 = 1,200.",
+        "1,200 + 250 = 1,450."
+      ],
+      "answer": "1,450 m"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "6 boxes of 48 books, then 75 more books. Total?",
+      "answer": 363,
+      "solution": "6 × 48 + 75."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "A farmer has 960 eggs, packs 8 per box, sells 35 boxes. Boxes left?",
+      "answer": 85,
+      "solution": "960 ÷ 8 − 35."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "A trip is 3 km; 1,250 m walked. Remaining metres?",
+      "answer": 1750,
+      "solution": "3,000 − 1,250."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Buy 3 items at RM6.50 and pay RM25. Change RM?",
+      "answer": 5.5,
+      "solution": "25 − 3 × 6.50."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Four bottles each hold 750 mL. Pour out 1 L. Remaining mL?",
+      "answer": 2000,
+      "solution": "4 × 750 − 1,000."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "A class has 36 pupils. One third leave, then 4 return. Total?",
+      "answer": 28,
+      "solution": "36 − 12 + 4."
+    }
+  ],
+  "summary": "A multi-step problem requires a plan. Identify relevant quantities, use matching units, choose operations, calculate in a logical order and check the final answer against the question.",
+  "relatedTopics": [
+    "primary-3-patterns"
+  ]
+}

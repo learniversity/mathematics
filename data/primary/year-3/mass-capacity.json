@@ -1,0 +1,84 @@
+{
+  "id": "primary-3-mass-capacity",
+  "title": "Mass and Liquid Volume Calculations",
+  "level": "primary-3",
+  "category": "Measurement",
+  "introduction": "Develop Primary 3 skills in mass and liquid volume calculations.",
+  "definition": "Mass measures matter and liquid volume measures the space occupied by liquid. Kilograms and grams measure mass; litres and millilitres measure liquid volume. Do not add quantities of different kinds.",
+  "visuals": [],
+  "formulas": [
+    {
+      "expression": "1 kg = 1,000 g",
+      "description": "Mass conversion."
+    },
+    {
+      "expression": "1 L = 1,000 mL",
+      "description": "Volume conversion."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Add 2 kg 350 g and 1 kg 800 g.",
+      "steps": [
+        "2,350 + 1,800 = 4,150 g."
+      ],
+      "answer": "4 kg 150 g"
+    },
+    {
+      "question": "Share 3 L of water equally among 6 bottles.",
+      "steps": [
+        "3,000 mL ÷ 6."
+      ],
+      "answer": "500 mL"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "3 kg 75 g in grams?",
+      "answer": 3075,
+      "solution": "3,000 + 75."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "2 kg − 750 g in grams?",
+      "answer": 1250,
+      "solution": "2,000 − 750."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "4 packets of 250 g total grams?",
+      "answer": 1000,
+      "solution": "4 × 250."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "2 L 450 mL in mL?",
+      "answer": 2450,
+      "solution": "2,000 + 450."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "5 L − 1,600 mL in mL?",
+      "answer": 3400,
+      "solution": "5,000 − 1,600."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "1,800 mL shared among 9 cups, mL each?",
+      "answer": 200,
+      "solution": "1,800 ÷ 9."
+    }
+  ],
+  "summary": "Mass measures matter and liquid volume measures the space occupied by liquid. Kilograms and grams measure mass; litres and millilitres measure liquid volume. Do not add quantities of different kinds.",
+  "relatedTopics": [
+    "primary-3-length",
+    "primary-3-angles"
+  ]
+}

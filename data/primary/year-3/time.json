@@ -1,0 +1,85 @@
+{
+  "id": "primary-3-time",
+  "title": "Seconds, Minutes and Hours",
+  "level": "primary-3",
+  "category": "Measurement",
+  "introduction": "Develop Primary 3 skills in seconds, minutes and hours.",
+  "definition": "Time duration measures how long an event lasts. One minute is 60 seconds and one hour is 60 minutes. Convert to a common unit before adding or subtracting durations.",
+  "visuals": [],
+  "formulas": [
+    {
+      "expression": "1 min = 60 s",
+      "description": "Time conversion."
+    },
+    {
+      "expression": "1 h = 60 min = 3,600 s",
+      "description": "Time conversion."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Convert 2 minutes 35 seconds to seconds.",
+      "steps": [
+        "2 × 60 = 120.",
+        "120 + 35 = 155."
+      ],
+      "answer": "155"
+    },
+    {
+      "question": "Find the duration from 8:45 a.m. to 10:10 a.m.",
+      "steps": [
+        "8:45 to 9:00 = 15 min; 9:00 to 10:00 = 60 min; 10:00 to 10:10 = 10 min."
+      ],
+      "answer": "85 minutes"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "3 minutes in seconds?",
+      "answer": 180,
+      "solution": "3 × 60."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "2 hours 20 minutes in minutes?",
+      "answer": 140,
+      "solution": "120 + 20."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "90 seconds = 1 minute and how many seconds?",
+      "answer": 30,
+      "solution": "90 − 60."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Duration from 7:40 to 8:15 a.m., in minutes?",
+      "answer": 35,
+      "solution": "20 + 15."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Duration from 2:15 to 4:00 p.m., in minutes?",
+      "answer": 105,
+      "solution": "45 + 60."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "1 hour in seconds?",
+      "answer": 3600,
+      "solution": "60 × 60."
+    }
+  ],
+  "summary": "Time duration measures how long an event lasts. One minute is 60 seconds and one hour is 60 minutes. Convert to a common unit before adding or subtracting durations.",
+  "relatedTopics": [
+    "primary-3-money",
+    "primary-3-calendar"
+  ]
+}

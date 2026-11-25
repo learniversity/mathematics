@@ -1,0 +1,163 @@
+{
+  "id": "primary-3-rounding",
+  "title": "Rounding to Tens and Hundreds",
+  "level": "primary-3",
+  "category": "Arithmetic",
+  "introduction": "Develop Primary 3 skills in rounding to tens and hundreds.",
+  "definition": "To round to the nearest ten, inspect the ones digit. To round to the nearest hundred, inspect the tens digit. Digits 0–4 round down and 5–9 round up; replace lower places with zeros.",
+  "visuals": [
+    {
+      "label": "2,467 → 2,500",
+      "description": "Closer to 2,500 than 2,400.",
+      "alt": "2,467 → 2,500 — Closer to 2,500 than 2,400.",
+      "elements": [
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 12,
+            "y1": 50,
+            "x2": 148,
+            "y2": 50
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 12,
+            "y1": 44,
+            "x2": 12,
+            "y2": 56
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 148,
+            "y1": 44,
+            "x2": 148,
+            "y2": 56
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 20,
+            "y": 75,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "2400"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 140,
+            "y": 75,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "2500"
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 103.12,
+            "cy": 50,
+            "r": 4
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 103,
+            "y": 32,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "2467"
+        }
+      ]
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Round 2,467 to the nearest hundred.",
+      "steps": [
+        "The tens digit is 6, so round up."
+      ],
+      "answer": "2500"
+    },
+    {
+      "question": "Round 3,984 to the nearest ten.",
+      "steps": [
+        "The ones digit is 4, so round down."
+      ],
+      "answer": "3980"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Round 4,728 to nearest ten.",
+      "answer": 4730,
+      "solution": "8 rounds up."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Round 6,345 to nearest hundred.",
+      "answer": 6300,
+      "solution": "4 tens rounds down."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Round 7,650 to nearest hundred.",
+      "answer": 7700,
+      "solution": "5 tens rounds up."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Round 9,995 to nearest ten.",
+      "answer": 10000,
+      "solution": "Round up."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Round 8,049 to nearest hundred.",
+      "answer": 8000,
+      "solution": "4 tens rounds down."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Round 1,050 to nearest hundred.",
+      "answer": 1100,
+      "solution": "Halfway rounds up."
+    }
+  ],
+  "summary": "To round to the nearest ten, inspect the ones digit. To round to the nearest hundred, inspect the tens digit. Digits 0–4 round down and 5–9 round up; replace lower places with zeros.",
+  "relatedTopics": [
+    "primary-3-comparison",
+    "primary-3-addition"
+  ]
+}

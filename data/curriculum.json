@@ -404,6 +404,174 @@
       "level": "primary-2",
       "title": "Two-Step Word Problems",
       "path": "data/primary/year-2/word-problems.json"
+    },
+    {
+      "id": "primary-3-numbers",
+      "level": "primary-3",
+      "title": "Whole Numbers to 10,000",
+      "path": "data/primary/year-3/numbers.json"
+    },
+    {
+      "id": "primary-3-place-value",
+      "level": "primary-3",
+      "title": "Place Value and Expanded Form",
+      "path": "data/primary/year-3/place-value.json"
+    },
+    {
+      "id": "primary-3-comparison",
+      "level": "primary-3",
+      "title": "Ordering Numbers to 10,000",
+      "path": "data/primary/year-3/comparison.json"
+    },
+    {
+      "id": "primary-3-rounding",
+      "level": "primary-3",
+      "title": "Rounding to Tens and Hundreds",
+      "path": "data/primary/year-3/rounding.json"
+    },
+    {
+      "id": "primary-3-addition",
+      "level": "primary-3",
+      "title": "Addition within 10,000",
+      "path": "data/primary/year-3/addition.json"
+    },
+    {
+      "id": "primary-3-subtraction",
+      "level": "primary-3",
+      "title": "Subtraction within 10,000",
+      "path": "data/primary/year-3/subtraction.json"
+    },
+    {
+      "id": "primary-3-multiplication",
+      "level": "primary-3",
+      "title": "Multiplying Two- and Three-Digit Numbers",
+      "path": "data/primary/year-3/multiplication.json"
+    },
+    {
+      "id": "primary-3-division",
+      "level": "primary-3",
+      "title": "Long Division by One Digit",
+      "path": "data/primary/year-3/division.json"
+    },
+    {
+      "id": "primary-3-order-of-operations",
+      "level": "primary-3",
+      "title": "Order of Operations",
+      "path": "data/primary/year-3/order-of-operations.json"
+    },
+    {
+      "id": "primary-3-factors-multiples",
+      "level": "primary-3",
+      "title": "Factors and Multiples",
+      "path": "data/primary/year-3/factors-multiples.json"
+    },
+    {
+      "id": "primary-3-fractions",
+      "level": "primary-3",
+      "title": "Proper, Improper and Mixed Fractions",
+      "path": "data/primary/year-3/fractions.json"
+    },
+    {
+      "id": "primary-3-fraction-simplification",
+      "level": "primary-3",
+      "title": "Simplifying and Comparing Fractions",
+      "path": "data/primary/year-3/fraction-simplification.json"
+    },
+    {
+      "id": "primary-3-fraction-operations",
+      "level": "primary-3",
+      "title": "Adding and Subtracting Fractions",
+      "path": "data/primary/year-3/fraction-operations.json"
+    },
+    {
+      "id": "primary-3-decimals",
+      "level": "primary-3",
+      "title": "Tenths and Hundredths",
+      "path": "data/primary/year-3/decimals.json"
+    },
+    {
+      "id": "primary-3-decimal-operations",
+      "level": "primary-3",
+      "title": "Addition and Subtraction of Decimals",
+      "path": "data/primary/year-3/decimal-operations.json"
+    },
+    {
+      "id": "primary-3-money",
+      "level": "primary-3",
+      "title": "Money and Shopping Problems",
+      "path": "data/primary/year-3/money.json"
+    },
+    {
+      "id": "primary-3-time",
+      "level": "primary-3",
+      "title": "Seconds, Minutes and Hours",
+      "path": "data/primary/year-3/time.json"
+    },
+    {
+      "id": "primary-3-calendar",
+      "level": "primary-3",
+      "title": "Dates, Months and Duration",
+      "path": "data/primary/year-3/calendar.json"
+    },
+    {
+      "id": "primary-3-length",
+      "level": "primary-3",
+      "title": "Kilometres, Metres and Centimetres",
+      "path": "data/primary/year-3/length.json"
+    },
+    {
+      "id": "primary-3-mass-capacity",
+      "level": "primary-3",
+      "title": "Mass and Liquid Volume Calculations",
+      "path": "data/primary/year-3/mass-capacity.json"
+    },
+    {
+      "id": "primary-3-angles",
+      "level": "primary-3",
+      "title": "Angles and Turns",
+      "path": "data/primary/year-3/angles.json"
+    },
+    {
+      "id": "primary-3-geometry",
+      "level": "primary-3",
+      "title": "Parallel and Perpendicular Lines",
+      "path": "data/primary/year-3/geometry.json"
+    },
+    {
+      "id": "primary-3-perimeter",
+      "level": "primary-3",
+      "title": "Perimeter of Composite Shapes",
+      "path": "data/primary/year-3/perimeter.json"
+    },
+    {
+      "id": "primary-3-area",
+      "level": "primary-3",
+      "title": "Introduction to Area",
+      "path": "data/primary/year-3/area.json"
+    },
+    {
+      "id": "primary-3-solids",
+      "level": "primary-3",
+      "title": "Faces, Edges and Vertices",
+      "path": "data/primary/year-3/solids.json"
+    },
+    {
+      "id": "primary-3-data-handling",
+      "level": "primary-3",
+      "title": "Reading and Drawing Bar Charts",
+      "path": "data/primary/year-3/data-handling.json"
+    },
+    {
+      "id": "primary-3-patterns",
+      "level": "primary-3",
+      "title": "Number Patterns and Missing Values",
+      "path": "data/primary/year-3/patterns.json"
+    },
+    {
+      "id": "primary-3-word-problems",
+      "level": "primary-3",
+      "title": "Multi-Step Mathematical Problems",
+      "path": "data/primary/year-3/word-problems.json"
     }
   ]
 }

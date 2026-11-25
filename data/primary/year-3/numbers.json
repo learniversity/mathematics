@@ -1,0 +1,223 @@
+{
+  "id": "primary-3-numbers",
+  "title": "Whole Numbers to 10,000",
+  "level": "primary-3",
+  "category": "Arithmetic",
+  "introduction": "Develop Primary 3 skills in whole numbers to 10,000.",
+  "definition": "Four-digit numbers have thousands, hundreds, tens and ones. The digit 1 in 10,000 represents one ten-thousand. Read numbers from their largest place value to their smallest.",
+  "visuals": [
+    {
+      "label": "7,254",
+      "description": "Thousands, hundreds, tens, ones.",
+      "alt": "7,254 — Thousands, hundreds, tens, ones.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 4,
+            "y": 12,
+            "width": 152,
+            "height": 76
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 42,
+            "y1": 12,
+            "x2": 42,
+            "y2": 88
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 80,
+            "y1": 12,
+            "x2": 80,
+            "y2": 88
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 118,
+            "y1": 12,
+            "x2": 118,
+            "y2": 88
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 23,
+            "y": 34,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "Th"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 61,
+            "y": 34,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "H"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 99,
+            "y": 34,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "T"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 137,
+            "y": 34,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "O"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 23,
+            "y": 73,
+            "font-size": 27,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "7"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 61,
+            "y": 73,
+            "font-size": 27,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "2"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 99,
+            "y": 73,
+            "font-size": 27,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "5"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 137,
+            "y": 73,
+            "font-size": 27,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "4"
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "10,000 = 10 × 1,000",
+      "description": "Ten thousands form one ten-thousand."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Read 4,306.",
+      "steps": [
+        "4 thousands = 4,000; 3 hundreds = 300; 0 tens; 6 ones."
+      ],
+      "answer": "four thousand three hundred and six"
+    },
+    {
+      "question": "What follows 9,999?",
+      "steps": [
+        "Add one to reach the next ten-thousand."
+      ],
+      "answer": "10000"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Write seven thousand and fifty in digits.",
+      "answer": 7050,
+      "solution": "7,000 + 50 = 7,050."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Write 8000 + 300 + 2 as a number.",
+      "answer": 8302,
+      "solution": "Combine the place values."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "What comes before 6,000?",
+      "answer": 5999,
+      "solution": "6,000 − 1 = 5,999."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "What comes after 8,999?",
+      "answer": 9000,
+      "solution": "8,999 + 1 = 9,000."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "How many thousands make 10,000?",
+      "answer": 10,
+      "solution": "10 × 1,000 = 10,000."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Write four thousand two hundred and nine in digits.",
+      "answer": 4209,
+      "solution": "4,000 + 200 + 9 = 4,209."
+    }
+  ],
+  "summary": "Four-digit numbers have thousands, hundreds, tens and ones. The digit 1 in 10,000 represents one ten-thousand. Read numbers from their largest place value to their smallest.",
+  "relatedTopics": [
+    "primary-3-place-value"
+  ]
+}

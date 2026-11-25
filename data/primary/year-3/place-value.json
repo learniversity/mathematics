@@ -1,0 +1,224 @@
+{
+  "id": "primary-3-place-value",
+  "title": "Place Value and Expanded Form",
+  "level": "primary-3",
+  "category": "Arithmetic",
+  "introduction": "Develop Primary 3 skills in place value and expanded form.",
+  "definition": "The value of each digit is its digit multiplied by its place. In 7,254 the places are thousands, hundreds, tens and ones. A zero holds a place without adding value.",
+  "visuals": [
+    {
+      "label": "7,254",
+      "description": "Thousands, hundreds, tens, ones.",
+      "alt": "7,254 — Thousands, hundreds, tens, ones.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 4,
+            "y": 12,
+            "width": 152,
+            "height": 76
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 42,
+            "y1": 12,
+            "x2": 42,
+            "y2": 88
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 80,
+            "y1": 12,
+            "x2": 80,
+            "y2": 88
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 118,
+            "y1": 12,
+            "x2": 118,
+            "y2": 88
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 23,
+            "y": 34,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "Th"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 61,
+            "y": 34,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "H"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 99,
+            "y": 34,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "T"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 137,
+            "y": 34,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "O"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 23,
+            "y": 73,
+            "font-size": 27,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "7"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 61,
+            "y": 73,
+            "font-size": 27,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "2"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 99,
+            "y": 73,
+            "font-size": 27,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "5"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 137,
+            "y": 73,
+            "font-size": 27,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "4"
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "7,254 = 7 × 1,000 + 2 × 100 + 5 × 10 + 4",
+      "description": "Expanded form."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Expand 7,254.",
+      "steps": [
+        "7 × 1,000 = 7,000; 2 × 100 = 200; 5 × 10 = 50; 4 × 1 = 4."
+      ],
+      "answer": "7,000 + 200 + 50 + 4"
+    },
+    {
+      "question": "Form 9 thousands, 0 hundreds, 6 tens and 2 ones.",
+      "steps": [
+        "9,000 + 60 + 2."
+      ],
+      "answer": "9062"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Value of 5 in 5,381?",
+      "answer": 5000,
+      "solution": "5 is in the thousands place."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Value of 7 in 4,709?",
+      "answer": 700,
+      "solution": "7 is in the hundreds place."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Tens digit of 8,035?",
+      "answer": 3,
+      "solution": "The tens digit is 3."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "6,000 + 400 + 8",
+      "answer": 6408,
+      "solution": "The tens place is zero."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "How many hundreds are in 3,000?",
+      "answer": 30,
+      "solution": "3,000 ÷ 100 = 30."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "What is the value of the 2 in 9,024?",
+      "answer": 20,
+      "solution": "2 tens = 20."
+    }
+  ],
+  "summary": "The value of each digit is its digit multiplied by its place. In 7,254 the places are thousands, hundreds, tens and ones. A zero holds a place without adding value.",
+  "relatedTopics": [
+    "primary-3-numbers",
+    "primary-3-comparison"
+  ]
+}

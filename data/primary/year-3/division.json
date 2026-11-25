@@ -1,0 +1,178 @@
+{
+  "id": "primary-3-division",
+  "title": "Long Division by One Digit",
+  "level": "primary-3",
+  "category": "Arithmetic",
+  "introduction": "Develop Primary 3 skills in long division by one digit.",
+  "definition": "Long division divides place values from left to right. Divide, multiply, subtract, then bring down the next digit. The final remainder is smaller than the positive divisor.",
+  "visuals": [
+    {
+      "label": "156 ÷ 3 = 52",
+      "description": "Divide tens, then ones.",
+      "alt": "156 ÷ 3 = 52 — Divide tens, then ones.",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 88,
+            "y": 18,
+            "font-size": 17,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "52"
+        },
+        {
+          "tag": "path",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "d": "M52 24 H125 M52 24 V42"
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 37,
+            "y": 41,
+            "font-size": 17,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "3"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 88,
+            "y": 41,
+            "font-size": 17,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "156"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 77,
+            "y": 58,
+            "font-size": 15,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "15"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 59,
+            "y1": 63,
+            "x2": 94,
+            "y2": 63
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 102,
+            "y": 79,
+            "font-size": 15,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "6"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 102,
+            "y": 94,
+            "font-size": 15,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "6"
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "Dividend = divisor × quotient + remainder",
+      "description": "For positive whole-number divisors."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Calculate 156 ÷ 3.",
+      "steps": [
+        "15 ÷ 3 = 5; subtract 15.",
+        "Bring down 6; 6 ÷ 3 = 2."
+      ],
+      "answer": "52"
+    },
+    {
+      "question": "Calculate 845 ÷ 4.",
+      "steps": [
+        "8 ÷ 4 = 2; bring down 4.",
+        "4 ÷ 4 = 1; bring down 5.",
+        "5 ÷ 4 = 1 remainder 1."
+      ],
+      "answer": "211 remainder 1"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "96 ÷ 4",
+      "answer": 24,
+      "solution": "4 × 24 = 96."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "135 ÷ 5",
+      "answer": 27,
+      "solution": "5 × 27 = 135."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "648 ÷ 8",
+      "answer": 81,
+      "solution": "8 × 81 = 648."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "924 ÷ 7",
+      "answer": 132,
+      "solution": "7 × 132 = 924."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Quotient (whole-number part) of 763 ÷ 5?",
+      "answer": 152,
+      "solution": "5 × 152 = 760."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Remainder of 763 ÷ 5?",
+      "answer": 3,
+      "solution": "763 − 760 = 3."
+    }
+  ],
+  "summary": "Long division divides place values from left to right. Divide, multiply, subtract, then bring down the next digit. The final remainder is smaller than the positive divisor.",
+  "relatedTopics": [
+    "primary-3-multiplication",
+    "primary-3-order-of-operations"
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "id": "primary-3-angles",
+  "title": "Angles and Turns",
+  "level": "primary-3",
+  "category": "Geometry",
+  "introduction": "Develop Primary 3 skills in angles and turns.",
+  "definition": "An angle describes the amount of turn between two rays meeting at a vertex. A right angle is 90°, an acute angle is greater than 0° and less than 90°, an obtuse angle is greater than 90° and less than 180°, and a straight angle is 180°.",
+  "visuals": [
+    {
+      "label": "Acute",
+      "description": "45 degrees.",
+      "alt": "Acute — 45 degrees.",
+      "elements": [
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 35,
+            "y1": 76,
+            "x2": 130,
+            "y2": 76
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 35,
+            "y1": 76,
+            "x2": 78.84062043356596,
+            "y2": 32.159379566434055
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 70,
+            "y": 60,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "45°"
+        }
+      ]
+    },
+    {
+      "label": "Right",
+      "description": "90 degrees.",
+      "alt": "Right — 90 degrees.",
+      "elements": [
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 35,
+            "y1": 76,
+            "x2": 130,
+            "y2": 76
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 35,
+            "y1": 76,
+            "x2": 35.00000000000001,
+            "y2": 14
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 70,
+            "y": 60,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "90°"
+        }
+      ]
+    },
+    {
+      "label": "Obtuse",
+      "description": "120 degrees.",
+      "alt": "Obtuse — 120 degrees.",
+      "elements": [
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 80,
+            "y1": 75,
+            "x2": 145,
+            "y2": 75
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 80,
+            "y1": 75,
+            "x2": 47.5,
+            "y2": 18.7
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 95,
+            "y": 53,
+            "font-size": 13,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "120°"
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "1 full turn = 360°",
+      "description": "Angle measurement."
+    },
+    {
+      "expression": "1 quarter turn = 90°",
+      "description": "Right angle."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Classify a 45° angle.",
+      "steps": [
+        "45° is less than 90°."
+      ],
+      "answer": "acute"
+    },
+    {
+      "question": "How many degrees are in a half turn?",
+      "steps": [
+        "A full turn is 360°; divide by 2."
+      ],
+      "answer": "180"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Degrees in a right angle?",
+      "answer": 90,
+      "solution": "A quarter turn."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Degrees in a full turn?",
+      "answer": 360,
+      "solution": "Four right angles."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Classify 60°: acute, right or obtuse.",
+      "answer": "acute",
+      "solution": "0° < 60° < 90°."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Classify 120°: acute, right or obtuse.",
+      "answer": "obtuse",
+      "solution": "90° < 120° < 180°."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Degrees in three quarter turns?",
+      "answer": 270,
+      "solution": "3 × 90°."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Degrees in a straight angle?",
+      "answer": 180,
+      "solution": "Half a full turn."
+    }
+  ],
+  "summary": "An angle describes the amount of turn between two rays meeting at a vertex. A right angle is 90°, an acute angle is greater than 0° and less than 90°, an obtuse angle is greater than 90° and less than 180°, and a straight angle is 180°.",
+  "relatedTopics": [
+    "primary-3-mass-capacity",
+    "primary-3-geometry"
+  ]
+}

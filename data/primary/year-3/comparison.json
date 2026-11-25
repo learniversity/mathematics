@@ -1,0 +1,76 @@
+{
+  "id": "primary-3-comparison",
+  "title": "Ordering Numbers to 10,000",
+  "level": "primary-3",
+  "category": "Arithmetic",
+  "introduction": "Develop Primary 3 skills in ordering numbers to 10,000.",
+  "definition": "Compare digits starting from the highest place value. At the first different digit, the larger digit identifies the larger number. Ascending means smallest to largest; descending means largest to smallest.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Compare 6,421 and 6,412.",
+      "steps": [
+        "Thousands and hundreds match.",
+        "The tens digits are 2 and 1."
+      ],
+      "answer": "6,421 > 6,412"
+    },
+    {
+      "question": "Order 4,120, 4,012, 4,201.",
+      "steps": [
+        "Compare hundreds and then tens."
+      ],
+      "answer": "4,012, 4,120, 4,201"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Larger: 7,308 or 7,380?",
+      "answer": 7380,
+      "solution": "8 tens is greater than 0 tens."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Smaller: 5,099 or 5,900?",
+      "answer": 5099,
+      "solution": "0 hundreds is less than 9 hundreds."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Insert >, < or = : 9,002 __ 8,999",
+      "answer": ">",
+      "solution": "9 thousands exceeds 8 thousands."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Insert >, < or = : 4,800 __ 4,800",
+      "answer": "=",
+      "solution": "All digits match."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Largest of 3,810, 3,801, 3,180?",
+      "answer": 3810,
+      "solution": "Compare hundreds, then tens."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Smallest of 7,502, 7,205, 7,520?",
+      "answer": 7205,
+      "solution": "7,205 has the fewest hundreds."
+    }
+  ],
+  "summary": "Compare digits starting from the highest place value. At the first different digit, the larger digit identifies the larger number. Ascending means smallest to largest; descending means largest to smallest.",
+  "relatedTopics": [
+    "primary-3-place-value",
+    "primary-3-rounding"
+  ]
+}

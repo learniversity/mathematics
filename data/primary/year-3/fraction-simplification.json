@@ -1,0 +1,287 @@
+{
+  "id": "primary-3-fraction-simplification",
+  "title": "Simplifying and Comparing Fractions",
+  "level": "primary-3",
+  "category": "Arithmetic",
+  "introduction": "Develop Primary 3 skills in simplifying and comparing fractions.",
+  "definition": "Equivalent fractions represent the same value. Divide the numerator and denominator by a common positive factor to simplify. To compare unlike fractions, express them using a common denominator.",
+  "visuals": [
+    {
+      "label": "2/3",
+      "description": "2 of 3 equal parts shaded.",
+      "alt": "2/3 — 2 of 3 equal parts shaded.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 10,
+            "y": 26,
+            "width": 46.666666666666664,
+            "height": 48
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 56.666666666666664,
+            "y": 26,
+            "width": 46.666666666666664,
+            "height": 48
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 103.33333333333333,
+            "y": 26,
+            "width": 46.666666666666664,
+            "height": 48
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "#888",
+            "stroke-width": 1,
+            "x1": 56.666666666666664,
+            "y1": 26,
+            "x2": 56.666666666666664,
+            "y2": 74
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 1,
+            "x1": 103.33333333333333,
+            "y1": 26,
+            "x2": 103.33333333333333,
+            "y2": 74
+          }
+        }
+      ]
+    },
+    {
+      "label": "4/6",
+      "description": "4 of 6 equal parts shaded.",
+      "alt": "4/6 — 4 of 6 equal parts shaded.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 10,
+            "y": 26,
+            "width": 23.333333333333332,
+            "height": 48
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 33.33333333333333,
+            "y": 26,
+            "width": 23.333333333333332,
+            "height": 48
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 56.666666666666664,
+            "y": 26,
+            "width": 23.333333333333332,
+            "height": 48
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 80,
+            "y": 26,
+            "width": 23.333333333333332,
+            "height": 48
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 103.33333333333333,
+            "y": 26,
+            "width": 23.333333333333332,
+            "height": 48
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 126.66666666666667,
+            "y": 26,
+            "width": 23.333333333333332,
+            "height": 48
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "#888",
+            "stroke-width": 1,
+            "x1": 33.33333333333333,
+            "y1": 26,
+            "x2": 33.33333333333333,
+            "y2": 74
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "#888",
+            "stroke-width": 1,
+            "x1": 56.666666666666664,
+            "y1": 26,
+            "x2": 56.666666666666664,
+            "y2": 74
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "#888",
+            "stroke-width": 1,
+            "x1": 80,
+            "y1": 26,
+            "x2": 80,
+            "y2": 74
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 1,
+            "x1": 103.33333333333333,
+            "y1": 26,
+            "x2": 103.33333333333333,
+            "y2": 74
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 1,
+            "x1": 126.66666666666667,
+            "y1": 26,
+            "x2": 126.66666666666667,
+            "y2": 74
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "a/b = (a ÷ k)/(b ÷ k)",
+      "description": "For a common nonzero factor k and nonzero denominator b."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Simplify 8/12.",
+      "steps": [
+        "Both numbers are divisible by 4."
+      ],
+      "answer": "2/3"
+    },
+    {
+      "question": "Compare 2/3 and 3/4.",
+      "steps": [
+        "2/3 = 8/12; 3/4 = 9/12."
+      ],
+      "answer": "2/3 < 3/4"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Simplify 4/8 to lowest terms.",
+      "answer": "1/2",
+      "solution": "Divide both by 4."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Simplify 9/12 to lowest terms.",
+      "answer": "3/4",
+      "solution": "Divide both by 3."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Complete 3/5 = ?/15",
+      "answer": 9,
+      "solution": "Multiply numerator and denominator by 3."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Insert >, < or = : 3/4 __ 2/3",
+      "answer": ">",
+      "solution": "9/12 > 8/12."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Insert >, < or = : 4/6 __ 2/3",
+      "answer": "=",
+      "solution": "Divide 4 and 6 by 2."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Simplify 10/15 to lowest terms.",
+      "answer": "2/3",
+      "solution": "Divide both by 5."
+    }
+  ],
+  "summary": "Equivalent fractions represent the same value. Divide the numerator and denominator by a common positive factor to simplify. To compare unlike fractions, express them using a common denominator.",
+  "relatedTopics": [
+    "primary-3-fractions",
+    "primary-3-fraction-operations"
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "id": "primary-3-area",
+  "title": "Introduction to Area",
+  "level": "primary-3",
+  "category": "Geometry",
+  "introduction": "Develop Primary 3 skills in introduction to area.",
+  "definition": "Area measures the size of a flat region. Count equal unit squares to measure area. For rectangles, multiply length by width in the same unit; the result is in square units.",
+  "visuals": [
+    {
+      "label": "6 × 4 grid",
+      "description": "24 unit squares.",
+      "alt": "6 × 4 grid — 24 unit squares.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 20,
+            "y": 10,
+            "width": 20,
+            "height": 20
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 40,
+            "y": 10,
+            "width": 20,
+            "height": 20
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 60,
+            "y": 10,
+            "width": 20,
+            "height": 20
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 80,
+            "y": 10,
+            "width": 20,
+            "height": 20
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 100,
+            "y": 10,
+            "width": 20,
+            "height": 20
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 120,
+            "y": 10,
+            "width": 20,
+            "height": 20
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 20,
+            "y": 30,
+            "width": 20,
+            "height": 20
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 40,
+            "y": 30,
+            "width": 20,
+            "height": 20
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 60,
+            "y": 30,
+            "width": 20,
+            "height": 20
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 80,
+            "y": 30,
+            "width": 20,
+            "height": 20
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 100,
+            "y": 30,
+            "width": 20,
+            "height": 20
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 120,
+            "y": 30,
+            "width": 20,
+            "height": 20
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 20,
+            "y": 50,
+            "width": 20,
+            "height": 20
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 40,
+            "y": 50,
+            "width": 20,
+            "height": 20
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 60,
+            "y": 50,
+            "width": 20,
+            "height": 20
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 80,
+            "y": 50,
+            "width": 20,
+            "height": 20
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 100,
+            "y": 50,
+            "width": 20,
+            "height": 20
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 120,
+            "y": 50,
+            "width": 20,
+            "height": 20
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 20,
+            "y": 70,
+            "width": 20,
+            "height": 20
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 40,
+            "y": 70,
+            "width": 20,
+            "height": 20
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 60,
+            "y": 70,
+            "width": 20,
+            "height": 20
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 80,
+            "y": 70,
+            "width": 20,
+            "height": 20
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 100,
+            "y": 70,
+            "width": 20,
+            "height": 20
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 120,
+            "y": 70,
+            "width": 20,
+            "height": 20
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "A = l × w",
+      "description": "Rectangle."
+    },
+    {
+      "expression": "A = s × s = s²",
+      "description": "Square."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Find the area of a 6 cm by 4 cm rectangle.",
+      "steps": [
+        "There are 4 rows of 6 square centimetres.",
+        "6 × 4 = 24."
+      ],
+      "answer": "24 cm²"
+    },
+    {
+      "question": "Find the area of a square of side 5 cm.",
+      "steps": [
+        "5 × 5 = 25."
+      ],
+      "answer": "25 cm²"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Rectangle 8 cm by 3 cm: area in cm²?",
+      "answer": 24,
+      "solution": "8 × 3."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Square side 7 cm: area in cm²?",
+      "answer": 49,
+      "solution": "7 × 7."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Rectangle area 36 cm², width 4 cm. Length?",
+      "answer": 9,
+      "solution": "36 ÷ 4."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "5 rows of 6 unit squares. Area?",
+      "answer": 30,
+      "solution": "5 × 6."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Two non-overlapping rectangles have areas 12 and 20 cm². Total?",
+      "answer": 32,
+      "solution": "12 + 20."
+    }
+  ],
+  "summary": "Area measures the size of a flat region. Count equal unit squares to measure area. For rectangles, multiply length by width in the same unit; the result is in square units.",
+  "relatedTopics": [
+    "primary-3-perimeter",
+    "primary-3-solids"
+  ]
+}
