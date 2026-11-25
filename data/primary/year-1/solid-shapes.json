@@ -1,0 +1,231 @@
+{
+  "id": "primary-1-solid-shapes",
+  "title": "Three-Dimensional Shapes",
+  "level": "primary-1",
+  "category": "Geometry",
+  "introduction": "Learn three-dimensional shapes through explanations and practice.",
+  "definition": "Solid shapes occupy space. A face is a flat surface, an edge is where two faces meet on a polyhedron, and a vertex is a corner. Some solids have curved surfaces.",
+  "visuals": [
+    {
+      "label": "Cube",
+      "description": "6 square faces.",
+      "alt": "Cube — 6 square faces.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x": 30,
+            "y": 35,
+            "width": 65,
+            "height": 55
+          }
+        },
+        {
+          "tag": "polyline",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "points": "30,35 55,12 120,12 120,67 95,90"
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 95,
+            "y1": 35,
+            "x2": 120,
+            "y2": 12
+          }
+        }
+      ]
+    },
+    {
+      "label": "Cuboid",
+      "description": "Rectangular faces.",
+      "alt": "Cuboid — Rectangular faces.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x": 15,
+            "y": 36,
+            "width": 100,
+            "height": 48
+          }
+        },
+        {
+          "tag": "polyline",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "points": "15,36 40,15 140,15 140,63 115,84"
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 115,
+            "y1": 36,
+            "x2": 140,
+            "y2": 15
+          }
+        }
+      ]
+    },
+    {
+      "label": "Sphere",
+      "description": "A curved surface.",
+      "alt": "Sphere — A curved surface.",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "cx": 80,
+            "cy": 50,
+            "r": 40
+          }
+        },
+        {
+          "tag": "ellipse",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "cx": 80,
+            "cy": 50,
+            "rx": 40,
+            "ry": 14
+          }
+        }
+      ]
+    },
+    {
+      "label": "Cylinder",
+      "description": "Two circular flat faces and a curved surface.",
+      "alt": "Cylinder — Two circular flat faces and a curved surface.",
+      "elements": [
+        {
+          "tag": "ellipse",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "cx": 80,
+            "cy": 20,
+            "rx": 36,
+            "ry": 12
+          }
+        },
+        {
+          "tag": "ellipse",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "cx": 80,
+            "cy": 80,
+            "rx": 36,
+            "ry": 12
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 44,
+            "y1": 20,
+            "x2": 44,
+            "y2": 80
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 116,
+            "y1": 20,
+            "x2": 116,
+            "y2": 80
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Count the faces of a cube.",
+      "steps": [
+        "There are two opposite faces in each of three directions."
+      ],
+      "answer": "6"
+    },
+    {
+      "question": "What solid resembles a rectangular box?",
+      "steps": [
+        "Its faces are rectangles."
+      ],
+      "answer": "cuboid"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "How many faces does a cube have?",
+      "answer": 6,
+      "solution": "Answer: 6"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "How many vertices does a cube have?",
+      "answer": 8,
+      "solution": "Answer: 8"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "How many edges does a cube have?",
+      "answer": 12,
+      "solution": "Answer: 12"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Name the solid shaped like a ball.",
+      "answer": "sphere",
+      "solution": "Answer: sphere"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Name the solid shaped like a can.",
+      "answer": "cylinder",
+      "solution": "Answer: cylinder"
+    }
+  ],
+  "summary": "Solid shapes occupy space. A face is a flat surface, an edge is where two faces meet on a polyhedron, and a vertex is a corner. Some solids have curved surfaces.",
+  "relatedTopics": []
+}
