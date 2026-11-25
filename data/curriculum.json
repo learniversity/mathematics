@@ -712,12 +712,6 @@
       "path": "data/primary/year-4/coordinates.json"
     },
     {
-      "id": "primary-4-statistics",
-      "level": "primary-4",
-      "title": "Mean, Mode and Range",
-      "path": "data/primary/year-4/statistics.json"
-    },
-    {
       "id": "primary-4-data-handling",
       "level": "primary-4",
       "title": "Tables, Bar Charts and Line Graphs",
@@ -820,40 +814,16 @@
       "path": "data/primary/year-5/speed.json"
     },
     {
-      "id": "primary-5-metric-conversions",
-      "level": "primary-5",
-      "title": "Metric Conversions and Compound Measures",
-      "path": "data/primary/year-5/metric-conversions.json"
-    },
-    {
       "id": "primary-5-angles",
       "level": "primary-5",
       "title": "Angles at Intersections and in Polygons",
       "path": "data/primary/year-5/angles.json"
     },
     {
-      "id": "primary-5-surface-area",
-      "level": "primary-5",
-      "title": "Surface Area and Nets",
-      "path": "data/primary/year-5/surface-area.json"
-    },
-    {
       "id": "primary-5-volume",
       "level": "primary-5",
       "title": "Volume and Capacity of Composite Solids",
       "path": "data/primary/year-5/volume.json"
-    },
-    {
-      "id": "primary-5-sequences",
-      "level": "primary-5",
-      "title": "Number Sequences and General Rules",
-      "path": "data/primary/year-5/sequences.json"
-    },
-    {
-      "id": "primary-5-statistics",
-      "level": "primary-5",
-      "title": "Mean, Median, Mode and Range",
-      "path": "data/primary/year-5/statistics.json"
     },
     {
       "id": "primary-5-graphs",
@@ -928,64 +898,10 @@
       "path": "data/primary/year-6/time-zones.json"
     },
     {
-      "id": "primary-6-measurement",
-      "level": "primary-6",
-      "title": "Precision, Units and Measurement Problems",
-      "path": "data/primary/year-6/measurement.json"
-    },
-    {
-      "id": "primary-6-algebra",
-      "level": "primary-6",
-      "title": "Simplifying and Expanding Algebraic Expressions",
-      "path": "data/primary/year-6/algebra.json"
-    },
-    {
-      "id": "primary-6-factorisation",
-      "level": "primary-6",
-      "title": "Common-Factor Factorisation",
-      "path": "data/primary/year-6/factorisation.json"
-    },
-    {
-      "id": "primary-6-formula-substitution",
-      "level": "primary-6",
-      "title": "Using Formulas and Changing the Subject",
-      "path": "data/primary/year-6/formula-substitution.json"
-    },
-    {
-      "id": "primary-6-sequences",
-      "level": "primary-6",
-      "title": "Arithmetic and Geometric Sequences",
-      "path": "data/primary/year-6/sequences.json"
-    },
-    {
-      "id": "primary-6-linear-graphs",
-      "level": "primary-6",
-      "title": "Tables and Straight-Line Graphs",
-      "path": "data/primary/year-6/linear-graphs.json"
-    },
-    {
-      "id": "primary-6-prisms-cylinders",
-      "level": "primary-6",
-      "title": "Volume of Prisms and Cylinders",
-      "path": "data/primary/year-6/prisms-cylinders.json"
-    },
-    {
-      "id": "primary-6-surface-area",
-      "level": "primary-6",
-      "title": "Surface Area of Prisms and Cylinders",
-      "path": "data/primary/year-6/surface-area.json"
-    },
-    {
       "id": "primary-6-scale",
       "level": "primary-6",
       "title": "Scale Drawings and Maps",
       "path": "data/primary/year-6/scale.json"
-    },
-    {
-      "id": "primary-6-statistics",
-      "level": "primary-6",
-      "title": "Frequency Tables and Statistical Measures",
-      "path": "data/primary/year-6/statistics.json"
     },
     {
       "id": "primary-6-graphs",
@@ -998,6 +914,24 @@
       "level": "primary-6",
       "title": "Integrated Primary Mathematics Problems",
       "path": "data/primary/year-6/word-problems.json"
+    },
+    {
+      "id": "secondary-1-mean-mode-range",
+      "level": "secondary-1",
+      "title": "Mean, Mode and Range",
+      "path": "data/secondary/year-1/mean-mode-range.json"
+    },
+    {
+      "id": "secondary-1-statistical-measures",
+      "level": "secondary-1",
+      "title": "Mean, Median, Mode and Range",
+      "path": "data/secondary/year-1/statistical-measures.json"
+    },
+    {
+      "id": "secondary-1-frequency-table-measures",
+      "level": "secondary-1",
+      "title": "Frequency Tables and Statistical Measures",
+      "path": "data/secondary/year-1/frequency-table-measures.json"
     },
     {
       "id": "secondary-1-area-parallelograms-trapeziums",
@@ -1102,6 +1036,60 @@
       "path": "data/secondary/year-1/inequalities.json"
     },
     {
+      "id": "secondary-2-area-volume-unit-conversions",
+      "level": "secondary-2",
+      "title": "Metric Conversions and Compound Measures",
+      "path": "data/secondary/year-2/area-volume-unit-conversions.json"
+    },
+    {
+      "id": "secondary-2-surface-area-nets",
+      "level": "secondary-2",
+      "title": "Surface Area and Nets",
+      "path": "data/secondary/year-2/surface-area-nets.json"
+    },
+    {
+      "id": "secondary-2-number-sequences",
+      "level": "secondary-2",
+      "title": "Number Sequences and General Rules",
+      "path": "data/secondary/year-2/number-sequences.json"
+    },
+    {
+      "id": "secondary-2-algebraic-expansion",
+      "level": "secondary-2",
+      "title": "Simplifying and Expanding Algebraic Expressions",
+      "path": "data/secondary/year-2/algebraic-expansion.json"
+    },
+    {
+      "id": "secondary-2-factorisation",
+      "level": "secondary-2",
+      "title": "Common-Factor Factorisation",
+      "path": "data/secondary/year-2/factorisation.json"
+    },
+    {
+      "id": "secondary-2-algebraic-formulae",
+      "level": "secondary-2",
+      "title": "Using Formulas and Changing the Subject",
+      "path": "data/secondary/year-2/algebraic-formulae.json"
+    },
+    {
+      "id": "secondary-2-arithmetic-geometric-sequences",
+      "level": "secondary-2",
+      "title": "Arithmetic and Geometric Sequences",
+      "path": "data/secondary/year-2/arithmetic-geometric-sequences.json"
+    },
+    {
+      "id": "secondary-2-volume-prisms-cylinders",
+      "level": "secondary-2",
+      "title": "Volume of Prisms and Cylinders",
+      "path": "data/secondary/year-2/volume-prisms-cylinders.json"
+    },
+    {
+      "id": "secondary-2-surface-area-prisms-cylinders",
+      "level": "secondary-2",
+      "title": "Surface Area of Prisms and Cylinders",
+      "path": "data/secondary/year-2/surface-area-prisms-cylinders.json"
+    },
+    {
       "id": "secondary-2-probability-introduction",
       "level": "secondary-2",
       "title": "Introduction to Probability",
@@ -1148,6 +1136,18 @@
       "level": "secondary-2",
       "title": "Composite Areas and Perimeters with Curves",
       "path": "data/secondary/year-2/composite-curved-area.json"
+    },
+    {
+      "id": "secondary-3-straight-line-graphs",
+      "level": "secondary-3",
+      "title": "Tables and Straight-Line Graphs",
+      "path": "data/secondary/year-3/straight-line-graphs.json"
+    },
+    {
+      "id": "secondary-4-measurement-precision",
+      "level": "secondary-4",
+      "title": "Precision, Units and Measurement Problems",
+      "path": "data/secondary/year-4/measurement-precision.json"
     },
     {
       "id": "secondary-4-combined-probability",

@@ -1,9 +1,9 @@
 {
-  "id": "primary-6-sequences",
+  "id": "secondary-2-arithmetic-geometric-sequences",
   "title": "Arithmetic and Geometric Sequences",
-  "level": "primary-6",
+  "level": "secondary-2",
   "category": "Algebra",
-  "introduction": "Consolidate primary mathematics and prepare for secondary study through arithmetic and geometric sequences.",
+  "introduction": "Develop mathematical understanding through arithmetic and geometric sequences.",
   "definition": "An arithmetic sequence adds a constant difference to obtain each next term. A geometric sequence multiplies by a constant ratio. The nth-term rule uses the first term and n−1 steps.",
   "visuals": [],
   "formulas": [
@@ -78,7 +78,7 @@
   ],
   "summary": "An arithmetic sequence adds a constant difference to obtain each next term. A geometric sequence multiplies by a constant ratio. The nth-term rule uses the first term and n−1 steps.",
   "relatedTopics": [
-    "primary-6-formula-substitution",
-    "primary-6-linear-graphs"
+    "secondary-2-algebraic-formulae",
+    "secondary-3-straight-line-graphs"
   ]
 }

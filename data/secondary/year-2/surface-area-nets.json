@@ -1,9 +1,9 @@
 {
-  "id": "primary-5-surface-area",
+  "id": "secondary-2-surface-area-nets",
   "title": "Surface Area and Nets",
-  "level": "primary-5",
+  "level": "secondary-2",
   "category": "Geometry",
-  "introduction": "Build on earlier mathematics by studying surface area and nets.",
+  "introduction": "Develop mathematical understanding through surface area and nets.",
   "definition": "A net is a flat arrangement of faces that folds into a solid. Surface area is the sum of the areas of all exterior faces. A cuboid has three pairs of matching rectangular faces; a cube has six equal square faces.",
   "visuals": [
     {

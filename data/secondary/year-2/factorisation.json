@@ -1,9 +1,9 @@
 {
-  "id": "primary-6-factorisation",
+  "id": "secondary-2-factorisation",
   "title": "Common-Factor Factorisation",
-  "level": "primary-6",
+  "level": "secondary-2",
   "category": "Algebra",
-  "introduction": "Consolidate primary mathematics and prepare for secondary study through common-factor factorisation.",
+  "introduction": "Develop mathematical understanding through common-factor factorisation.",
   "definition": "Factorisation reverses expansion. Find a common numerical or variable factor in all terms, divide every term by it and write the remaining expression in brackets. Expand to verify the result.",
   "visuals": [],
   "formulas": [
@@ -74,7 +74,7 @@
   ],
   "summary": "Factorisation reverses expansion. Find a common numerical or variable factor in all terms, divide every term by it and write the remaining expression in brackets. Expand to verify the result.",
   "relatedTopics": [
-    "primary-6-algebra",
+    "secondary-2-algebraic-expansion",
     "primary-6-equations"
   ]
 }

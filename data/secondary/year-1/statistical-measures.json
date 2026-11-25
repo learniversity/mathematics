@@ -1,9 +1,9 @@
 {
-  "id": "primary-5-statistics",
+  "id": "secondary-1-statistical-measures",
   "title": "Mean, Median, Mode and Range",
-  "level": "primary-5",
+  "level": "secondary-1",
   "category": "Statistics",
-  "introduction": "Build on earlier mathematics by studying mean, median, mode and range.",
+  "introduction": "Develop mathematical understanding through mean, median, mode and range.",
   "definition": "The mean is the sum divided by count. The median is the middle value after sorting, or the mean of the two middle values if the count is even. The mode is the most frequent value or values. Range measures the difference between largest and smallest.",
   "visuals": [
     {
@@ -201,7 +201,7 @@
   ],
   "summary": "The mean is the sum divided by count. The median is the middle value after sorting, or the mean of the two middle values if the count is even. The mode is the most frequent value or values. Range measures the difference between largest and smallest.",
   "relatedTopics": [
-    "primary-5-sequences",
+    "secondary-2-number-sequences",
     "primary-5-graphs"
   ]
 }

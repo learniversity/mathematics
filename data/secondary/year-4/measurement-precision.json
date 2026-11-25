@@ -1,9 +1,9 @@
 {
-  "id": "primary-6-measurement",
+  "id": "secondary-4-measurement-precision",
   "title": "Precision, Units and Measurement Problems",
-  "level": "primary-6",
+  "level": "secondary-4",
   "category": "Measurement",
-  "introduction": "Consolidate primary mathematics and prepare for secondary study through precision, units and measurement problems.",
+  "introduction": "Develop mathematical understanding through precision, units and measurement problems.",
   "definition": "Measured quantities have limited precision. A value rounded to the nearest unit is within half a unit of the recorded value, with the upper midpoint excluded under ordinary rounding up. Convert units consistently and distinguish length, area and volume.",
   "visuals": [],
   "formulas": [
@@ -79,6 +79,6 @@
   "summary": "Measured quantities have limited precision. A value rounded to the nearest unit is within half a unit of the recorded value, with the upper midpoint excluded under ordinary rounding up. Convert units consistently and distinguish length, area and volume.",
   "relatedTopics": [
     "primary-6-time-zones",
-    "primary-6-algebra"
+    "secondary-2-algebraic-expansion"
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "id": "primary-5-metric-conversions",
+  "id": "secondary-2-area-volume-unit-conversions",
   "title": "Metric Conversions and Compound Measures",
-  "level": "primary-5",
+  "level": "secondary-2",
   "category": "Measurement",
-  "introduction": "Build on earlier mathematics by studying metric conversions and compound measures.",
+  "introduction": "Develop mathematical understanding through metric conversions and compound measures.",
   "definition": "Metric prefixes describe powers of ten. Length conversions multiply or divide by the relevant factor; area conversions use the square of that factor, and volume conversions use its cube. Convert like quantities to the same unit before calculation.",
   "visuals": [],
   "formulas": [

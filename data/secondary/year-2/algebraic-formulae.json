@@ -1,9 +1,9 @@
 {
-  "id": "primary-6-formula-substitution",
+  "id": "secondary-2-algebraic-formulae",
   "title": "Using Formulas and Changing the Subject",
-  "level": "primary-6",
+  "level": "secondary-2",
   "category": "Algebra",
-  "introduction": "Consolidate primary mathematics and prepare for secondary study through using formulas and changing the subject.",
+  "introduction": "Develop mathematical understanding through using formulas and changing the subject.",
   "definition": "A formula expresses a relationship between quantities. Substitute known values using matching units. To change the subject, isolate the required variable by applying inverse operations to both sides. Division requires a nonzero divisor.",
   "visuals": [],
   "formulas": [
@@ -79,6 +79,6 @@
   "summary": "A formula expresses a relationship between quantities. Substitute known values using matching units. To change the subject, isolate the required variable by applying inverse operations to both sides. Division requires a nonzero divisor.",
   "relatedTopics": [
     "primary-6-inequalities",
-    "primary-6-sequences"
+    "secondary-2-arithmetic-geometric-sequences"
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "id": "primary-5-sequences",
+  "id": "secondary-2-number-sequences",
   "title": "Number Sequences and General Rules",
-  "level": "primary-5",
+  "level": "secondary-2",
   "category": "Algebra",
-  "introduction": "Build on earlier mathematics by studying number sequences and general rules.",
+  "introduction": "Develop mathematical understanding through number sequences and general rules.",
   "definition": "A sequence is an ordered list of terms. An arithmetic sequence has a constant difference between consecutive terms. Its nth term can be calculated from its first term and common difference.",
   "visuals": [],
   "formulas": [
@@ -75,6 +75,6 @@
   "summary": "A sequence is an ordered list of terms. An arithmetic sequence has a constant difference between consecutive terms. Its nth term can be calculated from its first term and common difference.",
   "relatedTopics": [
     "primary-5-equations",
-    "primary-5-statistics"
+    "secondary-1-statistical-measures"
   ]
 }

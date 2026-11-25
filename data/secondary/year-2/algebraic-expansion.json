@@ -1,9 +1,9 @@
 {
-  "id": "primary-6-algebra",
+  "id": "secondary-2-algebraic-expansion",
   "title": "Simplifying and Expanding Algebraic Expressions",
-  "level": "primary-6",
+  "level": "secondary-2",
   "category": "Algebra",
-  "introduction": "Consolidate primary mathematics and prepare for secondary study through simplifying and expanding algebraic expressions.",
+  "introduction": "Develop mathematical understanding through simplifying and expanding algebraic expressions.",
   "definition": "Combine like terms by adding their coefficients. Expand brackets using the distributive property; multiply every term inside the bracket by the factor outside. Unlike terms cannot be added into a single like term.",
   "visuals": [
     {
@@ -259,7 +259,7 @@
   ],
   "summary": "Combine like terms by adding their coefficients. Expand brackets using the distributive property; multiply every term inside the bracket by the factor outside. Unlike terms cannot be added into a single like term.",
   "relatedTopics": [
-    "primary-6-measurement",
-    "primary-6-factorisation"
+    "secondary-4-measurement-precision",
+    "secondary-2-factorisation"
   ]
 }

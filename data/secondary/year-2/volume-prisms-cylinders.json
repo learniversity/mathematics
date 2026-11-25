@@ -1,9 +1,9 @@
 {
-  "id": "primary-6-prisms-cylinders",
+  "id": "secondary-2-volume-prisms-cylinders",
   "title": "Volume of Prisms and Cylinders",
-  "level": "primary-6",
+  "level": "secondary-2",
   "category": "Geometry",
-  "introduction": "Consolidate primary mathematics and prepare for secondary study through volume of prisms and cylinders.",
+  "introduction": "Develop mathematical understanding through volume of prisms and cylinders.",
   "definition": "A prism has a constant polygonal cross section along its length. A cylinder has a constant circular cross section. For either, volume equals cross-sectional area multiplied by the perpendicular distance between the two parallel ends.",
   "visuals": [
     {
@@ -169,6 +169,6 @@
   "summary": "A prism has a constant polygonal cross section along its length. A cylinder has a constant circular cross section. For either, volume equals cross-sectional area multiplied by the perpendicular distance between the two parallel ends.",
   "relatedTopics": [
     "primary-6-composite-area",
-    "primary-6-surface-area"
+    "secondary-2-surface-area-prisms-cylinders"
   ]
 }

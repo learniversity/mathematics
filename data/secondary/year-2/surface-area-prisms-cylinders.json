@@ -1,9 +1,9 @@
 {
-  "id": "primary-6-surface-area",
+  "id": "secondary-2-surface-area-prisms-cylinders",
   "title": "Surface Area of Prisms and Cylinders",
-  "level": "primary-6",
+  "level": "secondary-2",
   "category": "Geometry",
-  "introduction": "Consolidate primary mathematics and prepare for secondary study through surface area of prisms and cylinders.",
+  "introduction": "Develop mathematical understanding through surface area of prisms and cylinders.",
   "definition": "Surface area is the total area of the outside surfaces. A right prism has two matching bases and lateral area equal to the perimeter of the base multiplied by its length. A closed right cylinder has two circles and a curved surface that unfolds into a rectangle.",
   "visuals": [
     {
@@ -131,7 +131,7 @@
   ],
   "summary": "Surface area is the total area of the outside surfaces. A right prism has two matching bases and lateral area equal to the perimeter of the base multiplied by its length. A closed right cylinder has two circles and a curved surface that unfolds into a rectangle.",
   "relatedTopics": [
-    "primary-6-prisms-cylinders",
+    "secondary-2-volume-prisms-cylinders",
     "primary-6-pythagoras"
   ]
 }

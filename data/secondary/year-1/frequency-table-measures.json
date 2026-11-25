@@ -1,9 +1,9 @@
 {
-  "id": "primary-6-statistics",
+  "id": "secondary-1-frequency-table-measures",
   "title": "Frequency Tables and Statistical Measures",
-  "level": "primary-6",
+  "level": "secondary-1",
   "category": "Statistics",
-  "introduction": "Consolidate primary mathematics and prepare for secondary study through frequency tables and statistical measures.",
+  "introduction": "Develop mathematical understanding through frequency tables and statistical measures.",
   "definition": "A frequency table records how often values occur. The weighted mean is the sum of each value multiplied by its frequency, divided by total frequency. Find the median using cumulative counts and the mode from the greatest frequency.",
   "visuals": [
     {
