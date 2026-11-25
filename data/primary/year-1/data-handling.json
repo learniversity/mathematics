@@ -1,0 +1,117 @@
+{
+  "id": "primary-1-data-handling",
+  "title": "Collecting and Reading Data",
+  "level": "primary-1",
+  "category": "Statistics",
+  "introduction": "Learn collecting and reading data through explanations and practice.",
+  "definition": "Data are collected facts or observations. A tally counts items using marks; a pictograph represents quantities using pictures and a key.",
+  "visuals": [
+    {
+      "label": "Fruit votes",
+      "description": "One dot represents one vote.",
+      "alt": "Fruit votes — One dot represents one vote.",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 30,
+            "y": 25,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "Apple"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 30,
+            "y": 65,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "Banana"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 105,
+            "y": 25,
+            "font-size": 14,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "● ● ●"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 105,
+            "y": 65,
+            "font-size": 13,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "● ● ● ● ●"
+        }
+      ]
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Three pupils choose apples and five choose bananas.",
+      "steps": [
+        "Compare 3 and 5."
+      ],
+      "answer": "Bananas have two more votes."
+    },
+    {
+      "question": "A pictograph uses one dot for two pupils. There are four dots.",
+      "steps": [
+        "4 × 2 = 8."
+      ],
+      "answer": "8"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Cats: 4, dogs: 6. How many pets altogether?",
+      "answer": 10,
+      "solution": "Answer: 10"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Red: 3, blue: 7. Which colour has more votes?",
+      "answer": "blue",
+      "solution": "Answer: blue"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Red: 3, blue: 7. How many more blue votes?",
+      "answer": 4,
+      "solution": "Answer: 4"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "One picture represents 2 books. How many books do 3 pictures represent?",
+      "answer": 6,
+      "solution": "Answer: 6"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "How many tally marks represent five objects?",
+      "answer": 5,
+      "solution": "Answer: 5"
+    }
+  ],
+  "summary": "Data are collected facts or observations. A tally counts items using marks; a pictograph represents quantities using pictures and a key.",
+  "relatedTopics": []
+}
