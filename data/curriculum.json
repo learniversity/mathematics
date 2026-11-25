@@ -460,12 +460,6 @@
       "path": "data/primary/year-3/order-of-operations.json"
     },
     {
-      "id": "primary-3-factors-multiples",
-      "level": "primary-3",
-      "title": "Factors and Multiples",
-      "path": "data/primary/year-3/factors-multiples.json"
-    },
-    {
       "id": "primary-3-fractions",
       "level": "primary-3",
       "title": "Proper, Improper and Mixed Fractions",
@@ -614,12 +608,6 @@
       "level": "primary-4",
       "title": "Prime and Composite Numbers",
       "path": "data/primary/year-4/prime-composite.json"
-    },
-    {
-      "id": "primary-4-hcf-lcm",
-      "level": "primary-4",
-      "title": "Highest Common Factor and Lowest Common Multiple",
-      "path": "data/primary/year-4/hcf-lcm.json"
     },
     {
       "id": "primary-4-fraction-add-subtract",
@@ -778,30 +766,6 @@
       "path": "data/primary/year-5/whole-operations.json"
     },
     {
-      "id": "primary-5-divisibility",
-      "level": "primary-5",
-      "title": "Divisibility Rules and Prime Factorisation",
-      "path": "data/primary/year-5/divisibility.json"
-    },
-    {
-      "id": "primary-5-hcf-lcm",
-      "level": "primary-5",
-      "title": "Common Factors and Multiples in Applications",
-      "path": "data/primary/year-5/hcf-lcm.json"
-    },
-    {
-      "id": "primary-5-negative-numbers",
-      "level": "primary-5",
-      "title": "Introduction to Negative Numbers",
-      "path": "data/primary/year-5/negative-numbers.json"
-    },
-    {
-      "id": "primary-5-powers",
-      "level": "primary-5",
-      "title": "Squares, Cubes and Powers",
-      "path": "data/primary/year-5/powers.json"
-    },
-    {
       "id": "primary-5-fraction-division",
       "level": "primary-5",
       "title": "Dividing Fractions and Mixed Numbers",
@@ -916,18 +880,6 @@
       "path": "data/primary/year-5/transformations.json"
     },
     {
-      "id": "primary-5-algebra",
-      "level": "primary-5",
-      "title": "Introduction to Algebraic Expressions",
-      "path": "data/primary/year-5/algebra.json"
-    },
-    {
-      "id": "primary-5-equations",
-      "level": "primary-5",
-      "title": "Solving One- and Two-Step Equations",
-      "path": "data/primary/year-5/equations.json"
-    },
-    {
       "id": "primary-5-sequences",
       "level": "primary-5",
       "title": "Number Sequences and General Rules",
@@ -962,30 +914,6 @@
       "level": "primary-6",
       "title": "Whole Numbers to 10,000,000",
       "path": "data/primary/year-6/numbers.json"
-    },
-    {
-      "id": "primary-6-integer-operations",
-      "level": "primary-6",
-      "title": "Operations with Positive and Negative Integers",
-      "path": "data/primary/year-6/integer-operations.json"
-    },
-    {
-      "id": "primary-6-order-of-operations",
-      "level": "primary-6",
-      "title": "Order of Operations with Powers and Integers",
-      "path": "data/primary/year-6/order-of-operations.json"
-    },
-    {
-      "id": "primary-6-prime-factorisation",
-      "level": "primary-6",
-      "title": "Prime Factors, HCF and LCM",
-      "path": "data/primary/year-6/prime-factorisation.json"
-    },
-    {
-      "id": "primary-6-powers-roots",
-      "level": "primary-6",
-      "title": "Powers, Square Roots and Cube Roots",
-      "path": "data/primary/year-6/powers-roots.json"
     },
     {
       "id": "primary-6-fractions",
@@ -1052,18 +980,6 @@
       "level": "primary-6",
       "title": "Common-Factor Factorisation",
       "path": "data/primary/year-6/factorisation.json"
-    },
-    {
-      "id": "primary-6-equations",
-      "level": "primary-6",
-      "title": "Linear Equations with Brackets and Variables on Both Sides",
-      "path": "data/primary/year-6/equations.json"
-    },
-    {
-      "id": "primary-6-inequalities",
-      "level": "primary-6",
-      "title": "Introduction to Inequalities",
-      "path": "data/primary/year-6/inequalities.json"
     },
     {
       "id": "primary-6-formula-substitution",
@@ -1160,6 +1076,90 @@
       "level": "primary-6",
       "title": "Integrated Primary Mathematics Problems",
       "path": "data/primary/year-6/word-problems.json"
+    },
+    {
+      "id": "secondary-1-from-p3-factors-multiples",
+      "level": "secondary-1",
+      "title": "Factors and Multiples",
+      "path": "data/secondary/year-1/factors-multiples.json"
+    },
+    {
+      "id": "secondary-1-from-p4-hcf-lcm",
+      "level": "secondary-1",
+      "title": "Highest Common Factor and Lowest Common Multiple",
+      "path": "data/secondary/year-1/hcf-lcm.json"
+    },
+    {
+      "id": "secondary-1-from-p5-divisibility",
+      "level": "secondary-1",
+      "title": "Divisibility Rules and Prime Factorisation",
+      "path": "data/secondary/year-1/divisibility.json"
+    },
+    {
+      "id": "secondary-1-from-p5-hcf-lcm",
+      "level": "secondary-1",
+      "title": "Common Factors and Multiples in Applications",
+      "path": "data/secondary/year-1/extended-hcf-lcm.json"
+    },
+    {
+      "id": "secondary-1-from-p5-negative-numbers",
+      "level": "secondary-1",
+      "title": "Introduction to Negative Numbers",
+      "path": "data/secondary/year-1/negative-numbers.json"
+    },
+    {
+      "id": "secondary-1-from-p5-powers",
+      "level": "secondary-1",
+      "title": "Squares, Cubes and Powers",
+      "path": "data/secondary/year-1/powers.json"
+    },
+    {
+      "id": "secondary-1-from-p5-algebra",
+      "level": "secondary-1",
+      "title": "Introduction to Algebraic Expressions",
+      "path": "data/secondary/year-1/algebra.json"
+    },
+    {
+      "id": "secondary-1-from-p5-equations",
+      "level": "secondary-1",
+      "title": "Solving One- and Two-Step Equations",
+      "path": "data/secondary/year-1/equations.json"
+    },
+    {
+      "id": "secondary-1-from-p6-integer-operations",
+      "level": "secondary-1",
+      "title": "Operations with Positive and Negative Integers",
+      "path": "data/secondary/year-1/integer-operations.json"
+    },
+    {
+      "id": "secondary-1-from-p6-order-of-operations",
+      "level": "secondary-1",
+      "title": "Order of Operations with Powers and Integers",
+      "path": "data/secondary/year-1/order-of-operations.json"
+    },
+    {
+      "id": "secondary-1-from-p6-prime-factorisation",
+      "level": "secondary-1",
+      "title": "Prime Factors, HCF and LCM",
+      "path": "data/secondary/year-1/prime-factorisation.json"
+    },
+    {
+      "id": "secondary-1-from-p6-powers-roots",
+      "level": "secondary-1",
+      "title": "Powers, Square Roots and Cube Roots",
+      "path": "data/secondary/year-1/powers-roots.json"
+    },
+    {
+      "id": "secondary-1-from-p6-equations",
+      "level": "secondary-1",
+      "title": "Linear Equations with Brackets and Variables on Both Sides",
+      "path": "data/secondary/year-1/extended-equations.json"
+    },
+    {
+      "id": "secondary-1-from-p6-inequalities",
+      "level": "secondary-1",
+      "title": "Introduction to Inequalities",
+      "path": "data/secondary/year-1/inequalities.json"
     }
   ]
 }

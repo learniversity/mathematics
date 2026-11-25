@@ -1,9 +1,9 @@
 {
-  "id": "primary-6-equations",
+  "id": "secondary-1-from-p6-equations",
   "title": "Linear Equations with Brackets and Variables on Both Sides",
-  "level": "primary-6",
+  "level": "secondary-1",
   "category": "Algebra",
-  "introduction": "Consolidate primary mathematics and prepare for secondary study through linear equations with brackets and variables on both sides.",
+  "introduction": "Develop secondary mathematical understanding through linear equations with brackets and variables on both sides.",
   "definition": "Solve linear equations by expanding brackets if necessary, collecting variable terms on one side and constants on the other, then dividing by the nonzero coefficient. Each step must preserve equality. Check the solution by substitution.",
   "visuals": [],
   "formulas": [],
@@ -70,6 +70,6 @@
   "summary": "Solve linear equations by expanding brackets if necessary, collecting variable terms on one side and constants on the other, then dividing by the nonzero coefficient. Each step must preserve equality. Check the solution by substitution.",
   "relatedTopics": [
     "primary-6-factorisation",
-    "primary-6-inequalities"
+    "secondary-1-from-p6-inequalities"
   ]
 }

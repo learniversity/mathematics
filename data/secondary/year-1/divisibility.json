@@ -1,9 +1,9 @@
 {
-  "id": "primary-5-divisibility",
+  "id": "secondary-1-from-p5-divisibility",
   "title": "Divisibility Rules and Prime Factorisation",
-  "level": "primary-5",
+  "level": "secondary-1",
   "category": "Arithmetic",
-  "introduction": "Build on earlier mathematics by studying divisibility rules and prime factorisation.",
+  "introduction": "Develop secondary mathematical understanding through divisibility rules and prime factorisation.",
   "definition": "A number is divisible by another when division leaves no remainder. A number is divisible by 2 if its last digit is even, by 3 if its digit sum is divisible by 3, by 5 if its last digit is 0 or 5, by 9 if its digit sum is divisible by 9, and by 10 if it ends in 0. Prime factorisation expresses a positive integer greater than 1 as a product of primes.",
   "visuals": [
     {
@@ -182,6 +182,6 @@
   "summary": "A number is divisible by another when division leaves no remainder. A number is divisible by 2 if its last digit is even, by 3 if its digit sum is divisible by 3, by 5 if its last digit is 0 or 5, by 9 if its digit sum is divisible by 9, and by 10 if it ends in 0. Prime factorisation expresses a positive integer greater than 1 as a product of primes.",
   "relatedTopics": [
     "primary-5-whole-operations",
-    "primary-5-hcf-lcm"
+    "secondary-1-from-p5-hcf-lcm"
   ]
 }

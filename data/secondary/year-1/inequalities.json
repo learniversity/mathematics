@@ -1,9 +1,9 @@
 {
-  "id": "primary-6-inequalities",
+  "id": "secondary-1-from-p6-inequalities",
   "title": "Introduction to Inequalities",
-  "level": "primary-6",
+  "level": "secondary-1",
   "category": "Algebra",
-  "introduction": "Consolidate primary mathematics and prepare for secondary study through introduction to inequalities.",
+  "introduction": "Develop secondary mathematical understanding through introduction to inequalities.",
   "definition": "An inequality compares expressions using <, >, ≤ or ≥. Adding or subtracting the same number on both sides preserves its direction. Multiplying or dividing both sides by a negative number reverses the inequality sign.",
   "visuals": [],
   "formulas": [],
@@ -69,7 +69,7 @@
   ],
   "summary": "An inequality compares expressions using <, >, ≤ or ≥. Adding or subtracting the same number on both sides preserves its direction. Multiplying or dividing both sides by a negative number reverses the inequality sign.",
   "relatedTopics": [
-    "primary-6-equations",
+    "secondary-1-from-p6-equations",
     "primary-6-formula-substitution"
   ]
 }

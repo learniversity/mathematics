@@ -1,9 +1,9 @@
 {
-  "id": "primary-4-hcf-lcm",
+  "id": "secondary-1-from-p4-hcf-lcm",
   "title": "Highest Common Factor and Lowest Common Multiple",
-  "level": "primary-4",
+  "level": "secondary-1",
   "category": "Arithmetic",
-  "introduction": "Build Primary 4 mathematical understanding through highest common factor and lowest common multiple.",
+  "introduction": "Develop secondary mathematical understanding through highest common factor and lowest common multiple.",
   "definition": "The highest common factor (HCF) is the largest positive integer dividing both numbers. The lowest common multiple (LCM) is the smallest positive integer that is a multiple of both positive numbers.",
   "visuals": [
     {

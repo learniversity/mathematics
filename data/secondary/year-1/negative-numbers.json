@@ -1,9 +1,9 @@
 {
-  "id": "primary-5-negative-numbers",
+  "id": "secondary-1-from-p5-negative-numbers",
   "title": "Introduction to Negative Numbers",
-  "level": "primary-5",
+  "level": "secondary-1",
   "category": "Arithmetic",
-  "introduction": "Build on earlier mathematics by studying introduction to negative numbers.",
+  "introduction": "Develop secondary mathematical understanding through introduction to negative numbers.",
   "definition": "Negative numbers lie below zero on a number line. Numbers increase to the right. Adding a positive number moves right; subtracting a positive number moves left. Negative values can represent temperatures below zero, debts and elevations below a reference level.",
   "visuals": [
     {
@@ -384,7 +384,7 @@
   ],
   "summary": "Negative numbers lie below zero on a number line. Numbers increase to the right. Adding a positive number moves right; subtracting a positive number moves left. Negative values can represent temperatures below zero, debts and elevations below a reference level.",
   "relatedTopics": [
-    "primary-5-hcf-lcm",
-    "primary-5-powers"
+    "secondary-1-from-p5-hcf-lcm",
+    "secondary-1-from-p5-powers"
   ]
 }

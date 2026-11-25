@@ -1,9 +1,9 @@
 {
-  "id": "primary-5-algebra",
+  "id": "secondary-1-from-p5-algebra",
   "title": "Introduction to Algebraic Expressions",
-  "level": "primary-5",
+  "level": "secondary-1",
   "category": "Algebra",
-  "introduction": "Build on earlier mathematics by studying introduction to algebraic expressions.",
+  "introduction": "Develop secondary mathematical understanding through introduction to algebraic expressions.",
   "definition": "A variable is a symbol representing a number. A coefficient multiplies a variable; a constant is a fixed number. Like terms have the same variable part and can be combined by adding their coefficients. Substitute numbers for variables to evaluate expressions.",
   "visuals": [
     {
@@ -198,6 +198,6 @@
   "summary": "A variable is a symbol representing a number. A coefficient multiplies a variable; a constant is a fixed number. Like terms have the same variable part and can be combined by adding their coefficients. Substitute numbers for variables to evaluate expressions.",
   "relatedTopics": [
     "primary-5-transformations",
-    "primary-5-equations"
+    "secondary-1-from-p5-equations"
   ]
 }
