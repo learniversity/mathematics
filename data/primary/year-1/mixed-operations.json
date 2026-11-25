@@ -1,0 +1,72 @@
+{
+  "id": "primary-1-mixed-operations",
+  "title": "Mixed Addition and Subtraction",
+  "level": "primary-1",
+  "category": "Arithmetic",
+  "introduction": "Learn mixed addition and subtraction through explanations and practice.",
+  "definition": "When an expression contains only addition and subtraction and no brackets, calculate from left to right. Use the result of each step in the next step.",
+  "visuals": [],
+  "formulas": [
+    {
+      "expression": "18 + 7 − 5 = 25 − 5 = 20",
+      "description": "Work from left to right."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Calculate 18 + 7 − 5.",
+      "steps": [
+        "18 + 7 = 25",
+        "25 − 5 = 20"
+      ],
+      "answer": "20"
+    },
+    {
+      "question": "Calculate 30 − 8 + 4.",
+      "steps": [
+        "30 − 8 = 22",
+        "22 + 4 = 26"
+      ],
+      "answer": "26"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "6 + 4 − 3",
+      "answer": 7,
+      "solution": "Answer: 7"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "20 − 5 + 2",
+      "answer": 17,
+      "solution": "Answer: 17"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "14 + 9 − 8",
+      "answer": 15,
+      "solution": "Answer: 15"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "50 − 20 − 10",
+      "answer": 20,
+      "solution": "Answer: 20"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "12 − 2 + 9",
+      "answer": 19,
+      "solution": "Answer: 19"
+    }
+  ],
+  "summary": "When an expression contains only addition and subtraction and no brackets, calculate from left to right. Use the result of each step in the next step.",
+  "relatedTopics": []
+}
