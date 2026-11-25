@@ -1,0 +1,49 @@
+{
+  "id": "primary-1-multiplication",
+  "title": "Introduction to Multiplication",
+  "level": "primary-1",
+  "category": "Arithmetic",
+  "introduction": "Explore introduction to multiplication through definitions, examples and practice.",
+  "definition": "Multiplication counts equal groups efficiently. For whole numbers, it can be understood as repeated addition.",
+  "formulas": [
+    {
+      "expression": "3 × 4 = 4 + 4 + 4 = 12",
+      "description": "Three groups of four."
+    }
+  ],
+  "examples": [
+    {
+      "question": "There are 3 groups of 4 objects. Add 4 + 4 + 4.",
+      "steps": [],
+      "answer": "12"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "2 × 3",
+      "answer": 6,
+      "solution": "Answer: 6"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "4 × 2",
+      "answer": 8,
+      "solution": "Answer: 8"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "5 × 3",
+      "answer": 15,
+      "solution": "Answer: 15"
+    }
+  ],
+  "summary": "Multiplication counts equal groups efficiently. For whole numbers, it can be understood as repeated addition.",
+  "relatedTopics": [
+    "primary-1-subtraction",
+    "primary-1-division"
+  ]
+}
