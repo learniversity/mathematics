@@ -1,0 +1,48 @@
+{
+  "id": "primary-1-division",
+  "title": "Introduction to Division",
+  "level": "primary-1",
+  "category": "Arithmetic",
+  "introduction": "Explore introduction to division through definitions, examples and practice.",
+  "definition": "Division can mean sharing a quantity equally or finding how many equal groups fit into it.",
+  "formulas": [
+    {
+      "expression": "12 ÷ 3 = 4",
+      "description": "Twelve shared into three equal groups gives four in each."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Share 12 apples equally among 3 children.",
+      "steps": [],
+      "answer": "4"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "6 ÷ 2",
+      "answer": 3,
+      "solution": "Answer: 3"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "10 ÷ 5",
+      "answer": 2,
+      "solution": "Answer: 2"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "15 ÷ 3",
+      "answer": 5,
+      "solution": "Answer: 5"
+    }
+  ],
+  "summary": "Division can mean sharing a quantity equally or finding how many equal groups fit into it.",
+  "relatedTopics": [
+    "primary-1-multiplication"
+  ]
+}
