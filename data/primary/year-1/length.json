@@ -1,0 +1,359 @@
+{
+  "id": "primary-1-length",
+  "title": "Measuring Length",
+  "level": "primary-1",
+  "category": "Measurement",
+  "introduction": "Learn measuring length through explanations and practice.",
+  "definition": "Length measures how far apart two points are. Use a ruler starting at zero to measure in centimetres (cm). Longer distances may be measured in metres (m).",
+  "visuals": [
+    {
+      "label": "Ruler: 0 to 10 cm",
+      "description": "The line ends at 6 cm.",
+      "alt": "Ruler: 0 to 10 cm — The line ends at 6 cm.",
+      "elements": [
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 10,
+            "y1": 60,
+            "x2": 150,
+            "y2": 60
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 10,
+            "y1": 60,
+            "x2": 10,
+            "y2": 69
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 10,
+            "y": 83,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "0"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 24,
+            "y1": 60,
+            "x2": 24,
+            "y2": 69
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 24,
+            "y": 83,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "1"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 38,
+            "y1": 60,
+            "x2": 38,
+            "y2": 69
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 38,
+            "y": 83,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "2"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 52,
+            "y1": 60,
+            "x2": 52,
+            "y2": 69
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 52,
+            "y": 83,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "3"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 66,
+            "y1": 60,
+            "x2": 66,
+            "y2": 69
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 66,
+            "y": 83,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "4"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 80,
+            "y1": 60,
+            "x2": 80,
+            "y2": 69
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 83,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "5"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 94,
+            "y1": 60,
+            "x2": 94,
+            "y2": 69
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 94,
+            "y": 83,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "6"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 108,
+            "y1": 60,
+            "x2": 108,
+            "y2": 69
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 108,
+            "y": 83,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "7"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 122,
+            "y1": 60,
+            "x2": 122,
+            "y2": 69
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 122,
+            "y": 83,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "8"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 136,
+            "y1": 60,
+            "x2": 136,
+            "y2": 69
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 136,
+            "y": 83,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "9"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 150,
+            "y1": 60,
+            "x2": 150,
+            "y2": 69
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 150,
+            "y": 83,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "10"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 10,
+            "y1": 30,
+            "x2": 94,
+            "y2": 30
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "Length = end reading − start reading",
+      "description": "Both readings must use the same unit."
+    },
+    {
+      "expression": "1 m = 100 cm",
+      "description": "One metre equals 100 centimetres."
+    }
+  ],
+  "examples": [
+    {
+      "question": "A pencil starts at 0 cm and ends at 8 cm.",
+      "steps": [
+        "Subtract the starting reading from the ending reading."
+      ],
+      "answer": "8 cm"
+    },
+    {
+      "question": "A line starts at 2 cm and ends at 9 cm.",
+      "steps": [
+        "9 − 2 = 7."
+      ],
+      "answer": "7 cm"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "A line runs from 0 cm to 6 cm. Length in cm?",
+      "answer": 6,
+      "solution": "Answer: 6"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "A line runs from 2 cm to 10 cm. Length in cm?",
+      "answer": 8,
+      "solution": "Answer: 8"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Which length is longer: 12 cm or 9 cm?",
+      "answer": 12,
+      "solution": "Answer: 12"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "How many centimetres make one metre?",
+      "answer": 100,
+      "solution": "Answer: 100"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "A 4 cm ribbon and a 5 cm ribbon total how many cm?",
+      "answer": 9,
+      "solution": "Answer: 9"
+    }
+  ],
+  "summary": "Length measures how far apart two points are. Use a ruler starting at zero to measure in centimetres (cm). Longer distances may be measured in metres (m).",
+  "relatedTopics": []
+}
