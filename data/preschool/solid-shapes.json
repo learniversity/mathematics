@@ -1,0 +1,213 @@
+{
+  "id": "preschool-solid-shapes",
+  "title": "Basic 3D Shapes",
+  "level": "preschool",
+  "category": "Geometry",
+  "introduction": "Explore basic 3d shapes with pictures and practice.",
+  "definition": "Three-dimensional objects have length, width and height. They take up space.",
+  "visuals": [
+    {
+      "label": "Cube",
+      "description": "Like a dice.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x": 35,
+            "y": 35,
+            "width": 65,
+            "height": 55
+          }
+        },
+        {
+          "tag": "polyline",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "points": "35,35 60,12 125,12 125,67 100,90"
+          }
+        },
+        {
+          "tag": "polyline",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "points": "100,35 125,12"
+          }
+        }
+      ],
+      "alt": "Cube"
+    },
+    {
+      "label": "Sphere",
+      "description": "Like a ball.",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "cx": 80,
+            "cy": 50,
+            "r": 39
+          }
+        },
+        {
+          "tag": "ellipse",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "cx": 80,
+            "cy": 50,
+            "rx": 39,
+            "ry": 15
+          }
+        }
+      ],
+      "alt": "Sphere"
+    },
+    {
+      "label": "Cylinder",
+      "description": "Like a tin can.",
+      "elements": [
+        {
+          "tag": "ellipse",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "cx": 80,
+            "cy": 22,
+            "rx": 38,
+            "ry": 13
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 42,
+            "y1": 22,
+            "x2": 42,
+            "y2": 76
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 118,
+            "y1": 22,
+            "x2": 118,
+            "y2": 76
+          }
+        },
+        {
+          "tag": "ellipse",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "cx": 80,
+            "cy": 76,
+            "rx": 38,
+            "ry": 13
+          }
+        }
+      ],
+      "alt": "Cylinder"
+    },
+    {
+      "label": "Cone",
+      "description": "Like an ice-cream cone.",
+      "elements": [
+        {
+          "tag": "ellipse",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "cx": 80,
+            "cy": 80,
+            "rx": 42,
+            "ry": 12
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 38,
+            "y1": 80,
+            "x2": 80,
+            "y2": 8
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 122,
+            "y1": 80,
+            "x2": 80,
+            "y2": 8
+          }
+        }
+      ],
+      "alt": "Cone"
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "What solid shape is a ball?",
+      "steps": [
+        "A ball is round in every direction."
+      ],
+      "answer": "sphere"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "What solid shape is a dice usually?",
+      "answer": "cube",
+      "solution": "Answer: cube"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "What solid shape is a tin can?",
+      "answer": "cylinder",
+      "solution": "Answer: cylinder"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "What solid shape resembles an ice-cream cone?",
+      "answer": "cone",
+      "solution": "Answer: cone"
+    }
+  ],
+  "summary": "Solid shapes take up space.",
+  "relatedTopics": [
+    "preschool-shapes",
+    "preschool-patterns"
+  ]
+}
