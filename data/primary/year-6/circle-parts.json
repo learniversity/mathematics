@@ -1,0 +1,141 @@
+{
+  "id": "primary-6-circle-parts",
+  "title": "Circle: Centre, Radius and Diameter",
+  "level": "primary-6",
+  "category": "Geometry",
+  "introduction": "Explore circle: centre, radius and diameter using everyday examples.",
+  "definition": "A circle is a flat shape whose boundary points are equally distant from its centre. The radius joins the centre to the boundary. A diameter joins two boundary points through the centre and is twice the radius. Draw circles with a compass set to the given radius.",
+  "visuals": [
+    {
+      "label": "Radius and diameter",
+      "description": "Diameter equals two radii.",
+      "alt": "Radius and diameter — Diameter equals two radii.",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 80,
+            "cy": 50,
+            "r": 39
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 41,
+            "y1": 50,
+            "x2": 119,
+            "y2": 50
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 80,
+            "y1": 50,
+            "x2": 80,
+            "y2": 11
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 80,
+            "cy": 50,
+            "r": 2
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 96,
+            "y": 31,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "r"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 65,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "d"
+        }
+      ]
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Draw a circle of radius 4 cm.",
+      "steps": [
+        "Set the compass opening to 4 cm and draw a full turn."
+      ],
+      "answer": "Diameter 8 cm"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Radius 6 cm. Diameter?",
+      "answer": 12,
+      "solution": "Answer: 12"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Diameter 18 cm. Radius?",
+      "answer": 9,
+      "solution": "Answer: 9"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Degrees in a complete turn?",
+      "answer": 360,
+      "solution": "Answer: 360"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Does a diameter pass through the centre? yes/no",
+      "answer": "yes",
+      "solution": "Answer: yes"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Radius 2.5 cm. Diameter?",
+      "answer": 5,
+      "solution": "Answer: 5"
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Diameter 15 cm. Radius?",
+      "answer": 7.5,
+      "solution": "Answer: 7.5"
+    }
+  ],
+  "summary": "A circle is a flat shape whose boundary points are equally distant from its centre. The radius joins the centre to the boundary. A diameter joins two boundary points through the centre and is twice the radius. Draw circles with a compass set to the given radius.",
+  "relatedTopics": []
+}

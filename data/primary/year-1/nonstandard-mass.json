@@ -1,0 +1,141 @@
+{
+  "id": "primary-1-nonstandard-mass",
+  "title": "Comparing Mass Using a Balance",
+  "level": "primary-1",
+  "category": "Measurement",
+  "introduction": "Explore comparing mass using a balance using everyday examples.",
+  "definition": "A balance compares masses. When an object balances three identical weights, its mass equals three of those units. Use equal reference weights for comparison.",
+  "visuals": [
+    {
+      "label": "Balanced masses",
+      "description": "One object balances three equal blocks.",
+      "alt": "Balanced masses — One object balances three equal blocks.",
+      "elements": [
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 15,
+            "y1": 65,
+            "x2": 145,
+            "y2": 65
+          }
+        },
+        {
+          "tag": "polygon",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "points": "80,65 65,90 95,90"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 38,
+            "cy": 48,
+            "r": 16
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 96,
+            "y": 50,
+            "width": 13,
+            "height": 15
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 111,
+            "y": 50,
+            "width": 13,
+            "height": 15
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 126,
+            "y": 50,
+            "width": 13,
+            "height": 15
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "A toy balances four equal blocks.",
+      "steps": [
+        "Its mass equals four block masses."
+      ],
+      "answer": "4"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "An apple balances 3 blocks. Mass in blocks?",
+      "answer": 3,
+      "solution": "Answer: 3"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Two objects balance 5 and 2 blocks. Heavier object's block count?",
+      "answer": 5,
+      "solution": "Answer: 5"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Difference between 7 and 4 equal weights?",
+      "answer": 3,
+      "solution": "Answer: 3"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "If both pans balance, are their masses equal? yes/no",
+      "answer": "yes",
+      "solution": "Answer: yes"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Two objects each balance 2 blocks. Combined mass?",
+      "answer": 4,
+      "solution": "Answer: 4"
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "A bag balances 6 blocks; remove an amount equal to 2 blocks. Remaining?",
+      "answer": 4,
+      "solution": "Answer: 4"
+    }
+  ],
+  "summary": "A balance compares masses. When an object balances three identical weights, its mass equals three of those units. Use equal reference weights for comparison.",
+  "relatedTopics": []
+}

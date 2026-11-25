@@ -1,0 +1,65 @@
+{
+  "id": "primary-4-unitary-method",
+  "title": "Proportion Using the Unitary Method",
+  "level": "primary-4",
+  "category": "Arithmetic",
+  "introduction": "Explore proportion using the unitary method using everyday examples.",
+  "definition": "Find the value of one unit by dividing a total by its quantity. Multiply the unit value by the required quantity when the relationship is proportional.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Five identical notebooks cost RM20. Cost of eight?",
+      "steps": [
+        "20 ÷ 5 = 4; 4 × 8."
+      ],
+      "answer": "RM32"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "3 pens cost RM9. Cost of one?",
+      "answer": 3,
+      "solution": "Answer: 3"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "4 identical bags cost RM24. Cost of 7?",
+      "answer": 42,
+      "solution": "Answer: 42"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "2 kg rice costs RM12. Cost of 5 kg?",
+      "answer": 30,
+      "solution": "Answer: 30"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "10 tickets cost RM80. Cost of 3?",
+      "answer": 24,
+      "solution": "Answer: 24"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "6 bottles hold 12 L. Volume of one?",
+      "answer": 2,
+      "solution": "Answer: 2"
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "A pack of 5 costs RM15. Cost of 10?",
+      "answer": 30,
+      "solution": "Answer: 30"
+    }
+  ],
+  "summary": "Find the value of one unit by dividing a total by its quantity. Multiply the unit value by the required quantity when the relationship is proportional.",
+  "relatedTopics": []
+}

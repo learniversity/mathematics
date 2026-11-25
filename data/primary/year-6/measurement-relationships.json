@@ -1,0 +1,65 @@
+{
+  "id": "primary-6-measurement-relationships",
+  "title": "Applied Relationships Between Measurements",
+  "level": "primary-6",
+  "category": "Measurement",
+  "introduction": "Explore applied relationships between measurements using everyday examples.",
+  "definition": "Use given relationships between length, mass and liquid volume in practical problems, without treating unlike units as interchangeable. A stated rate such as grams per metre or millilitres per container links quantities.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "A cable has mass 250 g per metre. Find mass of 6 m.",
+      "steps": [
+        "250 × 6 = 1,500 g."
+      ],
+      "answer": "1.5 kg"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "A rope weighs 200 g per metre. Mass of 4 m in g?",
+      "answer": 800,
+      "solution": "Answer: 800"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "A bottle holds 750 mL. Six bottles hold how many mL?",
+      "answer": 4500,
+      "solution": "Answer: 4500"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "3 kg of material is split into 250 g portions. Number?",
+      "answer": 12,
+      "solution": "Answer: 12"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Each metre of pipe holds 2 L. 7 m holds L?",
+      "answer": 14,
+      "solution": "Answer: 14"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "A liquid has mass 800 g per L. Mass of 2 L in g?",
+      "answer": 1600,
+      "solution": "Answer: 1600"
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "A 5 L container fills 250 mL cups. Number?",
+      "answer": 20,
+      "solution": "Answer: 20"
+    }
+  ],
+  "summary": "Use given relationships between length, mass and liquid volume in practical problems, without treating unlike units as interchangeable. A stated rate such as grams per metre or millilitres per container links quantities.",
+  "relatedTopics": []
+}

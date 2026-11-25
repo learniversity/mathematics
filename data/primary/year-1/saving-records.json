@@ -1,0 +1,65 @@
+{
+  "id": "primary-1-saving-records",
+  "title": "Recording Savings and Spending",
+  "level": "primary-1",
+  "category": "Measurement",
+  "introduction": "Explore recording savings and spending using everyday examples.",
+  "definition": "A savings record tracks money received, money spent and the amount left. Subtract spending from available money. Saving means keeping money for future needs.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Receive RM8 and spend RM3.",
+      "steps": [
+        "8 − 3."
+      ],
+      "answer": "RM5 saved"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Receive RM5, spend RM2. Remaining RM?",
+      "answer": 3,
+      "solution": "Answer: 3"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Save RM2 each of three days. Total RM?",
+      "answer": 6,
+      "solution": "Answer: 6"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Have RM6, receive RM3. Total RM?",
+      "answer": 9,
+      "solution": "Answer: 9"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Have RM10, spend RM4. Remaining RM?",
+      "answer": 6,
+      "solution": "Answer: 6"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Save 20 sen and 50 sen. Total sen?",
+      "answer": 70,
+      "solution": "Answer: 70"
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Have 90 sen, spend 30 sen. Remaining sen?",
+      "answer": 60,
+      "solution": "Answer: 60"
+    }
+  ],
+  "summary": "A savings record tracks money received, money spent and the amount left. Subtract spending from available money. Saving means keeping money for future needs.",
+  "relatedTopics": []
+}

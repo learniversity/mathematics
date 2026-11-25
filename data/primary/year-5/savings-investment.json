@@ -1,0 +1,65 @@
+{
+  "id": "primary-5-savings-investment",
+  "title": "Savings, Investment and Interest",
+  "level": "primary-5",
+  "category": "Measurement",
+  "introduction": "Explore savings, investment and interest using everyday examples.",
+  "definition": "Savings preserve money for later use. Investments aim for returns but can lose value. Simple interest is based on original principal; compound interest adds interest to the balance before the next interest period. Use hypothetical rates for calculations.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "RM100 earns 10% simple interest each year for two years.",
+      "steps": [
+        "RM10 each year; total interest RM20."
+      ],
+      "answer": "RM120"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "RM200 saved at 5% simple annual interest for one year. Interest RM?",
+      "answer": 10,
+      "solution": "Answer: 10"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "RM100 at 10% compounded annually for two years. Balance RM?",
+      "answer": 121,
+      "solution": "Answer: 121"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "RM100 investment falls to RM80. Loss RM?",
+      "answer": 20,
+      "solution": "Answer: 20"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "RM50 saved each month for 6 months. Total?",
+      "answer": 300,
+      "solution": "Answer: 300"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "RM400 investment gives RM20 dividend. Return amount RM?",
+      "answer": 20,
+      "solution": "Answer: 20"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Can investments lose value? yes/no",
+      "answer": "yes",
+      "solution": "Answer: yes"
+    }
+  ],
+  "summary": "Savings preserve money for later use. Investments aim for returns but can lose value. Simple interest is based on original principal; compound interest adds interest to the balance before the next interest period. Use hypothetical rates for calculations.",
+  "relatedTopics": []
+}

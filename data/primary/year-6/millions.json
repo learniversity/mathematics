@@ -1,0 +1,65 @@
+{
+  "id": "primary-6-millions",
+  "title": "Fractions and Decimals of a Million",
+  "level": "primary-6",
+  "category": "Arithmetic",
+  "introduction": "Explore fractions and decimals of a million using everyday examples.",
+  "definition": "One million equals 1,000,000. A fraction of a million is that fraction multiplied by one million; a decimal million is the decimal multiplied by one million. Practise fractional denominators 2, 4, 5, 8 and 10 and decimals up to three places.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Convert 2 3/4 million to a whole number.",
+      "steps": [
+        "2,000,000 + 750,000."
+      ],
+      "answer": "2,750,000"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "0.125 million as whole number?",
+      "answer": 125000,
+      "solution": "Answer: 125000"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "3.405 million as whole number?",
+      "answer": 3405000,
+      "solution": "Answer: 3405000"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Half a million?",
+      "answer": 500000,
+      "solution": "Answer: 500000"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "3/5 million?",
+      "answer": 600000,
+      "solution": "Answer: 600000"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "2,250,000 in decimal millions?",
+      "answer": 2.25,
+      "solution": "Answer: 2.25"
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "7/8 million?",
+      "answer": 875000,
+      "solution": "Answer: 875000"
+    }
+  ],
+  "summary": "One million equals 1,000,000. A fraction of a million is that fraction multiplied by one million; a decimal million is the decimal multiplied by one million. Practise fractional denominators 2, 4, 5, 8 and 10 and decimals up to three places.",
+  "relatedTopics": []
+}

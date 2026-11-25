@@ -232,6 +232,48 @@
       "path": "data/primary/year-1/word-problems.json"
     },
     {
+      "id": "primary-1-number-bonds",
+      "level": "primary-1",
+      "title": "Number Bonds and Number Patterns",
+      "path": "data/primary/year-1/number-bonds.json"
+    },
+    {
+      "id": "primary-1-nonstandard-length",
+      "level": "primary-1",
+      "title": "Length Using Non-Standard Units",
+      "path": "data/primary/year-1/nonstandard-length.json"
+    },
+    {
+      "id": "primary-1-nonstandard-mass",
+      "level": "primary-1",
+      "title": "Comparing Mass Using a Balance",
+      "path": "data/primary/year-1/nonstandard-mass.json"
+    },
+    {
+      "id": "primary-1-nonstandard-capacity",
+      "level": "primary-1",
+      "title": "Capacity Using Cups and Containers",
+      "path": "data/primary/year-1/nonstandard-capacity.json"
+    },
+    {
+      "id": "primary-1-currency-denominations",
+      "level": "primary-1",
+      "title": "Malaysian Coins and Notes",
+      "path": "data/primary/year-1/currency-denominations.json"
+    },
+    {
+      "id": "primary-1-saving-records",
+      "level": "primary-1",
+      "title": "Recording Savings and Spending",
+      "path": "data/primary/year-1/saving-records.json"
+    },
+    {
+      "id": "primary-1-clock-halves-quarters",
+      "level": "primary-1",
+      "title": "Reading Half and Quarter Hours",
+      "path": "data/primary/year-1/clock-halves-quarters.json"
+    },
+    {
       "id": "primary-2-halves-and-quarters",
       "level": "primary-2",
       "title": "Introduction to Fractions",
@@ -394,6 +436,18 @@
       "path": "data/primary/year-2/word-problems.json"
     },
     {
+      "id": "primary-2-money-to-100",
+      "level": "primary-2",
+      "title": "Money Values and Transactions to RM100",
+      "path": "data/primary/year-2/money-to-100.json"
+    },
+    {
+      "id": "primary-2-proper-fractions",
+      "level": "primary-2",
+      "title": "Recognising and Comparing Proper Fractions",
+      "path": "data/primary/year-2/proper-fractions.json"
+    },
+    {
       "id": "primary-3-equivalent-fractions",
       "level": "primary-3",
       "title": "Comparing and Equivalent Fractions",
@@ -518,6 +572,24 @@
       "level": "primary-3",
       "title": "Multi-Step Mathematical Problems",
       "path": "data/primary/year-3/word-problems.json"
+    },
+    {
+      "id": "primary-3-percentages",
+      "level": "primary-3",
+      "title": "Hundredths and Percentages",
+      "path": "data/primary/year-3/percentages.json"
+    },
+    {
+      "id": "primary-3-mixed-fraction-recognition",
+      "level": "primary-3",
+      "title": "Recognising Improper Fractions and Mixed Numbers",
+      "path": "data/primary/year-3/mixed-fraction-recognition.json"
+    },
+    {
+      "id": "primary-3-financial-needs-wants",
+      "level": "primary-3",
+      "title": "Needs, Wants and Spending Choices",
+      "path": "data/primary/year-3/financial-needs-wants.json"
     },
     {
       "id": "primary-4-order-of-operations",
@@ -718,6 +790,36 @@
       "path": "data/primary/year-4/word-problems.json"
     },
     {
+      "id": "primary-4-foreign-currency",
+      "level": "primary-4",
+      "title": "Recognising Foreign Currencies",
+      "path": "data/primary/year-4/foreign-currency.json"
+    },
+    {
+      "id": "primary-4-payment-methods",
+      "level": "primary-4",
+      "title": "Cash, Cards and Electronic Payments",
+      "path": "data/primary/year-4/payment-methods.json"
+    },
+    {
+      "id": "primary-4-financial-documents",
+      "level": "primary-4",
+      "title": "Bills, Receipts, Invoices and Vouchers",
+      "path": "data/primary/year-4/financial-documents.json"
+    },
+    {
+      "id": "primary-4-time-units",
+      "level": "primary-4",
+      "title": "Days, Weeks, Years and Longer Time Units",
+      "path": "data/primary/year-4/time-units.json"
+    },
+    {
+      "id": "primary-4-unitary-method",
+      "level": "primary-4",
+      "title": "Proportion Using the Unitary Method",
+      "path": "data/primary/year-4/unitary-method.json"
+    },
+    {
       "id": "primary-5-unknowns-and-patterns",
       "level": "primary-5",
       "title": "Sequences and Simple Unknowns",
@@ -826,6 +928,36 @@
       "path": "data/primary/year-5/statistics.json"
     },
     {
+      "id": "primary-5-savings-investment",
+      "level": "primary-5",
+      "title": "Savings, Investment and Interest",
+      "path": "data/primary/year-5/savings-investment.json"
+    },
+    {
+      "id": "primary-5-credit-debt",
+      "level": "primary-5",
+      "title": "Credit and Debt Management",
+      "path": "data/primary/year-5/credit-debt.json"
+    },
+    {
+      "id": "primary-5-coordinate-distances",
+      "level": "primary-5",
+      "title": "Horizontal and Vertical Distances in the First Quadrant",
+      "path": "data/primary/year-5/coordinate-distances.json"
+    },
+    {
+      "id": "primary-5-regular-polygons",
+      "level": "primary-5",
+      "title": "Regular Polygons, Diagonals and Symmetry",
+      "path": "data/primary/year-5/regular-polygons.json"
+    },
+    {
+      "id": "primary-5-composite-shapes",
+      "level": "primary-5",
+      "title": "Perimeter and Area of Combined Shapes",
+      "path": "data/primary/year-5/composite-shapes.json"
+    },
+    {
       "id": "primary-6-prime-composite",
       "level": "primary-6",
       "title": "Prime and Composite Numbers",
@@ -890,6 +1022,60 @@
       "level": "primary-6",
       "title": "Integrated Primary Mathematics Problems",
       "path": "data/primary/year-6/word-problems.json"
+    },
+    {
+      "id": "primary-6-millions",
+      "level": "primary-6",
+      "title": "Fractions and Decimals of a Million",
+      "path": "data/primary/year-6/millions.json"
+    },
+    {
+      "id": "primary-6-million-operations",
+      "level": "primary-6",
+      "title": "Mixed Operations with Millions and Unknowns",
+      "path": "data/primary/year-6/million-operations.json"
+    },
+    {
+      "id": "primary-6-assets-liabilities",
+      "level": "primary-6",
+      "title": "Assets and Liabilities",
+      "path": "data/primary/year-6/assets-liabilities.json"
+    },
+    {
+      "id": "primary-6-insurance-takaful",
+      "level": "primary-6",
+      "title": "Insurance, Takaful and Financial Protection",
+      "path": "data/primary/year-6/insurance-takaful.json"
+    },
+    {
+      "id": "primary-6-circle-parts",
+      "level": "primary-6",
+      "title": "Circle: Centre, Radius and Diameter",
+      "path": "data/primary/year-6/circle-parts.json"
+    },
+    {
+      "id": "primary-6-drawing-angles",
+      "level": "primary-6",
+      "title": "Constructing Angles and Regular Polygons",
+      "path": "data/primary/year-6/drawing-angles.json"
+    },
+    {
+      "id": "primary-6-scaled-coordinates",
+      "level": "primary-6",
+      "title": "Scaled Distances on a Coordinate Grid",
+      "path": "data/primary/year-6/scaled-coordinates.json"
+    },
+    {
+      "id": "primary-6-likelihood",
+      "level": "primary-6",
+      "title": "Likelihood of Everyday Events",
+      "path": "data/primary/year-6/likelihood.json"
+    },
+    {
+      "id": "primary-6-measurement-relationships",
+      "level": "primary-6",
+      "title": "Applied Relationships Between Measurements",
+      "path": "data/primary/year-6/measurement-relationships.json"
     },
     {
       "id": "secondary-1-direct-inverse-proportion",

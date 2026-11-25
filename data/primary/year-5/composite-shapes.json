@@ -1,0 +1,65 @@
+{
+  "id": "primary-5-composite-shapes",
+  "title": "Perimeter and Area of Combined Shapes",
+  "level": "primary-5",
+  "category": "Geometry",
+  "introduction": "Explore perimeter and area of combined shapes using everyday examples.",
+  "definition": "Split a combined shape into nonoverlapping rectangles, squares or triangles to calculate area. For perimeter, count the outside boundary only and omit shared edges.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "A 6×4 cm rectangle shares a complete 4 cm side with a 4×4 cm square.",
+      "steps": [
+        "Area=24+16; perimeter=20+16−8."
+      ],
+      "answer": "40 cm²; 28 cm"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Two squares of side 3 cm share a side. Area?",
+      "answer": 18,
+      "solution": "Answer: 18"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Two squares of side 3 cm share a side. Perimeter?",
+      "answer": 18,
+      "solution": "Answer: 18"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Rectangle 8×5 plus nonoverlapping triangle base 6 height 4. Area?",
+      "answer": 52,
+      "solution": "Answer: 52"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Two nonoverlapping triangles have areas 10 and 12. Total?",
+      "answer": 22,
+      "solution": "Answer: 22"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Square side 5 and rectangle 5×2 share side 5. Perimeter?",
+      "answer": 24,
+      "solution": "Answer: 24"
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Rectangle 10×8 with 2×3 corner cut out. Area?",
+      "answer": 74,
+      "solution": "Answer: 74"
+    }
+  ],
+  "summary": "Split a combined shape into nonoverlapping rectangles, squares or triangles to calculate area. For perimeter, count the outside boundary only and omit shared edges.",
+  "relatedTopics": []
+}

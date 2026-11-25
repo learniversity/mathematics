@@ -1,0 +1,121 @@
+{
+  "id": "primary-2-proper-fractions",
+  "title": "Recognising and Comparing Proper Fractions",
+  "level": "primary-2",
+  "category": "Arithmetic",
+  "introduction": "Explore recognising and comparing proper fractions using everyday examples.",
+  "definition": "A proper positive fraction has a numerator smaller than its denominator. Use equally sized parts of the same whole. For Year 2 practise denominators up to ten and compare simple fractions using drawings.",
+  "visuals": [
+    {
+      "label": "3/4",
+      "description": "Three of four equal parts.",
+      "alt": "3/4 — Three of four equal parts.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 10,
+            "y": 28,
+            "width": 35,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 45,
+            "y": 28,
+            "width": 35,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 80,
+            "y": 28,
+            "width": 35,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 115,
+            "y": 28,
+            "width": 35,
+            "height": 44
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Compare 1/4 and 3/4.",
+      "steps": [
+        "Both have four equal parts; three selected parts exceed one."
+      ],
+      "answer": "3/4 is greater"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Numerator of 3/8?",
+      "answer": 3,
+      "solution": "Answer: 3"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Denominator of 7/10?",
+      "answer": 10,
+      "solution": "Answer: 10"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Which numerator is bigger in 2/5 and 4/5?",
+      "answer": 4,
+      "solution": "Answer: 4"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "How many fourths make a whole?",
+      "answer": 4,
+      "solution": "Answer: 4"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Write three of ten equal parts as a fraction.",
+      "answer": "3/10",
+      "solution": "Answer: 3/10"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Insert >, < or = : 1/2 __ 1/4",
+      "answer": ">",
+      "solution": "Answer: >"
+    }
+  ],
+  "summary": "A proper positive fraction has a numerator smaller than its denominator. Use equally sized parts of the same whole. For Year 2 practise denominators up to ten and compare simple fractions using drawings.",
+  "relatedTopics": []
+}

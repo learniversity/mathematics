@@ -1,0 +1,1273 @@
+{
+  "id": "primary-3-percentages",
+  "title": "Hundredths and Percentages",
+  "level": "primary-3",
+  "category": "Arithmetic",
+  "introduction": "Explore hundredths and percentages using everyday examples.",
+  "definition": "A percentage expresses a quantity out of one hundred. The symbol % means per hundred. A hundred-square grid helps connect decimals, fractions and percentages.",
+  "visuals": [
+    {
+      "label": "37%",
+      "description": "37 of 100 equal cells.",
+      "alt": "37% — 37 of 100 equal cells.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 40,
+            "y": 10,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 48,
+            "y": 10,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 56,
+            "y": 10,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 64,
+            "y": 10,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 72,
+            "y": 10,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 80,
+            "y": 10,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 88,
+            "y": 10,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 96,
+            "y": 10,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 104,
+            "y": 10,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 112,
+            "y": 10,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 40,
+            "y": 18,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 48,
+            "y": 18,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 56,
+            "y": 18,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 64,
+            "y": 18,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 72,
+            "y": 18,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 80,
+            "y": 18,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 88,
+            "y": 18,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 96,
+            "y": 18,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 104,
+            "y": 18,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 112,
+            "y": 18,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 40,
+            "y": 26,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 48,
+            "y": 26,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 56,
+            "y": 26,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 64,
+            "y": 26,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 72,
+            "y": 26,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 80,
+            "y": 26,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 88,
+            "y": 26,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 96,
+            "y": 26,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 104,
+            "y": 26,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 112,
+            "y": 26,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 40,
+            "y": 34,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 48,
+            "y": 34,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 56,
+            "y": 34,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 64,
+            "y": 34,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 72,
+            "y": 34,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 80,
+            "y": 34,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 88,
+            "y": 34,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 96,
+            "y": 34,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 104,
+            "y": 34,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 112,
+            "y": 34,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 40,
+            "y": 42,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 48,
+            "y": 42,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 56,
+            "y": 42,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 64,
+            "y": 42,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 72,
+            "y": 42,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 80,
+            "y": 42,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 88,
+            "y": 42,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 96,
+            "y": 42,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 104,
+            "y": 42,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 112,
+            "y": 42,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 40,
+            "y": 50,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 48,
+            "y": 50,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 56,
+            "y": 50,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 64,
+            "y": 50,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 72,
+            "y": 50,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 80,
+            "y": 50,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 88,
+            "y": 50,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 96,
+            "y": 50,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 104,
+            "y": 50,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 112,
+            "y": 50,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 40,
+            "y": 58,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 48,
+            "y": 58,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 56,
+            "y": 58,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 64,
+            "y": 58,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 72,
+            "y": 58,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 80,
+            "y": 58,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 88,
+            "y": 58,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 96,
+            "y": 58,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 104,
+            "y": 58,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 112,
+            "y": 58,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 40,
+            "y": 66,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 48,
+            "y": 66,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 56,
+            "y": 66,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 64,
+            "y": 66,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 72,
+            "y": 66,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 80,
+            "y": 66,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 88,
+            "y": 66,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 96,
+            "y": 66,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 104,
+            "y": 66,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 112,
+            "y": 66,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 40,
+            "y": 74,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 48,
+            "y": 74,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 56,
+            "y": 74,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 64,
+            "y": 74,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 72,
+            "y": 74,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 80,
+            "y": 74,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 88,
+            "y": 74,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 96,
+            "y": 74,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 104,
+            "y": 74,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 112,
+            "y": 74,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 40,
+            "y": 82,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 48,
+            "y": 82,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 56,
+            "y": 82,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 64,
+            "y": 82,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 72,
+            "y": 82,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 80,
+            "y": 82,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 88,
+            "y": 82,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 96,
+            "y": 82,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 104,
+            "y": 82,
+            "width": 8,
+            "height": 8
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.6,
+            "x": 112,
+            "y": 82,
+            "width": 8,
+            "height": 8
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Express 37 shaded squares out of 100.",
+      "steps": [
+        "37/100 equals 0.37 and 37%."
+      ],
+      "answer": "37%"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Write 45/100 as percent (number only).",
+      "answer": 45,
+      "solution": "Answer: 45"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Write 0.6 as percent (number only).",
+      "answer": 60,
+      "solution": "Answer: 60"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Write 25% as decimal.",
+      "answer": 0.25,
+      "solution": "Answer: 0.25"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "How many cells shaded for 80% of a 100-cell grid?",
+      "answer": 80,
+      "solution": "Answer: 80"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Write 0.09 as percent (number only).",
+      "answer": 9,
+      "solution": "Answer: 9"
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Write 100% as a whole number.",
+      "answer": 1,
+      "solution": "Answer: 1"
+    }
+  ],
+  "summary": "A percentage expresses a quantity out of one hundred. The symbol % means per hundred. A hundred-square grid helps connect decimals, fractions and percentages.",
+  "relatedTopics": []
+}

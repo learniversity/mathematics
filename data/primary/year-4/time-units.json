@@ -1,0 +1,65 @@
+{
+  "id": "primary-4-time-units",
+  "title": "Days, Weeks, Years and Longer Time Units",
+  "level": "primary-4",
+  "category": "Measurement",
+  "introduction": "Explore days, weeks, years and longer time units using everyday examples.",
+  "definition": "A day has 24 hours, a week has seven days and a year has twelve months. A decade contains 10 years, a century 100 and a millennium 1,000. Months differ in length; do not assume each is four weeks.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Convert 3 decades and 5 years to years.",
+      "steps": [
+        "3 × 10 + 5."
+      ],
+      "answer": "35"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "3 days in hours?",
+      "answer": 72,
+      "solution": "Answer: 72"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "4 weeks in days?",
+      "answer": 28,
+      "solution": "Answer: 28"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "2 years in months?",
+      "answer": 24,
+      "solution": "Answer: 24"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "5 decades in years?",
+      "answer": 50,
+      "solution": "Answer: 50"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "3 centuries in years?",
+      "answer": 300,
+      "solution": "Answer: 300"
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "1 millennium in centuries?",
+      "answer": 10,
+      "solution": "Answer: 10"
+    }
+  ],
+  "summary": "A day has 24 hours, a week has seven days and a year has twelve months. A decade contains 10 years, a century 100 and a millennium 1,000. Months differ in length; do not assume each is four weeks.",
+  "relatedTopics": []
+}

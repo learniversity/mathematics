@@ -1,0 +1,172 @@
+{
+  "id": "primary-1-currency-denominations",
+  "title": "Malaysian Coins and Notes",
+  "level": "primary-1",
+  "category": "Measurement",
+  "introduction": "Explore malaysian coins and notes using everyday examples.",
+  "definition": "Common Malaysian circulation coins are 5, 10, 20 and 50 sen. Current ordinary banknote denominations include RM1, RM5, RM10, RM20, RM50 and RM100. One ringgit equals 100 sen. In Year 1 practise combinations within RM10 and coins within RM1.",
+  "visuals": [
+    {
+      "label": "Coin values",
+      "description": "5, 10, 20 and 50 sen; schematic value labels, not replicas.",
+      "alt": "Coin values — 5, 10, 20 and 50 sen; schematic value labels, not replicas.",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 23,
+            "cy": 46,
+            "r": 16
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 23,
+            "y": 49,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "5"
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 61,
+            "cy": 46,
+            "r": 16
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 61,
+            "y": 49,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "10"
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 99,
+            "cy": 46,
+            "r": 16
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 99,
+            "y": 49,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "20"
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 137,
+            "cy": 46,
+            "r": 16
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 137,
+            "y": 49,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "50"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 81,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "sen"
+        }
+      ]
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Combine a 50 sen coin and two 20 sen coins.",
+      "steps": [
+        "50 + 20 + 20."
+      ],
+      "answer": "90"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Two 50 sen coins make how many sen?",
+      "answer": 100,
+      "solution": "Answer: 100"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "A 20 sen coin and a 10 sen coin total?",
+      "answer": 30,
+      "solution": "Answer: 30"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "RM5 + RM1 + RM1, in RM?",
+      "answer": 7,
+      "solution": "Answer: 7"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "How many 10 sen coins make RM1?",
+      "answer": 10,
+      "solution": "Answer: 10"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "RM10 − RM4, in RM?",
+      "answer": 6,
+      "solution": "Answer: 6"
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Four 5 sen coins total how many sen?",
+      "answer": 20,
+      "solution": "Answer: 20"
+    }
+  ],
+  "summary": "Common Malaysian circulation coins are 5, 10, 20 and 50 sen. Current ordinary banknote denominations include RM1, RM5, RM10, RM20, RM50 and RM100. One ringgit equals 100 sen. In Year 1 practise combinations within RM10 and coins within RM1.",
+  "relatedTopics": []
+}

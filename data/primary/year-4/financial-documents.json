@@ -1,0 +1,65 @@
+{
+  "id": "primary-4-financial-documents",
+  "title": "Bills, Receipts, Invoices and Vouchers",
+  "level": "primary-4",
+  "category": "Measurement",
+  "introduction": "Explore bills, receipts, invoices and vouchers using everyday examples.",
+  "definition": "A bill states an amount due, an invoice requests payment for goods or services, a receipt records payment, and a voucher may provide a specified reduction. Read quantities, prices, totals and amounts paid.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "An invoice lists 3 books at RM12 and delivery RM4.",
+      "steps": [
+        "3 × 12 + 4."
+      ],
+      "answer": "RM40"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "4 items at RM8 each. Invoice subtotal?",
+      "answer": 32,
+      "solution": "Answer: 32"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "RM50 bill, RM5 voucher. Amount due?",
+      "answer": 45,
+      "solution": "Answer: 45"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "RM80 paid on a RM100 invoice. Balance?",
+      "answer": 20,
+      "solution": "Answer: 20"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Receipt shows RM25 and RM15. Total?",
+      "answer": 40,
+      "solution": "Answer: 40"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "RM60 purchase with RM10 voucher and RM50 payment. Balance?",
+      "answer": 0,
+      "solution": "Answer: 0"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Which document records payment: invoice or receipt?",
+      "answer": "receipt",
+      "solution": "Answer: receipt"
+    }
+  ],
+  "summary": "A bill states an amount due, an invoice requests payment for goods or services, a receipt records payment, and a voucher may provide a specified reduction. Read quantities, prices, totals and amounts paid.",
+  "relatedTopics": []
+}

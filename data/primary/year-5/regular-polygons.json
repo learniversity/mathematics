@@ -1,0 +1,65 @@
+{
+  "id": "primary-5-regular-polygons",
+  "title": "Regular Polygons, Diagonals and Symmetry",
+  "level": "primary-5",
+  "category": "Geometry",
+  "introduction": "Explore regular polygons, diagonals and symmetry using everyday examples.",
+  "definition": "A regular polygon has equal sides and equal interior angles. A diagonal joins non-adjacent vertices. Identify regular polygons up to eight sides, their corners and lines of symmetry; use a protractor to measure angles.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Identify a regular polygon with six sides.",
+      "steps": [
+        "Six sides form a hexagon."
+      ],
+      "answer": "regular hexagon"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Number of sides of an octagon?",
+      "answer": 8,
+      "solution": "Answer: 8"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Number of vertices of a regular pentagon?",
+      "answer": 5,
+      "solution": "Answer: 5"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Lines of symmetry of a square?",
+      "answer": 4,
+      "solution": "Answer: 4"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Diagonals of a square?",
+      "answer": 2,
+      "solution": "Answer: 2"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Name a regular polygon with 3 sides.",
+      "answer": "equilateral triangle",
+      "solution": "Answer: equilateral triangle"
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Number of lines of symmetry of a regular hexagon?",
+      "answer": 6,
+      "solution": "Answer: 6"
+    }
+  ],
+  "summary": "A regular polygon has equal sides and equal interior angles. A diagonal joins non-adjacent vertices. Identify regular polygons up to eight sides, their corners and lines of symmetry; use a protractor to measure angles.",
+  "relatedTopics": []
+}

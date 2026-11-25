@@ -1,0 +1,65 @@
+{
+  "id": "primary-3-mixed-fraction-recognition",
+  "title": "Recognising Improper Fractions and Mixed Numbers",
+  "level": "primary-3",
+  "category": "Arithmetic",
+  "introduction": "Explore recognising improper fractions and mixed numbers using everyday examples.",
+  "definition": "A proper fraction is less than one whole. An improper fraction has numerator at least its positive denominator. A mixed number shows whole units plus a proper fraction. Use equal partitions with denominators up to ten.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Four quarters and one more quarter make 5/4.",
+      "steps": [
+        "Four quarters form one whole, one quarter remains."
+      ],
+      "answer": "1 1/4"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Is 2/5 proper or improper?",
+      "answer": "proper",
+      "solution": "Answer: proper"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Is 7/5 proper or improper?",
+      "answer": "improper",
+      "solution": "Answer: improper"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "How many quarters make one whole?",
+      "answer": 4,
+      "solution": "Answer: 4"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Whole-number part of 1 3/4?",
+      "answer": 1,
+      "solution": "Answer: 1"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Numerator of the fraction part of 2 1/3?",
+      "answer": 1,
+      "solution": "Answer: 1"
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "How many halves make two wholes?",
+      "answer": 4,
+      "solution": "Answer: 4"
+    }
+  ],
+  "summary": "A proper fraction is less than one whole. An improper fraction has numerator at least its positive denominator. A mixed number shows whole units plus a proper fraction. Use equal partitions with denominators up to ten.",
+  "relatedTopics": []
+}

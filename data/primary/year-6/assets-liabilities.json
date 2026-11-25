@@ -1,0 +1,65 @@
+{
+  "id": "primary-6-assets-liabilities",
+  "title": "Assets and Liabilities",
+  "level": "primary-6",
+  "category": "Measurement",
+  "introduction": "Explore assets and liabilities using everyday examples.",
+  "definition": "An asset is something of economic value owned or controlled; a liability is an obligation such as debt. Net worth in a simple example is total assets minus total liabilities. Assets can change in value.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Assets RM2,000 and debt RM450.",
+      "steps": [
+        "2,000 − 450."
+      ],
+      "answer": "RM1,550 net worth"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Assets RM800, liabilities RM250. Net worth?",
+      "answer": 550,
+      "solution": "Answer: 550"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Savings RM300 and bicycle value RM200. Total assets?",
+      "answer": 500,
+      "solution": "Answer: 500"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Debt RM600, repay RM150. Remaining?",
+      "answer": 450,
+      "solution": "Answer: 450"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Asset falls from RM500 to RM400. Decline?",
+      "answer": 100,
+      "solution": "Answer: 100"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Assets RM2,400, liabilities RM900. Net worth?",
+      "answer": 1500,
+      "solution": "Answer: 1500"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Is an unpaid loan a liability? yes/no",
+      "answer": "yes",
+      "solution": "Answer: yes"
+    }
+  ],
+  "summary": "An asset is something of economic value owned or controlled; a liability is an obligation such as debt. Net worth in a simple example is total assets minus total liabilities. Assets can change in value.",
+  "relatedTopics": []
+}

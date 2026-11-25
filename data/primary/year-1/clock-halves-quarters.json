@@ -1,0 +1,588 @@
+{
+  "id": "primary-1-clock-halves-quarters",
+  "title": "Reading Half and Quarter Hours",
+  "level": "primary-1",
+  "category": "Measurement",
+  "introduction": "Explore reading half and quarter hours using everyday examples.",
+  "definition": "The hour hand is shorter and the minute hand is longer. When the minute hand points to 12 it is an exact hour; at 3 it is quarter past; at 6 it is half past; at 9 it is quarter to the next hour.",
+  "visuals": [
+    {
+      "label": "2:00",
+      "description": "Read hour and minute hands.",
+      "alt": "2:00 — Read hour and minute hands.",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 80,
+            "cy": 50,
+            "r": 45
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 97.5,
+            "y": 22.689110867544645,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "1"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 110.31088913245534,
+            "y": 35.5,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "2"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 115,
+            "y": 53,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "3"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 110.31088913245536,
+            "y": 70.5,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "4"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 97.5,
+            "y": 83.31088913245536,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "5"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 88,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "6"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 62.500000000000014,
+            "y": 83.31088913245536,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "7"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 49.689110867544656,
+            "y": 70.50000000000001,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "8"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 45,
+            "y": 53.00000000000001,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "9"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 49.68911086754465,
+            "y": 35.5,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "10"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 62.499999999999986,
+            "y": 22.689110867544656,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "11"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 79.99999999999999,
+            "y": 18,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "12"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 80,
+            "y1": 50,
+            "x2": 80,
+            "y2": 21
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 4,
+            "x1": 80,
+            "y1": 50,
+            "x2": 97.32050807568876,
+            "y2": 40
+          }
+        }
+      ]
+    },
+    {
+      "label": "2:15",
+      "description": "Read hour and minute hands.",
+      "alt": "2:15 — Read hour and minute hands.",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 80,
+            "cy": 50,
+            "r": 45
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 97.5,
+            "y": 22.689110867544645,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "1"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 110.31088913245534,
+            "y": 35.5,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "2"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 115,
+            "y": 53,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "3"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 110.31088913245536,
+            "y": 70.5,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "4"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 97.5,
+            "y": 83.31088913245536,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "5"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 88,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "6"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 62.500000000000014,
+            "y": 83.31088913245536,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "7"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 49.689110867544656,
+            "y": 70.50000000000001,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "8"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 45,
+            "y": 53.00000000000001,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "9"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 49.68911086754465,
+            "y": 35.5,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "10"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 62.499999999999986,
+            "y": 22.689110867544656,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "11"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 79.99999999999999,
+            "y": 18,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "12"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 80,
+            "y1": 50,
+            "x2": 109,
+            "y2": 49.99999999999999
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 4,
+            "x1": 80,
+            "y1": 50,
+            "x2": 98.47759065022574,
+            "y2": 42.3463313526982
+          }
+        }
+      ]
+    },
+    {
+      "label": "2:30",
+      "description": "Read hour and minute hands.",
+      "alt": "2:30 — Read hour and minute hands.",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 80,
+            "cy": 50,
+            "r": 45
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 97.5,
+            "y": 22.689110867544645,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "1"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 110.31088913245534,
+            "y": 35.5,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "2"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 115,
+            "y": 53,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "3"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 110.31088913245536,
+            "y": 70.5,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "4"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 97.5,
+            "y": 83.31088913245536,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "5"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 88,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "6"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 62.500000000000014,
+            "y": 83.31088913245536,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "7"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 49.689110867544656,
+            "y": 70.50000000000001,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "8"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 45,
+            "y": 53.00000000000001,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "9"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 49.68911086754465,
+            "y": 35.5,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "10"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 62.499999999999986,
+            "y": 22.689110867544656,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "11"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 79.99999999999999,
+            "y": 18,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "12"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 80,
+            "y1": 50,
+            "x2": 80.00000000000001,
+            "y2": 79
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 4,
+            "x1": 80,
+            "y1": 50,
+            "x2": 99.31851652578136,
+            "y2": 44.82361909794959
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "The minute hand points to 6 and the hour hand is between 2 and 3.",
+      "steps": [
+        "It is half past two."
+      ],
+      "answer": "2:30"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Minute hand at 3 means how many minutes past?",
+      "answer": 15,
+      "solution": "Answer: 15"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Minute hand at 6 means how many minutes past?",
+      "answer": 30,
+      "solution": "Answer: 30"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Minute hand at 9 means how many minutes past?",
+      "answer": 45,
+      "solution": "Answer: 45"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Half past four in H:MM?",
+      "answer": "4:30",
+      "solution": "Answer: 4:30"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Quarter past seven in H:MM?",
+      "answer": "7:15",
+      "solution": "Answer: 7:15"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Quarter to nine in H:MM?",
+      "answer": "8:45",
+      "solution": "Answer: 8:45"
+    }
+  ],
+  "summary": "The hour hand is shorter and the minute hand is longer. When the minute hand points to 12 it is an exact hour; at 3 it is quarter past; at 6 it is half past; at 9 it is quarter to the next hour.",
+  "relatedTopics": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": "primary-6-insurance-takaful",
+  "title": "Insurance, Takaful and Financial Protection",
+  "level": "primary-6",
+  "category": "Measurement",
+  "introduction": "Explore insurance, takaful and financial protection using everyday examples.",
+  "definition": "Insurance provides specified protection against risks in exchange for a premium. Takaful uses a mutual assistance arrangement with participant contributions. Protection depends on the contract, limits and exclusions; it is not a guarantee that every loss is paid.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "A simplified protection plan costs RM20 monthly.",
+      "steps": [
+        "20 × 12."
+      ],
+      "answer": "RM240 per year"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "RM15 monthly for 12 months. Annual cost?",
+      "answer": 180,
+      "solution": "Answer: 180"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "RM120 yearly contribution split equally over 12 months. Monthly?",
+      "answer": 10,
+      "solution": "Answer: 10"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Covered loss RM500, stated benefit RM350. Uncovered amount?",
+      "answer": 150,
+      "solution": "Answer: 150"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Two hypothetical annual premiums RM180 and RM240. Difference?",
+      "answer": 60,
+      "solution": "Answer: 60"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Does financial protection depend on stated terms? yes/no",
+      "answer": "yes",
+      "solution": "Answer: yes"
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "RM25 monthly contribution for 6 months. Total?",
+      "answer": 150,
+      "solution": "Answer: 150"
+    }
+  ],
+  "summary": "Insurance provides specified protection against risks in exchange for a premium. Takaful uses a mutual assistance arrangement with participant contributions. Protection depends on the contract, limits and exclusions; it is not a guarantee that every loss is paid.",
+  "relatedTopics": []
+}

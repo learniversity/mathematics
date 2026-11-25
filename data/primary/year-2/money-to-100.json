@@ -1,0 +1,65 @@
+{
+  "id": "primary-2-money-to-100",
+  "title": "Money Values and Transactions to RM100",
+  "level": "primary-2",
+  "category": "Measurement",
+  "introduction": "Explore money values and transactions to rm100 using everyday examples.",
+  "definition": "Recognise Malaysian notes and coins and combine their values. Write ringgit amounts with two decimal places; convert sen to ringgit by dividing by 100.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Two RM20 notes, one RM10 note and 50 sen.",
+      "steps": [
+        "40 + 10 + 0.50."
+      ],
+      "answer": "RM50.50"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Three RM20 notes, total RM?",
+      "answer": 60,
+      "solution": "Answer: 60"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "RM50 + RM10 + RM5?",
+      "answer": 65,
+      "solution": "Answer: 65"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "RM85.50 − RM20.25?",
+      "answer": 65.25,
+      "solution": "Answer: 65.25"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "RM100 paid for RM73.50. Change RM?",
+      "answer": 26.5,
+      "solution": "Answer: 26.5"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "250 sen in RM?",
+      "answer": 2.5,
+      "solution": "Answer: 2.5"
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "RM12.80 + RM7.20?",
+      "answer": 20,
+      "solution": "Answer: 20"
+    }
+  ],
+  "summary": "Recognise Malaysian notes and coins and combine their values. Write ringgit amounts with two decimal places; convert sen to ringgit by dividing by 100.",
+  "relatedTopics": []
+}

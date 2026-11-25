@@ -1,0 +1,65 @@
+{
+  "id": "primary-5-credit-debt",
+  "title": "Credit and Debt Management",
+  "level": "primary-5",
+  "category": "Measurement",
+  "introduction": "Explore credit and debt management using everyday examples.",
+  "definition": "Credit permits payment later and creates an obligation to repay. Debt is money owed. Compare the total instalments and any fees with the cash price, and plan repayments within a budget.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Cash price RM300; credit plan is six payments of RM55.",
+      "steps": [
+        "6 × 55 = 330; extra cost 330 − 300."
+      ],
+      "answer": "RM30 extra"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "8 payments of RM40. Total RM?",
+      "answer": 320,
+      "solution": "Answer: 320"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Cash RM200, credit total RM230. Extra RM?",
+      "answer": 30,
+      "solution": "Answer: 30"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Debt RM150, repay RM60. Remaining?",
+      "answer": 90,
+      "solution": "Answer: 90"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "12 payments of RM25. Total?",
+      "answer": 300,
+      "solution": "Answer: 300"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Budget RM100, repayment RM35. Remaining?",
+      "answer": 65,
+      "solution": "Answer: 65"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Does unpaid credit create debt? yes/no",
+      "answer": "yes",
+      "solution": "Answer: yes"
+    }
+  ],
+  "summary": "Credit permits payment later and creates an obligation to repay. Debt is money owed. Compare the total instalments and any fees with the cash price, and plan repayments within a budget.",
+  "relatedTopics": []
+}

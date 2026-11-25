@@ -1,0 +1,157 @@
+{
+  "id": "primary-1-nonstandard-length",
+  "title": "Length Using Non-Standard Units",
+  "level": "primary-1",
+  "category": "Measurement",
+  "introduction": "Explore length using non-standard units using everyday examples.",
+  "definition": "Measure length by placing equal-sized objects end to end without gaps or overlaps. Use the same unit when comparing lengths.",
+  "visuals": [
+    {
+      "label": "Six equal blocks",
+      "description": "Measure without gaps.",
+      "alt": "Six equal blocks — Measure without gaps.",
+      "elements": [
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 8,
+            "y1": 24,
+            "x2": 152,
+            "y2": 24
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 8,
+            "y": 40,
+            "width": 24,
+            "height": 24
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 32,
+            "y": 40,
+            "width": 24,
+            "height": 24
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 56,
+            "y": 40,
+            "width": 24,
+            "height": 24
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 80,
+            "y": 40,
+            "width": 24,
+            "height": 24
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 104,
+            "y": 40,
+            "width": 24,
+            "height": 24
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 128,
+            "y": 40,
+            "width": 24,
+            "height": 24
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "A pencil covers six equal blocks.",
+      "steps": [
+        "Count the six blocks."
+      ],
+      "answer": "6"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "A ribbon covers 8 blocks and another covers 5. Which is longer? Enter block count.",
+      "answer": 8,
+      "solution": "Answer: 8"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "A line covers 7 equal clips. Length in clips?",
+      "answer": 7,
+      "solution": "Answer: 7"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Two lines cover 6 and 4 blocks. Difference?",
+      "answer": 2,
+      "solution": "Answer: 2"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Should units have equal length? yes/no",
+      "answer": "yes",
+      "solution": "Answer: yes"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Should there be gaps between units? yes/no",
+      "answer": "no",
+      "solution": "Answer: no"
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "A book is 3 hand spans long. Another is 2 hand spans using the same hand. Total spans?",
+      "answer": 5,
+      "solution": "Answer: 5"
+    }
+  ],
+  "summary": "Measure length by placing equal-sized objects end to end without gaps or overlaps. Use the same unit when comparing lengths.",
+  "relatedTopics": []
+}

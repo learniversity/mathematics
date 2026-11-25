@@ -1,0 +1,100 @@
+{
+  "id": "primary-1-nonstandard-capacity",
+  "title": "Capacity Using Cups and Containers",
+  "level": "primary-1",
+  "category": "Measurement",
+  "introduction": "Explore capacity using cups and containers using everyday examples.",
+  "definition": "Capacity describes how much a container can hold. Fill containers with the same sized cup to compare their capacities. Count complete cups and avoid spilling.",
+  "visuals": [
+    {
+      "label": "Three equal cups",
+      "description": "Count the same-sized cups.",
+      "alt": "Three equal cups — Count the same-sized cups.",
+      "elements": [
+        {
+          "tag": "polygon",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "points": "15,30 49,30 43,75 21,75"
+          }
+        },
+        {
+          "tag": "polygon",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "points": "63,30 97,30 91,75 69,75"
+          }
+        },
+        {
+          "tag": "polygon",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "points": "111,30 145,30 139,75 117,75"
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "A jug holds five equal cups.",
+      "steps": [
+        "Count five cups of water."
+      ],
+      "answer": "5"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "A bottle holds 3 cups. Another holds 6. Larger capacity in cups?",
+      "answer": 6,
+      "solution": "Answer: 6"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "A bucket holds 8 cups; add 3 cups. Empty capacity in cups?",
+      "answer": 5,
+      "solution": "Answer: 5"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Two jugs hold 4 cups each. Total?",
+      "answer": 8,
+      "solution": "Answer: 8"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Should comparison cups have equal size? yes/no",
+      "answer": "yes",
+      "solution": "Answer: yes"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "A jug holds 7 cups; remove 2 from a full jug. Remaining?",
+      "answer": 5,
+      "solution": "Answer: 5"
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "A cup holds less than a jug of 5 such cups. How many cups fill the jug?",
+      "answer": 5,
+      "solution": "Answer: 5"
+    }
+  ],
+  "summary": "Capacity describes how much a container can hold. Fill containers with the same sized cup to compare their capacities. Count complete cups and avoid spilling.",
+  "relatedTopics": []
+}

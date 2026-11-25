@@ -1,0 +1,183 @@
+{
+  "id": "primary-6-likelihood",
+  "title": "Likelihood of Everyday Events",
+  "level": "primary-6",
+  "category": "Probability",
+  "introduction": "Explore likelihood of everyday events using everyday examples.",
+  "definition": "Likelihood describes whether an event can happen. Use impossible, unlikely, equally likely, likely and certain. Reason from the situation; equally likely describes two outcomes with the same chance, not merely any uncertain event.",
+  "visuals": [
+    {
+      "label": "Likely and unlikely",
+      "description": "Nine filled counters and one unfilled counter.",
+      "alt": "Likely and unlikely — Nine filled counters and one unfilled counter.",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 24,
+            "cy": 28,
+            "r": 9
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 52,
+            "cy": 28,
+            "r": 9
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 80,
+            "cy": 28,
+            "r": 9
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 108,
+            "cy": 28,
+            "r": 9
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 136,
+            "cy": 28,
+            "r": 9
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 24,
+            "cy": 72,
+            "r": 9
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 52,
+            "cy": 72,
+            "r": 9
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 80,
+            "cy": 72,
+            "r": 9
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 108,
+            "cy": 72,
+            "r": 9
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 136,
+            "cy": 72,
+            "r": 9
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "A bag contains only red counters. Draw one counter.",
+      "steps": [
+        "Every counter is red."
+      ],
+      "answer": "Drawing red is certain"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "A fair coin lands heads. Likelihood compared with tails: equally likely or impossible?",
+      "answer": "equally likely",
+      "solution": "Answer: equally likely"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Roll a 7 on a normal six-sided die: impossible or certain?",
+      "answer": "impossible",
+      "solution": "Answer: impossible"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Draw red from a bag of only red counters: certain or unlikely?",
+      "answer": "certain",
+      "solution": "Answer: certain"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Bag has 9 blue and 1 red. Drawing red: likely or unlikely?",
+      "answer": "unlikely",
+      "solution": "Answer: unlikely"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Bag has 9 blue and 1 red. Drawing blue: likely or unlikely?",
+      "answer": "likely",
+      "solution": "Answer: likely"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Roll a number 1 to 6 on a standard six-sided die: certain or impossible?",
+      "answer": "certain",
+      "solution": "Answer: certain"
+    }
+  ],
+  "summary": "Likelihood describes whether an event can happen. Use impossible, unlikely, equally likely, likely and certain. Reason from the situation; equally likely describes two outcomes with the same chance, not merely any uncertain event.",
+  "relatedTopics": []
+}

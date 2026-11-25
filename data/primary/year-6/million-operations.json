@@ -1,0 +1,65 @@
+{
+  "id": "primary-6-million-operations",
+  "title": "Mixed Operations with Millions and Unknowns",
+  "level": "primary-6",
+  "category": "Arithmetic",
+  "introduction": "Explore mixed operations with millions and unknowns using everyday examples.",
+  "definition": "Convert fractional and decimal millions to matching units before operating. Follow brackets and the four-operation order. An unknown is a missing value that makes a number sentence true; use an inverse operation to find it.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Calculate 2.5 million + 3/4 million.",
+      "steps": [
+        "2,500,000 + 750,000."
+      ],
+      "answer": "3,250,000"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "1.2 million + 800,000?",
+      "answer": 2000000,
+      "solution": "Answer: 2000000"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "3 million − 1/2 million?",
+      "answer": 2500000,
+      "solution": "Answer: 2500000"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "0.25 million × 4?",
+      "answer": 1000000,
+      "solution": "Answer: 1000000"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "2.4 million ÷ 6?",
+      "answer": 400000,
+      "solution": "Answer: 400000"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "x + 1.5 million = 3 million. x as whole number?",
+      "answer": 1500000,
+      "solution": "Answer: 1500000"
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "(2 million + 1 million) ÷ 3?",
+      "answer": 1000000,
+      "solution": "Answer: 1000000"
+    }
+  ],
+  "summary": "Convert fractional and decimal millions to matching units before operating. Follow brackets and the four-operation order. An unknown is a missing value that makes a number sentence true; use an inverse operation to find it.",
+  "relatedTopics": []
+}

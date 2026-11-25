@@ -1,0 +1,65 @@
+{
+  "id": "primary-4-payment-methods",
+  "title": "Cash, Cards and Electronic Payments",
+  "level": "primary-4",
+  "category": "Measurement",
+  "introduction": "Explore cash, cards and electronic payments using everyday examples.",
+  "definition": "Cash uses notes and coins. Debit cards and electronic wallets pay using available balances, while credit cards can create debt. Record payments, balances and change; do not assume that all payment methods have the same fees.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "An e-wallet has RM60. Pay RM23.50.",
+      "steps": [
+        "60 − 23.50."
+      ],
+      "answer": "RM36.50"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Cash RM50, purchase RM32. Change RM?",
+      "answer": 18,
+      "solution": "Answer: 18"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Debit account RM120, payment RM45. Balance RM?",
+      "answer": 75,
+      "solution": "Answer: 75"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "E-wallet RM30, top up RM20. Balance RM?",
+      "answer": 50,
+      "solution": "Answer: 50"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "RM100 credit purchase, repay RM40. Debt RM?",
+      "answer": 60,
+      "solution": "Answer: 60"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Three RM8 electronic payments total RM?",
+      "answer": 24,
+      "solution": "Answer: 24"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Does unpaid credit-card spending create debt? yes/no",
+      "answer": "yes",
+      "solution": "Answer: yes"
+    }
+  ],
+  "summary": "Cash uses notes and coins. Debit cards and electronic wallets pay using available balances, while credit cards can create debt. Record payments, balances and change; do not assume that all payment methods have the same fees.",
+  "relatedTopics": []
+}

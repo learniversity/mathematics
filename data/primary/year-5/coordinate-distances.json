@@ -1,0 +1,284 @@
+{
+  "id": "primary-5-coordinate-distances",
+  "title": "Horizontal and Vertical Distances in the First Quadrant",
+  "level": "primary-5",
+  "category": "Geometry",
+  "introduction": "Explore horizontal and vertical distances in the first quadrant using everyday examples.",
+  "definition": "Coordinates (x,y) locate points in the first quadrant. Horizontal distance is the absolute difference of x-coordinates; vertical distance is the absolute difference of y-coordinates. These distances describe movement along the grid, not diagonal straight-line distance.",
+  "visuals": [
+    {
+      "label": "Horizontal and vertical distance",
+      "description": "Move 5 units right and 3 units up.",
+      "alt": "Horizontal and vertical distance — Move 5 units right and 3 units up.",
+      "elements": [
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 15,
+            "y1": 10,
+            "x2": 15,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 31,
+            "y1": 10,
+            "x2": 31,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 47,
+            "y1": 10,
+            "x2": 47,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 63,
+            "y1": 10,
+            "x2": 63,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 79,
+            "y1": 10,
+            "x2": 79,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 95,
+            "y1": 10,
+            "x2": 95,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 111,
+            "y1": 10,
+            "x2": 111,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 127,
+            "y1": 10,
+            "x2": 127,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 143,
+            "y1": 10,
+            "x2": 143,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 15,
+            "y1": 10,
+            "x2": 143,
+            "y2": 10
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 15,
+            "y1": 26,
+            "x2": 143,
+            "y2": 26
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 15,
+            "y1": 42,
+            "x2": 143,
+            "y2": 42
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 15,
+            "y1": 58,
+            "x2": 143,
+            "y2": 58
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 15,
+            "y1": 74,
+            "x2": 143,
+            "y2": 74
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.4,
+            "x1": 15,
+            "y1": 90,
+            "x2": 143,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "polyline",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "points": "31,74 111,74 111,26"
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 71,
+            "y": 69,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "5"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 124,
+            "y": 53,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "3"
+        }
+      ]
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "A=(2,3), B=(7,6).",
+      "steps": [
+        "Horizontal distance=7−2=5; vertical=6−3=3."
+      ],
+      "answer": "5 horizontal, 3 vertical"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Horizontal distance between (1,2) and (6,4)?",
+      "answer": 5,
+      "solution": "Answer: 5"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Vertical distance between (3,7) and (3,2)?",
+      "answer": 5,
+      "solution": "Answer: 5"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Horizontal distance between (2,8) and (9,8)?",
+      "answer": 7,
+      "solution": "Answer: 7"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Vertical distance between (1,4) and (5,6)?",
+      "answer": 2,
+      "solution": "Answer: 2"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "From (4,4), move 3 right. New x?",
+      "answer": 7,
+      "solution": "Answer: 7"
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "From (6,5), move 2 down. New y?",
+      "answer": 3,
+      "solution": "Answer: 3"
+    }
+  ],
+  "summary": "Coordinates (x,y) locate points in the first quadrant. Horizontal distance is the absolute difference of x-coordinates; vertical distance is the absolute difference of y-coordinates. These distances describe movement along the grid, not diagonal straight-line distance.",
+  "relatedTopics": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": "primary-6-scaled-coordinates",
+  "title": "Scaled Distances on a Coordinate Grid",
+  "level": "primary-6",
+  "category": "Geometry",
+  "introduction": "Explore scaled distances on a coordinate grid using everyday examples.",
+  "definition": "A first-quadrant coordinate grid can represent real distances using a scale. Find the horizontal and vertical coordinate differences separately, then multiply by the distance represented by one grid unit.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "A=(2,1), B=(6,4), each unit represents 2 km.",
+      "steps": [
+        "Horizontal=4×2; vertical=3×2."
+      ],
+      "answer": "8 km horizontal, 6 km vertical"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "A=(1,2), B=(5,2), 1 unit=3 km. Horizontal km?",
+      "answer": 12,
+      "solution": "Answer: 12"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "A=(4,1), B=(4,6), 1 unit=2 km. Vertical km?",
+      "answer": 10,
+      "solution": "Answer: 10"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "A=(2,3), B=(7,5), 1 unit=4 km. Horizontal km?",
+      "answer": 20,
+      "solution": "Answer: 20"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "A=(2,3), B=(7,5), 1 unit=4 km. Vertical km?",
+      "answer": 8,
+      "solution": "Answer: 8"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Map distance 3 cm, 1 cm=5 km. Actual km?",
+      "answer": 15,
+      "solution": "Answer: 15"
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Actual 24 km, 1 cm=6 km. Map cm?",
+      "answer": 4,
+      "solution": "Answer: 4"
+    }
+  ],
+  "summary": "A first-quadrant coordinate grid can represent real distances using a scale. Find the horizontal and vertical coordinate differences separately, then multiply by the distance represented by one grid unit.",
+  "relatedTopics": []
+}

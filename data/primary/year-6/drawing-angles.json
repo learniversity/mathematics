@@ -1,0 +1,65 @@
+{
+  "id": "primary-6-drawing-angles",
+  "title": "Constructing Angles and Regular Polygons",
+  "level": "primary-6",
+  "category": "Geometry",
+  "introduction": "Explore constructing angles and regular polygons using everyday examples.",
+  "definition": "A protractor measures angles up to 180 degrees. Place the centre at the vertex and align zero with the starting ray, mark the required angle and draw the second ray. Draw regular polygons on appropriate grids and measure their interior angles.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Construct a 60° angle.",
+      "steps": [
+        "Draw a ray, align the protractor, mark 60° and join the vertex to the mark."
+      ],
+      "answer": "60° angle"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Angle of a square corner in degrees?",
+      "answer": 90,
+      "solution": "Answer: 90"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Number of sides in a regular octagon?",
+      "answer": 8,
+      "solution": "Answer: 8"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Is 45° acute or obtuse?",
+      "answer": "acute",
+      "solution": "Answer: acute"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Is 135° acute or obtuse?",
+      "answer": "obtuse",
+      "solution": "Answer: obtuse"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Degrees in a straight angle?",
+      "answer": 180,
+      "solution": "Answer: 180"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Instrument for measuring an angle?",
+      "answer": "protractor",
+      "solution": "Answer: protractor"
+    }
+  ],
+  "summary": "A protractor measures angles up to 180 degrees. Place the centre at the vertex and align zero with the starting ray, mark the required angle and draw the second ray. Draw regular polygons on appropriate grids and measure their interior angles.",
+  "relatedTopics": []
+}

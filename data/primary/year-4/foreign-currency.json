@@ -1,0 +1,65 @@
+{
+  "id": "primary-4-foreign-currency",
+  "title": "Recognising Foreign Currencies",
+  "level": "primary-4",
+  "category": "Measurement",
+  "introduction": "Explore recognising foreign currencies using everyday examples.",
+  "definition": "Countries use different currencies. MYR denotes Malaysian ringgit, SGD Singapore dollar, USD US dollar, JPY Japanese yen and THB Thai baht. Currency amounts cannot be compared directly without an exchange rate. Use given hypothetical rates, not current market rates.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "At a classroom rate of SGD1 = RM3, convert SGD5.",
+      "steps": [
+        "5 × 3."
+      ],
+      "answer": "RM15"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Currency code of Malaysian ringgit?",
+      "answer": "MYR",
+      "solution": "Answer: MYR"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Currency code of Singapore dollar?",
+      "answer": "SGD",
+      "solution": "Answer: SGD"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "At USD1 = RM4, USD10 in RM?",
+      "answer": 40,
+      "solution": "Answer: 40"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "At SGD1 = RM3, RM18 in SGD?",
+      "answer": 6,
+      "solution": "Answer: 6"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "At THB10 = RM1, THB50 in RM?",
+      "answer": 5,
+      "solution": "Answer: 5"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Can currencies be compared without an exchange rate? yes/no",
+      "answer": "no",
+      "solution": "Answer: no"
+    }
+  ],
+  "summary": "Countries use different currencies. MYR denotes Malaysian ringgit, SGD Singapore dollar, USD US dollar, JPY Japanese yen and THB Thai baht. Currency amounts cannot be compared directly without an exchange rate. Use given hypothetical rates, not current market rates.",
+  "relatedTopics": []
+}

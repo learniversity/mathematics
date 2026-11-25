@@ -1,0 +1,65 @@
+{
+  "id": "primary-1-number-bonds",
+  "title": "Number Bonds and Number Patterns",
+  "level": "primary-1",
+  "category": "Arithmetic",
+  "introduction": "Explore number bonds and number patterns using everyday examples.",
+  "definition": "A number bond shows two parts that combine to make a total. Count in ones, twos, fives and tens to recognise repeating increases or decreases.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Complete 7 + ? = 10.",
+      "steps": [
+        "Count from 7 to 10: three more."
+      ],
+      "answer": "3"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "4 + ? = 10",
+      "answer": 6,
+      "solution": "Answer: 6"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "? + 3 = 8",
+      "answer": 5,
+      "solution": "Answer: 5"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "10,20,30,?",
+      "answer": 40,
+      "solution": "Answer: 40"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "2,4,6,?",
+      "answer": 8,
+      "solution": "Answer: 8"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "25,20,15,?",
+      "answer": 10,
+      "solution": "Answer: 10"
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "20 + ? = 50",
+      "answer": 30,
+      "solution": "Answer: 30"
+    }
+  ],
+  "summary": "A number bond shows two parts that combine to make a total. Count in ones, twos, fives and tens to recognise repeating increases or decreases.",
+  "relatedTopics": []
+}
