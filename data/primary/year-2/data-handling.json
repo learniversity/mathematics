@@ -1,0 +1,293 @@
+{
+  "id": "primary-2-data-handling",
+  "title": "Tally Charts, Pictographs and Bar Charts",
+  "level": "primary-2",
+  "category": "Statistics",
+  "introduction": "Build on Primary 1 knowledge and practise tally charts, pictographs and bar charts.",
+  "definition": "A tally records counts using marks. A pictograph uses pictures with a key. A bar chart uses bars of equal width whose lengths represent quantities on a consistent scale.",
+  "visuals": [
+    {
+      "label": "Bar chart",
+      "description": "A = 4, B = 8, C = 6.",
+      "alt": "Bar chart — A = 4, B = 8, C = 6.",
+      "elements": [
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 24,
+            "y1": 10,
+            "x2": 24,
+            "y2": 79
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 24,
+            "y1": 79,
+            "x2": 150,
+            "y2": 79
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 13,
+            "y": 83,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "0"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 20,
+            "y1": 79,
+            "x2": 24,
+            "y2": 79
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 13,
+            "y": 67,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "2"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 20,
+            "y1": 63,
+            "x2": 24,
+            "y2": 63
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 13,
+            "y": 51,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "4"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 20,
+            "y1": 47,
+            "x2": 24,
+            "y2": 47
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 13,
+            "y": 35,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "6"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 20,
+            "y1": 31,
+            "x2": 24,
+            "y2": 31
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 13,
+            "y": 19,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "8"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 20,
+            "y1": 15,
+            "x2": 24,
+            "y2": 15
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 33,
+            "y": 47,
+            "width": 24,
+            "height": 32
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 45,
+            "y": 94,
+            "font-size": 11,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "A"
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 71,
+            "y": 15,
+            "width": 24,
+            "height": 64
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 83,
+            "y": 94,
+            "font-size": 11,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "B"
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 109,
+            "y": 31,
+            "width": 24,
+            "height": 48
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 121,
+            "y": 94,
+            "font-size": 11,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "C"
+        }
+      ]
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "A pictograph has 4 symbols, each worth 2 pupils.",
+      "steps": [
+        "Multiply the number of symbols by the key.",
+        "4 × 2 = 8."
+      ],
+      "answer": "8"
+    },
+    {
+      "question": "A bar chart shows red = 8, blue = 5, green = 3.",
+      "steps": [
+        "Add the counts.",
+        "8 + 5 + 3 = 16."
+      ],
+      "answer": "16"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "A tally has two groups of five and three extra marks. Total?",
+      "answer": 13,
+      "solution": "5 + 5 + 3 = 13."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Each picture represents 3 objects. Five pictures represent how many?",
+      "answer": 15,
+      "solution": "5 × 3 = 15."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Apples: 9, pears: 6. How many more apples?",
+      "answer": 3,
+      "solution": "9 − 6 = 3."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Red: 4, blue: 9, green: 7. Which is most popular?",
+      "answer": "blue",
+      "solution": "9 is the greatest count."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Red: 4, blue: 9, green: 7. Total votes?",
+      "answer": 20,
+      "solution": "4 + 9 + 7 = 20."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "A bar chart scale counts in twos. A bar reaches the fourth interval. Value?",
+      "answer": 8,
+      "solution": "4 × 2 = 8."
+    }
+  ],
+  "summary": "A tally records counts using marks. A pictograph uses pictures with a key. A bar chart uses bars of equal width whose lengths represent quantities on a consistent scale.",
+  "relatedTopics": [
+    "primary-2-perimeter",
+    "primary-2-patterns"
+  ]
+}

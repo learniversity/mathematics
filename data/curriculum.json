@@ -254,6 +254,156 @@
       "level": "primary-1",
       "title": "Solving Word Problems",
       "path": "data/primary/year-1/word-problems.json"
+    },
+    {
+      "id": "primary-2-numbers",
+      "level": "primary-2",
+      "title": "Whole Numbers to 1,000",
+      "path": "data/primary/year-2/numbers.json"
+    },
+    {
+      "id": "primary-2-place-value",
+      "level": "primary-2",
+      "title": "Hundreds, Tens and Ones",
+      "path": "data/primary/year-2/place-value.json"
+    },
+    {
+      "id": "primary-2-comparison",
+      "level": "primary-2",
+      "title": "Comparing and Ordering Three-Digit Numbers",
+      "path": "data/primary/year-2/comparison.json"
+    },
+    {
+      "id": "primary-2-rounding",
+      "level": "primary-2",
+      "title": "Rounding to the Nearest Ten",
+      "path": "data/primary/year-2/rounding.json"
+    },
+    {
+      "id": "primary-2-addition",
+      "level": "primary-2",
+      "title": "Addition within 1,000",
+      "path": "data/primary/year-2/addition.json"
+    },
+    {
+      "id": "primary-2-subtraction",
+      "level": "primary-2",
+      "title": "Subtraction within 1,000",
+      "path": "data/primary/year-2/subtraction.json"
+    },
+    {
+      "id": "primary-2-mixed-operations",
+      "level": "primary-2",
+      "title": "Mixed Addition and Subtraction",
+      "path": "data/primary/year-2/mixed-operations.json"
+    },
+    {
+      "id": "primary-2-multiplication",
+      "level": "primary-2",
+      "title": "Multiplication Tables 2–10",
+      "path": "data/primary/year-2/multiplication.json"
+    },
+    {
+      "id": "primary-2-division",
+      "level": "primary-2",
+      "title": "Division and Equal Groups",
+      "path": "data/primary/year-2/division.json"
+    },
+    {
+      "id": "primary-2-remainders",
+      "level": "primary-2",
+      "title": "Division with Remainders",
+      "path": "data/primary/year-2/remainders.json"
+    },
+    {
+      "id": "primary-2-fractions",
+      "level": "primary-2",
+      "title": "Fractions of a Whole and a Group",
+      "path": "data/primary/year-2/fractions.json"
+    },
+    {
+      "id": "primary-2-fraction-comparison",
+      "level": "primary-2",
+      "title": "Comparing and Equivalent Fractions",
+      "path": "data/primary/year-2/fraction-comparison.json"
+    },
+    {
+      "id": "primary-2-decimals",
+      "level": "primary-2",
+      "title": "Introduction to Tenths",
+      "path": "data/primary/year-2/decimals.json"
+    },
+    {
+      "id": "primary-2-money",
+      "level": "primary-2",
+      "title": "Money Calculations",
+      "path": "data/primary/year-2/money.json"
+    },
+    {
+      "id": "primary-2-time",
+      "level": "primary-2",
+      "title": "Hours and Minutes",
+      "path": "data/primary/year-2/time.json"
+    },
+    {
+      "id": "primary-2-calendar",
+      "level": "primary-2",
+      "title": "Calendars and Dates",
+      "path": "data/primary/year-2/calendar.json"
+    },
+    {
+      "id": "primary-2-length",
+      "level": "primary-2",
+      "title": "Length in Metres and Centimetres",
+      "path": "data/primary/year-2/length.json"
+    },
+    {
+      "id": "primary-2-mass",
+      "level": "primary-2",
+      "title": "Mass in Kilograms and Grams",
+      "path": "data/primary/year-2/mass.json"
+    },
+    {
+      "id": "primary-2-capacity",
+      "level": "primary-2",
+      "title": "Capacity in Litres and Millilitres",
+      "path": "data/primary/year-2/capacity.json"
+    },
+    {
+      "id": "primary-2-geometry",
+      "level": "primary-2",
+      "title": "Lines, Polygons and Corners",
+      "path": "data/primary/year-2/geometry.json"
+    },
+    {
+      "id": "primary-2-symmetry",
+      "level": "primary-2",
+      "title": "Line Symmetry",
+      "path": "data/primary/year-2/symmetry.json"
+    },
+    {
+      "id": "primary-2-perimeter",
+      "level": "primary-2",
+      "title": "Introduction to Perimeter",
+      "path": "data/primary/year-2/perimeter.json"
+    },
+    {
+      "id": "primary-2-data-handling",
+      "level": "primary-2",
+      "title": "Tally Charts, Pictographs and Bar Charts",
+      "path": "data/primary/year-2/data-handling.json"
+    },
+    {
+      "id": "primary-2-patterns",
+      "level": "primary-2",
+      "title": "Number Patterns and Sequences",
+      "path": "data/primary/year-2/patterns.json"
+    },
+    {
+      "id": "primary-2-word-problems",
+      "level": "primary-2",
+      "title": "Two-Step Word Problems",
+      "path": "data/primary/year-2/word-problems.json"
     }
   ]
 }

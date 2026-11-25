@@ -1,0 +1,85 @@
+{
+  "id": "primary-2-money",
+  "title": "Money Calculations",
+  "level": "primary-2",
+  "category": "Measurement",
+  "introduction": "Build on Primary 1 knowledge and practise money calculations.",
+  "definition": "Ringgit and sen measure money in Malaysia. Write amounts with two decimal places, where RM1 = 100 sen. Add and subtract matching place values, or convert all amounts into sen first.",
+  "visuals": [],
+  "formulas": [
+    {
+      "expression": "RM1 = 100 sen",
+      "description": "Currency conversion."
+    },
+    {
+      "expression": "Change = amount paid − total cost",
+      "description": "For sufficient payment."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Add RM3.75 and RM2.50.",
+      "steps": [
+        "375 + 250 = 625 sen.",
+        "Convert back to ringgit."
+      ],
+      "answer": "RM6.25"
+    },
+    {
+      "question": "Find the change from RM10 for an RM6.80 purchase.",
+      "steps": [
+        "1,000 − 680 = 320 sen."
+      ],
+      "answer": "RM3.20"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "RM2.40 equals how many sen?",
+      "answer": 240,
+      "solution": "2 × 100 + 40 = 240."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "RM4.25 + RM3.15, answer in RM.",
+      "answer": 7.4,
+      "solution": "425 + 315 = 740 sen."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "RM10 − RM7.35, answer in RM.",
+      "answer": 2.65,
+      "solution": "1,000 − 735 = 265 sen."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Three pens at RM2 each cost how many RM?",
+      "answer": 6,
+      "solution": "3 × 2 = 6."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Convert 385 sen to ringgit; enter the number.",
+      "answer": 3.85,
+      "solution": "385 ÷ 100 = 3.85."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "You have RM5 and spend RM1.80. Remaining RM?",
+      "answer": 3.2,
+      "solution": "500 − 180 = 320 sen."
+    }
+  ],
+  "summary": "Ringgit and sen measure money in Malaysia. Write amounts with two decimal places, where RM1 = 100 sen. Add and subtract matching place values, or convert all amounts into sen first.",
+  "relatedTopics": [
+    "primary-2-decimals",
+    "primary-2-time"
+  ]
+}

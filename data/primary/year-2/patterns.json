@@ -1,0 +1,77 @@
+{
+  "id": "primary-2-patterns",
+  "title": "Number Patterns and Sequences",
+  "level": "primary-2",
+  "category": "Arithmetic",
+  "introduction": "Build on Primary 1 knowledge and practise number patterns and sequences.",
+  "definition": "A number sequence is an ordered list of numbers. Many simple sequences follow a rule such as adding or subtracting the same amount. Identify the rule and apply it consistently.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Find the next term: 12, 17, 22, 27.",
+      "steps": [
+        "Each term increases by 5.",
+        "27 + 5 = 32."
+      ],
+      "answer": "32"
+    },
+    {
+      "question": "Find the missing term: 90, 80, ?, 60.",
+      "steps": [
+        "Each term decreases by 10.",
+        "80 − 10 = 70."
+      ],
+      "answer": "70"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "2, 4, 6, 8, ?",
+      "answer": 10,
+      "solution": "Add 2."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "5, 10, 15, ?",
+      "answer": 20,
+      "solution": "Add 5."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "100, 90, 80, ?",
+      "answer": 70,
+      "solution": "Subtract 10."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "20, 25, ?, 35",
+      "answer": 30,
+      "solution": "Add 5 each time."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "3, 6, 9, 12, ?",
+      "answer": 15,
+      "solution": "Add 3."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "7, 14, 21, ?",
+      "answer": 28,
+      "solution": "Add 7."
+    }
+  ],
+  "summary": "A number sequence is an ordered list of numbers. Many simple sequences follow a rule such as adding or subtracting the same amount. Identify the rule and apply it consistently.",
+  "relatedTopics": [
+    "primary-2-data-handling",
+    "primary-2-word-problems"
+  ]
+}

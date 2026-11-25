@@ -1,0 +1,196 @@
+{
+  "id": "primary-2-place-value",
+  "title": "Hundreds, Tens and Ones",
+  "level": "primary-2",
+  "category": "Arithmetic",
+  "introduction": "Build on Primary 1 knowledge and practise hundreds, tens and ones.",
+  "definition": "Place value is the value of a digit determined by its position. In a three-digit number, the positions from left to right are hundreds, tens and ones. A zero holds an empty place.",
+  "visuals": [
+    {
+      "label": "462",
+      "description": "4 hundreds, 6 tens and 2 ones.",
+      "alt": "462 — 4 hundreds, 6 tens and 2 ones.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 5,
+            "y": 15,
+            "width": 150,
+            "height": 75
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 55,
+            "y1": 15,
+            "x2": 55,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 105,
+            "y1": 15,
+            "x2": 105,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 30,
+            "y": 37,
+            "font-size": 14,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "H"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 37,
+            "font-size": 14,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "T"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 130,
+            "y": 37,
+            "font-size": 14,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "O"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 30,
+            "y": 72,
+            "font-size": 28,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "4"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 72,
+            "font-size": 28,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "6"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 130,
+            "y": 72,
+            "font-size": 28,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "2"
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "462 = 4 × 100 + 6 × 10 + 2",
+      "description": "Expanded form."
+    },
+    {
+      "expression": "10 tens = 1 hundred",
+      "description": "Regrouping."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Expand 462.",
+      "steps": [
+        "4 hundreds = 400.",
+        "6 tens = 60.",
+        "2 ones = 2."
+      ],
+      "answer": "400 + 60 + 2"
+    },
+    {
+      "question": "Form a number using 7 hundreds, 0 tens and 3 ones.",
+      "steps": [
+        "700 + 0 + 3 = 703."
+      ],
+      "answer": "703"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "What is the value of 8 in 826?",
+      "answer": 800,
+      "solution": "8 is in the hundreds place."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "What is the value of 6 in 364?",
+      "answer": 60,
+      "solution": "6 is in the tens place."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "What digit is in the ones place of 907?",
+      "answer": 7,
+      "solution": "Read the rightmost digit."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "400 + 30 + 9",
+      "answer": 439,
+      "solution": "Combine the place values."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "6 hundreds and 5 ones make what number?",
+      "answer": 605,
+      "solution": "600 + 0 + 5 = 605."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "How many tens are represented by the tens digit in 572?",
+      "answer": 7,
+      "solution": "The tens digit is 7."
+    }
+  ],
+  "summary": "Place value is the value of a digit determined by its position. In a three-digit number, the positions from left to right are hundreds, tens and ones. A zero holds an empty place.",
+  "relatedTopics": [
+    "primary-2-numbers",
+    "primary-2-comparison"
+  ]
+}

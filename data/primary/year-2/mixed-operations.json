@@ -1,0 +1,77 @@
+{
+  "id": "primary-2-mixed-operations",
+  "title": "Mixed Addition and Subtraction",
+  "level": "primary-2",
+  "category": "Arithmetic",
+  "introduction": "Build on Primary 1 knowledge and practise mixed addition and subtraction.",
+  "definition": "Addition and subtraction have equal priority. Without brackets, calculate from left to right. If brackets are present, calculate the expression inside first.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Calculate 320 + 75 − 148.",
+      "steps": [
+        "320 + 75 = 395.",
+        "395 − 148 = 247."
+      ],
+      "answer": "247"
+    },
+    {
+      "question": "Calculate 400 − (120 + 80).",
+      "steps": [
+        "120 + 80 = 200.",
+        "400 − 200 = 200."
+      ],
+      "answer": "200"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "150 + 60 − 40",
+      "answer": 170,
+      "solution": "210 − 40 = 170."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "500 − 125 + 25",
+      "answer": 400,
+      "solution": "375 + 25 = 400."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "80 + (40 − 15)",
+      "answer": 105,
+      "solution": "80 + 25 = 105."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "300 − (90 + 60)",
+      "answer": 150,
+      "solution": "300 − 150 = 150."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "260 − 80 − 30",
+      "answer": 150,
+      "solution": "180 − 30 = 150."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "A tank contains 200 L, gains 40 L and loses 75 L. Remaining litres?",
+      "answer": 165,
+      "solution": "200 + 40 − 75 = 165."
+    }
+  ],
+  "summary": "Addition and subtraction have equal priority. Without brackets, calculate from left to right. If brackets are present, calculate the expression inside first.",
+  "relatedTopics": [
+    "primary-2-subtraction",
+    "primary-2-multiplication"
+  ]
+}

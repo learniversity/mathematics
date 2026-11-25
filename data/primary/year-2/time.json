@@ -1,0 +1,641 @@
+{
+  "id": "primary-2-time",
+  "title": "Hours and Minutes",
+  "level": "primary-2",
+  "category": "Measurement",
+  "introduction": "Build on Primary 1 knowledge and practise hours and minutes.",
+  "definition": "An analogue clock has 12 numbered hour positions. Each interval between numbers represents five minutes. The minute hand makes one full turn in 60 minutes; the hour hand moves gradually between hours.",
+  "visuals": [
+    {
+      "label": "2:30",
+      "description": "The long hand shows minutes and the short hand shows hours.",
+      "alt": "2:30 — The long hand shows minutes and the short hand shows hours.",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 80,
+            "cy": 50,
+            "r": 46
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 98,
+            "y": 21.823085463760208,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "1"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 111.17691453623979,
+            "y": 35,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "2"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 116,
+            "y": 53,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "3"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 111.17691453623979,
+            "y": 71,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "4"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 98,
+            "y": 84.17691453623979,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "5"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 89,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "6"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 62.000000000000014,
+            "y": 84.17691453623979,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "7"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 48.82308546376022,
+            "y": 71.00000000000001,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "8"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 44,
+            "y": 53.00000000000001,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "9"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 48.82308546376021,
+            "y": 35,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "10"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 61.999999999999986,
+            "y": 21.82308546376022,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "11"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 79.99999999999999,
+            "y": 17,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "12"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 80,
+            "y1": 50,
+            "x2": 80.00000000000001,
+            "y2": 79
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 4,
+            "x1": 80,
+            "y1": 50,
+            "x2": 100.28444235207044,
+            "y2": 44.56480005284706
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 80,
+            "cy": 50,
+            "r": 2
+          }
+        }
+      ]
+    },
+    {
+      "label": "4:15",
+      "description": "The long hand shows minutes and the short hand shows hours.",
+      "alt": "4:15 — The long hand shows minutes and the short hand shows hours.",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 80,
+            "cy": 50,
+            "r": 46
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 98,
+            "y": 21.823085463760208,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "1"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 111.17691453623979,
+            "y": 35,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "2"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 116,
+            "y": 53,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "3"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 111.17691453623979,
+            "y": 71,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "4"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 98,
+            "y": 84.17691453623979,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "5"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 89,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "6"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 62.000000000000014,
+            "y": 84.17691453623979,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "7"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 48.82308546376022,
+            "y": 71.00000000000001,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "8"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 44,
+            "y": 53.00000000000001,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "9"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 48.82308546376021,
+            "y": 35,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "10"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 61.999999999999986,
+            "y": 21.82308546376022,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "11"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 79.99999999999999,
+            "y": 17,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "12"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 80,
+            "y1": 50,
+            "x2": 109,
+            "y2": 49.99999999999999
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 4,
+            "x1": 80,
+            "y1": 50,
+            "x2": 96.66042014611594,
+            "y2": 62.783990009183135
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 80,
+            "cy": 50,
+            "r": 2
+          }
+        }
+      ]
+    },
+    {
+      "label": "7:45",
+      "description": "The long hand shows minutes and the short hand shows hours.",
+      "alt": "7:45 — The long hand shows minutes and the short hand shows hours.",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 80,
+            "cy": 50,
+            "r": 46
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 98,
+            "y": 21.823085463760208,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "1"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 111.17691453623979,
+            "y": 35,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "2"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 116,
+            "y": 53,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "3"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 111.17691453623979,
+            "y": 71,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "4"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 98,
+            "y": 84.17691453623979,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "5"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 89,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "6"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 62.000000000000014,
+            "y": 84.17691453623979,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "7"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 48.82308546376022,
+            "y": 71.00000000000001,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "8"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 44,
+            "y": 53.00000000000001,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "9"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 48.82308546376021,
+            "y": 35,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "10"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 61.999999999999986,
+            "y": 21.82308546376022,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "11"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 79.99999999999999,
+            "y": 17,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "12"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 80,
+            "y1": 50,
+            "x2": 51,
+            "y2": 50.00000000000001
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 4,
+            "x1": 80,
+            "y1": 50,
+            "x2": 63.33957985388407,
+            "y2": 62.78399000918314
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 80,
+            "cy": 50,
+            "r": 2
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "1 hour = 60 minutes",
+      "description": "Time conversion."
+    },
+    {
+      "expression": "1/4 hour = 15 minutes",
+      "description": "Quarter of an hour."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Read a clock with the minute hand at 6 and the hour hand halfway between 2 and 3.",
+      "steps": [
+        "6 × 5 = 30 minutes.",
+        "The hour is still 2."
+      ],
+      "answer": "2:30"
+    },
+    {
+      "question": "How many minutes are in 1 hour and 15 minutes?",
+      "steps": [
+        "60 + 15 = 75."
+      ],
+      "answer": "75"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "How many minutes are in half an hour?",
+      "answer": 30,
+      "solution": "60 ÷ 2 = 30."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Minute hand points to 3. How many minutes past the hour?",
+      "answer": 15,
+      "solution": "3 × 5 = 15."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "How many minutes are in 2 hours?",
+      "answer": 120,
+      "solution": "2 × 60 = 120."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "A lesson starts at 9:00 and ends at 9:45. Duration in minutes?",
+      "answer": 45,
+      "solution": "45 − 0 = 45."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "How many minutes are in one hour and 20 minutes?",
+      "answer": 80,
+      "solution": "60 + 20 = 80."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "How many minutes are in a quarter of an hour?",
+      "answer": 15,
+      "solution": "60 ÷ 4 = 15."
+    }
+  ],
+  "summary": "An analogue clock has 12 numbered hour positions. Each interval between numbers represents five minutes. The minute hand makes one full turn in 60 minutes; the hour hand moves gradually between hours.",
+  "relatedTopics": [
+    "primary-2-money",
+    "primary-2-calendar"
+  ]
+}

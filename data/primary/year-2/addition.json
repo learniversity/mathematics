@@ -1,0 +1,163 @@
+{
+  "id": "primary-2-addition",
+  "title": "Addition within 1,000",
+  "level": "primary-2",
+  "category": "Arithmetic",
+  "introduction": "Build on Primary 1 knowledge and practise addition within 1,000.",
+  "definition": "Addition combines quantities. Align hundreds, tens and ones in columns. Regroup ten ones as one ten and ten tens as one hundred whenever necessary.",
+  "visuals": [
+    {
+      "label": "Column addition",
+      "description": "268 + 157 = 425.",
+      "alt": "Column addition — 268 + 157 = 425.",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 105,
+            "y": 20,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "1 1"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 105,
+            "y": 42,
+            "font-size": 23,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "268"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 105,
+            "y": 65,
+            "font-size": 23,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "157"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 52,
+            "y": 65,
+            "font-size": 20,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "+"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 52,
+            "y1": 70,
+            "x2": 135,
+            "y2": 70
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 105,
+            "y": 93,
+            "font-size": 23,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "425"
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "a + b = b + a",
+      "description": "Commutative property."
+    },
+    {
+      "expression": "(a + b) + c = a + (b + c)",
+      "description": "Associative property."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Calculate 268 + 157.",
+      "steps": [
+        "Ones: 8 + 7 = 15; write 5, carry 1 ten.",
+        "Tens: 6 + 5 + 1 = 12; write 2, carry 1 hundred.",
+        "Hundreds: 2 + 1 + 1 = 4."
+      ],
+      "answer": "425"
+    },
+    {
+      "question": "Calculate 304 + 89.",
+      "steps": [
+        "Ones: 4 + 9 = 13; carry 1 ten.",
+        "Tens: 0 + 8 + 1 = 9.",
+        "Hundreds: 3."
+      ],
+      "answer": "393"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "123 + 245",
+      "answer": 368,
+      "solution": "100 + 200 + 20 + 40 + 3 + 5 = 368."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "276 + 148",
+      "answer": 424,
+      "solution": "Regroup ones and tens."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "389 + 211",
+      "answer": 600,
+      "solution": "9 + 1 = 10; 8 + 1 + 1 = 10; 3 + 2 + 1 = 6."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "502 + 97",
+      "answer": 599,
+      "solution": "502 + 90 + 7 = 599."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "465 + 335",
+      "answer": 800,
+      "solution": "465 + 300 + 35 = 800."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "A library has 248 books and receives 136 more. Total?",
+      "answer": 384,
+      "solution": "248 + 136 = 384."
+    }
+  ],
+  "summary": "Addition combines quantities. Align hundreds, tens and ones in columns. Regroup ten ones as one ten and ten tens as one hundred whenever necessary.",
+  "relatedTopics": [
+    "primary-2-rounding",
+    "primary-2-subtraction"
+  ]
+}

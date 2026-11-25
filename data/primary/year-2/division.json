@@ -1,0 +1,257 @@
+{
+  "id": "primary-2-division",
+  "title": "Division and Equal Groups",
+  "level": "primary-2",
+  "category": "Arithmetic",
+  "introduction": "Build on Primary 1 knowledge and practise division and equal groups.",
+  "definition": "Division shares a quantity equally or finds how many groups of a given size can be made. The dividend is divided by the divisor to obtain the quotient. A divisor cannot be zero.",
+  "visuals": [
+    {
+      "label": "12 ÷ 3 = 4",
+      "description": "Three equal groups of four.",
+      "alt": "12 ÷ 3 = 4 — Three equal groups of four.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 5,
+            "y": 15,
+            "width": 46,
+            "height": 70
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 17,
+            "cy": 35,
+            "r": 5
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 37,
+            "cy": 35,
+            "r": 5
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 17,
+            "cy": 63,
+            "r": 5
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 37,
+            "cy": 63,
+            "r": 5
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 57,
+            "y": 15,
+            "width": 46,
+            "height": 70
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 69,
+            "cy": 35,
+            "r": 5
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 89,
+            "cy": 35,
+            "r": 5
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 69,
+            "cy": 63,
+            "r": 5
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 89,
+            "cy": 63,
+            "r": 5
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 109,
+            "y": 15,
+            "width": 46,
+            "height": 70
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 121,
+            "cy": 35,
+            "r": 5
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 141,
+            "cy": 35,
+            "r": 5
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 121,
+            "cy": 63,
+            "r": 5
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 141,
+            "cy": 63,
+            "r": 5
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "a ÷ b = c",
+      "description": "Then b × c = a, where b is nonzero."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Share 42 pencils equally among 6 children.",
+      "steps": [
+        "Find the number that multiplied by 6 gives 42.",
+        "6 × 7 = 42."
+      ],
+      "answer": "7"
+    },
+    {
+      "question": "Make groups of 8 from 32 counters.",
+      "steps": [
+        "32 ÷ 8 = 4."
+      ],
+      "answer": "4"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "18 ÷ 2",
+      "answer": 9,
+      "solution": "2 × 9 = 18."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "27 ÷ 3",
+      "answer": 9,
+      "solution": "3 × 9 = 27."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "40 ÷ 5",
+      "answer": 8,
+      "solution": "5 × 8 = 40."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "56 ÷ 7",
+      "answer": 8,
+      "solution": "7 × 8 = 56."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "72 ÷ 9",
+      "answer": 8,
+      "solution": "9 × 8 = 72."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "0 ÷ 6",
+      "answer": 0,
+      "solution": "Sharing zero gives zero to each group."
+    }
+  ],
+  "summary": "Division shares a quantity equally or finds how many groups of a given size can be made. The dividend is divided by the divisor to obtain the quotient. A divisor cannot be zero.",
+  "relatedTopics": [
+    "primary-2-multiplication",
+    "primary-2-remainders"
+  ]
+}

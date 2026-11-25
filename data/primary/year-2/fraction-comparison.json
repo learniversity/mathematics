@@ -1,0 +1,240 @@
+{
+  "id": "primary-2-fraction-comparison",
+  "title": "Comparing and Equivalent Fractions",
+  "level": "primary-2",
+  "category": "Arithmetic",
+  "introduction": "Build on Primary 1 knowledge and practise comparing and equivalent fractions.",
+  "definition": "Equivalent fractions name the same part of a whole. For fractions with the same denominator, the larger numerator gives the larger fraction. For positive unit fractions of the same whole, a larger denominator gives a smaller part.",
+  "visuals": [
+    {
+      "label": "1/2",
+      "description": "1 of 2 equal parts are shaded.",
+      "alt": "1/2 — 1 of 2 equal parts are shaded.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 10,
+            "y": 28,
+            "width": 70,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 80,
+            "y": 28,
+            "width": 70,
+            "height": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "2/4",
+      "description": "2 of 4 equal parts are shaded.",
+      "alt": "2/4 — 2 of 4 equal parts are shaded.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 10,
+            "y": 28,
+            "width": 35,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 45,
+            "y": 28,
+            "width": 35,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 80,
+            "y": 28,
+            "width": 35,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 115,
+            "y": 28,
+            "width": 35,
+            "height": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "3/6",
+      "description": "3 of 6 equal parts are shaded.",
+      "alt": "3/6 — 3 of 6 equal parts are shaded.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 10,
+            "y": 28,
+            "width": 23.333333333333332,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 33.33333333333333,
+            "y": 28,
+            "width": 23.333333333333332,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 56.666666666666664,
+            "y": 28,
+            "width": 23.333333333333332,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 80,
+            "y": 28,
+            "width": 23.333333333333332,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 103.33333333333333,
+            "y": 28,
+            "width": 23.333333333333332,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 126.66666666666667,
+            "y": 28,
+            "width": 23.333333333333332,
+            "height": 44
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "a/b = (a × k)/(b × k)",
+      "description": "Multiply numerator and denominator by the same nonzero number."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Compare 2/5 and 4/5.",
+      "steps": [
+        "The denominator is the same.",
+        "Four fifths is more than two fifths."
+      ],
+      "answer": "2/5 < 4/5"
+    },
+    {
+      "question": "Complete 1/2 = ?/4.",
+      "steps": [
+        "Double the numerator and denominator."
+      ],
+      "answer": "2"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Which numerator is larger: in 1/6 or 5/6?",
+      "answer": 5,
+      "solution": "5 > 1."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Write >, < or = : 1/3 __ 1/5",
+      "answer": ">",
+      "solution": "Thirds are larger than fifths of the same whole."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Complete 1/2 = ?/6.",
+      "answer": 3,
+      "solution": "Multiply top and bottom by 3."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Complete 2/3 = ?/6.",
+      "answer": 4,
+      "solution": "Multiply top and bottom by 2."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Write >, < or = : 2/4 __ 1/2",
+      "answer": "=",
+      "solution": "Both represent half."
+    }
+  ],
+  "summary": "Equivalent fractions name the same part of a whole. For fractions with the same denominator, the larger numerator gives the larger fraction. For positive unit fractions of the same whole, a larger denominator gives a smaller part.",
+  "relatedTopics": [
+    "primary-2-fractions",
+    "primary-2-decimals"
+  ]
+}

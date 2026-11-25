@@ -1,0 +1,272 @@
+{
+  "id": "primary-2-rounding",
+  "title": "Rounding to the Nearest Ten",
+  "level": "primary-2",
+  "category": "Arithmetic",
+  "introduction": "Build on Primary 1 knowledge and practise rounding to the nearest ten.",
+  "definition": "Rounding replaces a number with a nearby multiple of ten. If the ones digit is 0–4, round down; if it is 5–9, round up. A number already ending in zero stays unchanged.",
+  "visuals": [
+    {
+      "label": "67 rounds to 70",
+      "description": "67 is closer to 70 than 60.",
+      "alt": "67 rounds to 70 — 67 is closer to 70 than 60.",
+      "elements": [
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 15,
+            "y1": 52,
+            "x2": 145,
+            "y2": 52
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 15,
+            "y1": 47,
+            "x2": 15,
+            "y2": 57
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 28,
+            "y1": 47,
+            "x2": 28,
+            "y2": 57
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 41,
+            "y1": 47,
+            "x2": 41,
+            "y2": 57
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 54,
+            "y1": 47,
+            "x2": 54,
+            "y2": 57
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 67,
+            "y1": 47,
+            "x2": 67,
+            "y2": 57
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 80,
+            "y1": 47,
+            "x2": 80,
+            "y2": 57
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 93,
+            "y1": 47,
+            "x2": 93,
+            "y2": 57
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 106,
+            "y1": 47,
+            "x2": 106,
+            "y2": 57
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 119,
+            "y1": 47,
+            "x2": 119,
+            "y2": 57
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 132,
+            "y1": 47,
+            "x2": 132,
+            "y2": 57
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 145,
+            "y1": 47,
+            "x2": 145,
+            "y2": 57
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 15,
+            "y": 78,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "60"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 145,
+            "y": 78,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "70"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 106,
+            "y": 32,
+            "font-size": 14,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "67"
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 106,
+            "cy": 52,
+            "r": 4
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Round 67 to the nearest ten.",
+      "steps": [
+        "67 lies between 60 and 70.",
+        "It is 3 away from 70 and 7 away from 60."
+      ],
+      "answer": "70"
+    },
+    {
+      "question": "Round 245 to the nearest ten.",
+      "steps": [
+        "The ones digit is 5, so round up."
+      ],
+      "answer": "250"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Round 23 to the nearest ten.",
+      "answer": 20,
+      "solution": "3 is less than 5."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Round 58 to the nearest ten.",
+      "answer": 60,
+      "solution": "8 is at least 5."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Round 115 to the nearest ten.",
+      "answer": 120,
+      "solution": "A halfway value rounds up."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Round 304 to the nearest ten.",
+      "answer": 300,
+      "solution": "4 is less than 5."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Round 995 to the nearest ten.",
+      "answer": 1000,
+      "solution": "Round up to the next thousand."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Round 760 to the nearest ten.",
+      "answer": 760,
+      "solution": "It is already a multiple of ten."
+    }
+  ],
+  "summary": "Rounding replaces a number with a nearby multiple of ten. If the ones digit is 0–4, round down; if it is 5–9, round up. A number already ending in zero stays unchanged.",
+  "relatedTopics": [
+    "primary-2-comparison",
+    "primary-2-addition"
+  ]
+}

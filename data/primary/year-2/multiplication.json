@@ -1,0 +1,249 @@
+{
+  "id": "primary-2-multiplication",
+  "title": "Multiplication Tables 2–10",
+  "level": "primary-2",
+  "category": "Arithmetic",
+  "introduction": "Build on Primary 1 knowledge and practise multiplication tables 2–10.",
+  "definition": "Multiplication combines equal groups. The factors are the numbers being multiplied, and the product is the result. Tables help us calculate quickly; multiplication can be checked using repeated addition.",
+  "visuals": [
+    {
+      "label": "3 × 4",
+      "description": "Three rows of four counters.",
+      "alt": "3 × 4 — Three rows of four counters.",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 38,
+            "cy": 22,
+            "r": 7
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 66,
+            "cy": 22,
+            "r": 7
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 94,
+            "cy": 22,
+            "r": 7
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 122,
+            "cy": 22,
+            "r": 7
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 38,
+            "cy": 50,
+            "r": 7
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 66,
+            "cy": 50,
+            "r": 7
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 94,
+            "cy": 50,
+            "r": 7
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 122,
+            "cy": 50,
+            "r": 7
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 38,
+            "cy": 78,
+            "r": 7
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 66,
+            "cy": 78,
+            "r": 7
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 94,
+            "cy": 78,
+            "r": 7
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 122,
+            "cy": 78,
+            "r": 7
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "a × b = b × a",
+      "description": "Changing the order of factors does not change the product."
+    },
+    {
+      "expression": "a × 1 = a",
+      "description": "Multiplication by one."
+    },
+    {
+      "expression": "a × 0 = 0",
+      "description": "Multiplication by zero."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Find 6 × 7.",
+      "steps": [
+        "Count six groups of seven: 7, 14, 21, 28, 35, 42."
+      ],
+      "answer": "42"
+    },
+    {
+      "question": "There are 8 packets with 5 biscuits each.",
+      "steps": [
+        "8 groups of 5 = 8 × 5."
+      ],
+      "answer": "40"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "2 × 9",
+      "answer": 18,
+      "solution": "9 + 9 = 18."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "3 × 8",
+      "answer": 24,
+      "solution": "8 + 8 + 8 = 24."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "4 × 7",
+      "answer": 28,
+      "solution": "7 + 7 + 7 + 7 = 28."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "6 × 6",
+      "answer": 36,
+      "solution": "Six groups of six."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "7 × 9",
+      "answer": 63,
+      "solution": "7 × 10 − 7 = 63."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "8 × 8",
+      "answer": 64,
+      "solution": "Eight groups of eight."
+    },
+    {
+      "id": "q7",
+      "type": "numeric",
+      "question": "9 × 10",
+      "answer": 90,
+      "solution": "Nine tens make ninety."
+    },
+    {
+      "id": "q8",
+      "type": "numeric",
+      "question": "0 × 8",
+      "answer": 0,
+      "solution": "Zero groups contain zero objects."
+    },
+    {
+      "id": "q9",
+      "type": "numeric",
+      "question": "1 × 7",
+      "answer": 7,
+      "solution": "One group of seven."
+    }
+  ],
+  "summary": "Multiplication combines equal groups. The factors are the numbers being multiplied, and the product is the result. Tables help us calculate quickly; multiplication can be checked using repeated addition.",
+  "relatedTopics": [
+    "primary-2-mixed-operations",
+    "primary-2-division"
+  ]
+}

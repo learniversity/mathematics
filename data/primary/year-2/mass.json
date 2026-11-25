@@ -1,0 +1,147 @@
+{
+  "id": "primary-2-mass",
+  "title": "Mass in Kilograms and Grams",
+  "level": "primary-2",
+  "category": "Measurement",
+  "introduction": "Build on Primary 1 knowledge and practise mass in kilograms and grams.",
+  "definition": "Mass is measured using grams (g) and kilograms (kg). One kilogram equals 1,000 grams. Convert to the same unit before performing arithmetic.",
+  "visuals": [
+    {
+      "label": "1 kg = 1,000 g",
+      "description": "Equal masses expressed in different units.",
+      "alt": "1 kg = 1,000 g — Equal masses expressed in different units.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 10,
+            "y": 25,
+            "width": 60,
+            "height": 50
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 90,
+            "y": 25,
+            "width": 60,
+            "height": 50
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 40,
+            "y": 55,
+            "font-size": 15,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "1 kg"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 120,
+            "y": 55,
+            "font-size": 13,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "1000 g"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 55,
+            "font-size": 14,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "="
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "1 kg = 1,000 g",
+      "description": "Mass conversion."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Convert 2 kg 300 g to grams.",
+      "steps": [
+        "2 × 1,000 = 2,000.",
+        "2,000 + 300 = 2,300."
+      ],
+      "answer": "2,300 g"
+    },
+    {
+      "question": "Subtract 450 g from 1 kg.",
+      "steps": [
+        "1 kg = 1,000 g.",
+        "1,000 − 450 = 550."
+      ],
+      "answer": "550 g"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Convert 3 kg to g.",
+      "answer": 3000,
+      "solution": "3 × 1,000 = 3,000."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Convert 1 kg 250 g to g.",
+      "answer": 1250,
+      "solution": "1,000 + 250 = 1,250."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "500 g + 750 g",
+      "answer": 1250,
+      "solution": "500 + 750 = 1,250 g."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "2 kg − 600 g, answer in g.",
+      "answer": 1400,
+      "solution": "2,000 − 600 = 1,400."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Convert 1500 g to kg; enter decimal.",
+      "answer": 1.5,
+      "solution": "1,500 ÷ 1,000 = 1.5."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Three bags each weigh 200 g. Total grams?",
+      "answer": 600,
+      "solution": "3 × 200 = 600."
+    }
+  ],
+  "summary": "Mass is measured using grams (g) and kilograms (kg). One kilogram equals 1,000 grams. Convert to the same unit before performing arithmetic.",
+  "relatedTopics": [
+    "primary-2-length",
+    "primary-2-capacity"
+  ]
+}

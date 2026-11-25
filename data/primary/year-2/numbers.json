@@ -1,0 +1,190 @@
+{
+  "id": "primary-2-numbers",
+  "title": "Whole Numbers to 1,000",
+  "level": "primary-2",
+  "category": "Arithmetic",
+  "introduction": "Build on Primary 1 knowledge and practise whole numbers to 1,000.",
+  "definition": "Whole numbers can be represented using digits, words and groups of hundreds, tens and ones. The numbers from 0 to 1,000 include 1,001 different whole numbers.",
+  "visuals": [
+    {
+      "label": "462",
+      "description": "4 hundreds, 6 tens and 2 ones.",
+      "alt": "462 — 4 hundreds, 6 tens and 2 ones.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 5,
+            "y": 15,
+            "width": 150,
+            "height": 75
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 55,
+            "y1": 15,
+            "x2": 55,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 105,
+            "y1": 15,
+            "x2": 105,
+            "y2": 90
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 30,
+            "y": 37,
+            "font-size": 14,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "H"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 37,
+            "font-size": 14,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "T"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 130,
+            "y": 37,
+            "font-size": 14,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "O"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 30,
+            "y": 72,
+            "font-size": 28,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "4"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 72,
+            "font-size": 28,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "6"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 130,
+            "y": 72,
+            "font-size": 28,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "2"
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "1,000 = 10 × 100",
+      "description": "Ten hundreds make one thousand."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Write 508 in words.",
+      "steps": [
+        "Read the hundreds first: five hundred.",
+        "There are no tens and there are eight ones."
+      ],
+      "answer": "five hundred and eight"
+    },
+    {
+      "question": "What number comes immediately before 1,000?",
+      "steps": [
+        "Subtract one."
+      ],
+      "answer": "999"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Write six hundred and twenty in digits.",
+      "answer": 620,
+      "solution": "600 + 20 = 620."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Write three hundred and nine in digits.",
+      "answer": 309,
+      "solution": "300 + 9 = 309."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "What comes after 799?",
+      "answer": 800,
+      "solution": "799 + 1 = 800."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "What comes before 500?",
+      "answer": 499,
+      "solution": "500 − 1 = 499."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Write 215 in words.",
+      "answer": "two hundred and fifteen",
+      "solution": "215 is two hundred and fifteen."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "How many hundreds make 1,000?",
+      "answer": 10,
+      "solution": "10 × 100 = 1,000."
+    }
+  ],
+  "summary": "Whole numbers can be represented using digits, words and groups of hundreds, tens and ones. The numbers from 0 to 1,000 include 1,001 different whole numbers.",
+  "relatedTopics": [
+    "primary-2-place-value"
+  ]
+}

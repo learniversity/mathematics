@@ -1,0 +1,85 @@
+{
+  "id": "primary-2-comparison",
+  "title": "Comparing and Ordering Three-Digit Numbers",
+  "level": "primary-2",
+  "category": "Arithmetic",
+  "introduction": "Build on Primary 1 knowledge and practise comparing and ordering three-digit numbers.",
+  "definition": "Compare hundreds first. If they are equal, compare tens; if those are equal, compare ones. Ascending order goes from smallest to largest, and descending order reverses it.",
+  "visuals": [],
+  "formulas": [
+    {
+      "expression": "582 > 528",
+      "description": "582 is greater than 528."
+    },
+    {
+      "expression": "304 < 340",
+      "description": "304 is smaller than 340."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Compare 582 and 528.",
+      "steps": [
+        "Both have five hundreds.",
+        "Eight tens are greater than two tens."
+      ],
+      "answer": "582 > 528"
+    },
+    {
+      "question": "Arrange 304, 340, 430 in ascending order.",
+      "steps": [
+        "Compare hundreds first, then tens."
+      ],
+      "answer": "304, 340, 430"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Which is greater: 738 or 783?",
+      "answer": 783,
+      "solution": "The tens digits are 3 and 8."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Which is smaller: 609 or 690?",
+      "answer": 609,
+      "solution": "Zero tens is fewer than nine tens."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Write >, < or = : 412 __ 421",
+      "answer": "<",
+      "solution": "Both have four hundreds; one ten is less than two."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Write >, < or = : 900 __ 899",
+      "answer": ">",
+      "solution": "900 has nine hundreds."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Which is the largest of 321, 123 and 312?",
+      "answer": 321,
+      "solution": "321 has the greatest tens digit among the numbers with three hundreds."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Which is the smallest of 509, 590 and 905?",
+      "answer": 509,
+      "solution": "509 has five hundreds and zero tens."
+    }
+  ],
+  "summary": "Compare hundreds first. If they are equal, compare tens; if those are equal, compare ones. Ascending order goes from smallest to largest, and descending order reverses it.",
+  "relatedTopics": [
+    "primary-2-place-value",
+    "primary-2-rounding"
+  ]
+}

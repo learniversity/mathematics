@@ -1,0 +1,195 @@
+{
+  "id": "primary-2-remainders",
+  "title": "Division with Remainders",
+  "level": "primary-2",
+  "category": "Arithmetic",
+  "introduction": "Build on Primary 1 knowledge and practise division with remainders.",
+  "definition": "Sometimes equal grouping leaves some objects unused. The remainder is the amount left after making as many complete groups as possible. It must be less than the positive divisor.",
+  "visuals": [
+    {
+      "label": "8 ÷ 3",
+      "description": "Two complete groups and two leftover counters.",
+      "alt": "8 ÷ 3 — Two complete groups and two leftover counters.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 5,
+            "y": 12,
+            "width": 46,
+            "height": 76
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 28,
+            "cy": 27,
+            "r": 6
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 28,
+            "cy": 49,
+            "r": 6
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 28,
+            "cy": 71,
+            "r": 6
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 55,
+            "y": 12,
+            "width": 46,
+            "height": 76
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 78,
+            "cy": 27,
+            "r": 6
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 78,
+            "cy": 49,
+            "r": 6
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 78,
+            "cy": 71,
+            "r": 6
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 130,
+            "cy": 35,
+            "r": 6
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 130,
+            "cy": 60,
+            "r": 6
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "Dividend = divisor × quotient + remainder",
+      "description": "For whole-number division with a positive divisor."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Divide 17 by 5.",
+      "steps": [
+        "Three complete groups of 5 make 15.",
+        "17 − 15 = 2."
+      ],
+      "answer": "3 remainder 2"
+    },
+    {
+      "question": "Make groups of 4 from 23 objects.",
+      "steps": [
+        "5 × 4 = 20.",
+        "23 − 20 = 3."
+      ],
+      "answer": "5 groups, 3 left over"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "What is the remainder when 13 is divided by 4?",
+      "answer": 1,
+      "solution": "13 = 4 × 3 + 1."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "How many complete groups of 5 can be made from 27?",
+      "answer": 5,
+      "solution": "5 × 5 = 25, with 2 left."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "What is the remainder when 29 is divided by 6?",
+      "answer": 5,
+      "solution": "29 = 6 × 4 + 5."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "What is the remainder when 24 is divided by 8?",
+      "answer": 0,
+      "solution": "24 = 8 × 3."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "How many complete groups of 3 can be made from 20?",
+      "answer": 6,
+      "solution": "20 = 3 × 6 + 2."
+    }
+  ],
+  "summary": "Sometimes equal grouping leaves some objects unused. The remainder is the amount left after making as many complete groups as possible. It must be less than the positive divisor.",
+  "relatedTopics": [
+    "primary-2-division",
+    "primary-2-fractions"
+  ]
+}

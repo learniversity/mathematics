@@ -1,0 +1,187 @@
+{
+  "id": "primary-2-symmetry",
+  "title": "Line Symmetry",
+  "level": "primary-2",
+  "category": "Geometry",
+  "introduction": "Build on Primary 1 knowledge and practise line symmetry.",
+  "definition": "A shape has line symmetry when it can be folded along a line so that the two halves match exactly. The fold line is called a line of symmetry.",
+  "visuals": [
+    {
+      "label": "Square",
+      "description": "Four symmetry lines.",
+      "alt": "Square — Four symmetry lines.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 40,
+            "y": 10,
+            "width": 80,
+            "height": 80
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 80,
+            "y1": 10,
+            "x2": 80,
+            "y2": 90,
+            "stroke-dasharray": "4 3"
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 40,
+            "y1": 50,
+            "x2": 120,
+            "y2": 50,
+            "stroke-dasharray": "4 3"
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 40,
+            "y1": 10,
+            "x2": 120,
+            "y2": 90,
+            "stroke-dasharray": "4 3"
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 120,
+            "y1": 10,
+            "x2": 40,
+            "y2": 90,
+            "stroke-dasharray": "4 3"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Rectangle",
+      "description": "Two symmetry lines.",
+      "alt": "Rectangle — Two symmetry lines.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 15,
+            "y": 25,
+            "width": 130,
+            "height": 50
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 80,
+            "y1": 25,
+            "x2": 80,
+            "y2": 75,
+            "stroke-dasharray": "4 3"
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 15,
+            "y1": 50,
+            "x2": 145,
+            "y2": 50,
+            "stroke-dasharray": "4 3"
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Find the lines of symmetry of a square.",
+      "steps": [
+        "The horizontal and vertical centre lines match.",
+        "Both diagonals also match."
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "Find the lines of symmetry of a non-square rectangle.",
+      "steps": [
+        "The horizontal and vertical centre lines match.",
+        "Its diagonals do not."
+      ],
+      "answer": "2"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "How many lines of symmetry has a square?",
+      "answer": 4,
+      "solution": "Two centre lines and two diagonals."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "How many lines of symmetry has a non-square rectangle?",
+      "answer": 2,
+      "solution": "Horizontal and vertical."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "How many lines of symmetry has an equilateral triangle?",
+      "answer": 3,
+      "solution": "One from each vertex to the midpoint opposite."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Does a typical scalene triangle have line symmetry? Write yes or no.",
+      "answer": "no",
+      "solution": "Its sides are unequal."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "How many halves are formed by a line of symmetry?",
+      "answer": 2,
+      "solution": "The two halves match."
+    }
+  ],
+  "summary": "A shape has line symmetry when it can be folded along a line so that the two halves match exactly. The fold line is called a line of symmetry.",
+  "relatedTopics": [
+    "primary-2-geometry",
+    "primary-2-perimeter"
+  ]
+}

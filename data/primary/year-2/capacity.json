@@ -1,0 +1,134 @@
+{
+  "id": "primary-2-capacity",
+  "title": "Capacity in Litres and Millilitres",
+  "level": "primary-2",
+  "category": "Measurement",
+  "introduction": "Build on Primary 1 knowledge and practise capacity in litres and millilitres.",
+  "definition": "Liquid volume and container capacity can be expressed in litres (L) and millilitres (mL). One litre equals 1,000 millilitres. Use common units for calculations.",
+  "visuals": [
+    {
+      "label": "1 L = 1,000 mL",
+      "description": "A litre can be divided into two 500 mL parts.",
+      "alt": "1 L = 1,000 mL — A litre can be divided into two 500 mL parts.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 45,
+            "y": 10,
+            "width": 70,
+            "height": 80
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 45,
+            "y1": 50,
+            "x2": 115,
+            "y2": 50
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 32,
+            "font-size": 14,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "500 mL"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 73,
+            "font-size": 14,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "500 mL"
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "1 L = 1,000 mL",
+      "description": "Capacity conversion."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Convert 1 L 250 mL to millilitres.",
+      "steps": [
+        "1,000 + 250 = 1,250."
+      ],
+      "answer": "1,250 mL"
+    },
+    {
+      "question": "A 2 L jug contains 750 mL. How much more can it hold?",
+      "steps": [
+        "2,000 − 750 = 1,250."
+      ],
+      "answer": "1,250 mL"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Convert 4 L to mL.",
+      "answer": 4000,
+      "solution": "4 × 1,000 = 4,000."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Convert 2 L 100 mL to mL.",
+      "answer": 2100,
+      "solution": "2,000 + 100 = 2,100."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "300 mL + 450 mL",
+      "answer": 750,
+      "solution": "300 + 450 = 750 mL."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "1 L − 250 mL, answer in mL.",
+      "answer": 750,
+      "solution": "1,000 − 250 = 750."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Convert 2500 mL to L; enter decimal.",
+      "answer": 2.5,
+      "solution": "2,500 ÷ 1,000 = 2.5."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Four cups hold 200 mL each. Total mL?",
+      "answer": 800,
+      "solution": "4 × 200 = 800."
+    }
+  ],
+  "summary": "Liquid volume and container capacity can be expressed in litres (L) and millilitres (mL). One litre equals 1,000 millilitres. Use common units for calculations.",
+  "relatedTopics": [
+    "primary-2-mass",
+    "primary-2-geometry"
+  ]
+}

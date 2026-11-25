@@ -1,0 +1,87 @@
+{
+  "id": "primary-2-subtraction",
+  "title": "Subtraction within 1,000",
+  "level": "primary-2",
+  "category": "Arithmetic",
+  "introduction": "Build on Primary 1 knowledge and practise subtraction within 1,000.",
+  "definition": "Subtraction finds a difference or the quantity remaining. Align place values. If a digit is too small to subtract, regroup from the next place; check by adding the difference back to the subtracted number.",
+  "visuals": [],
+  "formulas": [
+    {
+      "expression": "a − b = c",
+      "description": "The result is the difference."
+    },
+    {
+      "expression": "c + b = a",
+      "description": "Check subtraction using addition."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Calculate 532 − 178.",
+      "steps": [
+        "Regroup one ten: 12 − 8 = 4.",
+        "Regroup one hundred: 12 − 7 = 5.",
+        "Hundreds: 4 − 1 = 3."
+      ],
+      "answer": "354"
+    },
+    {
+      "question": "Calculate 600 − 247.",
+      "steps": [
+        "Regroup one hundred into ten tens, then one ten into ten ones.",
+        "Ones: 10 − 7 = 3; tens: 9 − 4 = 5; hundreds: 5 − 2 = 3."
+      ],
+      "answer": "353"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "386 − 124",
+      "answer": 262,
+      "solution": "Subtract each place value."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "742 − 356",
+      "answer": 386,
+      "solution": "Regroup ones and tens."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "500 − 236",
+      "answer": 264,
+      "solution": "500 − 200 − 36 = 264."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "900 − 1",
+      "answer": 899,
+      "solution": "One less than 900 is 899."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "612 − 98",
+      "answer": 514,
+      "solution": "612 − 100 + 2 = 514."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "A shop has 725 notebooks and sells 289. How many remain?",
+      "answer": 436,
+      "solution": "725 − 289 = 436."
+    }
+  ],
+  "summary": "Subtraction finds a difference or the quantity remaining. Align place values. If a digit is too small to subtract, regroup from the next place; check by adding the difference back to the subtracted number.",
+  "relatedTopics": [
+    "primary-2-addition",
+    "primary-2-mixed-operations"
+  ]
+}

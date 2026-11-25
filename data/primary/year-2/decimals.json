@@ -1,0 +1,332 @@
+{
+  "id": "primary-2-decimals",
+  "title": "Introduction to Tenths",
+  "level": "primary-2",
+  "category": "Arithmetic",
+  "introduction": "Build on Primary 1 knowledge and practise introduction to tenths.",
+  "definition": "A tenth is one of ten equal parts of a whole. In decimal notation, the first digit to the right of the decimal point represents tenths. Ten tenths make one whole.",
+  "visuals": [
+    {
+      "label": "3/10",
+      "description": "3 of 10 equal parts are shaded.",
+      "alt": "3/10 — 3 of 10 equal parts are shaded.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 10,
+            "y": 28,
+            "width": 14,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 24,
+            "y": 28,
+            "width": 14,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 38,
+            "y": 28,
+            "width": 14,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 52,
+            "y": 28,
+            "width": 14,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 66,
+            "y": 28,
+            "width": 14,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 80,
+            "y": 28,
+            "width": 14,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 94,
+            "y": 28,
+            "width": 14,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 108,
+            "y": 28,
+            "width": 14,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 122,
+            "y": 28,
+            "width": 14,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 136,
+            "y": 28,
+            "width": 14,
+            "height": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "7/10",
+      "description": "7 of 10 equal parts are shaded.",
+      "alt": "7/10 — 7 of 10 equal parts are shaded.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 10,
+            "y": 28,
+            "width": 14,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 24,
+            "y": 28,
+            "width": 14,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 38,
+            "y": 28,
+            "width": 14,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 52,
+            "y": 28,
+            "width": 14,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 66,
+            "y": 28,
+            "width": 14,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 80,
+            "y": 28,
+            "width": 14,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 94,
+            "y": 28,
+            "width": 14,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 108,
+            "y": 28,
+            "width": 14,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 122,
+            "y": 28,
+            "width": 14,
+            "height": 44
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 136,
+            "y": 28,
+            "width": 14,
+            "height": 44
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "1/10 = 0.1",
+      "description": "One tenth."
+    },
+    {
+      "expression": "10 × 0.1 = 1",
+      "description": "Ten tenths make one whole."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Write 3 tenths as a decimal.",
+      "steps": [
+        "3 tenths means 3/10."
+      ],
+      "answer": "0.3"
+    },
+    {
+      "question": "Write 1 whole and 6 tenths.",
+      "steps": [
+        "One whole is 1; six tenths is 0.6."
+      ],
+      "answer": "1.6"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Write 7/10 as a decimal.",
+      "answer": 0.7,
+      "solution": "Seven tenths is 0.7."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "How many tenths make one whole?",
+      "answer": 10,
+      "solution": "10/10 = 1."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "What is the tenths digit in 2.4?",
+      "answer": 4,
+      "solution": "Read the first digit after the point."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Write 5 tenths as a decimal.",
+      "answer": 0.5,
+      "solution": "5/10 = 0.5."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Write 3 wholes and 2 tenths as a decimal.",
+      "answer": 3.2,
+      "solution": "3 + 0.2 = 3.2."
+    }
+  ],
+  "summary": "A tenth is one of ten equal parts of a whole. In decimal notation, the first digit to the right of the decimal point represents tenths. Ten tenths make one whole.",
+  "relatedTopics": [
+    "primary-2-fraction-comparison",
+    "primary-2-money"
+  ]
+}
