@@ -1,0 +1,254 @@
+{
+  "id": "preschool-counting",
+  "title": "Counting to 20",
+  "level": "preschool",
+  "category": "Arithmetic",
+  "introduction": "Explore counting to 20 with pictures and practice.",
+  "definition": "Counting gives each object one number in order. The last number tells us how many objects there are.",
+  "visuals": [
+    {
+      "label": "Count five",
+      "description": "Touch each dot once.",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        }
+      ],
+      "alt": "Count five"
+    },
+    {
+      "label": "Count ten",
+      "description": "Two rows of five.",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 64,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 64,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 64,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 64,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 64,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        }
+      ],
+      "alt": "Count ten"
+    },
+    {
+      "label": "Count from 11 to 20",
+      "description": "Say the numbers in order.",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 34,
+            "font-size": 18,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "11 12 13 14 15"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 70,
+            "font-size": 18,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "16 17 18 19 20"
+        }
+      ],
+      "alt": "Count from 11 to 20"
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Count ● ● ● ●.",
+      "steps": [
+        "Say 1, 2, 3, 4."
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "What comes after 19?",
+      "steps": [
+        "Count one more."
+      ],
+      "answer": "20"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "How many dots? ● ●",
+      "answer": 2,
+      "solution": "Answer: 2"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "How many dots? ● ● ● ● ● ●",
+      "answer": 6,
+      "solution": "Answer: 6"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "What comes after 9?",
+      "answer": 10,
+      "solution": "Answer: 10"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "What comes after 14?",
+      "answer": 15,
+      "solution": "Answer: 15"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "What comes before 20?",
+      "answer": 19,
+      "solution": "Answer: 19"
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "How many objects are in an empty box?",
+      "answer": 0,
+      "solution": "Answer: 0"
+    }
+  ],
+  "summary": "Count each object once, and remember that zero means no objects.",
+  "relatedTopics": [
+    "preschool-numbers",
+    "preschool-number-names"
+  ]
+}
