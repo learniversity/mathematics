@@ -1,0 +1,49 @@
+{
+  "id": "primary-1-place-value",
+  "title": "Place Value",
+  "level": "primary-1",
+  "category": "Arithmetic",
+  "introduction": "Explore place value through definitions, examples and practice.",
+  "definition": "A digit's position determines its value. In a two-digit number, the left digit counts tens and the right digit counts ones.",
+  "formulas": [
+    {
+      "expression": "47 = 4 × 10 + 7",
+      "description": "Four tens and seven ones."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Write 47 as tens and ones.",
+      "steps": [],
+      "answer": "40 + 7"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "What is the value of 6 in 63?",
+      "answer": 60,
+      "solution": "Answer: 60"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "How many ones are in 28?",
+      "answer": 8,
+      "solution": "Answer: 8"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "What number has 5 tens and 2 ones?",
+      "answer": 52,
+      "solution": "Answer: 52"
+    }
+  ],
+  "summary": "A digit's position determines its value. In a two-digit number, the left digit counts tens and the right digit counts ones.",
+  "relatedTopics": [
+    "primary-1-whole-numbers",
+    "primary-1-addition"
+  ]
+}
