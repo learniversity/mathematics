@@ -1,0 +1,110 @@
+{
+  "id": "preschool-measurement",
+  "title": "Size and Measurement",
+  "level": "preschool",
+  "category": "Measurement",
+  "introduction": "Explore size and measurement with pictures and practice.",
+  "definition": "We compare objects by length, height, mass and capacity. We can measure length with equal-sized units.",
+  "visuals": [
+    {
+      "label": "Long and short",
+      "description": "The top line is longer.",
+      "elements": [
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 15,
+            "y1": 28,
+            "x2": 145,
+            "y2": 28
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 15,
+            "y1": 70,
+            "x2": 78,
+            "y2": 70
+          }
+        }
+      ],
+      "alt": "Long and short"
+    },
+    {
+      "label": "Tall and short",
+      "description": "The left rectangle is taller.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x": 25,
+            "y": 10,
+            "width": 35,
+            "height": 80
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x": 100,
+            "y": 50,
+            "width": 35,
+            "height": 40
+          }
+        }
+      ],
+      "alt": "Tall and short"
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Which is longer: a 5-block stick or a 3-block stick?",
+      "steps": [
+        "Compare 5 and 3."
+      ],
+      "answer": "5"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Which is taller: a 7-block tower or a 4-block tower?",
+      "answer": 7,
+      "solution": "Answer: 7"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Which is shorter: 2 blocks or 6 blocks?",
+      "answer": 2,
+      "solution": "Answer: 2"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Which holds more water: a full 3-cup jug or a full 1-cup jug?",
+      "answer": 3,
+      "solution": "Answer: 3"
+    }
+  ],
+  "summary": "Compare and measure using the same kind of unit.",
+  "relatedTopics": [
+    "preschool-sorting",
+    "preschool-position"
+  ]
+}
