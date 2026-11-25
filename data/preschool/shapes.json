@@ -1,44 +1,199 @@
 {
   "id": "preschool-shapes",
-  "title": "Basic Shapes",
+  "title": "Basic 2D Shapes",
   "level": "preschool",
   "category": "Geometry",
-  "introduction": "Explore basic shapes through definitions, examples and practice.",
-  "definition": "A shape describes the outline of an object. A circle is round; a triangle has three straight sides; a square has four equal sides and four right angles.",
+  "introduction": "Explore basic 2d shapes with pictures and practice.",
+  "definition": "A two-dimensional shape is flat. We can recognise shapes by their straight or curved boundaries, sides and corners.",
+  "visuals": [
+    {
+      "label": "Circle",
+      "description": "Round, no straight sides or corners.",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "cx": 80,
+            "cy": 50,
+            "r": 34
+          }
+        }
+      ],
+      "alt": "Circle"
+    },
+    {
+      "label": "Triangle",
+      "description": "Three straight sides and three corners.",
+      "elements": [
+        {
+          "tag": "polygon",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "points": "80,12 34,84 126,84"
+          }
+        }
+      ],
+      "alt": "Triangle"
+    },
+    {
+      "label": "Square",
+      "description": "Four equal sides and four square corners.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x": 44,
+            "y": 14,
+            "width": 72,
+            "height": 72
+          }
+        }
+      ],
+      "alt": "Square"
+    },
+    {
+      "label": "Rectangle",
+      "description": "Four straight sides and four square corners.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x": 22,
+            "y": 24,
+            "width": 116,
+            "height": 52
+          }
+        }
+      ],
+      "alt": "Rectangle"
+    },
+    {
+      "label": "Oval",
+      "description": "A rounded shape, like an egg outline.",
+      "elements": [
+        {
+          "tag": "ellipse",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "cx": 80,
+            "cy": 50,
+            "rx": 54,
+            "ry": 31
+          }
+        }
+      ],
+      "alt": "Oval"
+    },
+    {
+      "label": "Pentagon",
+      "description": "Five straight sides.",
+      "elements": [
+        {
+          "tag": "polygon",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "points": "80,10 125,43 108,86 52,86 35,43"
+          }
+        }
+      ],
+      "alt": "Pentagon"
+    },
+    {
+      "label": "Hexagon",
+      "description": "Six straight sides.",
+      "elements": [
+        {
+          "tag": "polygon",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "points": "44,15 116,15 140,50 116,85 44,85 20,50"
+          }
+        }
+      ],
+      "alt": "Hexagon"
+    }
+  ],
   "formulas": [],
   "examples": [
     {
-      "question": "How many sides does a triangle have?",
-      "steps": [],
-      "answer": "3"
+      "question": "Which shape has three straight sides?",
+      "steps": [
+        "Count the sides of a triangle."
+      ],
+      "answer": "triangle"
+    },
+    {
+      "question": "How many corners does a square have?",
+      "steps": [
+        "Count its four corners."
+      ],
+      "answer": "4"
     }
   ],
   "exercises": [
     {
       "id": "q1",
       "type": "numeric",
-      "question": "How many straight sides does a square have?",
-      "answer": 4,
-      "solution": "Answer: 4"
+      "question": "How many straight sides has a triangle?",
+      "answer": 3,
+      "solution": "Answer: 3"
     },
     {
       "id": "q2",
       "type": "numeric",
-      "question": "How many straight sides does a circle have?",
-      "answer": 0,
-      "solution": "Answer: 0"
+      "question": "How many corners has a rectangle?",
+      "answer": 4,
+      "solution": "Answer: 4"
     },
     {
       "id": "q3",
       "type": "numeric",
-      "question": "How many corners does a triangle have?",
-      "answer": 3,
-      "solution": "Answer: 3"
+      "question": "How many straight sides has a circle?",
+      "answer": 0,
+      "solution": "Answer: 0"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Name the shape with five straight sides.",
+      "answer": "pentagon",
+      "solution": "Answer: pentagon"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "How many sides has a hexagon?",
+      "answer": 6,
+      "solution": "Answer: 6"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Name a shape with four equal sides and four right angles.",
+      "answer": "square",
+      "solution": "Answer: square"
     }
   ],
-  "summary": "A shape describes the outline of an object. A circle is round; a triangle has three straight sides; a square has four equal sides and four right angles.",
+  "summary": "Recognise flat shapes and describe their sides and corners.",
   "relatedTopics": [
-    "preschool-numbers",
-    "preschool-combining"
+    "preschool-taking-away",
+    "preschool-solid-shapes"
   ]
 }
