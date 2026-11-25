@@ -1,0 +1,83 @@
+{
+  "id": "primary-4-division",
+  "title": "Long Division by Two-Digit Numbers",
+  "level": "primary-4",
+  "category": "Arithmetic",
+  "introduction": "Build Primary 4 mathematical understanding through long division by two-digit numbers.",
+  "definition": "Estimate how many times the divisor fits into the leading digits. Multiply, subtract and bring down the next digit. Continue until all digits have been used. The remainder must be smaller than the divisor.",
+  "visuals": [],
+  "formulas": [
+    {
+      "expression": "N = d × q + r, 0 ≤ r < d",
+      "description": "For positive divisor d."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Calculate 936 ÷ 24.",
+      "steps": [
+        "93 ÷ 24 gives 3; 93 − 72 = 21.",
+        "Bring down 6 to make 216.",
+        "216 ÷ 24 = 9."
+      ],
+      "answer": "39"
+    },
+    {
+      "question": "Divide 1,250 by 36.",
+      "steps": [
+        "36 × 34 = 1,224.",
+        "1,250 − 1,224 = 26."
+      ],
+      "answer": "34 remainder 26"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "480 ÷ 12",
+      "answer": 40,
+      "solution": "12 × 40 = 480."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "875 ÷ 25",
+      "answer": 35,
+      "solution": "25 × 35 = 875."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "1,296 ÷ 18",
+      "answer": 72,
+      "solution": "18 × 72 = 1,296."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "2,340 ÷ 36",
+      "answer": 65,
+      "solution": "36 × 65 = 2,340."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Whole-number quotient of 765 ÷ 22?",
+      "answer": 34,
+      "solution": "22 × 34 = 748."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Remainder of 765 ÷ 22?",
+      "answer": 17,
+      "solution": "765 − 748."
+    }
+  ],
+  "summary": "Estimate how many times the divisor fits into the leading digits. Multiply, subtract and bring down the next digit. Continue until all digits have been used. The remainder must be smaller than the divisor.",
+  "relatedTopics": [
+    "primary-4-multiplication",
+    "primary-4-operations-estimation"
+  ]
+}

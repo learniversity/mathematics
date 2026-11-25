@@ -1,0 +1,76 @@
+{
+  "id": "primary-4-patterns",
+  "title": "Sequences and Simple Unknowns",
+  "level": "primary-4",
+  "category": "Arithmetic",
+  "introduction": "Build Primary 4 mathematical understanding through sequences and simple unknowns.",
+  "definition": "A sequence is an ordered list following a specified rule. An unknown is a value that makes an equation true. Undo an operation with its inverse, keeping both sides equal.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Find the next term 7, 14, 28, 56 (double).",
+      "steps": [
+        "56 × 2."
+      ],
+      "answer": "112"
+    },
+    {
+      "question": "Solve 4 × n + 3 = 35.",
+      "steps": [
+        "Subtract 3 from both sides: 4n = 32.",
+        "Divide by 4."
+      ],
+      "answer": "8"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "125, 150, 175, ? (add 25)",
+      "answer": 200,
+      "solution": "175 + 25."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "3, 9, 27, ? (multiply by 3)",
+      "answer": 81,
+      "solution": "27 × 3."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "n + 48 = 120. Find n.",
+      "answer": 72,
+      "solution": "120 − 48."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "7 × n = 84. Find n.",
+      "answer": 12,
+      "solution": "84 ÷ 7."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "n ÷ 5 = 9. Find n.",
+      "answer": 45,
+      "solution": "9 × 5."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "3 × n − 2 = 19. Find n.",
+      "answer": 7,
+      "solution": "(19 + 2) ÷ 3."
+    }
+  ],
+  "summary": "A sequence is an ordered list following a specified rule. An unknown is a value that makes an equation true. Undo an operation with its inverse, keeping both sides equal.",
+  "relatedTopics": [
+    "primary-4-probability",
+    "primary-4-word-problems"
+  ]
+}

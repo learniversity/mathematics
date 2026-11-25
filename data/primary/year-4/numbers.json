@@ -1,0 +1,258 @@
+{
+  "id": "primary-4-numbers",
+  "title": "Whole Numbers to 100,000",
+  "level": "primary-4",
+  "category": "Arithmetic",
+  "introduction": "Build Primary 4 mathematical understanding through whole numbers to 100,000.",
+  "definition": "Five-digit numbers have ten-thousands, thousands, hundreds, tens and ones. Each position has ten times the value of the position to its right. Zero is a placeholder when a position has no units.",
+  "visuals": [
+    {
+      "label": "63,407",
+      "description": "Ten-thousands to ones.",
+      "alt": "63,407 — Ten-thousands to ones.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 5,
+            "y": 12,
+            "width": 150,
+            "height": 76
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 35,
+            "y1": 12,
+            "x2": 35,
+            "y2": 88
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 65,
+            "y1": 12,
+            "x2": 65,
+            "y2": 88
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 95,
+            "y1": 12,
+            "x2": 95,
+            "y2": 88
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 125,
+            "y1": 12,
+            "x2": 125,
+            "y2": 88
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 20,
+            "y": 34,
+            "font-size": 11,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "TTh"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 50,
+            "y": 34,
+            "font-size": 11,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "Th"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 34,
+            "font-size": 11,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "H"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 110,
+            "y": 34,
+            "font-size": 11,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "T"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 140,
+            "y": 34,
+            "font-size": 11,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "O"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 20,
+            "y": 73,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "6"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 50,
+            "y": 73,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "3"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 73,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "4"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 110,
+            "y": 73,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "0"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 140,
+            "y": 73,
+            "font-size": 25,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "7"
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "100,000 = 100 × 1,000",
+      "description": "One hundred thousand."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Expand 63,407.",
+      "steps": [
+        "6 × 10,000 = 60,000; 3 × 1,000 = 3,000.",
+        "4 × 100 = 400; 0 × 10 = 0; 7 × 1 = 7."
+      ],
+      "answer": "60,000 + 3,000 + 400 + 7"
+    },
+    {
+      "question": "Read 80,052.",
+      "steps": [
+        "Read eighty thousand, then fifty-two."
+      ],
+      "answer": "eighty thousand and fifty-two"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Value of 7 in 72,506?",
+      "answer": 70000,
+      "solution": "7 × 10,000."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Digit in the hundreds place of 46,821?",
+      "answer": 8,
+      "solution": "The hundreds digit is 8."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Write 30,000 + 5,000 + 200 + 9.",
+      "answer": 35209,
+      "solution": "Combine the place values."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "What follows 99,999?",
+      "answer": 100000,
+      "solution": "Add one."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "How many thousands make 100,000?",
+      "answer": 100,
+      "solution": "100,000 ÷ 1,000."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Write sixty thousand and eighteen in digits.",
+      "answer": 60018,
+      "solution": "60,000 + 18."
+    }
+  ],
+  "summary": "Five-digit numbers have ten-thousands, thousands, hundreds, tens and ones. Each position has ten times the value of the position to its right. Zero is a placeholder when a position has no units.",
+  "relatedTopics": [
+    "primary-4-comparison-rounding"
+  ]
+}

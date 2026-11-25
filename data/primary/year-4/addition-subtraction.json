@@ -1,0 +1,81 @@
+{
+  "id": "primary-4-addition-subtraction",
+  "title": "Addition and Subtraction within 100,000",
+  "level": "primary-4",
+  "category": "Arithmetic",
+  "introduction": "Build Primary 4 mathematical understanding through addition and subtraction within 100,000.",
+  "definition": "Align digits by place value. Addition regroups when a column reaches ten; subtraction regroups from higher places when required. Estimate first and check the final answer using the inverse operation.",
+  "visuals": [],
+  "formulas": [
+    {
+      "expression": "a − b = c ⇔ c + b = a",
+      "description": "Inverse operations."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Calculate 38,765 + 24,896.",
+      "steps": [
+        "Add ones through ten-thousands, carrying at each lower column."
+      ],
+      "answer": "63661"
+    },
+    {
+      "question": "Calculate 70,004 − 28,759.",
+      "steps": [
+        "Regroup across the zeros: 6 ten-thousands, 9 thousands, 9 hundreds, 9 tens, 14 ones.",
+        "Subtract each column."
+      ],
+      "answer": "41245"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "23,456 + 12,789",
+      "answer": 36245,
+      "solution": "Add corresponding columns."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "49,998 + 2",
+      "answer": 50000,
+      "solution": "Regroup through lower places."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "84,320 − 17,645",
+      "answer": 66675,
+      "solution": "Regroup ones, tens and thousands."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "60,000 − 9,876",
+      "answer": 50124,
+      "solution": "Regroup across zeros."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "35,250 + 46,750",
+      "answer": 82000,
+      "solution": "35,250 + 46,750 = 82,000."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "A warehouse holds 75,000 items and ships 18,650. Remaining?",
+      "answer": 56350,
+      "solution": "75,000 − 18,650."
+    }
+  ],
+  "summary": "Align digits by place value. Addition regroups when a column reaches ten; subtraction regroups from higher places when required. Estimate first and check the final answer using the inverse operation.",
+  "relatedTopics": [
+    "primary-4-comparison-rounding",
+    "primary-4-multiplication"
+  ]
+}

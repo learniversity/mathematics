@@ -1,0 +1,77 @@
+{
+  "id": "primary-4-comparison-rounding",
+  "title": "Comparing, Ordering and Rounding",
+  "level": "primary-4",
+  "category": "Arithmetic",
+  "introduction": "Build Primary 4 mathematical understanding through comparing, ordering and rounding.",
+  "definition": "Compare whole numbers from the highest place down. To round to a given place, inspect the digit immediately to its right: 0–4 stays at the lower multiple, 5–9 goes to the next multiple. Replace lower digits with zero.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Round 48,672 to the nearest thousand.",
+      "steps": [
+        "The hundreds digit is 6.",
+        "Increase 48 thousands to 49 thousands."
+      ],
+      "answer": "49000"
+    },
+    {
+      "question": "Compare 63,805 and 63,850.",
+      "steps": [
+        "Ten-thousands, thousands and hundreds match.",
+        "The tens digits are 0 and 5."
+      ],
+      "answer": "63,805 < 63,850"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Round 36,482 to nearest hundred.",
+      "answer": 36500,
+      "solution": "8 tens rounds up."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Round 71,499 to nearest thousand.",
+      "answer": 71000,
+      "solution": "4 hundreds rounds down."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Round 85,000 to nearest ten-thousand.",
+      "answer": 90000,
+      "solution": "Halfway rounds up."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Round 99,950 to nearest hundred.",
+      "answer": 100000,
+      "solution": "5 tens rounds up."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Larger: 45,019 or 45,091?",
+      "answer": 45091,
+      "solution": "Compare tens."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Insert >, < or = : 70,099 __ 70,900",
+      "answer": "<",
+      "solution": "0 hundreds is less than 9 hundreds."
+    }
+  ],
+  "summary": "Compare whole numbers from the highest place down. To round to a given place, inspect the digit immediately to its right: 0–4 stays at the lower multiple, 5–9 goes to the next multiple. Replace lower digits with zero.",
+  "relatedTopics": [
+    "primary-4-numbers",
+    "primary-4-addition-subtraction"
+  ]
+}

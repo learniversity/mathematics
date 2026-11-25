@@ -1,0 +1,153 @@
+{
+  "id": "primary-4-triangles",
+  "title": "Types and Properties of Triangles",
+  "level": "primary-4",
+  "category": "Geometry",
+  "introduction": "Build Primary 4 mathematical understanding through types and properties of triangles.",
+  "definition": "A triangle has three sides and three interior angles. Its interior angles sum to 180°. By sides, a triangle is equilateral (three equal), isosceles (at least two equal) or scalene (all unequal). By angles, it may be acute, right or obtuse.",
+  "visuals": [
+    {
+      "label": "Equilateral",
+      "description": "Three equal sides.",
+      "alt": "Equilateral — Three equal sides.",
+      "elements": [
+        {
+          "tag": "polygon",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "points": "80,10 34,90 126,90"
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 78,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "60°"
+        }
+      ]
+    },
+    {
+      "label": "Right triangle",
+      "description": "One 90° angle.",
+      "alt": "Right triangle — One 90° angle.",
+      "elements": [
+        {
+          "tag": "polygon",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "points": "28,12 28,85 132,85"
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 28,
+            "y": 70,
+            "width": 15,
+            "height": 15
+          }
+        }
+      ]
+    },
+    {
+      "label": "Scalene",
+      "description": "All side lengths differ.",
+      "alt": "Scalene — All side lengths differ.",
+      "elements": [
+        {
+          "tag": "polygon",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "points": "18,85 65,15 145,85"
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "A + B + C = 180°",
+      "description": "Interior angles of a plane triangle."
+    }
+  ],
+  "examples": [
+    {
+      "question": "A triangle has angles 50° and 65°. Find the third.",
+      "steps": [
+        "180 − 50 − 65 = 65."
+      ],
+      "answer": "65°"
+    },
+    {
+      "question": "Find each angle of an equilateral triangle.",
+      "steps": [
+        "All three angles are equal.",
+        "180 ÷ 3."
+      ],
+      "answer": "60°"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Sum of interior angles of a triangle?",
+      "answer": 180,
+      "solution": "Every plane triangle has this sum."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Triangle angles 45° and 90°. Third angle?",
+      "answer": 45,
+      "solution": "180 − 135."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "A triangle has all unequal sides. Name it.",
+      "answer": "scalene",
+      "solution": "All three side lengths differ."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "A triangle has three equal sides. Name it.",
+      "answer": "equilateral",
+      "solution": "All sides are equal."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "An isosceles triangle has vertex angle 40°. Each base angle?",
+      "answer": 70,
+      "solution": "(180 − 40) ÷ 2."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "A triangle with one 100° angle is acute, right or obtuse?",
+      "answer": "obtuse",
+      "solution": "One angle exceeds 90°."
+    }
+  ],
+  "summary": "A triangle has three sides and three interior angles. Its interior angles sum to 180°. By sides, a triangle is equilateral (three equal), isosceles (at least two equal) or scalene (all unequal). By angles, it may be acute, right or obtuse.",
+  "relatedTopics": [
+    "primary-4-angles",
+    "primary-4-quadrilaterals"
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "primary-4-quadrilaterals",
+  "title": "Quadrilaterals and Their Properties",
+  "level": "primary-4",
+  "category": "Geometry",
+  "introduction": "Build Primary 4 mathematical understanding through quadrilaterals and their properties.",
+  "definition": "A quadrilateral is a polygon with four sides. Rectangles have four right angles; squares also have four equal sides. A parallelogram has two pairs of parallel opposite sides; a rhombus has four equal sides. The interior angles sum to 360°.",
+  "visuals": [
+    {
+      "label": "Parallelogram",
+      "description": "Opposite sides parallel.",
+      "alt": "Parallelogram — Opposite sides parallel.",
+      "elements": [
+        {
+          "tag": "polygon",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "points": "45,20 145,20 115,80 15,80"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Rhombus",
+      "description": "Four equal sides.",
+      "alt": "Rhombus — Four equal sides.",
+      "elements": [
+        {
+          "tag": "polygon",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "points": "80,8 132,50 80,92 28,50"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Rectangle",
+      "description": "Four right angles.",
+      "alt": "Rectangle — Four right angles.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 20,
+            "y": 25,
+            "width": 120,
+            "height": 50
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "A + B + C + D = 360°",
+      "description": "Interior angle sum of a simple quadrilateral."
+    }
+  ],
+  "examples": [
+    {
+      "question": "A quadrilateral has angles 90°, 90° and 110°. Find the fourth.",
+      "steps": [
+        "360 − 90 − 90 − 110."
+      ],
+      "answer": "70°"
+    },
+    {
+      "question": "A parallelogram has one side 7 cm and an adjacent side 4 cm.",
+      "steps": [
+        "Opposite sides have equal lengths.",
+        "7 + 4 + 7 + 4."
+      ],
+      "answer": "22 cm perimeter"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Sum of quadrilateral interior angles?",
+      "answer": 360,
+      "solution": "Split into two triangles."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "How many right angles does a rectangle have?",
+      "answer": 4,
+      "solution": "All its corners are right angles."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "A quadrilateral has four equal sides and no right angles. Name it.",
+      "answer": "rhombus",
+      "solution": "Four equal sides define a rhombus."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Angles 80°, 100°, 90°, x. Find x.",
+      "answer": 90,
+      "solution": "360 − 270."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "How many pairs of parallel sides does a parallelogram have?",
+      "answer": 2,
+      "solution": "Both pairs of opposite sides."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Is every square a rectangle? yes/no",
+      "answer": "yes",
+      "solution": "It has four right angles."
+    }
+  ],
+  "summary": "A quadrilateral is a polygon with four sides. Rectangles have four right angles; squares also have four equal sides. A parallelogram has two pairs of parallel opposite sides; a rhombus has four equal sides. The interior angles sum to 360°.",
+  "relatedTopics": [
+    "primary-4-triangles",
+    "primary-4-area"
+  ]
+}

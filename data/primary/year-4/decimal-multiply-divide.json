@@ -1,0 +1,85 @@
+{
+  "id": "primary-4-decimal-multiply-divide",
+  "title": "Multiplying and Dividing Decimals",
+  "level": "primary-4",
+  "category": "Arithmetic",
+  "introduction": "Build Primary 4 mathematical understanding through multiplying and dividing decimals.",
+  "definition": "Multiplying by 10, 100 or 1,000 moves digits to higher place values; dividing moves them to lower places. For a decimal times a whole number, multiply as integers then restore the decimal places. Divide decimals using place values and extend with zeros when needed.",
+  "visuals": [],
+  "formulas": [
+    {
+      "expression": "a × 10ⁿ",
+      "description": "Move digits n places higher for nonnegative integer n."
+    },
+    {
+      "expression": "a ÷ 10ⁿ",
+      "description": "Move digits n places lower."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Calculate 2.35 × 6.",
+      "steps": [
+        "235 × 6 = 1,410.",
+        "Restore two decimal places."
+      ],
+      "answer": "14.1"
+    },
+    {
+      "question": "Calculate 7.5 ÷ 3.",
+      "steps": [
+        "75 tenths ÷ 3 = 25 tenths."
+      ],
+      "answer": "2.5"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "3.426 × 10",
+      "answer": 34.26,
+      "solution": "Each digit moves one place higher."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "4.7 × 100",
+      "answer": 470,
+      "solution": "Each digit moves two places higher."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "85 ÷ 100",
+      "answer": 0.85,
+      "solution": "Move digits two places lower."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "1.25 × 8",
+      "answer": 10,
+      "solution": "125 × 8 = 1,000 hundredths."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "9.6 ÷ 4",
+      "answer": 2.4,
+      "solution": "96 tenths ÷ 4."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "6.75 ÷ 5",
+      "answer": 1.35,
+      "solution": "675 hundredths ÷ 5."
+    }
+  ],
+  "summary": "Multiplying by 10, 100 or 1,000 moves digits to higher place values; dividing moves them to lower places. For a decimal times a whole number, multiply as integers then restore the decimal places. Divide decimals using place values and extend with zeros when needed.",
+  "relatedTopics": [
+    "primary-4-decimal-add-subtract",
+    "primary-4-percentages"
+  ]
+}

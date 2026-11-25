@@ -1,0 +1,76 @@
+{
+  "id": "primary-4-word-problems",
+  "title": "Multi-Step Applied Mathematics",
+  "level": "primary-4",
+  "category": "Arithmetic",
+  "introduction": "Build Primary 4 mathematical understanding through multi-step applied mathematics.",
+  "definition": "Solve problems by identifying the target, selecting relevant quantities and units, planning a calculation, and checking whether the result is sensible. Fractions, percentages, ratios and geometry can appear together.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "A school has 480 pupils; 25% join a club and 18 more join later.",
+      "steps": [
+        "25% × 480 = 120.",
+        "120 + 18."
+      ],
+      "answer": "138"
+    },
+    {
+      "question": "A rectangular garden 12 m by 8 m has a 3 m by 4 m pond.",
+      "steps": [
+        "Garden area = 96 m²; pond area = 12 m².",
+        "96 − 12."
+      ],
+      "answer": "84 m²"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "15 boxes of 48 pencils, 125 given away. Remaining?",
+      "answer": 595,
+      "solution": "15 × 48 − 125."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "RM180 item discounted 20%, then RM10 delivery. Total RM?",
+      "answer": 154,
+      "solution": "180 × 0.8 + 10."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Share 72 in ratio 5:3. Larger share?",
+      "answer": 45,
+      "solution": "72 ÷ 8 × 5."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "A tank holds 12 L, 3/4 used. Remaining L?",
+      "answer": 3,
+      "solution": "12 × 1/4."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Journey 2 h 35 min plus 45 min. Total minutes?",
+      "answer": 200,
+      "solution": "120 + 35 + 45."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "A 9 m by 6 m floor needs 2 square tiles per m². Tiles needed?",
+      "answer": 108,
+      "solution": "9 × 6 × 2."
+    }
+  ],
+  "summary": "Solve problems by identifying the target, selecting relevant quantities and units, planning a calculation, and checking whether the result is sensible. Fractions, percentages, ratios and geometry can appear together.",
+  "relatedTopics": [
+    "primary-4-patterns"
+  ]
+}

@@ -572,6 +572,192 @@
       "level": "primary-3",
       "title": "Multi-Step Mathematical Problems",
       "path": "data/primary/year-3/word-problems.json"
+    },
+    {
+      "id": "primary-4-numbers",
+      "level": "primary-4",
+      "title": "Whole Numbers to 100,000",
+      "path": "data/primary/year-4/numbers.json"
+    },
+    {
+      "id": "primary-4-comparison-rounding",
+      "level": "primary-4",
+      "title": "Comparing, Ordering and Rounding",
+      "path": "data/primary/year-4/comparison-rounding.json"
+    },
+    {
+      "id": "primary-4-addition-subtraction",
+      "level": "primary-4",
+      "title": "Addition and Subtraction within 100,000",
+      "path": "data/primary/year-4/addition-subtraction.json"
+    },
+    {
+      "id": "primary-4-multiplication",
+      "level": "primary-4",
+      "title": "Multiplication by Two-Digit Numbers",
+      "path": "data/primary/year-4/multiplication.json"
+    },
+    {
+      "id": "primary-4-division",
+      "level": "primary-4",
+      "title": "Long Division by Two-Digit Numbers",
+      "path": "data/primary/year-4/division.json"
+    },
+    {
+      "id": "primary-4-operations-estimation",
+      "level": "primary-4",
+      "title": "Mixed Operations and Estimation",
+      "path": "data/primary/year-4/operations-estimation.json"
+    },
+    {
+      "id": "primary-4-prime-composite",
+      "level": "primary-4",
+      "title": "Prime and Composite Numbers",
+      "path": "data/primary/year-4/prime-composite.json"
+    },
+    {
+      "id": "primary-4-hcf-lcm",
+      "level": "primary-4",
+      "title": "Highest Common Factor and Lowest Common Multiple",
+      "path": "data/primary/year-4/hcf-lcm.json"
+    },
+    {
+      "id": "primary-4-fraction-add-subtract",
+      "level": "primary-4",
+      "title": "Addition and Subtraction of Mixed Numbers",
+      "path": "data/primary/year-4/fraction-add-subtract.json"
+    },
+    {
+      "id": "primary-4-fraction-multiplication",
+      "level": "primary-4",
+      "title": "Multiplying Fractions",
+      "path": "data/primary/year-4/fraction-multiplication.json"
+    },
+    {
+      "id": "primary-4-decimals",
+      "level": "primary-4",
+      "title": "Decimals to Thousandths",
+      "path": "data/primary/year-4/decimals.json"
+    },
+    {
+      "id": "primary-4-decimal-add-subtract",
+      "level": "primary-4",
+      "title": "Decimal Addition and Subtraction to Three Places",
+      "path": "data/primary/year-4/decimal-add-subtract.json"
+    },
+    {
+      "id": "primary-4-decimal-multiply-divide",
+      "level": "primary-4",
+      "title": "Multiplying and Dividing Decimals",
+      "path": "data/primary/year-4/decimal-multiply-divide.json"
+    },
+    {
+      "id": "primary-4-percentages",
+      "level": "primary-4",
+      "title": "Introduction to Percentages",
+      "path": "data/primary/year-4/percentages.json"
+    },
+    {
+      "id": "primary-4-percentage-calculations",
+      "level": "primary-4",
+      "title": "Finding Percentages of Quantities",
+      "path": "data/primary/year-4/percentage-calculations.json"
+    },
+    {
+      "id": "primary-4-ratio",
+      "level": "primary-4",
+      "title": "Introduction to Ratio",
+      "path": "data/primary/year-4/ratio.json"
+    },
+    {
+      "id": "primary-4-money",
+      "level": "primary-4",
+      "title": "Budgets, Discounts and Money",
+      "path": "data/primary/year-4/money.json"
+    },
+    {
+      "id": "primary-4-time",
+      "level": "primary-4",
+      "title": "12-Hour and 24-Hour Time",
+      "path": "data/primary/year-4/time.json"
+    },
+    {
+      "id": "primary-4-measurement",
+      "level": "primary-4",
+      "title": "Metric Units and Conversions",
+      "path": "data/primary/year-4/measurement.json"
+    },
+    {
+      "id": "primary-4-angles",
+      "level": "primary-4",
+      "title": "Measuring and Calculating Angles",
+      "path": "data/primary/year-4/angles.json"
+    },
+    {
+      "id": "primary-4-triangles",
+      "level": "primary-4",
+      "title": "Types and Properties of Triangles",
+      "path": "data/primary/year-4/triangles.json"
+    },
+    {
+      "id": "primary-4-quadrilaterals",
+      "level": "primary-4",
+      "title": "Quadrilaterals and Their Properties",
+      "path": "data/primary/year-4/quadrilaterals.json"
+    },
+    {
+      "id": "primary-4-area",
+      "level": "primary-4",
+      "title": "Area of Triangles and Composite Shapes",
+      "path": "data/primary/year-4/area.json"
+    },
+    {
+      "id": "primary-4-perimeter",
+      "level": "primary-4",
+      "title": "Perimeter and Missing Side Lengths",
+      "path": "data/primary/year-4/perimeter.json"
+    },
+    {
+      "id": "primary-4-volume",
+      "level": "primary-4",
+      "title": "Volume of Cubes and Cuboids",
+      "path": "data/primary/year-4/volume.json"
+    },
+    {
+      "id": "primary-4-coordinates",
+      "level": "primary-4",
+      "title": "Coordinates on a Grid",
+      "path": "data/primary/year-4/coordinates.json"
+    },
+    {
+      "id": "primary-4-statistics",
+      "level": "primary-4",
+      "title": "Mean, Mode and Range",
+      "path": "data/primary/year-4/statistics.json"
+    },
+    {
+      "id": "primary-4-data-handling",
+      "level": "primary-4",
+      "title": "Tables, Bar Charts and Line Graphs",
+      "path": "data/primary/year-4/data-handling.json"
+    },
+    {
+      "id": "primary-4-probability",
+      "level": "primary-4",
+      "title": "Introduction to Probability",
+      "path": "data/primary/year-4/probability.json"
+    },
+    {
+      "id": "primary-4-patterns",
+      "level": "primary-4",
+      "title": "Sequences and Simple Unknowns",
+      "path": "data/primary/year-4/patterns.json"
+    },
+    {
+      "id": "primary-4-word-problems",
+      "level": "primary-4",
+      "title": "Multi-Step Applied Mathematics",
+      "path": "data/primary/year-4/word-problems.json"
     }
   ]
 }

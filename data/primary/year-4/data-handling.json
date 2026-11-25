@@ -1,0 +1,222 @@
+{
+  "id": "primary-4-data-handling",
+  "title": "Tables, Bar Charts and Line Graphs",
+  "level": "primary-4",
+  "category": "Statistics",
+  "introduction": "Build Primary 4 mathematical understanding through tables, bar charts and line graphs.",
+  "definition": "A frequency table summarises counts. A bar chart compares categories, while a line graph connects observations in order, often over time. Axes need labels and consistent scales. Interpret changes by comparing values.",
+  "visuals": [
+    {
+      "label": "Line graph",
+      "description": "Values rise from 4 to 8, then fall to 6.",
+      "alt": "Line graph — Values rise from 4 to 8, then fall to 6.",
+      "elements": [
+        {
+          "tag": "polyline",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "points": "23,9 23,85 150,85"
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 12,
+            "y": 88,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "0"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 12,
+            "y": 70,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "2"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 12,
+            "y": 52,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "4"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 12,
+            "y": 34,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "6"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 12,
+            "y": 16,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "8"
+        },
+        {
+          "tag": "polyline",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "points": "45,49 85,13 125,31"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 45,
+            "cy": 49,
+            "r": 3
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 85,
+            "cy": 13,
+            "r": 3
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 125,
+            "cy": 31,
+            "r": 3
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 45,
+            "y": 97,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "A"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 85,
+            "y": 97,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "B"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 125,
+            "y": 97,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "C"
+        }
+      ]
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Temperatures at 8, 10 and 12 o'clock are 24°C, 27°C and 31°C.",
+      "steps": [
+        "31 − 24 = 7."
+      ],
+      "answer": "7°C increase"
+    },
+    {
+      "question": "A table gives 12 red, 18 blue and 10 green votes.",
+      "steps": [
+        "Total = 12 + 18 + 10."
+      ],
+      "answer": "40"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Rainfall Mon 8 mm, Tue 12 mm, Wed 5 mm. Total mm?",
+      "answer": 25,
+      "solution": "8 + 12 + 5."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Sales Jan 20, Feb 35, Mar 30. Increase Jan to Feb?",
+      "answer": 15,
+      "solution": "35 − 20."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Temperature drops from 32°C to 26°C. Drop in degrees?",
+      "answer": 6,
+      "solution": "32 − 26."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Votes: A=14, B=23, C=9. Highest category?",
+      "answer": "B",
+      "solution": "23 is greatest."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "A chart scale increases by 10. Sixth interval value?",
+      "answer": 60,
+      "solution": "6 × 10."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Values 5, 8, 11. Total?",
+      "answer": 24,
+      "solution": "5 + 8 + 11."
+    }
+  ],
+  "summary": "A frequency table summarises counts. A bar chart compares categories, while a line graph connects observations in order, often over time. Axes need labels and consistent scales. Interpret changes by comparing values.",
+  "relatedTopics": [
+    "primary-4-statistics",
+    "primary-4-probability"
+  ]
+}

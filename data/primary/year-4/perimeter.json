@@ -1,0 +1,129 @@
+{
+  "id": "primary-4-perimeter",
+  "title": "Perimeter and Missing Side Lengths",
+  "level": "primary-4",
+  "category": "Geometry",
+  "introduction": "Build Primary 4 mathematical understanding through perimeter and missing side lengths.",
+  "definition": "Perimeter measures the outside boundary of a shape. For rectilinear polygons, horizontal distances in opposite directions balance, as do vertical distances. Find missing sides before adding the outer boundary.",
+  "visuals": [
+    {
+      "label": "L-shaped perimeter",
+      "description": "The missing corner does not change the perimeter of this outer rectangle.",
+      "alt": "L-shaped perimeter — The missing corner does not change the perimeter of this outer rectangle.",
+      "elements": [
+        {
+          "tag": "polygon",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "points": "20,10 140,10 140,45 85,45 85,90 20,90"
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 85,
+            "y1": 90,
+            "x2": 140,
+            "y2": 90,
+            "stroke-dasharray": "4 3"
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 140,
+            "y1": 45,
+            "x2": 140,
+            "y2": 90,
+            "stroke-dasharray": "4 3"
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "P = 2(l + w)",
+      "description": "Rectangle."
+    },
+    {
+      "expression": "P = 4s",
+      "description": "Square."
+    }
+  ],
+  "examples": [
+    {
+      "question": "A rectangle has perimeter 34 cm and width 6 cm. Find its length.",
+      "steps": [
+        "34 ÷ 2 = 17.",
+        "17 − 6."
+      ],
+      "answer": "11 cm"
+    },
+    {
+      "question": "An L-shape has outer width 9 cm and outer height 7 cm, with one rectangular corner removed.",
+      "steps": [
+        "Horizontal lengths total 18; vertical lengths total 14.",
+        "18 + 14."
+      ],
+      "answer": "32 cm"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Rectangle perimeter 40 cm, length 12 cm. Width?",
+      "answer": 8,
+      "solution": "40 ÷ 2 − 12."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Square perimeter 52 cm. Side length?",
+      "answer": 13,
+      "solution": "52 ÷ 4."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "L-shape boundary lengths 9, 3, 4, 5, 5, 8 cm. Perimeter?",
+      "answer": 34,
+      "solution": "Sum all six lengths."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "A triangle perimeter 30 cm, sides 12 and 9 cm. Third side?",
+      "answer": 9,
+      "solution": "30 − 21."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "A rectangular corner cut-out leaves outer width 10 cm and height 6 cm. L-shape perimeter?",
+      "answer": 32,
+      "solution": "2 × (10 + 6)."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Two 5 cm squares share one complete side. Outer perimeter?",
+      "answer": 30,
+      "solution": "10 + 5 + 10 + 5."
+    }
+  ],
+  "summary": "Perimeter measures the outside boundary of a shape. For rectilinear polygons, horizontal distances in opposite directions balance, as do vertical distances. Find missing sides before adding the outer boundary.",
+  "relatedTopics": [
+    "primary-4-area",
+    "primary-4-volume"
+  ]
+}

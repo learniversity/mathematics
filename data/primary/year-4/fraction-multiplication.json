@@ -1,0 +1,222 @@
+{
+  "id": "primary-4-fraction-multiplication",
+  "title": "Multiplying Fractions",
+  "level": "primary-4",
+  "category": "Arithmetic",
+  "introduction": "Build Primary 4 mathematical understanding through multiplying fractions.",
+  "definition": "To multiply fractions, multiply the numerators and multiply the denominators. Simplify common factors before or after multiplication. Multiplying by a fraction between zero and one finds a part of a quantity.",
+  "visuals": [
+    {
+      "label": "1/2 × 3/4 = 3/8",
+      "description": "The darker overlap is three of eight equal cells.",
+      "alt": "1/2 × 3/4 = 3/8 — The darker overlap is three of eight equal cells.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 16,
+            "y": 18,
+            "width": 32,
+            "height": 32
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 48,
+            "y": 18,
+            "width": 32,
+            "height": 32
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 80,
+            "y": 18,
+            "width": 32,
+            "height": 32
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#999",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 112,
+            "y": 18,
+            "width": 32,
+            "height": 32
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#999",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 16,
+            "y": 50,
+            "width": 32,
+            "height": 32
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#999",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 48,
+            "y": 50,
+            "width": 32,
+            "height": 32
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#999",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 80,
+            "y": 50,
+            "width": 32,
+            "height": 32
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 112,
+            "y": 50,
+            "width": 32,
+            "height": 32
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "#888",
+            "stroke-width": 1,
+            "x1": 48,
+            "y1": 18,
+            "x2": 48,
+            "y2": 50
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "#888",
+            "stroke-width": 1,
+            "x1": 80,
+            "y1": 18,
+            "x2": 80,
+            "y2": 50
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "#888",
+            "stroke-width": 1,
+            "x1": 112,
+            "y1": 18,
+            "x2": 112,
+            "y2": 50
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "(a/b) × (c/d) = ac/bd",
+      "description": "Nonzero denominators."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Calculate 2/3 × 3/5.",
+      "steps": [
+        "2 × 3 = 6; 3 × 5 = 15.",
+        "6/15 simplifies to 2/5."
+      ],
+      "answer": "2/5"
+    },
+    {
+      "question": "Find 3/4 of 28.",
+      "steps": [
+        "28 ÷ 4 = 7.",
+        "7 × 3 = 21."
+      ],
+      "answer": "21"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "1/2 × 3/5, lowest terms.",
+      "answer": "3/10",
+      "solution": "Multiply tops and bottoms."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "2/3 × 3/4, lowest terms.",
+      "answer": "1/2",
+      "solution": "6/12 = 1/2."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Find 2/5 of 35.",
+      "answer": 14,
+      "solution": "35 ÷ 5 × 2."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Find 3/8 of 40.",
+      "answer": 15,
+      "solution": "40 ÷ 8 × 3."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "1/4 × 8",
+      "answer": 2,
+      "solution": "8 ÷ 4."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "4/7 × 7/8, lowest terms.",
+      "answer": "1/2",
+      "solution": "28/56 = 1/2."
+    }
+  ],
+  "summary": "To multiply fractions, multiply the numerators and multiply the denominators. Simplify common factors before or after multiplication. Multiplying by a fraction between zero and one finds a part of a quantity.",
+  "relatedTopics": [
+    "primary-4-fraction-add-subtract",
+    "primary-4-decimals"
+  ]
+}

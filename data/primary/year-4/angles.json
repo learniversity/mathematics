@@ -1,0 +1,138 @@
+{
+  "id": "primary-4-angles",
+  "title": "Measuring and Calculating Angles",
+  "level": "primary-4",
+  "category": "Geometry",
+  "introduction": "Build Primary 4 mathematical understanding through measuring and calculating angles.",
+  "definition": "A protractor measures angles in degrees. Place its centre at the vertex and its baseline along one ray, then read the scale from zero on that ray. Angles on a straight line sum to 180°; angles around a point sum to 360°.",
+  "visuals": [
+    {
+      "label": "Angles on a straight line",
+      "description": "65° + 115° = 180°.",
+      "alt": "Angles on a straight line — 65° + 115° = 180°.",
+      "elements": [
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 8,
+            "y1": 75,
+            "x2": 152,
+            "y2": 75
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 80,
+            "y1": 75,
+            "x2": 105,
+            "y2": 21
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 113,
+            "y": 61,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "65°"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 48,
+            "y": 61,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "115°"
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "Angles on a straight line = 180°",
+      "description": "Adjacent angles forming a straight line."
+    },
+    {
+      "expression": "Angles around a point = 360°",
+      "description": "Full turn."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Two adjacent angles form a straight line. One is 65°.",
+      "steps": [
+        "Subtract 65° from 180°."
+      ],
+      "answer": "115°"
+    },
+    {
+      "question": "Angles around a point are 90°, 120° and x.",
+      "steps": [
+        "360 − 90 − 120."
+      ],
+      "answer": "150°"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Complement of 35° (sum 90°)?",
+      "answer": 55,
+      "solution": "90 − 35."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Supplement of 72° (sum 180°)?",
+      "answer": 108,
+      "solution": "180 − 72."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Angles around a point: 100°, 110°, x. Find x.",
+      "answer": 150,
+      "solution": "360 − 210."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Classify 135° as acute, right or obtuse.",
+      "answer": "obtuse",
+      "solution": "Between 90° and 180°."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Two equal angles form a straight line. Each in degrees?",
+      "answer": 90,
+      "solution": "180 ÷ 2."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Three equal angles around a point. Each in degrees?",
+      "answer": 120,
+      "solution": "360 ÷ 3."
+    }
+  ],
+  "summary": "A protractor measures angles in degrees. Place its centre at the vertex and its baseline along one ray, then read the scale from zero on that ray. Angles on a straight line sum to 180°; angles around a point sum to 360°.",
+  "relatedTopics": [
+    "primary-4-measurement",
+    "primary-4-triangles"
+  ]
+}

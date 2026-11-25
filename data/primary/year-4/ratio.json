@@ -1,0 +1,148 @@
+{
+  "id": "primary-4-ratio",
+  "title": "Introduction to Ratio",
+  "level": "primary-4",
+  "category": "Arithmetic",
+  "introduction": "Build Primary 4 mathematical understanding through introduction to ratio.",
+  "definition": "A ratio compares quantities using division. The ratio a:b describes how much of the first quantity corresponds to the second. Use matching units and simplify by dividing both terms by a common factor.",
+  "visuals": [
+    {
+      "label": "Ratio 2:3",
+      "description": "Two outlined counters for every three filled counters.",
+      "alt": "Ratio 2:3 — Two outlined counters for every three filled counters.",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 20,
+            "cy": 50,
+            "r": 10
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 50,
+            "cy": 50,
+            "r": 10
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 80,
+            "cy": 50,
+            "r": 10
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 110,
+            "cy": 50,
+            "r": 10
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 140,
+            "cy": 50,
+            "r": 10
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "a:b = (a ÷ k):(b ÷ k)",
+      "description": "Common positive factor k."
+    },
+    {
+      "expression": "One part = total ÷ sum of ratio terms",
+      "description": "When sharing a total in a ratio."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Simplify 12 red counters : 8 blue counters.",
+      "steps": [
+        "Divide both numbers by 4."
+      ],
+      "answer": "3:2"
+    },
+    {
+      "question": "The ratio of red to blue is 2:3. There are 10 red counters.",
+      "steps": [
+        "2 parts represent 10, so each part is 5.",
+        "3 parts represent 15."
+      ],
+      "answer": "15"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Simplify 6:9.",
+      "answer": "2:3",
+      "solution": "Divide both terms by 3."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Simplify 15:25.",
+      "answer": "3:5",
+      "solution": "Divide both terms by 5."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Ratio 1:4, first quantity 6. Second quantity?",
+      "answer": 24,
+      "solution": "4 × 6."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Ratio 3:2, second quantity 8. First quantity?",
+      "answer": 12,
+      "solution": "One part = 4."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Simplify 2 m : 50 cm.",
+      "answer": "4:1",
+      "solution": "200 cm : 50 cm."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Share 30 objects in ratio 2:3. Larger share?",
+      "answer": 18,
+      "solution": "30 ÷ 5 × 3."
+    }
+  ],
+  "summary": "A ratio compares quantities using division. The ratio a:b describes how much of the first quantity corresponds to the second. Use matching units and simplify by dividing both terms by a common factor.",
+  "relatedTopics": [
+    "primary-4-percentage-calculations",
+    "primary-4-money"
+  ]
+}

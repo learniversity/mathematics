@@ -1,0 +1,166 @@
+{
+  "id": "primary-4-statistics",
+  "title": "Mean, Mode and Range",
+  "level": "primary-4",
+  "category": "Statistics",
+  "introduction": "Build Primary 4 mathematical understanding through mean, mode and range.",
+  "definition": "The arithmetic mean is the total of numerical values divided by their count. The mode is a value occurring most frequently; more than one mode can exist. The range is the maximum minus the minimum.",
+  "visuals": [
+    {
+      "label": "Mean of 4, 6, 8, 10",
+      "description": "The equal-share value is 7.",
+      "alt": "Mean of 4, 6, 8, 10 — The equal-share value is 7.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 15,
+            "y": 57,
+            "width": 22,
+            "height": 28
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 50,
+            "y": 43,
+            "width": 22,
+            "height": 42
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 85,
+            "y": 29,
+            "width": 22,
+            "height": 56
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 120,
+            "y": 15,
+            "width": 22,
+            "height": 70
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 8,
+            "y1": 36,
+            "x2": 155,
+            "y2": 36,
+            "stroke-dasharray": "4 2"
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 147,
+            "y": 30,
+            "font-size": 11,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "7"
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "Mean = sum ÷ count",
+      "description": "For a nonempty set of observations."
+    },
+    {
+      "expression": "Range = maximum − minimum",
+      "description": "Spread of observations."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Find mean of 4, 6, 8 and 10.",
+      "steps": [
+        "Sum = 28; count = 4.",
+        "28 ÷ 4."
+      ],
+      "answer": "7"
+    },
+    {
+      "question": "Find mode and range of 3, 5, 5, 7, 10.",
+      "steps": [
+        "5 occurs most often.",
+        "Range = 10 − 3."
+      ],
+      "answer": "Mode 5; range 7"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Mean of 6, 8, 10?",
+      "answer": 8,
+      "solution": "24 ÷ 3."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Mode of 2, 4, 4, 5, 7?",
+      "answer": 4,
+      "solution": "4 appears twice."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Range of 12, 18, 7, 20?",
+      "answer": 13,
+      "solution": "20 − 7."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Mean of 3, 5, 7, 9?",
+      "answer": 6,
+      "solution": "24 ÷ 4."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Total of five numbers with mean 8?",
+      "answer": 40,
+      "solution": "5 × 8."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Range of 9, 9, 9?",
+      "answer": 0,
+      "solution": "9 − 9."
+    }
+  ],
+  "summary": "The arithmetic mean is the total of numerical values divided by their count. The mode is a value occurring most frequently; more than one mode can exist. The range is the maximum minus the minimum.",
+  "relatedTopics": [
+    "primary-4-coordinates",
+    "primary-4-data-handling"
+  ]
+}

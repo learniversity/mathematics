@@ -1,0 +1,77 @@
+{
+  "id": "primary-4-decimal-add-subtract",
+  "title": "Decimal Addition and Subtraction to Three Places",
+  "level": "primary-4",
+  "category": "Arithmetic",
+  "introduction": "Build Primary 4 mathematical understanding through decimal addition and subtraction to three places.",
+  "definition": "Align decimal points so equal place values line up. Fill empty decimal places with zeros. Regroup in the same way as whole numbers and keep the point aligned in the result.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Calculate 12.408 + 3.79.",
+      "steps": [
+        "Write 3.79 as 3.790.",
+        "Add corresponding digits."
+      ],
+      "answer": "16.198"
+    },
+    {
+      "question": "Calculate 20 − 8.675.",
+      "steps": [
+        "Write 20 as 20.000.",
+        "Regroup across the zeros."
+      ],
+      "answer": "11.325"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "4.125 + 2.34",
+      "answer": 6.465,
+      "solution": "4.125 + 2.340."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "9.7 − 3.485",
+      "answer": 6.215,
+      "solution": "9.700 − 3.485."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "0.999 + 0.001",
+      "answer": 1,
+      "solution": "1,000 thousandths."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "15.006 − 7.008",
+      "answer": 7.998,
+      "solution": "Regroup across decimal places."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "5.08 + 6.925",
+      "answer": 12.005,
+      "solution": "5.080 + 6.925."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "30 − 19.875",
+      "answer": 10.125,
+      "solution": "30.000 − 19.875."
+    }
+  ],
+  "summary": "Align decimal points so equal place values line up. Fill empty decimal places with zeros. Regroup in the same way as whole numbers and keep the point aligned in the result.",
+  "relatedTopics": [
+    "primary-4-decimals",
+    "primary-4-decimal-multiply-divide"
+  ]
+}

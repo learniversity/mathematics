@@ -1,0 +1,279 @@
+{
+  "id": "primary-4-measurement",
+  "title": "Metric Units and Conversions",
+  "level": "primary-4",
+  "category": "Measurement",
+  "introduction": "Build Primary 4 mathematical understanding through metric units and conversions.",
+  "definition": "Metric units scale by powers of ten. Convert measurements of the same kind to a common unit before calculating. Length, mass and volume describe different quantities and cannot be added together.",
+  "visuals": [
+    {
+      "label": "1 kilometre",
+      "description": "1 km = 1,000 m.",
+      "alt": "1 kilometre — 1 km = 1,000 m.",
+      "elements": [
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 10,
+            "y1": 50,
+            "x2": 150,
+            "y2": 50
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 10,
+            "y1": 43,
+            "x2": 10,
+            "y2": 57
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 24,
+            "y1": 43,
+            "x2": 24,
+            "y2": 57
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 38,
+            "y1": 43,
+            "x2": 38,
+            "y2": 57
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 52,
+            "y1": 43,
+            "x2": 52,
+            "y2": 57
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 66,
+            "y1": 43,
+            "x2": 66,
+            "y2": 57
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 80,
+            "y1": 43,
+            "x2": 80,
+            "y2": 57
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 94,
+            "y1": 43,
+            "x2": 94,
+            "y2": 57
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 108,
+            "y1": 43,
+            "x2": 108,
+            "y2": 57
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 122,
+            "y1": 43,
+            "x2": 122,
+            "y2": 57
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 136,
+            "y1": 43,
+            "x2": 136,
+            "y2": 57
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 150,
+            "y1": 43,
+            "x2": 150,
+            "y2": 57
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 10,
+            "y": 76,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "0"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 76,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "500"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 145,
+            "y": 76,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "1000"
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "1 km = 1,000 m",
+      "description": "Length."
+    },
+    {
+      "expression": "1 m = 100 cm = 1,000 mm",
+      "description": "Length."
+    },
+    {
+      "expression": "1 kg = 1,000 g",
+      "description": "Mass."
+    },
+    {
+      "expression": "1 L = 1,000 mL",
+      "description": "Liquid volume."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Convert 4.25 km to metres.",
+      "steps": [
+        "1 km = 1,000 m.",
+        "4.25 × 1,000."
+      ],
+      "answer": "4,250 m"
+    },
+    {
+      "question": "Convert 2 kg 75 g to kilograms.",
+      "steps": [
+        "75 g = 0.075 kg.",
+        "2 + 0.075."
+      ],
+      "answer": "2.075 kg"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "3.6 m in cm?",
+      "answer": 360,
+      "solution": "3.6 × 100."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "750 mm in cm?",
+      "answer": 75,
+      "solution": "750 ÷ 10."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "2.45 kg in g?",
+      "answer": 2450,
+      "solution": "2.45 × 1,000."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "3,250 mL in L?",
+      "answer": 3.25,
+      "solution": "3,250 ÷ 1,000."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "1.25 km + 350 m, answer in m.",
+      "answer": 1600,
+      "solution": "1,250 + 350."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "4 L − 850 mL, answer in L.",
+      "answer": 3.15,
+      "solution": "4 − 0.85."
+    }
+  ],
+  "summary": "Metric units scale by powers of ten. Convert measurements of the same kind to a common unit before calculating. Length, mass and volume describe different quantities and cannot be added together.",
+  "relatedTopics": [
+    "primary-4-time",
+    "primary-4-angles"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "primary-4-money",
+  "title": "Budgets, Discounts and Money",
+  "level": "primary-4",
+  "category": "Measurement",
+  "introduction": "Build Primary 4 mathematical understanding through budgets, discounts and money.",
+  "definition": "A budget sets a spending limit. A discount reduces an original price. Calculate the discount from the original price and subtract it to obtain the sale price. Work in matching currency units.",
+  "visuals": [],
+  "formulas": [
+    {
+      "expression": "Discount = original price × discount rate",
+      "description": "Rate expressed as a decimal."
+    },
+    {
+      "expression": "Sale price = original price − discount",
+      "description": "After discount."
+    }
+  ],
+  "examples": [
+    {
+      "question": "An RM80 item is discounted by 15%. Find its sale price.",
+      "steps": [
+        "15% × 80 = RM12.",
+        "80 − 12."
+      ],
+      "answer": "RM68"
+    },
+    {
+      "question": "A budget of RM120 covers three items costing RM35.50, RM28.90 and RM19.60.",
+      "steps": [
+        "Total = RM84.00.",
+        "120 − 84 = 36."
+      ],
+      "answer": "RM36 remaining"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "10% discount on RM90. Sale price in RM?",
+      "answer": 81,
+      "solution": "90 − 9."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "25% discount on RM120. Discount in RM?",
+      "answer": 30,
+      "solution": "120 × 0.25."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Budget RM200, spend RM146.75. Remaining RM?",
+      "answer": 53.25,
+      "solution": "200 − 146.75."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "4 items at RM12.50. Total RM?",
+      "answer": 50,
+      "solution": "4 × 12.50."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "RM100 paid for RM67.85. Change RM?",
+      "answer": 32.15,
+      "solution": "100 − 67.85."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "20% discount on RM75. Sale price RM?",
+      "answer": 60,
+      "solution": "75 − 15."
+    }
+  ],
+  "summary": "A budget sets a spending limit. A discount reduces an original price. Calculate the discount from the original price and subtract it to obtain the sale price. Work in matching currency units.",
+  "relatedTopics": [
+    "primary-4-ratio",
+    "primary-4-time"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "primary-4-operations-estimation",
+  "title": "Mixed Operations and Estimation",
+  "level": "primary-4",
+  "category": "Arithmetic",
+  "introduction": "Build Primary 4 mathematical understanding through mixed operations and estimation.",
+  "definition": "Use brackets first, then multiplication and division left to right, then addition and subtraction left to right. Estimation uses rounded numbers to approximate a result and check its size.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Calculate 120 + 8 × (35 − 15).",
+      "steps": [
+        "35 − 15 = 20.",
+        "8 × 20 = 160.",
+        "120 + 160."
+      ],
+      "answer": "280"
+    },
+    {
+      "question": "Estimate 3,978 + 6,125 to nearest thousands first.",
+      "steps": [
+        "3,978 ≈ 4,000; 6,125 ≈ 6,000.",
+        "Add the rounded values."
+      ],
+      "answer": "10000"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "250 − 6 × 24",
+      "answer": 106,
+      "solution": "250 − 144."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "(160 + 80) ÷ 12",
+      "answer": 20,
+      "solution": "240 ÷ 12."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "360 ÷ 9 × 4",
+      "answer": 160,
+      "solution": "40 × 4."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "75 + 25 × 8",
+      "answer": 275,
+      "solution": "75 + 200."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Estimate 4,189 + 7,634 by rounding each to nearest thousand.",
+      "answer": 12000,
+      "solution": "4,000 + 8,000."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Estimate 49 × 21 by rounding each to nearest ten.",
+      "answer": 1000,
+      "solution": "50 × 20."
+    }
+  ],
+  "summary": "Use brackets first, then multiplication and division left to right, then addition and subtraction left to right. Estimation uses rounded numbers to approximate a result and check its size.",
+  "relatedTopics": [
+    "primary-4-division",
+    "primary-4-prime-composite"
+  ]
+}

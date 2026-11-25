@@ -1,0 +1,300 @@
+{
+  "id": "primary-4-prime-composite",
+  "title": "Prime and Composite Numbers",
+  "level": "primary-4",
+  "category": "Arithmetic",
+  "introduction": "Build Primary 4 mathematical understanding through prime and composite numbers.",
+  "definition": "A prime number is a whole number greater than 1 with exactly two positive factors: 1 and itself. A composite number has more than two positive factors. Zero and one are neither prime nor composite.",
+  "visuals": [
+    {
+      "label": "Prime: 7",
+      "description": "Only one row of seven or seven rows of one.",
+      "alt": "Prime: 7 — Only one row of seven or seven rows of one.",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 17,
+            "cy": 50,
+            "r": 6
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 38,
+            "cy": 50,
+            "r": 6
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 59,
+            "cy": 50,
+            "r": 6
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 80,
+            "cy": 50,
+            "r": 6
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 101,
+            "cy": 50,
+            "r": 6
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 122,
+            "cy": 50,
+            "r": 6
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 143,
+            "cy": 50,
+            "r": 6
+          }
+        }
+      ]
+    },
+    {
+      "label": "Composite: 12",
+      "description": "Three rows of four show a nontrivial factor pair.",
+      "alt": "Composite: 12 — Three rows of four show a nontrivial factor pair.",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 35,
+            "cy": 22,
+            "r": 7
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 65,
+            "cy": 22,
+            "r": 7
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 95,
+            "cy": 22,
+            "r": 7
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 125,
+            "cy": 22,
+            "r": 7
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 35,
+            "cy": 50,
+            "r": 7
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 65,
+            "cy": 50,
+            "r": 7
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 95,
+            "cy": 50,
+            "r": 7
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 125,
+            "cy": 50,
+            "r": 7
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 35,
+            "cy": 78,
+            "r": 7
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 65,
+            "cy": 78,
+            "r": 7
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 95,
+            "cy": 78,
+            "r": 7
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 125,
+            "cy": 78,
+            "r": 7
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Is 29 prime?",
+      "steps": [
+        "Check divisibility by 2, 3 and 5, the primes not exceeding its square root.",
+        "None divides 29 exactly."
+      ],
+      "answer": "yes"
+    },
+    {
+      "question": "Classify 21.",
+      "steps": [
+        "21 = 3 × 7, so it has factors besides 1 and itself."
+      ],
+      "answer": "composite"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Smallest prime number?",
+      "answer": 2,
+      "solution": "2 has factors 1 and 2."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Is 1 prime? yes/no",
+      "answer": "no",
+      "solution": "It has only one positive factor."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Classify 17: prime or composite.",
+      "answer": "prime",
+      "solution": "Only 1 and 17 divide it."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Classify 49: prime or composite.",
+      "answer": "composite",
+      "solution": "49 = 7 × 7."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Only even prime number?",
+      "answer": 2,
+      "solution": "Larger even numbers have 2 as a factor."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "How many positive factors does any prime have?",
+      "answer": 2,
+      "solution": "1 and the number itself."
+    }
+  ],
+  "summary": "A prime number is a whole number greater than 1 with exactly two positive factors: 1 and itself. A composite number has more than two positive factors. Zero and one are neither prime nor composite.",
+  "relatedTopics": [
+    "primary-4-operations-estimation",
+    "primary-4-hcf-lcm"
+  ]
+}

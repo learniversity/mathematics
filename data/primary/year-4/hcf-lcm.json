@@ -1,0 +1,202 @@
+{
+  "id": "primary-4-hcf-lcm",
+  "title": "Highest Common Factor and Lowest Common Multiple",
+  "level": "primary-4",
+  "category": "Arithmetic",
+  "introduction": "Build Primary 4 mathematical understanding through highest common factor and lowest common multiple.",
+  "definition": "The highest common factor (HCF) is the largest positive integer dividing both numbers. The lowest common multiple (LCM) is the smallest positive integer that is a multiple of both positive numbers.",
+  "visuals": [
+    {
+      "label": "Common multiples of 4 and 6",
+      "description": "12 is the first positive common multiple.",
+      "alt": "Common multiples of 4 and 6 — 12 is the first positive common multiple.",
+      "elements": [
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 10,
+            "y1": 40,
+            "x2": 150,
+            "y2": 40
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 10,
+            "y1": 70,
+            "x2": 150,
+            "y2": 70
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 15,
+            "y": 30,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "0"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 58,
+            "y": 30,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "4"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 101,
+            "y": 30,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "8"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 144,
+            "y": 30,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "12"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 15,
+            "y": 63,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "0"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 79.5,
+            "y": 63,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "6"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 144,
+            "y": 63,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "12"
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 133,
+            "y": 12,
+            "width": 25,
+            "height": 67,
+            "stroke-dasharray": "3 2"
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "HCF(a,b) × LCM(a,b) = a × b",
+      "description": "For positive integers a and b."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Find HCF of 18 and 24.",
+      "steps": [
+        "Factors common to both: 1, 2, 3, 6."
+      ],
+      "answer": "6"
+    },
+    {
+      "question": "Find LCM of 8 and 12.",
+      "steps": [
+        "Multiples of 8: 8, 16, 24; multiples of 12: 12, 24."
+      ],
+      "answer": "24"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "HCF of 12 and 16?",
+      "answer": 4,
+      "solution": "Common factors: 1, 2, 4."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "HCF of 15 and 25?",
+      "answer": 5,
+      "solution": "Largest common divisor is 5."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "LCM of 6 and 9?",
+      "answer": 18,
+      "solution": "18 is the first positive common multiple."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "LCM of 4 and 10?",
+      "answer": 20,
+      "solution": "20 is divisible by both."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "HCF of 24 and 36?",
+      "answer": 12,
+      "solution": "Both divisible by 12."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "LCM of 5 and 7?",
+      "answer": 35,
+      "solution": "They have no common factor greater than one."
+    }
+  ],
+  "summary": "The highest common factor (HCF) is the largest positive integer dividing both numbers. The lowest common multiple (LCM) is the smallest positive integer that is a multiple of both positive numbers.",
+  "relatedTopics": [
+    "primary-4-prime-composite",
+    "primary-4-fraction-add-subtract"
+  ]
+}
