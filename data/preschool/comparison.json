@@ -1,0 +1,126 @@
+{
+  "id": "preschool-comparison",
+  "title": "More, Less and Equal",
+  "level": "preschool",
+  "category": "Arithmetic",
+  "introduction": "Explore more, less and equal with pictures and practice.",
+  "definition": "More means a larger quantity, less means a smaller quantity, and equal means the same quantity.",
+  "visuals": [
+    {
+      "label": "More",
+      "description": "Five is more than two.",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 35,
+            "font-size": 19,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "● ● ● ● ●"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 72,
+            "font-size": 19,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "● ●"
+        }
+      ],
+      "alt": "More"
+    },
+    {
+      "label": "Equal",
+      "description": "Both groups have three.",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 35,
+            "font-size": 20,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "● ● ●"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 72,
+            "font-size": 20,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "● ● ●"
+        }
+      ],
+      "alt": "Equal"
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "5 > 2",
+      "description": "Five is greater than two."
+    },
+    {
+      "expression": "2 < 5",
+      "description": "Two is less than five."
+    },
+    {
+      "expression": "3 = 3",
+      "description": "Three equals three."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Which is greater: 3 or 5?",
+      "steps": [
+        "Count both groups; five is more."
+      ],
+      "answer": "5"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Which is greater: 2 or 7?",
+      "answer": 7,
+      "solution": "Answer: 7"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Which is smaller: 4 or 9?",
+      "answer": 4,
+      "solution": "Answer: 4"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Are 3 and 3 equal? Write yes or no.",
+      "answer": "yes",
+      "solution": "Answer: yes"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Which is smaller: 0 or 1?",
+      "answer": 0,
+      "solution": "Answer: 0"
+    }
+  ],
+  "summary": "Compare quantities by counting or matching objects.",
+  "relatedTopics": [
+    "preschool-number-order",
+    "preschool-combining"
+  ]
+}
