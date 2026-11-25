@@ -148,18 +148,6 @@
       "path": "data/preschool/measurement.json"
     },
     {
-      "id": "preschool-position",
-      "level": "preschool",
-      "title": "Position and Direction",
-      "path": "data/preschool/position.json"
-    },
-    {
-      "id": "preschool-time",
-      "level": "preschool",
-      "title": "Everyday Time",
-      "path": "data/preschool/time.json"
-    },
-    {
       "id": "primary-1-whole-numbers",
       "level": "primary-1",
       "title": "Whole Numbers",
