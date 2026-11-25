@@ -1,0 +1,102 @@
+{
+  "id": "preschool-time",
+  "title": "Everyday Time",
+  "level": "preschool",
+  "category": "Measurement",
+  "introduction": "Explore everyday time with pictures and practice.",
+  "definition": "Time helps us describe when things happen and in what order. A day has morning, afternoon, evening and night.",
+  "visuals": [
+    {
+      "label": "Morning",
+      "description": "The sun rises.",
+      "elements": [
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 10,
+            "y1": 70,
+            "x2": 150,
+            "y2": 70
+          }
+        },
+        {
+          "tag": "path",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "d": "M45 70 A35 35 0 0 1 115 70"
+          }
+        }
+      ],
+      "alt": "Morning"
+    },
+    {
+      "label": "Night",
+      "description": "The moon and stars may be visible.",
+      "elements": [
+        {
+          "tag": "path",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "d": "M95 15 A35 35 0 1 0 95 85 A29 29 0 0 1 95 15"
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 120,
+            "y": 30,
+            "font-size": 18,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "✦"
+        }
+      ],
+      "alt": "Night"
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "What comes after morning?",
+      "steps": [
+        "The next part of the day is afternoon."
+      ],
+      "answer": "afternoon"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "What comes before afternoon?",
+      "answer": "morning",
+      "solution": "Answer: morning"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "How many days are in a week?",
+      "answer": 7,
+      "solution": "Answer: 7"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "What day comes after Monday?",
+      "answer": "Tuesday",
+      "solution": "Answer: Tuesday"
+    }
+  ],
+  "summary": "Use time words to order everyday events.",
+  "relatedTopics": [
+    "preschool-position"
+  ]
+}
