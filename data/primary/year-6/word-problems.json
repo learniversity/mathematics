@@ -4,16 +4,16 @@
   "level": "primary-6",
   "category": "Arithmetic",
   "introduction": "Consolidate primary mathematics and prepare for secondary study through integrated primary mathematics problems.",
-  "definition": "Multi-topic problems combine arithmetic, proportional reasoning, algebra, measurement and data interpretation. Identify unknowns, draw a diagram or equation if useful, convert units, calculate step by step and check the result.",
+  "definition": "Solve multi-topic problems involving millions, fractions, decimals, percentages, ratio, money, time, measurement and data. Use a number sentence or drawing, calculate in consistent units and check the result.",
   "visuals": [],
   "formulas": [],
   "examples": [
     {
-      "question": "A tank has internal dimensions 50×40×30 cm and is 75% full.",
+      "question": "A charity targets RM2.4 million and has raised 75% of its target.",
       "steps": [
-        "Volume=60,000 cm³=60 L; 75%×60."
+        "2,400,000 × 0.75."
       ],
-      "answer": "45 L"
+      "answer": "RM1,800,000"
     },
     {
       "question": "An RM300 item is discounted 20%; then a hypothetical 5% tax is added.",
@@ -25,11 +25,11 @@
   ],
   "exercises": [
     {
-      "id": "q1",
-      "type": "numeric",
-      "question": "A 180 km trip takes 2 h 15 min. Average km/h?",
-      "answer": 80,
-      "solution": "180÷2.25."
+      "question": "At UTC+8 it is 16:00. At UTC+2, what is the time (HH:MM)?",
+      "answer": "10:00",
+      "type": "text",
+      "solution": "Subtract 6 hours.",
+      "id": "q1"
     },
     {
       "id": "q2",
@@ -39,18 +39,18 @@
       "solution": "420÷7×4."
     },
     {
-      "id": "q3",
+      "question": "A cable weighs 0.35 kg per metre. Mass of 24 m in kg?",
+      "answer": 8.4,
       "type": "numeric",
-      "question": "A 12×10 m garden has circular pond radius 2 m, π=3.14. Remaining area?",
-      "answer": 107.44,
-      "solution": "120−12.56."
+      "solution": "0.35 × 24.",
+      "id": "q3"
     },
     {
-      "id": "q4",
+      "question": "A pie chart represents 240 people. A quarter chose option A. How many?",
+      "answer": 60,
       "type": "numeric",
-      "question": "Five values average 24. Four are 18,20,26,30. Fifth?",
-      "answer": 26,
-      "solution": "120−94."
+      "solution": "240 ÷ 4.",
+      "id": "q4"
     },
     {
       "id": "q5",
@@ -67,8 +67,10 @@
       "solution": "(80−8)÷3."
     }
   ],
-  "summary": "Multi-topic problems combine arithmetic, proportional reasoning, algebra, measurement and data interpretation. Identify unknowns, draw a diagram or equation if useful, convert units, calculate step by step and check the result.",
+  "summary": "Solve multi-topic problems involving millions, fractions, decimals, percentages, ratio, money, time, measurement and data. Use a number sentence or drawing, calculate in consistent units and check the result.",
   "relatedTopics": [
-    "secondary-4-combined-probability"
+    "primary-6-millions",
+    "primary-6-measurement-relationships",
+    "primary-6-ratio"
   ]
 }

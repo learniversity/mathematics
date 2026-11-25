@@ -4,7 +4,7 @@
   "level": "primary-2",
   "category": "Measurement",
   "introduction": "Build on Primary 1 knowledge and practise length in metres and centimetres.",
-  "definition": "Length can be measured in metres (m) and centimetres (cm). Convert to a common unit before comparing, adding or subtracting measurements.",
+  "definition": "Use centimetres (cm) and metres (m) to measure length with a ruler or measuring tape. Start at zero and read the end mark. Estimate length by comparing with a familiar reference of known length. One metre equals 100 centimetres.",
   "visuals": [
     {
       "label": "Metre and centimetre",
@@ -199,66 +199,65 @@
   ],
   "examples": [
     {
-      "question": "Convert 2 m 35 cm into centimetres.",
+      "question": "A pencil starts at 0 cm and ends at 15 cm.",
       "steps": [
-        "2 × 100 = 200.",
-        "200 + 35 = 235."
+        "Read the end mark."
       ],
-      "answer": "235 cm"
+      "answer": "15 cm"
     },
     {
-      "question": "Add 1 m 20 cm and 85 cm.",
+      "question": "A table is about twice as long as a 1 m reference stick.",
       "steps": [
-        "120 + 85 = 205 cm."
+        "Compare two lengths of one metre."
       ],
-      "answer": "2 m 5 cm"
+      "answer": "About 2 m"
     }
   ],
   "exercises": [
     {
-      "id": "q1",
-      "type": "numeric",
-      "question": "Convert 3 m to cm.",
-      "answer": 300,
-      "solution": "3 × 100 = 300."
-    },
-    {
-      "id": "q2",
-      "type": "numeric",
-      "question": "Convert 1 m 45 cm to cm.",
-      "answer": 145,
-      "solution": "100 + 45 = 145."
-    },
-    {
-      "id": "q3",
-      "type": "numeric",
-      "question": "Convert 250 cm to metres; enter decimal.",
-      "answer": 2.5,
-      "solution": "250 ÷ 100 = 2.5."
-    },
-    {
-      "id": "q4",
-      "type": "numeric",
-      "question": "150 cm + 75 cm",
-      "answer": 225,
-      "solution": "150 + 75 = 225 cm."
-    },
-    {
-      "id": "q5",
-      "type": "numeric",
-      "question": "2 m − 40 cm, answer in cm.",
-      "answer": 160,
-      "solution": "200 − 40 = 160."
-    },
-    {
-      "id": "q6",
-      "type": "numeric",
-      "question": "A line starts at 3 cm and ends at 11 cm. Length in cm?",
+      "question": "A ruler starts at zero and an object ends at 8 cm. Length?",
       "answer": 8,
-      "solution": "11 − 3 = 8."
+      "type": "numeric",
+      "solution": "Read 8 cm.",
+      "id": "q1"
+    },
+    {
+      "question": "Which unit suits the length of a classroom: cm or m?",
+      "answer": "m",
+      "type": "text",
+      "solution": "Metres suit room lengths.",
+      "id": "q2"
+    },
+    {
+      "question": "A ribbon is approximately twice as long as a 20 cm ruler. Estimate in cm.",
+      "answer": 40,
+      "type": "numeric",
+      "solution": "2 × 20.",
+      "id": "q3"
+    },
+    {
+      "question": "Which is longer: 15 cm or 25 cm? Enter number.",
+      "answer": 25,
+      "type": "numeric",
+      "solution": "25 > 15.",
+      "id": "q4"
+    },
+    {
+      "question": "How many centimetres make one metre?",
+      "answer": 100,
+      "type": "numeric",
+      "solution": "1 m = 100 cm.",
+      "id": "q5"
+    },
+    {
+      "question": "A line begins at the 3 cm mark and ends at 11 cm. Length?",
+      "answer": 8,
+      "type": "numeric",
+      "solution": "11 − 3.",
+      "id": "q6"
     }
   ],
-  "summary": "Length can be measured in metres (m) and centimetres (cm). Convert to a common unit before comparing, adding or subtracting measurements.",
+  "summary": "Use centimetres (cm) and metres (m) to measure length with a ruler or measuring tape. Start at zero and read the end mark. Estimate length by comparing with a familiar reference of known length. One metre equals 100 centimetres.",
   "relatedTopics": [
     "primary-2-calendar",
     "primary-2-mass"

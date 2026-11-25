@@ -8,17 +8,18 @@
   "visuals": [
     {
       "label": "Cube",
-      "description": "Like a dice.",
+      "description": "Like a die; all six faces are squares.",
+      "alt": "Cube — Like a die; all six faces are squares.",
       "elements": [
         {
           "tag": "rect",
           "attrs": {
             "fill": "none",
             "stroke": "currentColor",
-            "stroke-width": 3,
-            "x": 35,
-            "y": 35,
-            "width": 65,
+            "stroke-width": 2,
+            "x": 30,
+            "y": 32,
+            "width": 55,
             "height": 55
           }
         },
@@ -27,21 +28,23 @@
           "attrs": {
             "fill": "none",
             "stroke": "currentColor",
-            "stroke-width": 3,
-            "points": "35,35 60,12 125,12 125,67 100,90"
+            "stroke-width": 2,
+            "points": "30,32 57,10 112,10 112,65 85,87"
           }
         },
         {
-          "tag": "polyline",
+          "tag": "line",
           "attrs": {
             "fill": "none",
             "stroke": "currentColor",
-            "stroke-width": 3,
-            "points": "100,35 125,12"
+            "stroke-width": 2,
+            "x1": 85,
+            "y1": 32,
+            "x2": 112,
+            "y2": 10
           }
         }
-      ],
-      "alt": "Cube"
+      ]
     },
     {
       "label": "Sphere",
@@ -170,6 +173,46 @@
         }
       ],
       "alt": "Cone"
+    },
+    {
+      "label": "Cuboid",
+      "description": "Like a rectangular box.",
+      "alt": "Cuboid — Like a rectangular box.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 15,
+            "y": 34,
+            "width": 100,
+            "height": 48
+          }
+        },
+        {
+          "tag": "polyline",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "points": "15,34 40,12 140,12 140,60 115,82"
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 115,
+            "y1": 34,
+            "x2": 140,
+            "y2": 12
+          }
+        }
+      ]
     }
   ],
   "formulas": [],
@@ -186,7 +229,7 @@
     {
       "id": "q1",
       "type": "text",
-      "question": "What solid shape is a dice usually?",
+      "question": "What solid shape is a standard die?",
       "answer": "cube",
       "solution": "Answer: cube"
     },
@@ -203,9 +246,16 @@
       "question": "What solid shape resembles an ice-cream cone?",
       "answer": "cone",
       "solution": "Answer: cone"
+    },
+    {
+      "question": "What solid resembles a rectangular shoe box?",
+      "answer": "cuboid",
+      "type": "text",
+      "solution": "A shoe box usually has six rectangular faces.",
+      "id": "q4"
     }
   ],
-  "summary": "Solid shapes take up space.",
+  "summary": "Three-dimensional objects have length, width and height. They take up space.",
   "relatedTopics": [
     "preschool-shapes",
     "preschool-patterns"

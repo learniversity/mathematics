@@ -4,7 +4,7 @@
   "level": "primary-2",
   "category": "Measurement",
   "introduction": "Explore money values and transactions to rm100 using everyday examples.",
-  "definition": "Recognise Malaysian notes and coins and combine their values. Write ringgit amounts with two decimal places; convert sen to ringgit by dividing by 100.",
+  "definition": "Recognise Malaysian notes and coins and combine their values. Write ringgit amounts with two decimal places; convert sen to ringgit by dividing by 100. Add, subtract, multiply and divide money amounts within RM100. Use multiplication for equal prices and division for equal sharing.",
   "visuals": [],
   "formulas": [],
   "examples": [
@@ -14,6 +14,13 @@
         "40 + 10 + 0.50."
       ],
       "answer": "RM50.50"
+    },
+    {
+      "question": "RM84 is saved equally over seven weeks. How much each week?",
+      "steps": [
+        "Divide 84 by 7."
+      ],
+      "answer": "RM12"
     }
   ],
   "exercises": [
@@ -58,8 +65,36 @@
       "question": "RM12.80 + RM7.20?",
       "answer": 20,
       "solution": "Answer: 20"
+    },
+    {
+      "question": "Four items cost RM12.50 each. Total in RM?",
+      "answer": 50,
+      "type": "numeric",
+      "solution": "4 × 12.50.",
+      "id": "q7"
+    },
+    {
+      "question": "Share RM96 equally among 8 children. RM each?",
+      "answer": 12,
+      "type": "numeric",
+      "solution": "96 ÷ 8.",
+      "id": "q8"
+    },
+    {
+      "question": "Three payments of RM15.50. Total in RM?",
+      "answer": 46.5,
+      "type": "numeric",
+      "solution": "3 × 15.50.",
+      "id": "q9"
+    },
+    {
+      "question": "Six identical notebooks cost RM42. Cost of one in RM?",
+      "answer": 7,
+      "type": "numeric",
+      "solution": "42 ÷ 6.",
+      "id": "q10"
     }
   ],
-  "summary": "Recognise Malaysian notes and coins and combine their values. Write ringgit amounts with two decimal places; convert sen to ringgit by dividing by 100.",
+  "summary": "Recognise Malaysian notes and coins and combine their values. Write ringgit amounts with two decimal places; convert sen to ringgit by dividing by 100. Add, subtract, multiply and divide money amounts within RM100. Use multiplication for equal prices and division for equal sharing.",
   "relatedTopics": []
 }

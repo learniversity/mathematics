@@ -4,7 +4,7 @@
   "level": "primary-5",
   "category": "Measurement",
   "introduction": "Build on earlier mathematics by studying elapsed time and timetables.",
-  "definition": "Elapsed time is the interval between start and finish. Timetables record events at specified times. Convert durations to common units before adding, allow for midnight crossings and distinguish waiting time from travel time.",
+  "definition": "Elapsed time is the interval between start and finish. Timetables record events at specified times. Convert durations to common units before adding, allow for midnight crossings and distinguish waiting time from travel time. Time can also be expressed using fractions and decimals of an hour, day, week or year. Convert to matching units before operating; use actual calendar lengths when counting dates.",
   "visuals": [
     {
       "label": "08:47 to 11:23",
@@ -175,6 +175,14 @@
         "23:40 + 20 min = midnight; remaining 2 h 15 min."
       ],
       "answer": "02:15 next day"
+    },
+    {
+      "question": "Add 1.5 hours and 45 minutes.",
+      "steps": [
+        "1.5 hours = 90 minutes.",
+        "90 + 45 = 135 minutes."
+      ],
+      "answer": "2 hours 15 minutes"
     }
   ],
   "exercises": [
@@ -219,9 +227,51 @@
       "question": "A lesson lasts 45 min and break lasts 15 min. Three such cycles in minutes?",
       "answer": 180,
       "solution": "3 × 60."
+    },
+    {
+      "question": "Convert 3/4 hour to minutes.",
+      "answer": 45,
+      "type": "numeric",
+      "solution": "60 × 3/4.",
+      "id": "q7"
+    },
+    {
+      "question": "Convert 2.25 hours to minutes.",
+      "answer": 135,
+      "type": "numeric",
+      "solution": "2.25 × 60.",
+      "id": "q8"
+    },
+    {
+      "question": "1.5 days in hours?",
+      "answer": 36,
+      "type": "numeric",
+      "solution": "1.5 × 24.",
+      "id": "q9"
+    },
+    {
+      "question": "2.5 years in months?",
+      "answer": 30,
+      "type": "numeric",
+      "solution": "2.5 × 12.",
+      "id": "q10"
+    },
+    {
+      "question": "3.5 decades in years?",
+      "answer": 35,
+      "type": "numeric",
+      "solution": "3.5 × 10.",
+      "id": "q11"
+    },
+    {
+      "question": "2.5 hours − 45 minutes. Answer in minutes.",
+      "answer": 105,
+      "type": "numeric",
+      "solution": "150 − 45.",
+      "id": "q12"
     }
   ],
-  "summary": "Elapsed time is the interval between start and finish. Timetables record events at specified times. Convert durations to common units before adding, allow for midnight crossings and distinguish waiting time from travel time.",
+  "summary": "Elapsed time is the interval between start and finish. Timetables record events at specified times. Convert durations to common units before adding, allow for midnight crossings and distinguish waiting time from travel time. Time can also be expressed using fractions and decimals of an hour, day, week or year. Convert to matching units before operating; use actual calendar lengths when counting dates.",
   "relatedTopics": [
     "primary-5-money",
     "secondary-2-speed-distance-time"

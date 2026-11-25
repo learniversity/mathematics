@@ -592,6 +592,12 @@
       "path": "data/primary/year-3/financial-needs-wants.json"
     },
     {
+      "id": "primary-3-length-arithmetic",
+      "level": "primary-3",
+      "title": "Calculations with Metres and Centimetres",
+      "path": "data/primary/year-3/length-arithmetic.json"
+    },
+    {
       "id": "primary-4-order-of-operations",
       "level": "primary-4",
       "title": "Order of Operations",

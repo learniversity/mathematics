@@ -4,7 +4,7 @@
   "level": "primary-1",
   "category": "Statistics",
   "introduction": "Learn collecting and reading data through explanations and practice.",
-  "definition": "Data are collected facts or observations. A tally counts items using marks; a pictograph represents quantities using pictures and a key.",
+  "definition": "Collect simple data by sorting and counting objects. A tally records each object with a mark. A pictograph uses pictures to show data; in this lesson each picture represents one item.",
   "visuals": [
     {
       "label": "Fruit votes",
@@ -68,11 +68,11 @@
       "answer": "Bananas have two more votes."
     },
     {
-      "question": "A pictograph uses one dot for two pupils. There are four dots.",
+      "question": "A pictograph has four book symbols. Each symbol represents one book.",
       "steps": [
-        "4 × 2 = 8."
+        "Count the four symbols."
       ],
-      "answer": "8"
+      "answer": "4"
     }
   ],
   "exercises": [
@@ -98,11 +98,11 @@
       "solution": "Answer: 4"
     },
     {
-      "id": "q4",
+      "question": "Each picture represents one book. How many books do 3 pictures represent?",
+      "answer": 3,
       "type": "numeric",
-      "question": "One picture represents 2 books. How many books do 3 pictures represent?",
-      "answer": 6,
-      "solution": "Answer: 6"
+      "solution": "Three pictures represent three books.",
+      "id": "q4"
     },
     {
       "id": "q5",
@@ -112,6 +112,6 @@
       "solution": "Answer: 5"
     }
   ],
-  "summary": "Data are collected facts or observations. A tally counts items using marks; a pictograph represents quantities using pictures and a key.",
+  "summary": "Collect simple data by sorting and counting objects. A tally records each object with a mark. A pictograph uses pictures to show data; in this lesson each picture represents one item.",
   "relatedTopics": []
 }

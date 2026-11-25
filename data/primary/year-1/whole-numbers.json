@@ -4,13 +4,24 @@
   "level": "primary-1",
   "category": "Arithmetic",
   "introduction": "Explore whole numbers through definitions, examples and practice.",
-  "definition": "Whole numbers are zero and the positive integers: 0, 1, 2, 3, and so on.",
+  "definition": "Whole numbers are 0, 1, 2, 3 and so on. In Year 1, read, write, count, compare and represent whole numbers from 0 to 100. Ten ones form one ten, and ten tens form one hundred.",
   "formulas": [],
   "examples": [
     {
       "question": "What number comes immediately after 19?",
-      "steps": [],
+      "steps": [
+        "19 is one less than 20.",
+        "Add one to 19."
+      ],
       "answer": "20"
+    },
+    {
+      "question": "Represent 47 using tens and ones.",
+      "steps": [
+        "Make four groups of ten.",
+        "Add seven individual ones."
+      ],
+      "answer": "4 tens and 7 ones"
     }
   ],
   "exercises": [
@@ -34,10 +45,462 @@
       "question": "How many tens are in 30?",
       "answer": 3,
       "solution": "Answer: 3"
+    },
+    {
+      "question": "Write ninety-six in digits.",
+      "answer": 96,
+      "type": "numeric",
+      "solution": "Nine tens and six ones.",
+      "id": "q4"
+    },
+    {
+      "question": "What comes after 99?",
+      "answer": 100,
+      "type": "numeric",
+      "solution": "99 + 1 = 100.",
+      "id": "q5"
+    },
+    {
+      "question": "What number has 7 tens and 3 ones?",
+      "answer": 73,
+      "type": "numeric",
+      "solution": "70 + 3.",
+      "id": "q6"
+    },
+    {
+      "question": "Write 58 in words.",
+      "answer": "fifty-eight",
+      "type": "text",
+      "solution": "Five tens and eight ones.",
+      "id": "q7"
+    },
+    {
+      "question": "How many tens make 100?",
+      "answer": 10,
+      "type": "numeric",
+      "solution": "100 ÷ 10 = 10.",
+      "id": "q8"
     }
   ],
-  "summary": "Whole numbers are zero and the positive integers: 0, 1, 2, 3, and so on.",
+  "summary": "Whole numbers are 0, 1, 2, 3 and so on. In Year 1, read, write, count, compare and represent whole numbers from 0 to 100. Ten ones form one ten, and ten tens form one hundred.",
   "relatedTopics": [
     "primary-1-place-value"
+  ],
+  "visuals": [
+    {
+      "label": "34 = 3 tens + 4 ones",
+      "description": "Each long strip represents ten units.",
+      "alt": "34 = 3 tens + 4 ones — Each long strip represents ten units.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 12,
+            "y": 8,
+            "width": 15,
+            "height": 80
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x1": 12,
+            "y1": 16,
+            "x2": 27,
+            "y2": 16
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x1": 12,
+            "y1": 24,
+            "x2": 27,
+            "y2": 24
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x1": 12,
+            "y1": 32,
+            "x2": 27,
+            "y2": 32
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x1": 12,
+            "y1": 40,
+            "x2": 27,
+            "y2": 40
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x1": 12,
+            "y1": 48,
+            "x2": 27,
+            "y2": 48
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x1": 12,
+            "y1": 56,
+            "x2": 27,
+            "y2": 56
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x1": 12,
+            "y1": 64,
+            "x2": 27,
+            "y2": 64
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x1": 12,
+            "y1": 72,
+            "x2": 27,
+            "y2": 72
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x1": 12,
+            "y1": 80,
+            "x2": 27,
+            "y2": 80
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 32,
+            "y": 8,
+            "width": 15,
+            "height": 80
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x1": 32,
+            "y1": 16,
+            "x2": 47,
+            "y2": 16
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x1": 32,
+            "y1": 24,
+            "x2": 47,
+            "y2": 24
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x1": 32,
+            "y1": 32,
+            "x2": 47,
+            "y2": 32
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x1": 32,
+            "y1": 40,
+            "x2": 47,
+            "y2": 40
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x1": 32,
+            "y1": 48,
+            "x2": 47,
+            "y2": 48
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x1": 32,
+            "y1": 56,
+            "x2": 47,
+            "y2": 56
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x1": 32,
+            "y1": 64,
+            "x2": 47,
+            "y2": 64
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x1": 32,
+            "y1": 72,
+            "x2": 47,
+            "y2": 72
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x1": 32,
+            "y1": 80,
+            "x2": 47,
+            "y2": 80
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 52,
+            "y": 8,
+            "width": 15,
+            "height": 80
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x1": 52,
+            "y1": 16,
+            "x2": 67,
+            "y2": 16
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x1": 52,
+            "y1": 24,
+            "x2": 67,
+            "y2": 24
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x1": 52,
+            "y1": 32,
+            "x2": 67,
+            "y2": 32
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x1": 52,
+            "y1": 40,
+            "x2": 67,
+            "y2": 40
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x1": 52,
+            "y1": 48,
+            "x2": 67,
+            "y2": 48
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x1": 52,
+            "y1": 56,
+            "x2": 67,
+            "y2": 56
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x1": 52,
+            "y1": 64,
+            "x2": 67,
+            "y2": 64
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x1": 52,
+            "y1": 72,
+            "x2": 67,
+            "y2": 72
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x1": 52,
+            "y1": 80,
+            "x2": 67,
+            "y2": 80
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 90,
+            "y": 25,
+            "width": 12,
+            "height": 12
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 110,
+            "y": 25,
+            "width": 12,
+            "height": 12
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 90,
+            "y": 45,
+            "width": 12,
+            "height": 12
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 110,
+            "y": 45,
+            "width": 12,
+            "height": 12
+          }
+        }
+      ]
+    }
   ]
 }

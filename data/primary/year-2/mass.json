@@ -4,7 +4,7 @@
   "level": "primary-2",
   "category": "Measurement",
   "introduction": "Build on Primary 1 knowledge and practise mass in kilograms and grams.",
-  "definition": "Mass is measured using grams (g) and kilograms (kg). One kilogram equals 1,000 grams. Convert to the same unit before performing arithmetic.",
+  "definition": "Mass is measured in grams (g) and kilograms (kg). Use a balance or scale, read its markings and estimate by comparing with known masses. One kilogram equals 1,000 grams.",
   "visuals": [
     {
       "label": "1 kg = 1,000 g",
@@ -79,67 +79,65 @@
   ],
   "examples": [
     {
-      "question": "Convert 2 kg 300 g to grams.",
+      "question": "A scale shows 450 g for a bag.",
       "steps": [
-        "2 × 1,000 = 2,000.",
-        "2,000 + 300 = 2,300."
+        "Read the scale in grams."
       ],
-      "answer": "2,300 g"
+      "answer": "450 g"
     },
     {
-      "question": "Subtract 450 g from 1 kg.",
+      "question": "A parcel feels about as heavy as two 1 kg reference masses.",
       "steps": [
-        "1 kg = 1,000 g.",
-        "1,000 − 450 = 550."
+        "Estimate 1 kg + 1 kg."
       ],
-      "answer": "550 g"
+      "answer": "About 2 kg"
     }
   ],
   "exercises": [
     {
-      "id": "q1",
+      "question": "A scale shows 750 g. Mass in g?",
+      "answer": 750,
       "type": "numeric",
-      "question": "Convert 3 kg to g.",
-      "answer": 3000,
-      "solution": "3 × 1,000 = 3,000."
+      "solution": "Read the scale.",
+      "id": "q1"
     },
     {
-      "id": "q2",
-      "type": "numeric",
-      "question": "Convert 1 kg 250 g to g.",
-      "answer": 1250,
-      "solution": "1,000 + 250 = 1,250."
+      "question": "Which unit suits a school bag: g or kg?",
+      "answer": "kg",
+      "type": "text",
+      "solution": "Kilograms are convenient.",
+      "id": "q2"
     },
     {
-      "id": "q3",
+      "question": "Which is heavier, 300 g or 800 g? Enter grams.",
+      "answer": 800,
       "type": "numeric",
-      "question": "500 g + 750 g",
-      "answer": 1250,
-      "solution": "500 + 750 = 1,250 g."
+      "solution": "800 > 300.",
+      "id": "q3"
     },
     {
-      "id": "q4",
+      "question": "A box is about twice as heavy as a 500 g reference. Estimate grams.",
+      "answer": 1000,
       "type": "numeric",
-      "question": "2 kg − 600 g, answer in g.",
-      "answer": 1400,
-      "solution": "2,000 − 600 = 1,400."
+      "solution": "2 × 500.",
+      "id": "q4"
     },
     {
-      "id": "q5",
+      "question": "How many grams make 1 kg?",
+      "answer": 1000,
       "type": "numeric",
-      "question": "Convert 1500 g to kg; enter decimal.",
-      "answer": 1.5,
-      "solution": "1,500 ÷ 1,000 = 1.5."
+      "solution": "1 kg = 1000 g.",
+      "id": "q5"
     },
     {
-      "id": "q6",
+      "question": "A scale shows 3 kg. Mass in kg?",
+      "answer": 3,
       "type": "numeric",
-      "question": "Three bags each weigh 200 g. Total grams?",
-      "answer": 600,
-      "solution": "3 × 200 = 600."
+      "solution": "Read the scale.",
+      "id": "q6"
     }
   ],
-  "summary": "Mass is measured using grams (g) and kilograms (kg). One kilogram equals 1,000 grams. Convert to the same unit before performing arithmetic.",
+  "summary": "Mass is measured in grams (g) and kilograms (kg). Use a balance or scale, read its markings and estimate by comparing with known masses. One kilogram equals 1,000 grams.",
   "relatedTopics": [
     "primary-2-length",
     "primary-2-capacity"

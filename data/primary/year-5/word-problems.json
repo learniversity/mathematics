@@ -39,11 +39,11 @@
       "solution": "180 ÷ 9 × 4."
     },
     {
-      "id": "q3",
+      "question": "A journey lasts 2.5 hours with an additional 25-minute break. Total minutes?",
+      "answer": 175,
       "type": "numeric",
-      "question": "Travel 150 km at 60 km/h. Duration minutes?",
-      "answer": 150,
-      "solution": "150 ÷ 60 × 60."
+      "solution": "150 + 25.",
+      "id": "q3"
     },
     {
       "id": "q4",
@@ -69,6 +69,8 @@
   ],
   "summary": "Identify the required quantity, choose the relevant information, represent the relationships using arithmetic, ratios or equations, calculate in a sensible order and verify units and reasonableness. An estimate can help catch mistakes.",
   "relatedTopics": [
-    "secondary-2-probability-complements"
+    "primary-5-time",
+    "primary-5-statistics",
+    "primary-5-composite-shapes"
   ]
 }

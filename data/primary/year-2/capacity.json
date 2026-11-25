@@ -4,7 +4,7 @@
   "level": "primary-2",
   "category": "Measurement",
   "introduction": "Build on Primary 1 knowledge and practise capacity in litres and millilitres.",
-  "definition": "Liquid volume and container capacity can be expressed in litres (L) and millilitres (mL). One litre equals 1,000 millilitres. Use common units for calculations.",
+  "definition": "Liquid volume is measured in litres (L) and millilitres (mL). Read the scale on a measuring jug at eye level and estimate by comparing with a known container. Capacity is the maximum volume a container can hold.",
   "visuals": [
     {
       "label": "1 L = 1,000 mL",
@@ -68,65 +68,65 @@
   ],
   "examples": [
     {
-      "question": "Convert 1 L 250 mL to millilitres.",
+      "question": "A measuring jug shows 400 mL.",
       "steps": [
-        "1,000 + 250 = 1,250."
+        "Read the level against its marked scale."
       ],
-      "answer": "1,250 mL"
+      "answer": "400 mL"
     },
     {
-      "question": "A 2 L jug contains 750 mL. How much more can it hold?",
+      "question": "A bottle holds about twice the volume of a 250 mL cup.",
       "steps": [
-        "2,000 − 750 = 1,250."
+        "Estimate two cups."
       ],
-      "answer": "1,250 mL"
+      "answer": "About 500 mL"
     }
   ],
   "exercises": [
     {
-      "id": "q1",
+      "question": "A jug shows 600 mL. Volume in mL?",
+      "answer": 600,
       "type": "numeric",
-      "question": "Convert 4 L to mL.",
-      "answer": 4000,
-      "solution": "4 × 1,000 = 4,000."
+      "solution": "Read the level.",
+      "id": "q1"
     },
     {
-      "id": "q2",
-      "type": "numeric",
-      "question": "Convert 2 L 100 mL to mL.",
-      "answer": 2100,
-      "solution": "2,000 + 100 = 2,100."
+      "question": "Which unit suits a large bucket: mL or L?",
+      "answer": "L",
+      "type": "text",
+      "solution": "Litres suit larger containers.",
+      "id": "q2"
     },
     {
-      "id": "q3",
+      "question": "A container holds about four 250 mL cups. Estimate mL.",
+      "answer": 1000,
       "type": "numeric",
-      "question": "300 mL + 450 mL",
+      "solution": "4 × 250.",
+      "id": "q3"
+    },
+    {
+      "question": "How many millilitres make one litre?",
+      "answer": 1000,
+      "type": "numeric",
+      "solution": "1 L = 1000 mL.",
+      "id": "q4"
+    },
+    {
+      "question": "Which holds more: 200 mL or 750 mL? Enter mL.",
       "answer": 750,
-      "solution": "300 + 450 = 750 mL."
+      "type": "numeric",
+      "solution": "750 > 200.",
+      "id": "q5"
     },
     {
-      "id": "q4",
+      "question": "A bottle is marked 2 L. Capacity in litres?",
+      "answer": 2,
       "type": "numeric",
-      "question": "1 L − 250 mL, answer in mL.",
-      "answer": 750,
-      "solution": "1,000 − 250 = 750."
-    },
-    {
-      "id": "q5",
-      "type": "numeric",
-      "question": "Convert 2500 mL to L; enter decimal.",
-      "answer": 2.5,
-      "solution": "2,500 ÷ 1,000 = 2.5."
-    },
-    {
-      "id": "q6",
-      "type": "numeric",
-      "question": "Four cups hold 200 mL each. Total mL?",
-      "answer": 800,
-      "solution": "4 × 200 = 800."
+      "solution": "Read the label.",
+      "id": "q6"
     }
   ],
-  "summary": "Liquid volume and container capacity can be expressed in litres (L) and millilitres (mL). One litre equals 1,000 millilitres. Use common units for calculations.",
+  "summary": "Liquid volume is measured in litres (L) and millilitres (mL). Read the scale on a measuring jug at eye level and estimate by comparing with a known container. Capacity is the maximum volume a container can hold.",
   "relatedTopics": [
     "primary-2-mass",
     "primary-2-geometry"
