@@ -1,9 +1,9 @@
 {
-  "id": "primary-5-angles",
+  "id": "secondary-1-intersecting-angles",
   "title": "Angles at Intersections and in Polygons",
-  "level": "primary-5",
+  "level": "secondary-1",
   "category": "Geometry",
-  "introduction": "Build on earlier mathematics by studying angles at intersections and in polygons.",
+  "introduction": "Learn angles at intersections and in polygons through explanations and practice.",
   "definition": "Adjacent angles forming a straight line sum to 180°. Vertically opposite angles formed by intersecting straight lines are equal. The interior angles of a simple n-sided polygon sum to (n−2) × 180°, because it can be divided into n−2 triangles.",
   "visuals": [
     {

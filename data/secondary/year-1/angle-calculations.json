@@ -1,9 +1,9 @@
 {
-  "id": "primary-4-angles",
+  "id": "secondary-1-angle-calculations",
   "title": "Measuring and Calculating Angles",
-  "level": "primary-4",
+  "level": "secondary-1",
   "category": "Geometry",
-  "introduction": "Build Primary 4 mathematical understanding through measuring and calculating angles.",
+  "introduction": "Learn measuring and calculating angles through explanations and practice.",
   "definition": "A protractor measures angles in degrees. Place its centre at the vertex and its baseline along one ray, then read the scale from zero on that ray. Angles on a straight line sum to 180°; angles around a point sum to 360°.",
   "visuals": [
     {

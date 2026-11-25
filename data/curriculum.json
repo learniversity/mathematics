@@ -196,12 +196,6 @@
       "path": "data/primary/year-1/division.json"
     },
     {
-      "id": "primary-1-fractions",
-      "level": "primary-1",
-      "title": "Introduction to Fractions",
-      "path": "data/primary/year-1/fractions.json"
-    },
-    {
       "id": "primary-1-money",
       "level": "primary-1",
       "title": "Money in Ringgit and Sen",
@@ -212,24 +206,6 @@
       "level": "primary-1",
       "title": "Reading Clocks and Calendars",
       "path": "data/primary/year-1/time.json"
-    },
-    {
-      "id": "primary-1-length",
-      "level": "primary-1",
-      "title": "Measuring Length",
-      "path": "data/primary/year-1/length.json"
-    },
-    {
-      "id": "primary-1-mass",
-      "level": "primary-1",
-      "title": "Measuring Mass",
-      "path": "data/primary/year-1/mass.json"
-    },
-    {
-      "id": "primary-1-capacity",
-      "level": "primary-1",
-      "title": "Measuring Capacity",
-      "path": "data/primary/year-1/capacity.json"
     },
     {
       "id": "primary-1-plane-shapes",
@@ -254,6 +230,30 @@
       "level": "primary-1",
       "title": "Solving Word Problems",
       "path": "data/primary/year-1/word-problems.json"
+    },
+    {
+      "id": "primary-2-halves-and-quarters",
+      "level": "primary-2",
+      "title": "Introduction to Fractions",
+      "path": "data/primary/year-2/halves-and-quarters.json"
+    },
+    {
+      "id": "primary-2-ruler-measurement",
+      "level": "primary-2",
+      "title": "Measuring Length",
+      "path": "data/primary/year-2/ruler-measurement.json"
+    },
+    {
+      "id": "primary-2-mass-introduction",
+      "level": "primary-2",
+      "title": "Measuring Mass",
+      "path": "data/primary/year-2/mass-introduction.json"
+    },
+    {
+      "id": "primary-2-capacity-introduction",
+      "level": "primary-2",
+      "title": "Measuring Capacity",
+      "path": "data/primary/year-2/capacity-introduction.json"
     },
     {
       "id": "primary-2-numbers",
@@ -322,12 +322,6 @@
       "path": "data/primary/year-2/fractions.json"
     },
     {
-      "id": "primary-2-fraction-comparison",
-      "level": "primary-2",
-      "title": "Comparing and Equivalent Fractions",
-      "path": "data/primary/year-2/fraction-comparison.json"
-    },
-    {
       "id": "primary-2-decimals",
       "level": "primary-2",
       "title": "Introduction to Tenths",
@@ -382,12 +376,6 @@
       "path": "data/primary/year-2/symmetry.json"
     },
     {
-      "id": "primary-2-perimeter",
-      "level": "primary-2",
-      "title": "Introduction to Perimeter",
-      "path": "data/primary/year-2/perimeter.json"
-    },
-    {
       "id": "primary-2-data-handling",
       "level": "primary-2",
       "title": "Tally Charts, Pictographs and Bar Charts",
@@ -404,6 +392,12 @@
       "level": "primary-2",
       "title": "Two-Step Word Problems",
       "path": "data/primary/year-2/word-problems.json"
+    },
+    {
+      "id": "primary-3-equivalent-fractions",
+      "level": "primary-3",
+      "title": "Comparing and Equivalent Fractions",
+      "path": "data/primary/year-3/equivalent-fractions.json"
     },
     {
       "id": "primary-3-numbers",
@@ -460,12 +454,6 @@
       "path": "data/primary/year-3/order-of-operations.json"
     },
     {
-      "id": "primary-3-fractions",
-      "level": "primary-3",
-      "title": "Proper, Improper and Mixed Fractions",
-      "path": "data/primary/year-3/fractions.json"
-    },
-    {
       "id": "primary-3-fraction-simplification",
       "level": "primary-3",
       "title": "Simplifying and Comparing Fractions",
@@ -508,12 +496,6 @@
       "path": "data/primary/year-3/calendar.json"
     },
     {
-      "id": "primary-3-length",
-      "level": "primary-3",
-      "title": "Kilometres, Metres and Centimetres",
-      "path": "data/primary/year-3/length.json"
-    },
-    {
       "id": "primary-3-mass-capacity",
       "level": "primary-3",
       "title": "Mass and Liquid Volume Calculations",
@@ -524,24 +506,6 @@
       "level": "primary-3",
       "title": "Angles and Turns",
       "path": "data/primary/year-3/angles.json"
-    },
-    {
-      "id": "primary-3-geometry",
-      "level": "primary-3",
-      "title": "Parallel and Perpendicular Lines",
-      "path": "data/primary/year-3/geometry.json"
-    },
-    {
-      "id": "primary-3-perimeter",
-      "level": "primary-3",
-      "title": "Perimeter of Composite Shapes",
-      "path": "data/primary/year-3/perimeter.json"
-    },
-    {
-      "id": "primary-3-area",
-      "level": "primary-3",
-      "title": "Introduction to Area",
-      "path": "data/primary/year-3/area.json"
     },
     {
       "id": "primary-3-solids",
@@ -566,6 +530,42 @@
       "level": "primary-3",
       "title": "Multi-Step Mathematical Problems",
       "path": "data/primary/year-3/word-problems.json"
+    },
+    {
+      "id": "primary-4-perimeter-introduction",
+      "level": "primary-4",
+      "title": "Introduction to Perimeter",
+      "path": "data/primary/year-4/perimeter-introduction.json"
+    },
+    {
+      "id": "primary-4-mixed-number-introduction",
+      "level": "primary-4",
+      "title": "Proper, Improper and Mixed Fractions",
+      "path": "data/primary/year-4/mixed-number-introduction.json"
+    },
+    {
+      "id": "primary-4-kilometres-millimetres",
+      "level": "primary-4",
+      "title": "Kilometres, Metres and Centimetres",
+      "path": "data/primary/year-4/kilometres-millimetres.json"
+    },
+    {
+      "id": "primary-4-parallel-perpendicular",
+      "level": "primary-4",
+      "title": "Parallel and Perpendicular Lines",
+      "path": "data/primary/year-4/parallel-perpendicular.json"
+    },
+    {
+      "id": "primary-4-composite-perimeter",
+      "level": "primary-4",
+      "title": "Perimeter of Composite Shapes",
+      "path": "data/primary/year-4/composite-perimeter.json"
+    },
+    {
+      "id": "primary-4-rectangle-area",
+      "level": "primary-4",
+      "title": "Introduction to Area",
+      "path": "data/primary/year-4/rectangle-area.json"
     },
     {
       "id": "primary-4-numbers",
@@ -668,12 +668,6 @@
       "level": "primary-4",
       "title": "Metric Units and Conversions",
       "path": "data/primary/year-4/measurement.json"
-    },
-    {
-      "id": "primary-4-angles",
-      "level": "primary-4",
-      "title": "Measuring and Calculating Angles",
-      "path": "data/primary/year-4/angles.json"
     },
     {
       "id": "primary-4-triangles",
@@ -814,12 +808,6 @@
       "path": "data/primary/year-5/speed.json"
     },
     {
-      "id": "primary-5-angles",
-      "level": "primary-5",
-      "title": "Angles at Intersections and in Polygons",
-      "path": "data/primary/year-5/angles.json"
-    },
-    {
       "id": "primary-5-volume",
       "level": "primary-5",
       "title": "Volume and Capacity of Composite Solids",
@@ -886,12 +874,6 @@
       "path": "data/primary/year-6/financial-maths.json"
     },
     {
-      "id": "primary-6-speed",
-      "level": "primary-6",
-      "title": "Average Speed and Journey Calculations",
-      "path": "data/primary/year-6/speed.json"
-    },
-    {
       "id": "primary-6-time-zones",
       "level": "primary-6",
       "title": "Time Zones and Date Changes",
@@ -914,6 +896,18 @@
       "level": "primary-6",
       "title": "Integrated Primary Mathematics Problems",
       "path": "data/primary/year-6/word-problems.json"
+    },
+    {
+      "id": "secondary-1-angle-calculations",
+      "level": "secondary-1",
+      "title": "Measuring and Calculating Angles",
+      "path": "data/secondary/year-1/angle-calculations.json"
+    },
+    {
+      "id": "secondary-1-intersecting-angles",
+      "level": "secondary-1",
+      "title": "Angles at Intersections and in Polygons",
+      "path": "data/secondary/year-1/intersecting-angles.json"
     },
     {
       "id": "secondary-1-mean-mode-range",
@@ -1034,6 +1028,12 @@
       "level": "secondary-1",
       "title": "Introduction to Inequalities",
       "path": "data/secondary/year-1/inequalities.json"
+    },
+    {
+      "id": "secondary-2-average-speed",
+      "level": "secondary-2",
+      "title": "Average Speed and Journey Calculations",
+      "path": "data/secondary/year-2/average-speed.json"
     },
     {
       "id": "secondary-2-area-volume-unit-conversions",

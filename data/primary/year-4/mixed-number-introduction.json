@@ -1,9 +1,9 @@
 {
-  "id": "primary-3-fractions",
+  "id": "primary-4-mixed-number-introduction",
   "title": "Proper, Improper and Mixed Fractions",
-  "level": "primary-3",
+  "level": "primary-4",
   "category": "Arithmetic",
-  "introduction": "Develop Primary 3 skills in proper, improper and mixed fractions.",
+  "introduction": "Learn proper, improper and mixed fractions through explanations and practice.",
   "definition": "A proper fraction has a numerator smaller than its positive denominator. An improper fraction has numerator at least as large as its denominator. A mixed number combines a whole number and a proper fraction.",
   "visuals": [
     {

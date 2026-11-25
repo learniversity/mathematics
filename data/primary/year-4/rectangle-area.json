@@ -1,9 +1,9 @@
 {
-  "id": "primary-3-area",
+  "id": "primary-4-rectangle-area",
   "title": "Introduction to Area",
-  "level": "primary-3",
+  "level": "primary-4",
   "category": "Geometry",
-  "introduction": "Develop Primary 3 skills in introduction to area.",
+  "introduction": "Learn introduction to area through explanations and practice.",
   "definition": "Area measures the size of a flat region. Count equal unit squares to measure area. For rectangles, multiply length by width in the same unit; the result is in square units.",
   "visuals": [
     {
@@ -368,7 +368,7 @@
   ],
   "summary": "Area measures the size of a flat region. Count equal unit squares to measure area. For rectangles, multiply length by width in the same unit; the result is in square units.",
   "relatedTopics": [
-    "primary-3-perimeter",
+    "primary-4-composite-perimeter",
     "primary-3-solids"
   ]
 }

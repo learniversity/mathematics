@@ -1,9 +1,9 @@
 {
-  "id": "primary-6-speed",
+  "id": "secondary-2-average-speed",
   "title": "Average Speed and Journey Calculations",
-  "level": "primary-6",
+  "level": "secondary-2",
   "category": "Measurement",
-  "introduction": "Consolidate primary mathematics and prepare for secondary study through average speed and journey calculations.",
+  "introduction": "Learn average speed and journey calculations through explanations and practice.",
   "definition": "Average speed equals total distance divided by total elapsed time. It is not generally the arithmetic mean of separate speeds. Include stops when the question asks for the average over the entire journey. Convert time and distance units consistently.",
   "visuals": [
     {

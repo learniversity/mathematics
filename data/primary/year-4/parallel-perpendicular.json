@@ -1,9 +1,9 @@
 {
-  "id": "primary-3-geometry",
+  "id": "primary-4-parallel-perpendicular",
   "title": "Parallel and Perpendicular Lines",
-  "level": "primary-3",
+  "level": "primary-4",
   "category": "Geometry",
-  "introduction": "Develop Primary 3 skills in parallel and perpendicular lines.",
+  "introduction": "Learn parallel and perpendicular lines through explanations and practice.",
   "definition": "Parallel lines in a plane never meet, even when extended. Perpendicular lines meet at a right angle. Opposite sides of rectangles are parallel; adjacent sides are perpendicular.",
   "visuals": [
     {
@@ -138,6 +138,6 @@
   "summary": "Parallel lines in a plane never meet, even when extended. Perpendicular lines meet at a right angle. Opposite sides of rectangles are parallel; adjacent sides are perpendicular.",
   "relatedTopics": [
     "primary-3-angles",
-    "primary-3-perimeter"
+    "primary-4-composite-perimeter"
   ]
 }

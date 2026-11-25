@@ -1,9 +1,9 @@
 {
-  "id": "primary-2-perimeter",
+  "id": "primary-4-perimeter-introduction",
   "title": "Introduction to Perimeter",
-  "level": "primary-2",
+  "level": "primary-4",
   "category": "Geometry",
-  "introduction": "Build on Primary 1 knowledge and practise introduction to perimeter.",
+  "introduction": "Learn introduction to perimeter through explanations and practice.",
   "definition": "Perimeter is the total distance around the boundary of a closed flat shape. For a polygon, add the lengths of all sides using the same unit.",
   "visuals": [
     {

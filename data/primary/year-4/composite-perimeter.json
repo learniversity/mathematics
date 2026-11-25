@@ -1,9 +1,9 @@
 {
-  "id": "primary-3-perimeter",
+  "id": "primary-4-composite-perimeter",
   "title": "Perimeter of Composite Shapes",
-  "level": "primary-3",
+  "level": "primary-4",
   "category": "Geometry",
-  "introduction": "Develop Primary 3 skills in perimeter of composite shapes.",
+  "introduction": "Learn perimeter of composite shapes through explanations and practice.",
   "definition": "Perimeter is the total length around the outside boundary. For a composite polygon, find missing lengths from matching horizontal or vertical distances, then add every outside side once. Do not count internal shared edges.",
   "visuals": [
     {
@@ -151,7 +151,7 @@
   ],
   "summary": "Perimeter is the total length around the outside boundary. For a composite polygon, find missing lengths from matching horizontal or vertical distances, then add every outside side once. Do not count internal shared edges.",
   "relatedTopics": [
-    "primary-3-geometry",
-    "primary-3-area"
+    "primary-4-parallel-perpendicular",
+    "primary-4-rectangle-area"
   ]
 }
