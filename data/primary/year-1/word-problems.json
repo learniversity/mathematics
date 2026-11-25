@@ -1,0 +1,67 @@
+{
+  "id": "primary-1-word-problems",
+  "title": "Solving Word Problems",
+  "level": "primary-1",
+  "category": "Arithmetic",
+  "introduction": "Learn solving word problems through explanations and practice.",
+  "definition": "A word problem describes a mathematical situation. Identify what is known, what must be found, and the operation that connects them. Check whether the answer makes sense.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Mina has 12 stickers and gets 8 more. How many now?",
+      "steps": [
+        "The amount increases, so add.",
+        "12 + 8 = 20."
+      ],
+      "answer": "20"
+    },
+    {
+      "question": "There are 18 oranges and 7 are eaten.",
+      "steps": [
+        "The amount decreases, so subtract.",
+        "18 − 7 = 11."
+      ],
+      "answer": "11"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Ali has 15 marbles and gets 6 more. How many now?",
+      "answer": 21,
+      "solution": "Answer: 21"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "A bus has 24 passengers. 5 leave. How many remain?",
+      "answer": 19,
+      "solution": "Answer: 19"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Three bags each hold 4 apples. How many apples?",
+      "answer": 12,
+      "solution": "Answer: 12"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Share 12 sweets among 4 children. How many each?",
+      "answer": 3,
+      "solution": "Answer: 3"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "A pen costs RM3 and a book RM5. Total in RM?",
+      "answer": 8,
+      "solution": "Answer: 8"
+    }
+  ],
+  "summary": "A word problem describes a mathematical situation. Identify what is known, what must be found, and the operation that connects them. Check whether the answer makes sense.",
+  "relatedTopics": []
+}
