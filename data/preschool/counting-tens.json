@@ -1,0 +1,249 @@
+{
+  "id": "preschool-counting-tens",
+  "title": "Counting in Tens",
+  "level": "preschool",
+  "category": "Arithmetic",
+  "introduction": "Explore counting in tens with pictures and practice.",
+  "definition": "Counting in tens means adding ten each time. The names are ten, twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety and one hundred.",
+  "visuals": [
+    {
+      "label": "10",
+      "description": "ten",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 44,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "10"
+        }
+      ],
+      "alt": "10"
+    },
+    {
+      "label": "20",
+      "description": "twenty",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 44,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "20"
+        }
+      ],
+      "alt": "20"
+    },
+    {
+      "label": "30",
+      "description": "thirty",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 44,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "30"
+        }
+      ],
+      "alt": "30"
+    },
+    {
+      "label": "40",
+      "description": "forty",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 44,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "40"
+        }
+      ],
+      "alt": "40"
+    },
+    {
+      "label": "50",
+      "description": "fifty",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 44,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "50"
+        }
+      ],
+      "alt": "50"
+    },
+    {
+      "label": "60",
+      "description": "sixty",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 44,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "60"
+        }
+      ],
+      "alt": "60"
+    },
+    {
+      "label": "70",
+      "description": "seventy",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 44,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "70"
+        }
+      ],
+      "alt": "70"
+    },
+    {
+      "label": "80",
+      "description": "eighty",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 44,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "80"
+        }
+      ],
+      "alt": "80"
+    },
+    {
+      "label": "90",
+      "description": "ninety",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 44,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "90"
+        }
+      ],
+      "alt": "90"
+    },
+    {
+      "label": "100",
+      "description": "one hundred",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 44,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "100"
+        }
+      ],
+      "alt": "100"
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "What comes after 20 when counting in tens?",
+      "steps": [
+        "Add ten."
+      ],
+      "answer": "30"
+    },
+    {
+      "question": "What is ten tens?",
+      "steps": [
+        "Ten groups of ten make one hundred."
+      ],
+      "answer": "100"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "10, 20, ?",
+      "answer": 30,
+      "solution": "Answer: 30"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "30, 40, ?",
+      "answer": 50,
+      "solution": "Answer: 50"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "What number is seventy?",
+      "answer": 70,
+      "solution": "Answer: 70"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Write 90 in words.",
+      "answer": "ninety",
+      "solution": "Answer: ninety"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "90 + 10",
+      "answer": 100,
+      "solution": "Answer: 100"
+    }
+  ],
+  "summary": "Counting in tens is an introduction to larger numbers.",
+  "relatedTopics": [
+    "preschool-tens-and-ones",
+    "preschool-number-order"
+  ]
+}
