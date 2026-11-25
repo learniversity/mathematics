@@ -1,7 +1,7 @@
 {
-  "id": "primary-5-decimal-multiplication",
+  "id": "primary-6-decimal-multiplication",
   "title": "Multiplying Decimals by Decimals",
-  "level": "primary-5",
+  "level": "primary-6",
   "category": "Arithmetic",
   "introduction": "Build on earlier mathematics by studying multiplying decimals by decimals.",
   "definition": "Multiply as whole numbers, then place the decimal point so the product has as many decimal places as the two factors have combined. Estimate before calculating to check the size of the product.",
@@ -70,6 +70,6 @@
   "summary": "Multiply as whole numbers, then place the decimal point so the product has as many decimal places as the two factors have combined. Estimate before calculating to check the size of the product.",
   "relatedTopics": [
     "primary-5-fraction-operations",
-    "primary-5-decimal-division"
+    "primary-6-decimal-division"
   ]
 }

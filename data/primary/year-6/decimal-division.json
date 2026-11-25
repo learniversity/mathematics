@@ -1,7 +1,7 @@
 {
-  "id": "primary-5-decimal-division",
+  "id": "primary-6-decimal-division",
   "title": "Dividing Decimals by Decimals",
-  "level": "primary-5",
+  "level": "primary-6",
   "category": "Arithmetic",
   "introduction": "Build on earlier mathematics by studying dividing decimals by decimals.",
   "definition": "Multiply both dividend and divisor by the same power of ten until the divisor is a whole number, then divide. This preserves the quotient. The divisor must not be zero.",
@@ -74,7 +74,7 @@
   ],
   "summary": "Multiply both dividend and divisor by the same power of ten until the divisor is a whole number, then divide. This preserves the quotient. The divisor must not be zero.",
   "relatedTopics": [
-    "primary-5-decimal-multiplication",
+    "primary-6-decimal-multiplication",
     "primary-5-conversions"
   ]
 }

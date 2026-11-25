@@ -682,12 +682,6 @@
       "path": "data/primary/year-4/fraction-add-subtract.json"
     },
     {
-      "id": "primary-4-fraction-multiplication",
-      "level": "primary-4",
-      "title": "Multiplying Fractions",
-      "path": "data/primary/year-4/fraction-multiplication.json"
-    },
-    {
       "id": "primary-4-decimals",
       "level": "primary-4",
       "title": "Decimals to Thousandths",
@@ -820,6 +814,12 @@
       "path": "data/primary/year-4/unitary-method.json"
     },
     {
+      "id": "primary-5-fraction-multiplication",
+      "level": "primary-5",
+      "title": "Multiplying Fractions",
+      "path": "data/primary/year-5/fraction-multiplication.json"
+    },
+    {
       "id": "primary-5-unknowns-and-patterns",
       "level": "primary-5",
       "title": "Sequences and Simple Unknowns",
@@ -844,28 +844,10 @@
       "path": "data/primary/year-5/whole-operations.json"
     },
     {
-      "id": "primary-5-fraction-division",
-      "level": "primary-5",
-      "title": "Dividing Fractions and Mixed Numbers",
-      "path": "data/primary/year-5/fraction-division.json"
-    },
-    {
       "id": "primary-5-fraction-operations",
       "level": "primary-5",
       "title": "Mixed Operations with Fractions",
       "path": "data/primary/year-5/fraction-operations.json"
-    },
-    {
-      "id": "primary-5-decimal-multiplication",
-      "level": "primary-5",
-      "title": "Multiplying Decimals by Decimals",
-      "path": "data/primary/year-5/decimal-multiplication.json"
-    },
-    {
-      "id": "primary-5-decimal-division",
-      "level": "primary-5",
-      "title": "Dividing Decimals by Decimals",
-      "path": "data/primary/year-5/decimal-division.json"
     },
     {
       "id": "primary-5-conversions",
@@ -956,6 +938,24 @@
       "level": "primary-5",
       "title": "Perimeter and Area of Combined Shapes",
       "path": "data/primary/year-5/composite-shapes.json"
+    },
+    {
+      "id": "primary-6-fraction-division",
+      "level": "primary-6",
+      "title": "Dividing Fractions and Mixed Numbers",
+      "path": "data/primary/year-6/fraction-division.json"
+    },
+    {
+      "id": "primary-6-decimal-multiplication",
+      "level": "primary-6",
+      "title": "Multiplying Decimals by Decimals",
+      "path": "data/primary/year-6/decimal-multiplication.json"
+    },
+    {
+      "id": "primary-6-decimal-division",
+      "level": "primary-6",
+      "title": "Dividing Decimals by Decimals",
+      "path": "data/primary/year-6/decimal-division.json"
     },
     {
       "id": "primary-6-prime-composite",
