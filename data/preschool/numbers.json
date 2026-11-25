@@ -1,15 +1,500 @@
 {
   "id": "preschool-numbers",
-  "title": "Numbers and Counting",
+  "title": "Digits 0–9",
   "level": "preschool",
   "category": "Arithmetic",
-  "introduction": "Explore numbers and counting through definitions, examples and practice.",
-  "definition": "Numbers tell us how many objects there are. Counting means saying one number for each object, starting at one.",
+  "introduction": "Explore digits 0–9 with pictures and practice.",
+  "definition": "A digit is a symbol used to write a number. There are ten digits: 0 to 9. Zero means none; the other digits can show how many objects are in a group.",
+  "visuals": [
+    {
+      "label": "0",
+      "description": "zero",
+      "elements": [],
+      "alt": "No dots"
+    },
+    {
+      "label": "1",
+      "description": "one",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        }
+      ],
+      "alt": "1 dots"
+    },
+    {
+      "label": "2",
+      "description": "two",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        }
+      ],
+      "alt": "2 dots"
+    },
+    {
+      "label": "3",
+      "description": "three",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        }
+      ],
+      "alt": "3 dots"
+    },
+    {
+      "label": "4",
+      "description": "four",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        }
+      ],
+      "alt": "4 dots"
+    },
+    {
+      "label": "5",
+      "description": "five",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        }
+      ],
+      "alt": "5 dots"
+    },
+    {
+      "label": "6",
+      "description": "six",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 64,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        }
+      ],
+      "alt": "6 dots"
+    },
+    {
+      "label": "7",
+      "description": "seven",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 64,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 64,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        }
+      ],
+      "alt": "7 dots"
+    },
+    {
+      "label": "8",
+      "description": "eight",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 64,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 64,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 64,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        }
+      ],
+      "alt": "8 dots"
+    },
+    {
+      "label": "9",
+      "description": "nine",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 64,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 64,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 64,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 64,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        }
+      ],
+      "alt": "9 dots"
+    }
+  ],
   "formulas": [],
   "examples": [
     {
-      "question": "Count four dots: ● ● ● ●.",
-      "steps": [],
+      "question": "What does 0 mean?",
+      "steps": [
+        "There are no objects in the group."
+      ],
+      "answer": "0"
+    },
+    {
+      "question": "Which digit shows four objects?",
+      "steps": [
+        "Count one, two, three, four."
+      ],
       "answer": "4"
     }
   ],
@@ -17,27 +502,83 @@
     {
       "id": "q1",
       "type": "numeric",
-      "question": "How many dots? ● ●",
-      "answer": 2,
-      "solution": "Answer: 2"
+      "question": "Write the digit for zero.",
+      "answer": 0,
+      "solution": "Answer: 0"
     },
     {
       "id": "q2",
       "type": "numeric",
-      "question": "How many dots? ● ● ● ● ●",
-      "answer": 5,
-      "solution": "Answer: 5"
+      "question": "Write the digit for one.",
+      "answer": 1,
+      "solution": "Answer: 1"
     },
     {
       "id": "q3",
       "type": "numeric",
-      "question": "What number comes after 3?",
+      "question": "Write the digit for two.",
+      "answer": 2,
+      "solution": "Answer: 2"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Write the digit for three.",
+      "answer": 3,
+      "solution": "Answer: 3"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Write the digit for four.",
       "answer": 4,
       "solution": "Answer: 4"
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Write the digit for five.",
+      "answer": 5,
+      "solution": "Answer: 5"
+    },
+    {
+      "id": "q7",
+      "type": "numeric",
+      "question": "Write the digit for six.",
+      "answer": 6,
+      "solution": "Answer: 6"
+    },
+    {
+      "id": "q8",
+      "type": "numeric",
+      "question": "Write the digit for seven.",
+      "answer": 7,
+      "solution": "Answer: 7"
+    },
+    {
+      "id": "q9",
+      "type": "numeric",
+      "question": "Write the digit for eight.",
+      "answer": 8,
+      "solution": "Answer: 8"
+    },
+    {
+      "id": "q10",
+      "type": "numeric",
+      "question": "Write the digit for nine.",
+      "answer": 9,
+      "solution": "Answer: 9"
+    },
+    {
+      "id": "q11",
+      "type": "numeric",
+      "question": "How many dots? ● ● ●",
+      "answer": 3,
+      "solution": "Answer: 3"
     }
   ],
-  "summary": "Numbers tell us how many objects there are. Counting means saying one number for each object, starting at one.",
+  "summary": "The ten digits are 0, 1, 2, 3, 4, 5, 6, 7, 8 and 9.",
   "relatedTopics": [
-    "preschool-shapes"
+    "preschool-counting"
   ]
 }
