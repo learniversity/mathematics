@@ -1,0 +1,346 @@
+{
+  "id": "preschool-tens-and-ones",
+  "title": "Tens and Ones",
+  "level": "preschool",
+  "category": "Arithmetic",
+  "introduction": "Explore tens and ones with pictures and practice.",
+  "definition": "Ten ones make one ten. Two-digit numbers can be grouped into tens and leftover ones.",
+  "visuals": [
+    {
+      "label": "10 = ten",
+      "description": "One group of ten.",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 32,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 64,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 64,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 64,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 64,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 64,
+            "r": 8,
+            "fill": "currentColor"
+          }
+        }
+      ],
+      "alt": "10 = ten"
+    },
+    {
+      "label": "12 = twelve",
+      "description": "One ten and two ones.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x": 8,
+            "y": 10,
+            "width": 92,
+            "height": 80
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 19,
+            "cy": 34,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 36,
+            "cy": 34,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 53,
+            "cy": 34,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 70,
+            "cy": 34,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 87,
+            "cy": 34,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 19,
+            "cy": 64,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 36,
+            "cy": 64,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 53,
+            "cy": 64,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 70,
+            "cy": 64,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 87,
+            "cy": 64,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 120,
+            "cy": 50,
+            "r": 6,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 140,
+            "cy": 50,
+            "r": 6,
+            "fill": "currentColor"
+          }
+        }
+      ],
+      "alt": "12 = twelve"
+    },
+    {
+      "label": "20 = twenty",
+      "description": "Two groups of ten.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x": 13,
+            "y": 15,
+            "width": 57,
+            "height": 70
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x": 90,
+            "y": 15,
+            "width": 57,
+            "height": 70
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 41,
+            "y": 59,
+            "font-size": 24,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "10"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 118,
+            "y": 59,
+            "font-size": 24,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "10"
+        }
+      ],
+      "alt": "20 = twenty"
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "How many tens and ones are in 14?",
+      "steps": [
+        "14 = 10 + 4."
+      ],
+      "answer": "1 ten and 4 ones"
+    },
+    {
+      "question": "How many tens are in 20?",
+      "steps": [
+        "10 + 10 = 20."
+      ],
+      "answer": "2"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "How many ones make one ten?",
+      "answer": 10,
+      "solution": "Answer: 10"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "How many tens are in 20?",
+      "answer": 2,
+      "solution": "Answer: 2"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "How many leftover ones are in 13?",
+      "answer": 3,
+      "solution": "Answer: 3"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "One ten and 6 ones make what number?",
+      "answer": 16,
+      "solution": "Answer: 16"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Two tens and 0 ones make what number?",
+      "answer": 20,
+      "solution": "Answer: 20"
+    }
+  ],
+  "summary": "Group ten ones together to make one ten.",
+  "relatedTopics": [
+    "preschool-number-names",
+    "preschool-counting-tens"
+  ]
+}
