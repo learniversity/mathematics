@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "levels": [
+    {
+      "id": "preschool",
+      "title": "Preschool"
+    },
+    {
+      "id": "primary-1",
+      "title": "Primary 1"
+    },
+    {
+      "id": "primary-2",
+      "title": "Primary 2"
+    },
+    {
+      "id": "primary-3",
+      "title": "Primary 3"
+    },
+    {
+      "id": "primary-4",
+      "title": "Primary 4"
+    },
+    {
+      "id": "primary-5",
+      "title": "Primary 5"
+    },
+    {
+      "id": "primary-6",
+      "title": "Primary 6"
+    },
+    {
+      "id": "secondary-1",
+      "title": "Secondary 1"
+    },
+    {
+      "id": "secondary-2",
+      "title": "Secondary 2"
+    },
+    {
+      "id": "secondary-3",
+      "title": "Secondary 3"
+    },
+    {
+      "id": "secondary-4",
+      "title": "Secondary 4"
+    },
+    {
+      "id": "secondary-5",
+      "title": "Secondary 5"
+    },
+    {
+      "id": "pre-university",
+      "title": "Pre-University"
+    },
+    {
+      "id": "university",
+      "title": "University"
+    },
+    {
+      "id": "advanced",
+      "title": "Advanced Mathematics"
+    }
+  ],
+  "topics": [
+    {
+      "id": "preschool-numbers",
+      "level": "preschool",
+      "title": "Numbers and Counting",
+      "path": "data/preschool/numbers.json"
+    },
+    {
+      "id": "preschool-shapes",
+      "level": "preschool",
+      "title": "Basic Shapes",
+      "path": "data/preschool/shapes.json"
+    },
+    {
+      "id": "preschool-combining",
+      "level": "preschool",
+      "title": "Combining Groups",
+      "path": "data/preschool/combining.json"
+    },
+    {
+      "id": "primary-1-whole-numbers",
+      "level": "primary-1",
+      "title": "Whole Numbers",
+      "path": "data/primary/year-1/whole-numbers.json"
+    },
+    {
+      "id": "primary-1-place-value",
+      "level": "primary-1",
+      "title": "Place Value",
+      "path": "data/primary/year-1/place-value.json"
+    },
+    {
+      "id": "primary-1-addition",
+      "level": "primary-1",
+      "title": "Addition",
+      "path": "data/primary/year-1/addition.json"
+    },
+    {
+      "id": "primary-1-subtraction",
+      "level": "primary-1",
+      "title": "Subtraction",
+      "path": "data/primary/year-1/subtraction.json"
+    },
+    {
+      "id": "primary-1-multiplication",
+      "level": "primary-1",
+      "title": "Introduction to Multiplication",
+      "path": "data/primary/year-1/multiplication.json"
+    },
+    {
+      "id": "primary-1-division",
+      "level": "primary-1",
+      "title": "Introduction to Division",
+      "path": "data/primary/year-1/division.json"
+    }
+  ]
+}
