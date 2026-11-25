@@ -216,7 +216,7 @@
   ],
   "summary": "A frequency table summarises counts. A bar chart compares categories, while a line graph connects observations in order, often over time. Axes need labels and consistent scales. Interpret changes by comparing values.",
   "relatedTopics": [
-    "primary-4-statistics",
-    "primary-4-probability"
+    "secondary-2-mean-mode-range",
+    "secondary-2-probability-introduction"
   ]
 }

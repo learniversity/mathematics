@@ -351,6 +351,6 @@
   "summary": "A coordinate pair (x,y) identifies a point on a grid. The x-coordinate measures horizontal movement from the origin and the y-coordinate measures vertical movement. In the first quadrant, both coordinates are nonnegative.",
   "relatedTopics": [
     "primary-4-volume",
-    "primary-4-statistics"
+    "secondary-2-mean-mode-range"
   ]
 }
