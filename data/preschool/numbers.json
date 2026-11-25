@@ -1,0 +1,43 @@
+{
+  "id": "preschool-numbers",
+  "title": "Numbers and Counting",
+  "level": "preschool",
+  "category": "Arithmetic",
+  "introduction": "Explore numbers and counting through definitions, examples and practice.",
+  "definition": "Numbers tell us how many objects there are. Counting means saying one number for each object, starting at one.",
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Count four dots: ● ● ● ●.",
+      "steps": [],
+      "answer": "4"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "How many dots? ● ●",
+      "answer": 2,
+      "solution": "Answer: 2"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "How many dots? ● ● ● ● ●",
+      "answer": 5,
+      "solution": "Answer: 5"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "What number comes after 3?",
+      "answer": 4,
+      "solution": "Answer: 4"
+    }
+  ],
+  "summary": "Numbers tell us how many objects there are. Counting means saying one number for each object, starting at one.",
+  "relatedTopics": [
+    "preschool-shapes"
+  ]
+}
