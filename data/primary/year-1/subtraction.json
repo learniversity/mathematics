@@ -1,0 +1,74 @@
+{
+  "id": "primary-1-subtraction",
+  "title": "Subtraction",
+  "level": "primary-1",
+  "category": "Arithmetic",
+  "introduction": "Explore subtraction through definitions, examples and practice.",
+  "definition": "Subtraction finds the amount left after taking away a quantity, or the difference between two quantities.",
+  "formulas": [
+    {
+      "expression": "a − b = c",
+      "description": "a is the minuend, b is the subtrahend, c is the difference."
+    },
+    {
+      "expression": "a − 0 = a",
+      "description": "Subtracting zero leaves a number unchanged."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Find 42 − 15. Regroup one ten as ten ones. Subtract 5 from 12, then 1 ten from 3 tens.",
+      "steps": [],
+      "answer": "27"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "5 − 2",
+      "answer": 3,
+      "solution": "Answer: 3"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "10 − 4",
+      "answer": 6,
+      "solution": "Answer: 6"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "19 − 7",
+      "answer": 12,
+      "solution": "Answer: 12"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "42 − 15",
+      "answer": 27,
+      "solution": "Answer: 27"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "80 − 30",
+      "answer": 50,
+      "solution": "Answer: 50"
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "There are 23 apples. 8 are eaten. How many remain?",
+      "answer": 15,
+      "solution": "Answer: 15"
+    }
+  ],
+  "summary": "Subtraction finds the amount left after taking away a quantity, or the difference between two quantities.",
+  "relatedTopics": [
+    "primary-1-addition",
+    "primary-1-multiplication"
+  ]
+}
