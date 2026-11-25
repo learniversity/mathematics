@@ -230,7 +230,7 @@
   ],
   "summary": "A frequency table records how often values occur. The weighted mean is the sum of each value multiplied by its frequency, divided by total frequency. Find the median using cumulative counts and the mode from the greatest frequency.",
   "relatedTopics": [
-    "primary-6-transformations",
+    "secondary-5-enlargement",
     "primary-6-graphs"
   ]
 }
