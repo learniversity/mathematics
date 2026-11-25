@@ -1,0 +1,188 @@
+{
+  "id": "primary-6-probability",
+  "title": "Experimental Probability and Combined Events",
+  "level": "primary-6",
+  "category": "Probability",
+  "introduction": "Consolidate primary mathematics and prepare for secondary study through experimental probability and combined events.",
+  "definition": "Theoretical probability uses a mathematical model of outcomes. Experimental probability is observed frequency divided by number of trials. For independent events, the probability of both occurring is the product of their probabilities. For mutually exclusive events, the probability of either is the sum.",
+  "visuals": [
+    {
+      "label": "Two fair coins",
+      "description": "HH, HT, TH and TT are equally likely.",
+      "alt": "Two fair coins — HH, HT, TH and TT are equally likely.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 15,
+            "y": 10,
+            "width": 62,
+            "height": 36
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 46,
+            "y": 32,
+            "font-size": 15,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "HH"
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 83,
+            "y": 10,
+            "width": 62,
+            "height": 36
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 114,
+            "y": 32,
+            "font-size": 15,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "HT"
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 15,
+            "y": 52,
+            "width": 62,
+            "height": 36
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 46,
+            "y": 74,
+            "font-size": 15,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "TH"
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 83,
+            "y": 52,
+            "width": 62,
+            "height": 36
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 114,
+            "y": 74,
+            "font-size": 15,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "TT"
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "Experimental P(A) = frequency of A/number of trials",
+      "description": "At least one trial."
+    },
+    {
+      "expression": "P(A and B) = P(A)P(B)",
+      "description": "Independent events."
+    },
+    {
+      "expression": "P(A or B) = P(A)+P(B)",
+      "description": "Mutually exclusive events."
+    }
+  ],
+  "examples": [
+    {
+      "question": "A coin lands heads 54 times in 100 trials.",
+      "steps": [
+        "Experimental probability=54÷100."
+      ],
+      "answer": "0.54"
+    },
+    {
+      "question": "Two independent fair coin tosses both land heads.",
+      "steps": [
+        "1/2×1/2."
+      ],
+      "answer": "1/4"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "A die shows six 18 times in 120 rolls. Experimental probability?",
+      "answer": 0.15,
+      "solution": "18÷120."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Two independent fair coins both tails, lowest fraction?",
+      "answer": "1/4",
+      "solution": "1/2×1/2."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Fair die rolls 1 or 6, lowest fraction?",
+      "answer": "1/3",
+      "solution": "2/6."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Independent events have probabilities 0.5 and 0.4. Both?",
+      "answer": 0.2,
+      "solution": "0.5×0.4."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Mutually exclusive events have probabilities 0.2 and 0.3. Either?",
+      "answer": 0.5,
+      "solution": "0.2+0.3."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Event occurs 35 times in 50 trials. Experimental probability?",
+      "answer": 0.7,
+      "solution": "35÷50."
+    }
+  ],
+  "summary": "Theoretical probability uses a mathematical model of outcomes. Experimental probability is observed frequency divided by number of trials. For independent events, the probability of both occurring is the product of their probabilities. For mutually exclusive events, the probability of either is the sum.",
+  "relatedTopics": [
+    "primary-6-graphs",
+    "primary-6-word-problems"
+  ]
+}

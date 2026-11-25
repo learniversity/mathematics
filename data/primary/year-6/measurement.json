@@ -1,0 +1,84 @@
+{
+  "id": "primary-6-measurement",
+  "title": "Precision, Units and Measurement Problems",
+  "level": "primary-6",
+  "category": "Measurement",
+  "introduction": "Consolidate primary mathematics and prepare for secondary study through precision, units and measurement problems.",
+  "definition": "Measured quantities have limited precision. A value rounded to the nearest unit is within half a unit of the recorded value, with the upper midpoint excluded under ordinary rounding up. Convert units consistently and distinguish length, area and volume.",
+  "visuals": [],
+  "formulas": [
+    {
+      "expression": "1 m² = 10,000 cm²",
+      "description": "Area conversion."
+    },
+    {
+      "expression": "1 m³ = 1,000,000 cm³",
+      "description": "Volume conversion."
+    }
+  ],
+  "examples": [
+    {
+      "question": "A length is recorded as 12 cm to the nearest centimetre.",
+      "steps": [
+        "Half a centimetre on either side gives the rounding interval."
+      ],
+      "answer": "11.5 cm ≤ length < 12.5 cm"
+    },
+    {
+      "question": "Convert 0.45 m² to cm².",
+      "steps": [
+        "Multiply by 100² = 10,000."
+      ],
+      "answer": "4,500 cm²"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "2.75 km in m?",
+      "answer": 2750,
+      "solution": "×1000."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "0.08 m² in cm²?",
+      "answer": 800,
+      "solution": "×10,000."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "3.2 L in cm³?",
+      "answer": 3200,
+      "solution": "1 L = 1000 cm³."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "2.5 tonnes in kg?",
+      "answer": 2500,
+      "solution": "1 tonne = 1000 kg."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Lower boundary for 7 cm rounded to nearest cm?",
+      "answer": 6.5,
+      "solution": "7 − 0.5."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Maximum rounding error bound to nearest 10?",
+      "answer": 5,
+      "solution": "Half of 10."
+    }
+  ],
+  "summary": "Measured quantities have limited precision. A value rounded to the nearest unit is within half a unit of the recorded value, with the upper midpoint excluded under ordinary rounding up. Convert units consistently and distinguish length, area and volume.",
+  "relatedTopics": [
+    "primary-6-time-zones",
+    "primary-6-algebra"
+  ]
+}

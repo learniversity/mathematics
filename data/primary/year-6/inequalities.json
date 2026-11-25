@@ -1,0 +1,75 @@
+{
+  "id": "primary-6-inequalities",
+  "title": "Introduction to Inequalities",
+  "level": "primary-6",
+  "category": "Algebra",
+  "introduction": "Consolidate primary mathematics and prepare for secondary study through introduction to inequalities.",
+  "definition": "An inequality compares expressions using <, >, ≤ or ≥. Adding or subtracting the same number on both sides preserves its direction. Multiplying or dividing both sides by a negative number reverses the inequality sign.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Solve x+3<8.",
+      "steps": [
+        "Subtract 3 from both sides."
+      ],
+      "answer": "x < 5"
+    },
+    {
+      "question": "Solve −2x≥6.",
+      "steps": [
+        "Divide by −2 and reverse ≥."
+      ],
+      "answer": "x ≤ −3"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Boundary value for x+4<10?",
+      "answer": 6,
+      "solution": "Subtract 4."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Is x=3 a solution of x<5? yes/no",
+      "answer": "yes",
+      "solution": "3<5."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Is x=5 a solution of x<5? yes/no",
+      "answer": "no",
+      "solution": "Strict inequality excludes 5."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Boundary value for 3x≤12?",
+      "answer": 4,
+      "solution": "Divide by 3."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "For −2x>8, enter boundary value.",
+      "answer": -4,
+      "solution": "Divide by −2; x<−4."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "When dividing an inequality by a negative, does its sign reverse? yes/no",
+      "answer": "yes",
+      "solution": "Order reverses."
+    }
+  ],
+  "summary": "An inequality compares expressions using <, >, ≤ or ≥. Adding or subtracting the same number on both sides preserves its direction. Multiplying or dividing both sides by a negative number reverses the inequality sign.",
+  "relatedTopics": [
+    "primary-6-equations",
+    "primary-6-formula-substitution"
+  ]
+}

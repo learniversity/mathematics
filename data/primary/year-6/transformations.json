@@ -1,0 +1,132 @@
+{
+  "id": "primary-6-transformations",
+  "title": "Transformations and Enlargement",
+  "level": "primary-6",
+  "category": "Geometry",
+  "introduction": "Consolidate primary mathematics and prepare for secondary study through transformations and enlargement.",
+  "definition": "Translations, reflections and rotations preserve lengths and angles. Enlargement about a centre multiplies distances from the centre by a scale factor. Positive enlargement factors preserve orientation; area changes by the square of the factor.",
+  "visuals": [
+    {
+      "label": "Enlargement factor 2",
+      "description": "Corresponding lengths double.",
+      "alt": "Enlargement factor 2 — Corresponding lengths double.",
+      "elements": [
+        {
+          "tag": "polygon",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "points": "15,85 15,60 45,85"
+          }
+        },
+        {
+          "tag": "polygon",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "points": "70,85 70,35 130,85"
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 30,
+            "y": 97,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "×1"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 100,
+            "y": 97,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "×2"
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "(x,y) → (kx,ky)",
+      "description": "Enlargement about origin by positive factor k."
+    },
+    {
+      "expression": "Area scale factor = k²",
+      "description": "Enlargement."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Enlarge point (2,3) about the origin by factor 2.",
+      "steps": [
+        "Multiply each coordinate by 2."
+      ],
+      "answer": "(4,6)"
+    },
+    {
+      "question": "A shape has area 12 cm² and enlargement factor 3.",
+      "steps": [
+        "Area multiplier=3²=9."
+      ],
+      "answer": "108 cm²"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Enlarge (3,−2) about origin by factor 2. New x?",
+      "answer": 6,
+      "solution": "3×2."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Reflect (−4,5) in x-axis. New y?",
+      "answer": -5,
+      "solution": "Reverse y sign."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Rotate (2,3) 180° about origin. New x?",
+      "answer": -2,
+      "solution": "Reverse both signs."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Side 8 cm enlarged by factor 1.5. New length?",
+      "answer": 12,
+      "solution": "8×1.5."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Area 20 cm² enlarged by factor 2. New area?",
+      "answer": 80,
+      "solution": "20×4."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Does reflection preserve angles? yes/no",
+      "answer": "yes",
+      "solution": "Reflection is an isometry."
+    }
+  ],
+  "summary": "Translations, reflections and rotations preserve lengths and angles. Enlargement about a centre multiplies distances from the centre by a scale factor. Positive enlargement factors preserve orientation; area changes by the square of the factor.",
+  "relatedTopics": [
+    "primary-6-scale",
+    "primary-6-statistics"
+  ]
+}

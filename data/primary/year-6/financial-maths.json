@@ -1,0 +1,84 @@
+{
+  "id": "primary-6-financial-maths",
+  "title": "Financial Mathematics: Interest, Tax and Discounts",
+  "level": "primary-6",
+  "category": "Measurement",
+  "introduction": "Consolidate primary mathematics and prepare for secondary study through financial mathematics: interest, tax and discounts.",
+  "definition": "Simple interest is calculated only on the original principal. Express the annual interest rate as a decimal and the duration in years. Taxes and discounts are calculated from the specified price base; determine whether they are added or subtracted.",
+  "visuals": [],
+  "formulas": [
+    {
+      "expression": "I = Prt",
+      "description": "Simple interest, annual decimal rate r and time t in years."
+    },
+    {
+      "expression": "A = P + I",
+      "description": "Total after simple interest."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Find simple interest on RM800 at 5% per year for 2 years.",
+      "steps": [
+        "800 × 0.05 × 2."
+      ],
+      "answer": "RM80"
+    },
+    {
+      "question": "An item costs RM150 before a hypothetical 8% tax.",
+      "steps": [
+        "Tax = 150 × 0.08 = 12; add it."
+      ],
+      "answer": "RM162"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Simple interest on RM500 at 4% for 3 years, RM?",
+      "answer": 60,
+      "solution": "500 × 0.04 × 3."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Total after simple interest on RM1000 at 3% for 2 years, RM?",
+      "answer": 1060,
+      "solution": "1000 + 60."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "RM200 item discounted 15%, final price RM?",
+      "answer": 170,
+      "solution": "200 × 0.85."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "RM80 plus hypothetical 5% tax, total RM?",
+      "answer": 84,
+      "solution": "80 × 1.05."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Cost RM150, sold RM180. Profit percentage number?",
+      "answer": 20,
+      "solution": "30 ÷ 150 × 100."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Simple interest on RM1200 at 6% for 6 months, RM?",
+      "answer": 36,
+      "solution": "1200 × 0.06 × 0.5."
+    }
+  ],
+  "summary": "Simple interest is calculated only on the original principal. Express the annual interest rate as a decimal and the duration in years. Taxes and discounts are calculated from the specified price base; determine whether they are added or subtracted.",
+  "relatedTopics": [
+    "primary-6-proportion",
+    "primary-6-speed"
+  ]
+}

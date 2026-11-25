@@ -1,0 +1,241 @@
+{
+  "id": "primary-6-ratio",
+  "title": "Ratio, Sharing and Proportional Reasoning",
+  "level": "primary-6",
+  "category": "Arithmetic",
+  "introduction": "Consolidate primary mathematics and prepare for secondary study through ratio, sharing and proportional reasoning.",
+  "definition": "Ratios compare ordered quantities. To share a total in a ratio, add the ratio parts, divide the total by this sum and multiply by each part. For equivalent ratios, multiply or divide all terms by the same positive number.",
+  "visuals": [
+    {
+      "label": "2:3:5",
+      "description": "Ten equal shares grouped into 2, 3 and 5.",
+      "alt": "2:3:5 — Ten equal shares grouped into 2, 3 and 5.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#777",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 5,
+            "y": 30,
+            "width": 15,
+            "height": 40
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#777",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 20,
+            "y": 30,
+            "width": 15,
+            "height": 40
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 35,
+            "y": 30,
+            "width": 15,
+            "height": 40
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 50,
+            "y": 30,
+            "width": 15,
+            "height": 40
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 65,
+            "y": 30,
+            "width": 15,
+            "height": 40
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#bbb",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 80,
+            "y": 30,
+            "width": 15,
+            "height": 40
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#bbb",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 95,
+            "y": 30,
+            "width": 15,
+            "height": 40
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#bbb",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 110,
+            "y": 30,
+            "width": 15,
+            "height": 40
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#bbb",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 125,
+            "y": 30,
+            "width": 15,
+            "height": 40
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#bbb",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 140,
+            "y": 30,
+            "width": 15,
+            "height": 40
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 20,
+            "y": 22,
+            "font-size": 11,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "2"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 57,
+            "y": 22,
+            "font-size": 11,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "3"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 117,
+            "y": 22,
+            "font-size": 11,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "5"
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "Share = total × individual parts/total parts",
+      "description": "Ratio sharing."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Share RM240 in ratio 2:3:5.",
+      "steps": [
+        "10 parts; one part RM24."
+      ],
+      "answer": "RM48, RM72, RM120"
+    },
+    {
+      "question": "Mix paint in ratio 3:2. The mixture totals 15 L.",
+      "steps": [
+        "5 parts; one part 3 L."
+      ],
+      "answer": "9 L and 6 L"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "Simplify 42:56.",
+      "answer": "3:4",
+      "solution": "Divide by 14."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Share 180 in ratio 2:3:4. Largest share?",
+      "answer": 80,
+      "solution": "180 ÷ 9 × 4."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Ratio A:B = 5:7, A=35. B?",
+      "answer": 49,
+      "solution": "35 ÷ 5 × 7."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Simplify 250 g : 1 kg.",
+      "answer": "1:4",
+      "solution": "250:1000."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "A model uses ratio 1:20. Model 15 cm. Real length cm?",
+      "answer": 300,
+      "solution": "15 × 20."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Share 96 in ratio 5:7. Smaller share?",
+      "answer": 40,
+      "solution": "96 ÷ 12 × 5."
+    }
+  ],
+  "summary": "Ratios compare ordered quantities. To share a total in a ratio, add the ratio parts, divide the total by this sum and multiply by each part. For equivalent ratios, multiply or divide all terms by the same positive number.",
+  "relatedTopics": [
+    "primary-6-percentage-reverse",
+    "primary-6-proportion"
+  ]
+}

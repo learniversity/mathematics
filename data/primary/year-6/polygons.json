@@ -1,0 +1,112 @@
+{
+  "id": "primary-6-polygons",
+  "title": "Interior and Exterior Angles of Polygons",
+  "level": "primary-6",
+  "category": "Geometry",
+  "introduction": "Consolidate primary mathematics and prepare for secondary study through interior and exterior angles of polygons.",
+  "definition": "A simple polygon with n sides has interior angle sum (n−2)×180°. For a convex polygon, the exterior turning angles sum to 360°. A regular polygon has equal sides and equal interior angles, so each exterior angle is 360°/n.",
+  "visuals": [
+    {
+      "label": "Regular hexagon",
+      "description": "Six equal exterior turns of 60°.",
+      "alt": "Regular hexagon — Six equal exterior turns of 60°.",
+      "elements": [
+        {
+          "tag": "polygon",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "points": "45,10 115,10 150,50 115,90 45,90 10,50"
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 55,
+            "font-size": 14,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "6 sides"
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "Interior sum = (n−2)×180°",
+      "description": "Simple polygon."
+    },
+    {
+      "expression": "Exterior angle = 360°/n",
+      "description": "Regular polygon."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Find each interior angle of a regular octagon.",
+      "steps": [
+        "Exterior angle=360÷8=45°; interior=180−45."
+      ],
+      "answer": "135°"
+    },
+    {
+      "question": "A regular polygon has exterior angle 30°. Find number of sides.",
+      "steps": [
+        "360÷30."
+      ],
+      "answer": "12"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Interior angle sum of a heptagon?",
+      "answer": 900,
+      "solution": "(7−2)×180."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Exterior angle of regular hexagon?",
+      "answer": 60,
+      "solution": "360÷6."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Interior angle of regular decagon?",
+      "answer": 144,
+      "solution": "180−36."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Number of sides if regular exterior angle is 24°?",
+      "answer": 15,
+      "solution": "360÷24."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Interior angle sum of a 12-sided polygon?",
+      "answer": 1800,
+      "solution": "10×180."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Exterior angle sum of a convex polygon?",
+      "answer": 360,
+      "solution": "One complete turn."
+    }
+  ],
+  "summary": "A simple polygon with n sides has interior angle sum (n−2)×180°. For a convex polygon, the exterior turning angles sum to 360°. A regular polygon has equal sides and equal interior angles, so each exterior angle is 360°/n.",
+  "relatedTopics": [
+    "primary-6-angles",
+    "primary-6-circles"
+  ]
+}

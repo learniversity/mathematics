@@ -1,0 +1,146 @@
+{
+  "id": "primary-6-angles",
+  "title": "Angles in Parallel Lines",
+  "level": "primary-6",
+  "category": "Geometry",
+  "introduction": "Consolidate primary mathematics and prepare for secondary study through angles in parallel lines.",
+  "definition": "When two parallel lines are crossed by a transversal, corresponding angles are equal, alternate interior angles are equal, and same-side interior angles sum to 180°. These equalities depend on the lines being parallel.",
+  "visuals": [
+    {
+      "label": "Alternate interior angles",
+      "description": "The marked angles are equal.",
+      "alt": "Alternate interior angles — The marked angles are equal.",
+      "elements": [
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 10,
+            "y1": 25,
+            "x2": 150,
+            "y2": 25
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 10,
+            "y1": 75,
+            "x2": 150,
+            "y2": 75
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 55,
+            "y1": 5,
+            "x2": 105,
+            "y2": 95
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 76,
+            "y": 39,
+            "font-size": 14,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "α"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 84,
+            "y": 65,
+            "font-size": 14,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "α"
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "Same-side interior angles sum to 180°",
+      "description": "For parallel lines cut by a transversal."
+    }
+  ],
+  "examples": [
+    {
+      "question": "A transversal cuts parallel lines; a corresponding angle is 65°.",
+      "steps": [
+        "Corresponding angles are equal."
+      ],
+      "answer": "65°"
+    },
+    {
+      "question": "One same-side interior angle is 112°. Find the other.",
+      "steps": [
+        "180−112."
+      ],
+      "answer": "68°"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Corresponding angle to 78°?",
+      "answer": 78,
+      "solution": "Equal."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Alternate interior angle to 105°?",
+      "answer": 105,
+      "solution": "Equal."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Same-side interior partner of 73°?",
+      "answer": 107,
+      "solution": "180−73."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Vertically opposite angle to 42°?",
+      "answer": 42,
+      "solution": "Equal."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Adjacent straight-line partner of 133°?",
+      "answer": 47,
+      "solution": "180−133."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "If alternate interior angles are equal, are the two distinct coplanar lines parallel? yes/no",
+      "answer": "yes",
+      "solution": "Converse of alternate interior angle theorem."
+    }
+  ],
+  "summary": "When two parallel lines are crossed by a transversal, corresponding angles are equal, alternate interior angles are equal, and same-side interior angles sum to 180°. These equalities depend on the lines being parallel.",
+  "relatedTopics": [
+    "primary-6-linear-graphs",
+    "primary-6-polygons"
+  ]
+}

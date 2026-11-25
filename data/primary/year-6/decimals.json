@@ -1,0 +1,75 @@
+{
+  "id": "primary-6-decimals",
+  "title": "Advanced Decimal Calculations and Rounding",
+  "level": "primary-6",
+  "category": "Arithmetic",
+  "introduction": "Consolidate primary mathematics and prepare for secondary study through advanced decimal calculations and rounding.",
+  "definition": "Use aligned decimal places for addition and subtraction. For multiplication, count the total decimal places in both factors. For division, scale both operands so the divisor becomes a whole number. Round only the final result unless instructed otherwise.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Calculate 0.125 × 2.4.",
+      "steps": [
+        "125 × 24 = 3000; four decimal places."
+      ],
+      "answer": "0.3"
+    },
+    {
+      "question": "Calculate 17 ÷ 6 to two decimal places.",
+      "steps": [
+        "17 ÷ 6 = 2.8333…; third decimal digit 3."
+      ],
+      "answer": "2.83"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "12.075 + 8.926",
+      "answer": 21.001,
+      "solution": "Add matching places."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "30.005 − 18.786",
+      "answer": 11.219,
+      "solution": "Regroup."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "3.75 × 0.48",
+      "answer": 1.8,
+      "solution": "375 × 48 = 18,000; four places."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "0.864 ÷ 0.12",
+      "answer": 7.2,
+      "solution": "86.4 ÷ 12."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Round 5.6789 to three decimal places.",
+      "answer": 5.679,
+      "solution": "Fourth digit 9."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Calculate 22 ÷ 7 to two decimal places.",
+      "answer": 3.14,
+      "solution": "3.142857… rounds to 3.14."
+    }
+  ],
+  "summary": "Use aligned decimal places for addition and subtraction. For multiplication, count the total decimal places in both factors. For division, scale both operands so the divisor becomes a whole number. Round only the final result unless instructed otherwise.",
+  "relatedTopics": [
+    "primary-6-fractions",
+    "primary-6-percentage-reverse"
+  ]
+}

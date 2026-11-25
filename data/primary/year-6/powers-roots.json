@@ -1,0 +1,392 @@
+{
+  "id": "primary-6-powers-roots",
+  "title": "Powers, Square Roots and Cube Roots",
+  "level": "primary-6",
+  "category": "Arithmetic",
+  "introduction": "Consolidate primary mathematics and prepare for secondary study through powers, square roots and cube roots.",
+  "definition": "A power aⁿ means repeated multiplication of a for positive integer n. The principal square root of a nonnegative number is its nonnegative square root. A cube root is the real number whose cube equals the given number.",
+  "visuals": [
+    {
+      "label": "5² = 25",
+      "description": "Five rows of five squares.",
+      "alt": "5² = 25 — Five rows of five squares.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x": 20,
+            "y": 12,
+            "width": 24,
+            "height": 15.2
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x": 44,
+            "y": 12,
+            "width": 24,
+            "height": 15.2
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x": 68,
+            "y": 12,
+            "width": 24,
+            "height": 15.2
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x": 92,
+            "y": 12,
+            "width": 24,
+            "height": 15.2
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x": 116,
+            "y": 12,
+            "width": 24,
+            "height": 15.2
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x": 20,
+            "y": 27.2,
+            "width": 24,
+            "height": 15.2
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x": 44,
+            "y": 27.2,
+            "width": 24,
+            "height": 15.2
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x": 68,
+            "y": 27.2,
+            "width": 24,
+            "height": 15.2
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x": 92,
+            "y": 27.2,
+            "width": 24,
+            "height": 15.2
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x": 116,
+            "y": 27.2,
+            "width": 24,
+            "height": 15.2
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x": 20,
+            "y": 42.4,
+            "width": 24,
+            "height": 15.2
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x": 44,
+            "y": 42.4,
+            "width": 24,
+            "height": 15.2
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x": 68,
+            "y": 42.4,
+            "width": 24,
+            "height": 15.2
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x": 92,
+            "y": 42.4,
+            "width": 24,
+            "height": 15.2
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x": 116,
+            "y": 42.4,
+            "width": 24,
+            "height": 15.2
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x": 20,
+            "y": 57.6,
+            "width": 24,
+            "height": 15.2
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x": 44,
+            "y": 57.6,
+            "width": 24,
+            "height": 15.2
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x": 68,
+            "y": 57.6,
+            "width": 24,
+            "height": 15.2
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x": 92,
+            "y": 57.6,
+            "width": 24,
+            "height": 15.2
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x": 116,
+            "y": 57.6,
+            "width": 24,
+            "height": 15.2
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x": 20,
+            "y": 72.8,
+            "width": 24,
+            "height": 15.2
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x": 44,
+            "y": 72.8,
+            "width": 24,
+            "height": 15.2
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x": 68,
+            "y": 72.8,
+            "width": 24,
+            "height": 15.2
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x": 92,
+            "y": 72.8,
+            "width": 24,
+            "height": 15.2
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 0.7,
+            "x": 116,
+            "y": 72.8,
+            "width": 24,
+            "height": 15.2
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "√(a²) = |a|",
+      "description": "Principal square root."
+    },
+    {
+      "expression": "∛(a³) = a",
+      "description": "Real cube root."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Find √196.",
+      "steps": [
+        "14 × 14 = 196."
+      ],
+      "answer": "14"
+    },
+    {
+      "question": "Find ∛216.",
+      "steps": [
+        "6 × 6 × 6 = 216."
+      ],
+      "answer": "6"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "15²",
+      "answer": 225,
+      "solution": "15 × 15."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "7³",
+      "answer": 343,
+      "solution": "7 × 7 × 7."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Square root of 169?",
+      "answer": 13,
+      "solution": "13² = 169."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Cube root of 125?",
+      "answer": 5,
+      "solution": "5³ = 125."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "2⁶",
+      "answer": 64,
+      "solution": "Six factors of 2."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Cube root of −27?",
+      "answer": -3,
+      "solution": "(−3)³ = −27."
+    }
+  ],
+  "summary": "A power aⁿ means repeated multiplication of a for positive integer n. The principal square root of a nonnegative number is its nonnegative square root. A cube root is the real number whose cube equals the given number.",
+  "relatedTopics": [
+    "primary-6-prime-factorisation",
+    "primary-6-fractions"
+  ]
+}

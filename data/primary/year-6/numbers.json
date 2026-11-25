@@ -1,0 +1,329 @@
+{
+  "id": "primary-6-numbers",
+  "title": "Whole Numbers to 10,000,000",
+  "level": "primary-6",
+  "category": "Arithmetic",
+  "introduction": "Consolidate primary mathematics and prepare for secondary study through whole numbers to 10,000,000.",
+  "definition": "Place value extends to millions and ten-millions. Read large numbers in groups of three digits from the right; each group represents ones, thousands or millions. Use expanded form to check the value of each digit.",
+  "visuals": [
+    {
+      "label": "6,304,082",
+      "description": "Millions to ones.",
+      "alt": "6,304,082 — Millions to ones.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 3,
+            "y": 15,
+            "width": 154,
+            "height": 70
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 25,
+            "y1": 15,
+            "x2": 25,
+            "y2": 85
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 47,
+            "y1": 15,
+            "x2": 47,
+            "y2": 85
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 69,
+            "y1": 15,
+            "x2": 69,
+            "y2": 85
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 91,
+            "y1": 15,
+            "x2": 91,
+            "y2": 85
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 113,
+            "y1": 15,
+            "x2": 113,
+            "y2": 85
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 135,
+            "y1": 15,
+            "x2": 135,
+            "y2": 85
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 14,
+            "y": 35,
+            "font-size": 8,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "M"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 36,
+            "y": 35,
+            "font-size": 8,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "HTh"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 58,
+            "y": 35,
+            "font-size": 8,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "TTh"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 35,
+            "font-size": 8,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "Th"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 102,
+            "y": 35,
+            "font-size": 8,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "H"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 124,
+            "y": 35,
+            "font-size": 8,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "T"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 146,
+            "y": 35,
+            "font-size": 8,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "O"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 14,
+            "y": 70,
+            "font-size": 20,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "6"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 36,
+            "y": 70,
+            "font-size": 20,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "3"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 58,
+            "y": 70,
+            "font-size": 20,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "0"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 70,
+            "font-size": 20,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "4"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 102,
+            "y": 70,
+            "font-size": 20,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "0"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 124,
+            "y": 70,
+            "font-size": 20,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "8"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 146,
+            "y": 70,
+            "font-size": 20,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "2"
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "1 million = 1,000,000",
+      "description": "Place value."
+    },
+    {
+      "expression": "10 million = 10,000,000",
+      "description": "Ten groups of one million."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Expand 6,304,082.",
+      "steps": [
+        "6 million + 300 thousand + 4 thousand + 80 + 2."
+      ],
+      "answer": "6,000,000 + 300,000 + 4,000 + 80 + 2"
+    },
+    {
+      "question": "Round 7,685,420 to the nearest million.",
+      "steps": [
+        "The hundred-thousands digit is 6, so round up."
+      ],
+      "answer": "8000000"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Value of 4 in 4,250,180?",
+      "answer": 4000000,
+      "solution": "4 × 1,000,000."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Write 8,000,000 + 50,000 + 600 + 7.",
+      "answer": 8050607,
+      "solution": "Add the place values."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Round 3,450,000 to nearest hundred-thousand.",
+      "answer": 3500000,
+      "solution": "5 ten-thousands rounds up."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Round 9,499,999 to nearest million.",
+      "answer": 9000000,
+      "solution": "Less than halfway to 10 million."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "How many thousands are in 2 million?",
+      "answer": 2000,
+      "solution": "2,000,000 ÷ 1,000."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "What follows 9,999,999?",
+      "answer": 10000000,
+      "solution": "Add one."
+    }
+  ],
+  "summary": "Place value extends to millions and ten-millions. Read large numbers in groups of three digits from the right; each group represents ones, thousands or millions. Use expanded form to check the value of each digit.",
+  "relatedTopics": [
+    "primary-6-integer-operations"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "primary-6-formula-substitution",
+  "title": "Using Formulas and Changing the Subject",
+  "level": "primary-6",
+  "category": "Algebra",
+  "introduction": "Consolidate primary mathematics and prepare for secondary study through using formulas and changing the subject.",
+  "definition": "A formula expresses a relationship between quantities. Substitute known values using matching units. To change the subject, isolate the required variable by applying inverse operations to both sides. Division requires a nonzero divisor.",
+  "visuals": [],
+  "formulas": [
+    {
+      "expression": "h = 2A/b",
+      "description": "From triangle area, b nonzero."
+    },
+    {
+      "expression": "w = P/2 − l",
+      "description": "From rectangle perimeter."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Find h when A=bh/2, A=36 and b=9.",
+      "steps": [
+        "2A=bh; h=2A/b=72/9."
+      ],
+      "answer": "8"
+    },
+    {
+      "question": "Find w when P=2(l+w), P=30, l=9.",
+      "steps": [
+        "P/2=l+w; w=15−9."
+      ],
+      "answer": "6"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "In V=lwh, V=120, l=6, w=4. Find h.",
+      "answer": 5,
+      "solution": "120÷24."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "In A=bh/2, b=10, h=7. Find A.",
+      "answer": 35,
+      "solution": "70÷2."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "In d=st, d=180, t=3. Find s.",
+      "answer": 60,
+      "solution": "180÷3."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "In y=3x+2, y=20. Find x.",
+      "answer": 6,
+      "solution": "(20−2)÷3."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "In P=4s, P=52. Find s.",
+      "answer": 13,
+      "solution": "52÷4."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "In C=2πr, C=31.4, π=3.14. Find r.",
+      "answer": 5,
+      "solution": "31.4÷6.28."
+    }
+  ],
+  "summary": "A formula expresses a relationship between quantities. Substitute known values using matching units. To change the subject, isolate the required variable by applying inverse operations to both sides. Division requires a nonzero divisor.",
+  "relatedTopics": [
+    "primary-6-inequalities",
+    "primary-6-sequences"
+  ]
+}

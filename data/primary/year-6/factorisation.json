@@ -1,0 +1,80 @@
+{
+  "id": "primary-6-factorisation",
+  "title": "Common-Factor Factorisation",
+  "level": "primary-6",
+  "category": "Algebra",
+  "introduction": "Consolidate primary mathematics and prepare for secondary study through common-factor factorisation.",
+  "definition": "Factorisation reverses expansion. Find a common numerical or variable factor in all terms, divide every term by it and write the remaining expression in brackets. Expand to verify the result.",
+  "visuals": [],
+  "formulas": [
+    {
+      "expression": "ab + ac = a(b+c)",
+      "description": "Common-factor identity."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Factorise 12x + 18.",
+      "steps": [
+        "HCF of 12 and 18 is 6; divide both terms."
+      ],
+      "answer": "6(2x + 3)"
+    },
+    {
+      "question": "Factorise 8x² − 12x.",
+      "steps": [
+        "Common factor is 4x."
+      ],
+      "answer": "4x(2x − 3)"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Greatest positive numerical common factor of 15x + 25?",
+      "answer": 5,
+      "solution": "HCF(15,25)."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Greatest positive numerical common factor of 18a − 24?",
+      "answer": 6,
+      "solution": "HCF(18,24)."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "In 7(2x + 3), coefficient of x after expansion?",
+      "answer": 14,
+      "solution": "7 × 2."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "In 5(3x − 2), constant after expansion?",
+      "answer": -10,
+      "solution": "5 × −2."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "If 12x+8 = 4(3x+k), find k.",
+      "answer": 2,
+      "solution": "8 ÷ 4."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "If 9x−15 = 3(3x+k), find k.",
+      "answer": -5,
+      "solution": "−15 ÷ 3."
+    }
+  ],
+  "summary": "Factorisation reverses expansion. Find a common numerical or variable factor in all terms, divide every term by it and write the remaining expression in brackets. Expand to verify the result.",
+  "relatedTopics": [
+    "primary-6-algebra",
+    "primary-6-equations"
+  ]
+}

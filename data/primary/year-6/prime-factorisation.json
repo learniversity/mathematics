@@ -1,0 +1,80 @@
+{
+  "id": "primary-6-prime-factorisation",
+  "title": "Prime Factors, HCF and LCM",
+  "level": "primary-6",
+  "category": "Arithmetic",
+  "introduction": "Consolidate primary mathematics and prepare for secondary study through prime factors, hcf and lcm.",
+  "definition": "Every integer greater than 1 has a prime factorisation unique apart from order. Use the smallest exponent of each common prime for HCF and the largest exponent of every prime present for LCM. A prime not present has exponent zero.",
+  "visuals": [],
+  "formulas": [
+    {
+      "expression": "HCF(a,b) × LCM(a,b) = ab",
+      "description": "Positive integers a,b."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Find HCF of 84 and 126.",
+      "steps": [
+        "84 = 2²×3×7; 126 = 2×3²×7; common minimum powers are 2×3×7."
+      ],
+      "answer": "42"
+    },
+    {
+      "question": "Find LCM of 24 and 90.",
+      "steps": [
+        "24 = 2³×3; 90 = 2×3²×5; use 2³×3²×5."
+      ],
+      "answer": "360"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "HCF of 72 and 96?",
+      "answer": 24,
+      "solution": "2³×3."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "LCM of 36 and 48?",
+      "answer": 144,
+      "solution": "2⁴×3²."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Largest prime factor of 210?",
+      "answer": 7,
+      "solution": "210 = 2×3×5×7."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "HCF of 17 and 34?",
+      "answer": 17,
+      "solution": "17 divides 34."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "LCM of 12, 15 and 20?",
+      "answer": 60,
+      "solution": "2²×3×5."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Smallest positive number divisible by 8 and 18?",
+      "answer": 72,
+      "solution": "LCM = 2³×3²."
+    }
+  ],
+  "summary": "Every integer greater than 1 has a prime factorisation unique apart from order. Use the smallest exponent of each common prime for HCF and the largest exponent of every prime present for LCM. A prime not present has exponent zero.",
+  "relatedTopics": [
+    "primary-6-order-of-operations",
+    "primary-6-powers-roots"
+  ]
+}

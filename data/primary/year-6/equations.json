@@ -1,0 +1,75 @@
+{
+  "id": "primary-6-equations",
+  "title": "Linear Equations with Brackets and Variables on Both Sides",
+  "level": "primary-6",
+  "category": "Algebra",
+  "introduction": "Consolidate primary mathematics and prepare for secondary study through linear equations with brackets and variables on both sides.",
+  "definition": "Solve linear equations by expanding brackets if necessary, collecting variable terms on one side and constants on the other, then dividing by the nonzero coefficient. Each step must preserve equality. Check the solution by substitution.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Solve 3(x+4)=27.",
+      "steps": [
+        "Divide by 3: x+4=9; subtract 4."
+      ],
+      "answer": "5"
+    },
+    {
+      "question": "Solve 5x−7=2x+14.",
+      "steps": [
+        "Subtract 2x, add 7: 3x=21; divide by 3."
+      ],
+      "answer": "7"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "2x+9=25",
+      "answer": 8,
+      "solution": "(25−9)÷2."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "4(x−2)=28",
+      "answer": 9,
+      "solution": "28÷4+2."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "7x−5=3x+19",
+      "answer": 6,
+      "solution": "4x=24."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "3(x+2)=2x+11",
+      "answer": 5,
+      "solution": "3x+6=2x+11."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "x/3+4=10",
+      "answer": 18,
+      "solution": "(10−4)×3."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "5(x−1)=2(x+5). Find x.",
+      "answer": 5,
+      "solution": "5x−5=2x+10; 3x=15."
+    }
+  ],
+  "summary": "Solve linear equations by expanding brackets if necessary, collecting variable terms on one side and constants on the other, then dividing by the nonzero coefficient. Each step must preserve equality. Check the solution by substitution.",
+  "relatedTopics": [
+    "primary-6-factorisation",
+    "primary-6-inequalities"
+  ]
+}

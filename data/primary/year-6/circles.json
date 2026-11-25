@@ -1,0 +1,141 @@
+{
+  "id": "primary-6-circles",
+  "title": "Area and Circumference of Circles",
+  "level": "primary-6",
+  "category": "Geometry",
+  "introduction": "Consolidate primary mathematics and prepare for secondary study through area and circumference of circles.",
+  "definition": "A circle's radius is the distance from its centre to its boundary. The circumference is 2πr and the area enclosed is πr². Use the stated approximation of π and distinguish length units from square units.",
+  "visuals": [
+    {
+      "label": "Circle area",
+      "description": "Radius r determines area πr².",
+      "alt": "Circle area — Radius r determines area πr².",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 80,
+            "cy": 50,
+            "r": 40
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "#fff",
+            "stroke-width": 2,
+            "x1": 80,
+            "y1": 50,
+            "x2": 120,
+            "y2": 50
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 101,
+            "y": 43,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "r"
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 80,
+            "cy": 50,
+            "r": 2
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "C = 2πr = πd",
+      "description": "Circumference."
+    },
+    {
+      "expression": "A = πr²",
+      "description": "Area."
+    },
+    {
+      "expression": "Asemicircle = πr²/2",
+      "description": "Half the circle area."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Find area of a circle of radius 7 cm using π=22/7.",
+      "steps": [
+        "(22/7)×7²."
+      ],
+      "answer": "154 cm²"
+    },
+    {
+      "question": "Find circumference for diameter 12 cm using π=3.14.",
+      "steps": [
+        "3.14×12."
+      ],
+      "answer": "37.68 cm"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Radius 5 cm, area with π=3.14?",
+      "answer": 78.5,
+      "solution": "3.14×25."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Diameter 20 cm, circumference with π=3.14?",
+      "answer": 62.8,
+      "solution": "3.14×20."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Radius 14 cm, area with π=22/7?",
+      "answer": 616,
+      "solution": "22/7×196."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Semicircle area radius 10 cm, π=3.14?",
+      "answer": 157,
+      "solution": "314÷2."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Circle area 314 cm², π=3.14. Radius?",
+      "answer": 10,
+      "solution": "√(314÷3.14)."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Circumference 44 cm, π=22/7. Radius?",
+      "answer": 7,
+      "solution": "44÷(2×22/7)."
+    }
+  ],
+  "summary": "A circle's radius is the distance from its centre to its boundary. The circumference is 2πr and the area enclosed is πr². Use the stated approximation of π and distinguish length units from square units.",
+  "relatedTopics": [
+    "primary-6-polygons",
+    "primary-6-composite-area"
+  ]
+}

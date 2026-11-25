@@ -1,0 +1,84 @@
+{
+  "id": "primary-6-sequences",
+  "title": "Arithmetic and Geometric Sequences",
+  "level": "primary-6",
+  "category": "Algebra",
+  "introduction": "Consolidate primary mathematics and prepare for secondary study through arithmetic and geometric sequences.",
+  "definition": "An arithmetic sequence adds a constant difference to obtain each next term. A geometric sequence multiplies by a constant ratio. The nth-term rule uses the first term and n−1 steps.",
+  "visuals": [],
+  "formulas": [
+    {
+      "expression": "aₙ = a₁ + (n−1)d",
+      "description": "Arithmetic sequence."
+    },
+    {
+      "expression": "aₙ = a₁rⁿ⁻¹",
+      "description": "Geometric sequence; nth term for n≥1, with first term specified separately if r=0."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Find the 12th term of 4, 9, 14, ...",
+      "steps": [
+        "First term 4, difference 5; 4+11×5."
+      ],
+      "answer": "59"
+    },
+    {
+      "question": "Find the 6th term of 3, 6, 12, ...",
+      "steps": [
+        "First term 3, ratio 2; 3×2⁵."
+      ],
+      "answer": "96"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Next term 11,18,25,32,... constant difference?",
+      "answer": 39,
+      "solution": "Add 7."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "10th term when a₁=7, d=3?",
+      "answer": 34,
+      "solution": "7+9×3."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Common difference of 20,14,8,2,...?",
+      "answer": -6,
+      "solution": "14−20."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Next term 2,6,18,54,... constant ratio?",
+      "answer": 162,
+      "solution": "Multiply by 3."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "5th term when a₁=4, ratio=2?",
+      "answer": 64,
+      "solution": "4×2⁴."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "8th term of rule 5n−2?",
+      "answer": 38,
+      "solution": "40−2."
+    }
+  ],
+  "summary": "An arithmetic sequence adds a constant difference to obtain each next term. A geometric sequence multiplies by a constant ratio. The nth-term rule uses the first term and n−1 steps.",
+  "relatedTopics": [
+    "primary-6-formula-substitution",
+    "primary-6-linear-graphs"
+  ]
+}

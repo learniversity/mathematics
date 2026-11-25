@@ -1,0 +1,284 @@
+{
+  "id": "primary-6-fractions",
+  "title": "Advanced Fraction Operations",
+  "level": "primary-6",
+  "category": "Arithmetic",
+  "introduction": "Consolidate primary mathematics and prepare for secondary study through advanced fraction operations.",
+  "definition": "Convert mixed numbers into improper fractions when needed. For addition and subtraction, use a common denominator. For multiplication, multiply numerators and denominators; for division, multiply by the reciprocal of the nonzero divisor. Simplify the result.",
+  "visuals": [
+    {
+      "label": "3/4 = 9/12",
+      "description": "Equivalent fraction bars.",
+      "alt": "3/4 = 9/12 — Equivalent fraction bars.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 10,
+            "y": 12,
+            "width": 35,
+            "height": 28
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 45,
+            "y": 12,
+            "width": 35,
+            "height": 28
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 80,
+            "y": 12,
+            "width": 35,
+            "height": 28
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 115,
+            "y": 12,
+            "width": 35,
+            "height": 28
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 10,
+            "y": 55,
+            "width": 11.666666666666666,
+            "height": 28
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 21.666666666666664,
+            "y": 55,
+            "width": 11.666666666666666,
+            "height": 28
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 33.33333333333333,
+            "y": 55,
+            "width": 11.666666666666666,
+            "height": 28
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 45,
+            "y": 55,
+            "width": 11.666666666666666,
+            "height": 28
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 56.666666666666664,
+            "y": 55,
+            "width": 11.666666666666666,
+            "height": 28
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 68.33333333333334,
+            "y": 55,
+            "width": 11.666666666666666,
+            "height": 28
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 80,
+            "y": 55,
+            "width": 11.666666666666666,
+            "height": 28
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 91.66666666666667,
+            "y": 55,
+            "width": 11.666666666666666,
+            "height": 28
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 103.33333333333333,
+            "y": 55,
+            "width": 11.666666666666666,
+            "height": 28
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 115,
+            "y": 55,
+            "width": 11.666666666666666,
+            "height": 28
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 126.66666666666667,
+            "y": 55,
+            "width": 11.666666666666666,
+            "height": 28
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 138.33333333333334,
+            "y": 55,
+            "width": 11.666666666666666,
+            "height": 28
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "a/b + c/d = (ad+bc)/bd",
+      "description": "Nonzero denominators."
+    },
+    {
+      "expression": "(a/b) ÷ (c/d) = ad/bc",
+      "description": "Nonzero denominators and divisor."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Calculate 2 1/3 × 1 1/2.",
+      "steps": [
+        "7/3 × 3/2 = 7/2."
+      ],
+      "answer": "3 1/2"
+    },
+    {
+      "question": "Calculate 5/6 − 1/4 + 1/3.",
+      "steps": [
+        "10/12 − 3/12 + 4/12."
+      ],
+      "answer": "11/12"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "3/4 + 5/6, improper fraction in lowest terms.",
+      "answer": "19/12",
+      "solution": "9/12 + 10/12."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "7/9 − 1/6, lowest terms.",
+      "answer": "11/18",
+      "solution": "14/18 − 3/18."
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "3/5 × 10/9, lowest terms.",
+      "answer": "2/3",
+      "solution": "30/45."
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "5/8 ÷ 15/16, lowest terms.",
+      "answer": "2/3",
+      "solution": "5/8 × 16/15."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "2 1/4 × 4",
+      "answer": 9,
+      "solution": "9/4 × 4."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "(1/2 + 1/3) × 6",
+      "answer": 5,
+      "solution": "5/6 × 6."
+    }
+  ],
+  "summary": "Convert mixed numbers into improper fractions when needed. For addition and subtraction, use a common denominator. For multiplication, multiply numerators and denominators; for division, multiply by the reciprocal of the nonzero divisor. Simplify the result.",
+  "relatedTopics": [
+    "primary-6-powers-roots",
+    "primary-6-decimals"
+  ]
+}

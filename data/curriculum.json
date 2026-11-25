@@ -956,6 +956,210 @@
       "level": "primary-5",
       "title": "Multi-Step Problem Solving",
       "path": "data/primary/year-5/word-problems.json"
+    },
+    {
+      "id": "primary-6-numbers",
+      "level": "primary-6",
+      "title": "Whole Numbers to 10,000,000",
+      "path": "data/primary/year-6/numbers.json"
+    },
+    {
+      "id": "primary-6-integer-operations",
+      "level": "primary-6",
+      "title": "Operations with Positive and Negative Integers",
+      "path": "data/primary/year-6/integer-operations.json"
+    },
+    {
+      "id": "primary-6-order-of-operations",
+      "level": "primary-6",
+      "title": "Order of Operations with Powers and Integers",
+      "path": "data/primary/year-6/order-of-operations.json"
+    },
+    {
+      "id": "primary-6-prime-factorisation",
+      "level": "primary-6",
+      "title": "Prime Factors, HCF and LCM",
+      "path": "data/primary/year-6/prime-factorisation.json"
+    },
+    {
+      "id": "primary-6-powers-roots",
+      "level": "primary-6",
+      "title": "Powers, Square Roots and Cube Roots",
+      "path": "data/primary/year-6/powers-roots.json"
+    },
+    {
+      "id": "primary-6-fractions",
+      "level": "primary-6",
+      "title": "Advanced Fraction Operations",
+      "path": "data/primary/year-6/fractions.json"
+    },
+    {
+      "id": "primary-6-decimals",
+      "level": "primary-6",
+      "title": "Advanced Decimal Calculations and Rounding",
+      "path": "data/primary/year-6/decimals.json"
+    },
+    {
+      "id": "primary-6-percentage-reverse",
+      "level": "primary-6",
+      "title": "Reverse Percentages and Percentage Change",
+      "path": "data/primary/year-6/percentage-reverse.json"
+    },
+    {
+      "id": "primary-6-ratio",
+      "level": "primary-6",
+      "title": "Ratio, Sharing and Proportional Reasoning",
+      "path": "data/primary/year-6/ratio.json"
+    },
+    {
+      "id": "primary-6-proportion",
+      "level": "primary-6",
+      "title": "Direct and Inverse Proportion",
+      "path": "data/primary/year-6/proportion.json"
+    },
+    {
+      "id": "primary-6-financial-maths",
+      "level": "primary-6",
+      "title": "Financial Mathematics: Interest, Tax and Discounts",
+      "path": "data/primary/year-6/financial-maths.json"
+    },
+    {
+      "id": "primary-6-speed",
+      "level": "primary-6",
+      "title": "Average Speed and Journey Calculations",
+      "path": "data/primary/year-6/speed.json"
+    },
+    {
+      "id": "primary-6-time-zones",
+      "level": "primary-6",
+      "title": "Time Zones and Date Changes",
+      "path": "data/primary/year-6/time-zones.json"
+    },
+    {
+      "id": "primary-6-measurement",
+      "level": "primary-6",
+      "title": "Precision, Units and Measurement Problems",
+      "path": "data/primary/year-6/measurement.json"
+    },
+    {
+      "id": "primary-6-algebra",
+      "level": "primary-6",
+      "title": "Simplifying and Expanding Algebraic Expressions",
+      "path": "data/primary/year-6/algebra.json"
+    },
+    {
+      "id": "primary-6-factorisation",
+      "level": "primary-6",
+      "title": "Common-Factor Factorisation",
+      "path": "data/primary/year-6/factorisation.json"
+    },
+    {
+      "id": "primary-6-equations",
+      "level": "primary-6",
+      "title": "Linear Equations with Brackets and Variables on Both Sides",
+      "path": "data/primary/year-6/equations.json"
+    },
+    {
+      "id": "primary-6-inequalities",
+      "level": "primary-6",
+      "title": "Introduction to Inequalities",
+      "path": "data/primary/year-6/inequalities.json"
+    },
+    {
+      "id": "primary-6-formula-substitution",
+      "level": "primary-6",
+      "title": "Using Formulas and Changing the Subject",
+      "path": "data/primary/year-6/formula-substitution.json"
+    },
+    {
+      "id": "primary-6-sequences",
+      "level": "primary-6",
+      "title": "Arithmetic and Geometric Sequences",
+      "path": "data/primary/year-6/sequences.json"
+    },
+    {
+      "id": "primary-6-linear-graphs",
+      "level": "primary-6",
+      "title": "Tables and Straight-Line Graphs",
+      "path": "data/primary/year-6/linear-graphs.json"
+    },
+    {
+      "id": "primary-6-angles",
+      "level": "primary-6",
+      "title": "Angles in Parallel Lines",
+      "path": "data/primary/year-6/angles.json"
+    },
+    {
+      "id": "primary-6-polygons",
+      "level": "primary-6",
+      "title": "Interior and Exterior Angles of Polygons",
+      "path": "data/primary/year-6/polygons.json"
+    },
+    {
+      "id": "primary-6-circles",
+      "level": "primary-6",
+      "title": "Area and Circumference of Circles",
+      "path": "data/primary/year-6/circles.json"
+    },
+    {
+      "id": "primary-6-composite-area",
+      "level": "primary-6",
+      "title": "Composite Areas and Perimeters with Curves",
+      "path": "data/primary/year-6/composite-area.json"
+    },
+    {
+      "id": "primary-6-prisms-cylinders",
+      "level": "primary-6",
+      "title": "Volume of Prisms and Cylinders",
+      "path": "data/primary/year-6/prisms-cylinders.json"
+    },
+    {
+      "id": "primary-6-surface-area",
+      "level": "primary-6",
+      "title": "Surface Area of Prisms and Cylinders",
+      "path": "data/primary/year-6/surface-area.json"
+    },
+    {
+      "id": "primary-6-pythagoras",
+      "level": "primary-6",
+      "title": "Introduction to the Pythagorean Theorem",
+      "path": "data/primary/year-6/pythagoras.json"
+    },
+    {
+      "id": "primary-6-scale",
+      "level": "primary-6",
+      "title": "Scale Drawings and Maps",
+      "path": "data/primary/year-6/scale.json"
+    },
+    {
+      "id": "primary-6-transformations",
+      "level": "primary-6",
+      "title": "Transformations and Enlargement",
+      "path": "data/primary/year-6/transformations.json"
+    },
+    {
+      "id": "primary-6-statistics",
+      "level": "primary-6",
+      "title": "Frequency Tables and Statistical Measures",
+      "path": "data/primary/year-6/statistics.json"
+    },
+    {
+      "id": "primary-6-graphs",
+      "level": "primary-6",
+      "title": "Interpreting and Comparing Statistical Graphs",
+      "path": "data/primary/year-6/graphs.json"
+    },
+    {
+      "id": "primary-6-probability",
+      "level": "primary-6",
+      "title": "Experimental Probability and Combined Events",
+      "path": "data/primary/year-6/probability.json"
+    },
+    {
+      "id": "primary-6-word-problems",
+      "level": "primary-6",
+      "title": "Integrated Primary Mathematics Problems",
+      "path": "data/primary/year-6/word-problems.json"
     }
   ]
 }

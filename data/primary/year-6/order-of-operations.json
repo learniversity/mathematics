@@ -1,0 +1,75 @@
+{
+  "id": "primary-6-order-of-operations",
+  "title": "Order of Operations with Powers and Integers",
+  "level": "primary-6",
+  "category": "Arithmetic",
+  "introduction": "Consolidate primary mathematics and prepare for secondary study through order of operations with powers and integers.",
+  "definition": "Evaluate brackets first, then powers, then multiplication and division from left to right, followed by addition and subtraction from left to right. A negative sign outside a power is different from a negative base enclosed in brackets.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Evaluate 5 + 3² × 2.",
+      "steps": [
+        "3² = 9; 9 × 2 = 18; add 5."
+      ],
+      "answer": "23"
+    },
+    {
+      "question": "Evaluate (−3)² − 3².",
+      "steps": [
+        "Both squares equal 9."
+      ],
+      "answer": "0"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "18 − 2³",
+      "answer": 10,
+      "solution": "18 − 8."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "(5 + 3)²",
+      "answer": 64,
+      "solution": "8²."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "48 ÷ 6 × 2",
+      "answer": 16,
+      "solution": "8 × 2."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "−4² (no brackets)",
+      "answer": -16,
+      "solution": "Negate 4²."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "(−4)²",
+      "answer": 16,
+      "solution": "Multiply −4 by −4."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "2 × (7 − 10)² + 1",
+      "answer": 19,
+      "solution": "2 × 9 + 1."
+    }
+  ],
+  "summary": "Evaluate brackets first, then powers, then multiplication and division from left to right, followed by addition and subtraction from left to right. A negative sign outside a power is different from a negative base enclosed in brackets.",
+  "relatedTopics": [
+    "primary-6-integer-operations",
+    "primary-6-prime-factorisation"
+  ]
+}

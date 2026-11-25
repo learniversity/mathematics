@@ -1,0 +1,80 @@
+{
+  "id": "primary-6-time-zones",
+  "title": "Time Zones and Date Changes",
+  "level": "primary-6",
+  "category": "Measurement",
+  "introduction": "Consolidate primary mathematics and prepare for secondary study through time zones and date changes.",
+  "definition": "A time zone is expressed as an offset from Coordinated Universal Time (UTC). To convert between fixed offsets, subtract the source offset and add the destination offset. Track date changes across midnight. Actual local offsets can vary with daylight saving; use the offsets given in each question.",
+  "visuals": [],
+  "formulas": [
+    {
+      "expression": "Destination time = source time − source offset + destination offset",
+      "description": "Use fixed stated offsets."
+    }
+  ],
+  "examples": [
+    {
+      "question": "At UTC+8 it is 15:00. What time at UTC+2?",
+      "steps": [
+        "15:00 − 8 h + 2 h."
+      ],
+      "answer": "09:00"
+    },
+    {
+      "question": "At UTC−5 it is 20:30 Monday. Find time at UTC+8.",
+      "steps": [
+        "Add 13 h."
+      ],
+      "answer": "09:30 Tuesday"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "text",
+      "question": "At UTC it is 08:00. Time at UTC+8, HH:MM?",
+      "answer": "16:00",
+      "solution": "Add 8 h."
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "UTC+8 time 18:00. Time at UTC+0, HH:MM?",
+      "answer": "10:00",
+      "solution": "Subtract 8 h."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Difference in hours between UTC+8 and UTC−4?",
+      "answer": 12,
+      "solution": "8 − (−4)."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "UTC+2 time 23:00. Hour at UTC+5 next day (0–23)?",
+      "answer": 2,
+      "solution": "Add 3 h."
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Flight departs 10:00 at UTC+8; duration 5 h; destination UTC+5. Arrival HH:MM?",
+      "answer": "12:00",
+      "solution": "10:00 + 5 h − 3 h."
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "At UTC+0 it is 01:00 Tuesday. At UTC−5, which day?",
+      "answer": "Monday",
+      "solution": "Subtract 5 h."
+    }
+  ],
+  "summary": "A time zone is expressed as an offset from Coordinated Universal Time (UTC). To convert between fixed offsets, subtract the source offset and add the destination offset. Track date changes across midnight. Actual local offsets can vary with daylight saving; use the offsets given in each question.",
+  "relatedTopics": [
+    "primary-6-speed",
+    "primary-6-measurement"
+  ]
+}

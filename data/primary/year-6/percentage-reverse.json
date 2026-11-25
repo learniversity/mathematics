@@ -1,0 +1,174 @@
+{
+  "id": "primary-6-percentage-reverse",
+  "title": "Reverse Percentages and Percentage Change",
+  "level": "primary-6",
+  "category": "Arithmetic",
+  "introduction": "Consolidate primary mathematics and prepare for secondary study through reverse percentages and percentage change.",
+  "definition": "When a value changes by a decimal rate r, the new value equals original × (1+r) for an increase or original × (1−r) for a decrease. To recover the original, divide the new value by the corresponding nonzero multiplier. Successive changes multiply their factors.",
+  "visuals": [
+    {
+      "label": "80% = RM96",
+      "description": "Original price is RM120; the missing fifth is RM24.",
+      "alt": "80% = RM96 — Original price is RM120; the missing fifth is RM24.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 10,
+            "y": 25,
+            "width": 28,
+            "height": 40
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 38,
+            "y": 25,
+            "width": 28,
+            "height": 40
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 66,
+            "y": 25,
+            "width": 28,
+            "height": 40
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "#888",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 94,
+            "y": 25,
+            "width": 28,
+            "height": 40
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 122,
+            "y": 25,
+            "width": 28,
+            "height": 40
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 66,
+            "y": 17,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "RM96"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 136,
+            "y": 82,
+            "font-size": 10,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "RM24"
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "Original = new value/(1 ± r)",
+      "description": "Choose the sign for the stated change; nonzero multiplier."
+    },
+    {
+      "expression": "Percentage change = (new−original)/original × 100%",
+      "description": "Original nonzero."
+    }
+  ],
+  "examples": [
+    {
+      "question": "After a 20% discount, a shirt costs RM96.",
+      "steps": [
+        "96 ÷ 0.8."
+      ],
+      "answer": "RM120"
+    },
+    {
+      "question": "A quantity increases 10%, then decreases 10%. Start at 100.",
+      "steps": [
+        "100 × 1.1 × 0.9."
+      ],
+      "answer": "99"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "After 25% discount, price RM90. Original RM?",
+      "answer": 120,
+      "solution": "90 ÷ 0.75."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "After 20% increase, value 180. Original?",
+      "answer": 150,
+      "solution": "180 ÷ 1.2."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Increase 200 by 10%, then 20%.",
+      "answer": 264,
+      "solution": "200 × 1.1 × 1.2."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Decrease 400 by 10%, then 10%.",
+      "answer": 324,
+      "solution": "400 × 0.9 × 0.9."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Increase from 80 to 100, percentage number?",
+      "answer": 25,
+      "solution": "20 ÷ 80 × 100."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "After a 40% decrease, value 72. Original?",
+      "answer": 120,
+      "solution": "72 ÷ 0.6."
+    }
+  ],
+  "summary": "When a value changes by a decimal rate r, the new value equals original × (1+r) for an increase or original × (1−r) for a decrease. To recover the original, divide the new value by the corresponding nonzero multiplier. Successive changes multiply their factors.",
+  "relatedTopics": [
+    "primary-6-decimals",
+    "primary-6-ratio"
+  ]
+}

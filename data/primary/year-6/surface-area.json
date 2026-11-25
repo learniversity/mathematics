@@ -1,0 +1,137 @@
+{
+  "id": "primary-6-surface-area",
+  "title": "Surface Area of Prisms and Cylinders",
+  "level": "primary-6",
+  "category": "Geometry",
+  "introduction": "Consolidate primary mathematics and prepare for secondary study through surface area of prisms and cylinders.",
+  "definition": "Surface area is the total area of the outside surfaces. A right prism has two matching bases and lateral area equal to the perimeter of the base multiplied by its length. A closed right cylinder has two circles and a curved surface that unfolds into a rectangle.",
+  "visuals": [
+    {
+      "label": "Cylinder net",
+      "description": "Two circles and one rectangle.",
+      "alt": "Cylinder net — Two circles and one rectangle.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x": 13,
+            "y": 34,
+            "width": 134,
+            "height": 32
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 80,
+            "cy": 17,
+            "r": 15
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 80,
+            "cy": 83,
+            "r": 15
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 53,
+            "font-size": 13,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "2πr × h"
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "S = 2B + PL",
+      "description": "Right prism, base area B and perimeter P."
+    },
+    {
+      "expression": "S = 2πr² + 2πrh",
+      "description": "Closed right circular cylinder."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Find surface area of a closed cylinder radius 3 cm, height 5 cm, π=3.14.",
+      "steps": [
+        "2πr²+2πrh = 56.52+94.2."
+      ],
+      "answer": "150.72 cm²"
+    },
+    {
+      "question": "A right prism has base area 12 cm², base perimeter 16 cm and length 7 cm.",
+      "steps": [
+        "2×12+16×7."
+      ],
+      "answer": "136 cm²"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Cube side 6 cm. Surface area?",
+      "answer": 216,
+      "solution": "6×36."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Cuboid 8×5×3 cm. Surface area?",
+      "answer": 158,
+      "solution": "2(40+24+15)."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Cylinder curved area r=4,h=10, π=3.14?",
+      "answer": 251.2,
+      "solution": "2×3.14×4×10."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Closed cylinder r=2,h=5, π=3.14. Total area?",
+      "answer": 87.92,
+      "solution": "2π×2×7."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "Right prism base area 20, perimeter 18, length 4. Surface area?",
+      "answer": 112,
+      "solution": "40+72."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Cylinder with no top, r=3,h=4, π=3.14. Surface area?",
+      "answer": 103.62,
+      "solution": "π×9+2π×3×4."
+    }
+  ],
+  "summary": "Surface area is the total area of the outside surfaces. A right prism has two matching bases and lateral area equal to the perimeter of the base multiplied by its length. A closed right cylinder has two circles and a curved surface that unfolds into a rectangle.",
+  "relatedTopics": [
+    "primary-6-prisms-cylinders",
+    "primary-6-pythagoras"
+  ]
+}

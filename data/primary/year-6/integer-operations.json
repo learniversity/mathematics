@@ -1,0 +1,399 @@
+{
+  "id": "primary-6-integer-operations",
+  "title": "Operations with Positive and Negative Integers",
+  "level": "primary-6",
+  "category": "Arithmetic",
+  "introduction": "Consolidate primary mathematics and prepare for secondary study through operations with positive and negative integers.",
+  "definition": "Integers include negative whole numbers, zero and positive whole numbers. Subtracting a number is equivalent to adding its opposite. For multiplication and division, matching signs give a positive result and different signs give a negative result, except zero products are zero.",
+  "visuals": [
+    {
+      "label": "−4 + 7 = 3",
+      "description": "Move seven units right.",
+      "alt": "−4 + 7 = 3 — Move seven units right.",
+      "elements": [
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 8,
+            "y1": 50,
+            "x2": 152,
+            "y2": 50
+          }
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 10,
+            "y1": 45,
+            "x2": 10,
+            "y2": 55
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 10,
+            "y": 70,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "-5"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 24,
+            "y1": 45,
+            "x2": 24,
+            "y2": 55
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 24,
+            "y": 70,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "-4"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 38,
+            "y1": 45,
+            "x2": 38,
+            "y2": 55
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 38,
+            "y": 70,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "-3"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 52,
+            "y1": 45,
+            "x2": 52,
+            "y2": 55
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 52,
+            "y": 70,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "-2"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 66,
+            "y1": 45,
+            "x2": 66,
+            "y2": 55
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 66,
+            "y": 70,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "-1"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 80,
+            "y1": 45,
+            "x2": 80,
+            "y2": 55
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 70,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "0"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 94,
+            "y1": 45,
+            "x2": 94,
+            "y2": 55
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 94,
+            "y": 70,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "1"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 108,
+            "y1": 45,
+            "x2": 108,
+            "y2": 55
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 108,
+            "y": 70,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "2"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 122,
+            "y1": 45,
+            "x2": 122,
+            "y2": 55
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 122,
+            "y": 70,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "3"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 136,
+            "y1": 45,
+            "x2": 136,
+            "y2": 55
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 136,
+            "y": 70,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "4"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "x1": 150,
+            "y1": 45,
+            "x2": 150,
+            "y2": 55
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 150,
+            "y": 70,
+            "font-size": 9,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "5"
+        },
+        {
+          "tag": "path",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "d": "M24 36 H122 L114 30 M122 36 L114 42"
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 73,
+            "y": 24,
+            "font-size": 12,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "+7"
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 24,
+            "cy": 50,
+            "r": 3
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "currentColor",
+            "stroke": "currentColor",
+            "stroke-width": 2,
+            "cx": 122,
+            "cy": 50,
+            "r": 3
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "a − b = a + (−b)",
+      "description": "Subtract by adding the opposite."
+    },
+    {
+      "expression": "(−a)(−b) = ab",
+      "description": "Product of two negatives."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Calculate −8 − (−5).",
+      "steps": [
+        "Subtracting −5 means adding 5."
+      ],
+      "answer": "−3"
+    },
+    {
+      "question": "Calculate (−6) × (−4).",
+      "steps": [
+        "Matching signs give a positive result."
+      ],
+      "answer": "24"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "−7 + 12",
+      "answer": 5,
+      "solution": "Move 12 units right."
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "−9 − 6",
+      "answer": -15,
+      "solution": "Move 6 units left."
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "4 − (−8)",
+      "answer": 12,
+      "solution": "4 + 8."
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "−8 × 7",
+      "answer": -56,
+      "solution": "Different signs."
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "−72 ÷ −9",
+      "answer": 8,
+      "solution": "Matching signs."
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "−3 × (4 − 9)",
+      "answer": 15,
+      "solution": "−3 × −5."
+    }
+  ],
+  "summary": "Integers include negative whole numbers, zero and positive whole numbers. Subtracting a number is equivalent to adding its opposite. For multiplication and division, matching signs give a positive result and different signs give a negative result, except zero products are zero.",
+  "relatedTopics": [
+    "primary-6-numbers",
+    "primary-6-order-of-operations"
+  ]
+}
