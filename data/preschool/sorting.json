@@ -1,0 +1,101 @@
+{
+  "id": "preschool-sorting",
+  "title": "Sorting and Grouping",
+  "level": "preschool",
+  "category": "Logic",
+  "introduction": "Explore sorting and grouping with pictures and practice.",
+  "definition": "Sorting puts objects into groups with something in common, such as shape or size.",
+  "visuals": [
+    {
+      "label": "Sort by shape",
+      "description": "Circles together and squares together.",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "cx": 25,
+            "cy": 25,
+            "r": 12
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "cx": 25,
+            "cy": 65,
+            "r": 12
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x": 94,
+            "y": 13,
+            "width": 24,
+            "height": 24
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x": 94,
+            "y": 53,
+            "width": 24,
+            "height": 24
+          }
+        }
+      ],
+      "alt": "Sort by shape"
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Which does not belong: circle, circle, square?",
+      "steps": [
+        "The square is different."
+      ],
+      "answer": "square"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Which is different: 1, 1, 2?",
+      "answer": 2,
+      "solution": "Answer: 2"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "question": "Which is different: triangle, square, triangle?",
+      "answer": "square",
+      "solution": "Answer: square"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "How many circles are in circle, square, circle?",
+      "answer": 2,
+      "solution": "Answer: 2"
+    }
+  ],
+  "summary": "Sort objects by a shared feature.",
+  "relatedTopics": [
+    "preschool-patterns",
+    "preschool-measurement"
+  ]
+}
