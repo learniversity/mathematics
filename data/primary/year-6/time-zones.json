@@ -74,7 +74,7 @@
   ],
   "summary": "A time zone is expressed as an offset from Coordinated Universal Time (UTC). To convert between fixed offsets, subtract the source offset and add the destination offset. Track date changes across midnight. Actual local offsets can vary with daylight saving; use the offsets given in each question.",
   "relatedTopics": [
-    "primary-6-speed",
-    "primary-6-measurement"
+    "secondary-2-average-speed",
+    "secondary-4-measurement-precision"
   ]
 }

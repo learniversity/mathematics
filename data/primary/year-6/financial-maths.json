@@ -78,7 +78,7 @@
   ],
   "summary": "Simple interest is calculated only on the original principal. Express the annual interest rate as a decimal and the duration in years. Taxes and discounts are calculated from the specified price base; determine whether they are added or subtracted.",
   "relatedTopics": [
-    "primary-6-proportion",
-    "primary-6-speed"
+    "secondary-1-direct-inverse-proportion",
+    "secondary-2-average-speed"
   ]
 }
