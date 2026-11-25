@@ -156,7 +156,7 @@
   ],
   "summary": "Find the volume of a cuboid by multiplying length, width and height. Split composite solids into nonoverlapping cuboids, or subtract a removed volume. For water capacity, internal dimensions determine the volume; one cubic centimetre equals one millilitre.",
   "relatedTopics": [
-    "primary-5-surface-area",
-    "primary-5-coordinates"
+    "secondary-2-surface-area-nets",
+    "secondary-2-cartesian-coordinates"
   ]
 }

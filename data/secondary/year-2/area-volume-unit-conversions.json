@@ -78,7 +78,7 @@
   ],
   "summary": "Metric prefixes describe powers of ten. Length conversions multiply or divide by the relevant factor; area conversions use the square of that factor, and volume conversions use its cube. Convert like quantities to the same unit before calculation.",
   "relatedTopics": [
-    "primary-5-speed",
-    "primary-5-angles"
+    "secondary-2-speed-distance-time",
+    "secondary-1-intersecting-angles"
   ]
 }

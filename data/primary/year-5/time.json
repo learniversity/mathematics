@@ -224,6 +224,6 @@
   "summary": "Elapsed time is the interval between start and finish. Timetables record events at specified times. Convert durations to common units before adding, allow for midnight crossings and distinguish waiting time from travel time.",
   "relatedTopics": [
     "primary-5-money",
-    "primary-5-speed"
+    "secondary-2-speed-distance-time"
   ]
 }

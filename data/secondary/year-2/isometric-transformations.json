@@ -335,6 +335,6 @@
   "summary": "A translation moves every point by the same displacement. A reflection flips a shape across a mirror line. A rotation turns a shape about a fixed centre through an angle. These transformations preserve lengths and angles.",
   "relatedTopics": [
     "secondary-2-cartesian-coordinates",
-    "primary-5-algebra"
+    "secondary-1-algebraic-expressions"
   ]
 }
