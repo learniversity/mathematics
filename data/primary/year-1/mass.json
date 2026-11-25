@@ -1,0 +1,124 @@
+{
+  "id": "primary-1-mass",
+  "title": "Measuring Mass",
+  "level": "primary-1",
+  "category": "Measurement",
+  "introduction": "Learn measuring mass through explanations and practice.",
+  "definition": "Mass measures how much matter an object contains. A balance compares masses. Grams (g) and kilograms (kg) are common units.",
+  "visuals": [
+    {
+      "label": "Compare masses",
+      "description": "2 kg is less than 5 kg.",
+      "alt": "Compare masses — 2 kg is less than 5 kg.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x": 20,
+            "y": 40,
+            "width": 45,
+            "height": 45
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x": 90,
+            "y": 20,
+            "width": 50,
+            "height": 65
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 42,
+            "y": 66,
+            "font-size": 14,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "2 kg"
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 115,
+            "y": 55,
+            "font-size": 14,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "5 kg"
+        }
+      ]
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "1 kg = 1,000 g",
+      "description": "One kilogram equals 1,000 grams."
+    }
+  ],
+  "examples": [
+    {
+      "question": "A bag has mass 2 kg and another 3 kg.",
+      "steps": [
+        "2 + 3 = 5."
+      ],
+      "answer": "5 kg"
+    },
+    {
+      "question": "Which is heavier: 500 g or 300 g?",
+      "steps": [
+        "Compare the numbers in grams."
+      ],
+      "answer": "500 g"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "2 kg + 4 kg = how many kg?",
+      "answer": 6,
+      "solution": "Answer: 6"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Which is heavier: 300 g or 700 g?",
+      "answer": 700,
+      "solution": "Answer: 700"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "How many grams make one kilogram?",
+      "answer": 1000,
+      "solution": "Answer: 1000"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "A 5 kg bag loses 2 kg. Mass remaining in kg?",
+      "answer": 3,
+      "solution": "Answer: 3"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "100 g + 200 g = how many grams?",
+      "answer": 300,
+      "solution": "Answer: 300"
+    }
+  ],
+  "summary": "Mass measures how much matter an object contains. A balance compares masses. Grams (g) and kilograms (kg) are common units.",
+  "relatedTopics": []
+}
