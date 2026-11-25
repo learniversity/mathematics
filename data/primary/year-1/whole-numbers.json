@@ -1,0 +1,43 @@
+{
+  "id": "primary-1-whole-numbers",
+  "title": "Whole Numbers",
+  "level": "primary-1",
+  "category": "Arithmetic",
+  "introduction": "Explore whole numbers through definitions, examples and practice.",
+  "definition": "Whole numbers are zero and the positive integers: 0, 1, 2, 3, and so on.",
+  "formulas": [],
+  "examples": [
+    {
+      "question": "What number comes immediately after 19?",
+      "steps": [],
+      "answer": "20"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "What comes after 9?",
+      "answer": 10,
+      "solution": "Answer: 10"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "What comes before 15?",
+      "answer": 14,
+      "solution": "Answer: 14"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "How many tens are in 30?",
+      "answer": 3,
+      "solution": "Answer: 3"
+    }
+  ],
+  "summary": "Whole numbers are zero and the positive integers: 0, 1, 2, 3, and so on.",
+  "relatedTopics": [
+    "primary-1-place-value"
+  ]
+}
