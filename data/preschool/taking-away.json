@@ -1,0 +1,108 @@
+{
+  "id": "preschool-taking-away",
+  "title": "Taking Away",
+  "level": "preschool",
+  "category": "Arithmetic",
+  "introduction": "Explore taking away with pictures and practice.",
+  "definition": "Subtraction tells us how many are left when objects are removed.",
+  "visuals": [
+    {
+      "label": "5 − 2 = 3",
+      "description": "Two of five dots are taken away.",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 30,
+            "font-size": 19,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "● ● ● ● ●"
+        },
+        {
+          "tag": "line",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x1": 93,
+            "y1": 23,
+            "x2": 136,
+            "y2": 23
+          }
+        },
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 70,
+            "font-size": 20,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "● ● ●"
+        }
+      ],
+      "alt": "5 − 2 = 3"
+    }
+  ],
+  "formulas": [
+    {
+      "expression": "5 − 2 = 3",
+      "description": "Five take away two leaves three."
+    }
+  ],
+  "examples": [
+    {
+      "question": "There are 5 apples. Take away 2.",
+      "steps": [
+        "Count the apples left."
+      ],
+      "answer": "3"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "3 − 1",
+      "answer": 2,
+      "solution": "Answer: 2"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "5 − 2",
+      "answer": 3,
+      "solution": "Answer: 3"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "4 − 4",
+      "answer": 0,
+      "solution": "Answer: 0"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "7 − 0",
+      "answer": 7,
+      "solution": "Answer: 7"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "10 − 5",
+      "answer": 5,
+      "solution": "Answer: 5"
+    }
+  ],
+  "summary": "Taking away is subtraction.",
+  "relatedTopics": [
+    "preschool-combining",
+    "preschool-shapes"
+  ]
+}
