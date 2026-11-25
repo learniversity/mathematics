@@ -72,6 +72,6 @@
   "summary": "Calculate brackets first, then multiplication and division from left to right, then addition and subtraction from left to right. Operations at the same priority are not automatically evaluated in symbol order.",
   "relatedTopics": [
     "primary-3-division",
-    "primary-3-factors-multiples"
+    "secondary-1-factors-multiples"
   ]
 }

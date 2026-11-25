@@ -173,7 +173,7 @@
   ],
   "summary": "Polyhedra are solids with flat polygonal faces. Faces meet along edges, and edges meet at vertices. A cube and cuboid each have 6 faces, 12 edges and 8 vertices. A triangular prism has 5 faces, 9 edges and 6 vertices.",
   "relatedTopics": [
-    "primary-3-area",
+    "primary-4-rectangle-area",
     "primary-3-data-handling"
   ]
 }
