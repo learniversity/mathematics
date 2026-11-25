@@ -1,9 +1,9 @@
 {
-  "id": "primary-4-probability",
+  "id": "secondary-2-probability-introduction",
   "title": "Introduction to Probability",
-  "level": "primary-4",
+  "level": "secondary-2",
   "category": "Probability",
-  "introduction": "Build Primary 4 mathematical understanding through introduction to probability.",
+  "introduction": "Explore introduction to probability through explanations and worked examples.",
   "definition": "Probability describes how likely an event is. A probability of 0 means impossible and 1 means certain. For equally likely outcomes, divide the number of favourable outcomes by the total number of possible outcomes.",
   "visuals": [
     {

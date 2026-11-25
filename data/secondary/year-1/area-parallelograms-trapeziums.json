@@ -1,9 +1,9 @@
 {
-  "id": "primary-5-area",
+  "id": "secondary-1-area-parallelograms-trapeziums",
   "title": "Area of Parallelograms and Trapeziums",
-  "level": "primary-5",
+  "level": "secondary-1",
   "category": "Geometry",
-  "introduction": "Build on earlier mathematics by studying area of parallelograms and trapeziums.",
+  "introduction": "Explore area of parallelograms and trapeziums through explanations and worked examples.",
   "definition": "A parallelogram has area equal to base times perpendicular height. A trapezium has area equal to half the sum of its parallel sides times their perpendicular separation. The sloping side is not the height unless perpendicular to the base.",
   "visuals": [
     {
@@ -205,6 +205,6 @@
   "summary": "A parallelogram has area equal to base times perpendicular height. A trapezium has area equal to half the sum of its parallel sides times their perpendicular separation. The sloping side is not the height unless perpendicular to the base.",
   "relatedTopics": [
     "primary-5-angles",
-    "primary-5-circles"
+    "secondary-2-circumference"
   ]
 }

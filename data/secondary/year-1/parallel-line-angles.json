@@ -1,9 +1,9 @@
 {
-  "id": "primary-6-angles",
+  "id": "secondary-1-parallel-line-angles",
   "title": "Angles in Parallel Lines",
-  "level": "primary-6",
+  "level": "secondary-1",
   "category": "Geometry",
-  "introduction": "Consolidate primary mathematics and prepare for secondary study through angles in parallel lines.",
+  "introduction": "Explore angles in parallel lines through explanations and worked examples.",
   "definition": "When two parallel lines are crossed by a transversal, corresponding angles are equal, alternate interior angles are equal, and same-side interior angles sum to 180°. These equalities depend on the lines being parallel.",
   "visuals": [
     {
@@ -141,6 +141,6 @@
   "summary": "When two parallel lines are crossed by a transversal, corresponding angles are equal, alternate interior angles are equal, and same-side interior angles sum to 180°. These equalities depend on the lines being parallel.",
   "relatedTopics": [
     "primary-6-linear-graphs",
-    "primary-6-polygons"
+    "secondary-2-polygon-angles"
   ]
 }

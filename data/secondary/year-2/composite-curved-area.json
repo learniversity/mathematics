@@ -1,9 +1,9 @@
 {
-  "id": "primary-6-composite-area",
+  "id": "secondary-2-composite-curved-area",
   "title": "Composite Areas and Perimeters with Curves",
-  "level": "primary-6",
+  "level": "secondary-2",
   "category": "Geometry",
-  "introduction": "Consolidate primary mathematics and prepare for secondary study through composite areas and perimeters with curves.",
+  "introduction": "Explore composite areas and perimeters with curves through explanations and worked examples.",
   "definition": "Split composite regions into rectangles, triangles, circles or semicircles, then add nonoverlapping areas or subtract holes. Perimeter follows only the external boundary, including curved arcs where present. Shared internal edges do not count.",
   "visuals": [
     {
@@ -120,7 +120,7 @@
   ],
   "summary": "Split composite regions into rectangles, triangles, circles or semicircles, then add nonoverlapping areas or subtract holes. Perimeter follows only the external boundary, including curved arcs where present. Shared internal edges do not count.",
   "relatedTopics": [
-    "primary-6-circles",
+    "secondary-2-circle-area",
     "primary-6-prisms-cylinders"
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "id": "primary-4-prime-composite",
+  "id": "primary-6-prime-composite",
   "title": "Prime and Composite Numbers",
-  "level": "primary-4",
+  "level": "primary-6",
   "category": "Arithmetic",
-  "introduction": "Build Primary 4 mathematical understanding through prime and composite numbers.",
+  "introduction": "Explore prime and composite numbers through explanations and worked examples.",
   "definition": "A prime number is a whole number greater than 1 with exactly two positive factors: 1 and itself. A composite number has more than two positive factors. Zero and one are neither prime nor composite.",
   "visuals": [
     {

@@ -1,9 +1,9 @@
 {
-  "id": "primary-6-circles",
+  "id": "secondary-2-circle-area",
   "title": "Area and Circumference of Circles",
-  "level": "primary-6",
+  "level": "secondary-2",
   "category": "Geometry",
-  "introduction": "Consolidate primary mathematics and prepare for secondary study through area and circumference of circles.",
+  "introduction": "Explore area and circumference of circles through explanations and worked examples.",
   "definition": "A circle's radius is the distance from its centre to its boundary. The circumference is 2πr and the area enclosed is πr². Use the stated approximation of π and distinguish length units from square units.",
   "visuals": [
     {
@@ -135,7 +135,7 @@
   ],
   "summary": "A circle's radius is the distance from its centre to its boundary. The circumference is 2πr and the area enclosed is πr². Use the stated approximation of π and distinguish length units from square units.",
   "relatedTopics": [
-    "primary-6-polygons",
-    "primary-6-composite-area"
+    "secondary-2-polygon-angles",
+    "secondary-2-composite-curved-area"
   ]
 }

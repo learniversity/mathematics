@@ -1,9 +1,9 @@
 {
-  "id": "primary-6-polygons",
+  "id": "secondary-2-polygon-angles",
   "title": "Interior and Exterior Angles of Polygons",
-  "level": "primary-6",
+  "level": "secondary-2",
   "category": "Geometry",
-  "introduction": "Consolidate primary mathematics and prepare for secondary study through interior and exterior angles of polygons.",
+  "introduction": "Explore interior and exterior angles of polygons through explanations and worked examples.",
   "definition": "A simple polygon with n sides has interior angle sum (n−2)×180°. For a convex polygon, the exterior turning angles sum to 360°. A regular polygon has equal sides and equal interior angles, so each exterior angle is 360°/n.",
   "visuals": [
     {
@@ -106,7 +106,7 @@
   ],
   "summary": "A simple polygon with n sides has interior angle sum (n−2)×180°. For a convex polygon, the exterior turning angles sum to 360°. A regular polygon has equal sides and equal interior angles, so each exterior angle is 360°/n.",
   "relatedTopics": [
-    "primary-6-angles",
-    "primary-6-circles"
+    "secondary-1-parallel-line-angles",
+    "secondary-2-circle-area"
   ]
 }

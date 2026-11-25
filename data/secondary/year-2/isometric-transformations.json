@@ -1,9 +1,9 @@
 {
-  "id": "primary-5-transformations",
+  "id": "secondary-2-isometric-transformations",
   "title": "Reflection, Translation and Rotation",
-  "level": "primary-5",
+  "level": "secondary-2",
   "category": "Geometry",
-  "introduction": "Build on earlier mathematics by studying reflection, translation and rotation.",
+  "introduction": "Explore reflection, translation and rotation through explanations and worked examples.",
   "definition": "A translation moves every point by the same displacement. A reflection flips a shape across a mirror line. A rotation turns a shape about a fixed centre through an angle. These transformations preserve lengths and angles.",
   "visuals": [
     {
@@ -334,7 +334,7 @@
   ],
   "summary": "A translation moves every point by the same displacement. A reflection flips a shape across a mirror line. A rotation turns a shape about a fixed centre through an angle. These transformations preserve lengths and angles.",
   "relatedTopics": [
-    "primary-5-coordinates",
+    "secondary-2-cartesian-coordinates",
     "primary-5-algebra"
   ]
 }

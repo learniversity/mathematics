@@ -1,9 +1,9 @@
 {
-  "id": "primary-6-pythagoras",
+  "id": "secondary-1-pythagoras",
   "title": "Introduction to the Pythagorean Theorem",
-  "level": "primary-6",
+  "level": "secondary-1",
   "category": "Geometry",
-  "introduction": "Consolidate primary mathematics and prepare for secondary study through introduction to the pythagorean theorem.",
+  "introduction": "Explore introduction to the pythagorean theorem through explanations and worked examples.",
   "definition": "In a right-angled triangle, the hypotenuse lies opposite the right angle and is the longest side. The square of the hypotenuse length equals the sum of the squares of the other two sides. The theorem applies only to right triangles.",
   "visuals": [
     {

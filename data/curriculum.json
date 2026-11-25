@@ -604,12 +604,6 @@
       "path": "data/primary/year-4/operations-estimation.json"
     },
     {
-      "id": "primary-4-prime-composite",
-      "level": "primary-4",
-      "title": "Prime and Composite Numbers",
-      "path": "data/primary/year-4/prime-composite.json"
-    },
-    {
       "id": "primary-4-fraction-add-subtract",
       "level": "primary-4",
       "title": "Addition and Subtraction of Mixed Numbers",
@@ -730,12 +724,6 @@
       "path": "data/primary/year-4/data-handling.json"
     },
     {
-      "id": "primary-4-probability",
-      "level": "primary-4",
-      "title": "Introduction to Probability",
-      "path": "data/primary/year-4/probability.json"
-    },
-    {
       "id": "primary-4-patterns",
       "level": "primary-4",
       "title": "Sequences and Simple Unknowns",
@@ -844,18 +832,6 @@
       "path": "data/primary/year-5/angles.json"
     },
     {
-      "id": "primary-5-area",
-      "level": "primary-5",
-      "title": "Area of Parallelograms and Trapeziums",
-      "path": "data/primary/year-5/area.json"
-    },
-    {
-      "id": "primary-5-circles",
-      "level": "primary-5",
-      "title": "Introduction to Circles and Circumference",
-      "path": "data/primary/year-5/circles.json"
-    },
-    {
       "id": "primary-5-surface-area",
       "level": "primary-5",
       "title": "Surface Area and Nets",
@@ -866,18 +842,6 @@
       "level": "primary-5",
       "title": "Volume and Capacity of Composite Solids",
       "path": "data/primary/year-5/volume.json"
-    },
-    {
-      "id": "primary-5-coordinates",
-      "level": "primary-5",
-      "title": "Coordinates in Four Quadrants",
-      "path": "data/primary/year-5/coordinates.json"
-    },
-    {
-      "id": "primary-5-transformations",
-      "level": "primary-5",
-      "title": "Reflection, Translation and Rotation",
-      "path": "data/primary/year-5/transformations.json"
     },
     {
       "id": "primary-5-sequences",
@@ -898,16 +862,16 @@
       "path": "data/primary/year-5/graphs.json"
     },
     {
-      "id": "primary-5-probability",
-      "level": "primary-5",
-      "title": "Probability of Events and Complements",
-      "path": "data/primary/year-5/probability.json"
-    },
-    {
       "id": "primary-5-word-problems",
       "level": "primary-5",
       "title": "Multi-Step Problem Solving",
       "path": "data/primary/year-5/word-problems.json"
+    },
+    {
+      "id": "primary-6-prime-composite",
+      "level": "primary-6",
+      "title": "Prime and Composite Numbers",
+      "path": "data/primary/year-6/prime-composite.json"
     },
     {
       "id": "primary-6-numbers",
@@ -1000,30 +964,6 @@
       "path": "data/primary/year-6/linear-graphs.json"
     },
     {
-      "id": "primary-6-angles",
-      "level": "primary-6",
-      "title": "Angles in Parallel Lines",
-      "path": "data/primary/year-6/angles.json"
-    },
-    {
-      "id": "primary-6-polygons",
-      "level": "primary-6",
-      "title": "Interior and Exterior Angles of Polygons",
-      "path": "data/primary/year-6/polygons.json"
-    },
-    {
-      "id": "primary-6-circles",
-      "level": "primary-6",
-      "title": "Area and Circumference of Circles",
-      "path": "data/primary/year-6/circles.json"
-    },
-    {
-      "id": "primary-6-composite-area",
-      "level": "primary-6",
-      "title": "Composite Areas and Perimeters with Curves",
-      "path": "data/primary/year-6/composite-area.json"
-    },
-    {
       "id": "primary-6-prisms-cylinders",
       "level": "primary-6",
       "title": "Volume of Prisms and Cylinders",
@@ -1036,22 +976,10 @@
       "path": "data/primary/year-6/surface-area.json"
     },
     {
-      "id": "primary-6-pythagoras",
-      "level": "primary-6",
-      "title": "Introduction to the Pythagorean Theorem",
-      "path": "data/primary/year-6/pythagoras.json"
-    },
-    {
       "id": "primary-6-scale",
       "level": "primary-6",
       "title": "Scale Drawings and Maps",
       "path": "data/primary/year-6/scale.json"
-    },
-    {
-      "id": "primary-6-transformations",
-      "level": "primary-6",
-      "title": "Transformations and Enlargement",
-      "path": "data/primary/year-6/transformations.json"
     },
     {
       "id": "primary-6-statistics",
@@ -1066,16 +994,28 @@
       "path": "data/primary/year-6/graphs.json"
     },
     {
-      "id": "primary-6-probability",
-      "level": "primary-6",
-      "title": "Experimental Probability and Combined Events",
-      "path": "data/primary/year-6/probability.json"
-    },
-    {
       "id": "primary-6-word-problems",
       "level": "primary-6",
       "title": "Integrated Primary Mathematics Problems",
       "path": "data/primary/year-6/word-problems.json"
+    },
+    {
+      "id": "secondary-1-area-parallelograms-trapeziums",
+      "level": "secondary-1",
+      "title": "Area of Parallelograms and Trapeziums",
+      "path": "data/secondary/year-1/area-parallelograms-trapeziums.json"
+    },
+    {
+      "id": "secondary-1-parallel-line-angles",
+      "level": "secondary-1",
+      "title": "Angles in Parallel Lines",
+      "path": "data/secondary/year-1/parallel-line-angles.json"
+    },
+    {
+      "id": "secondary-1-pythagoras",
+      "level": "secondary-1",
+      "title": "Introduction to the Pythagorean Theorem",
+      "path": "data/secondary/year-1/pythagoras.json"
     },
     {
       "id": "secondary-1-from-p3-factors-multiples",
@@ -1160,6 +1100,66 @@
       "level": "secondary-1",
       "title": "Introduction to Inequalities",
       "path": "data/secondary/year-1/inequalities.json"
+    },
+    {
+      "id": "secondary-2-probability-introduction",
+      "level": "secondary-2",
+      "title": "Introduction to Probability",
+      "path": "data/secondary/year-2/probability-introduction.json"
+    },
+    {
+      "id": "secondary-2-circumference",
+      "level": "secondary-2",
+      "title": "Introduction to Circles and Circumference",
+      "path": "data/secondary/year-2/circumference.json"
+    },
+    {
+      "id": "secondary-2-cartesian-coordinates",
+      "level": "secondary-2",
+      "title": "Coordinates in Four Quadrants",
+      "path": "data/secondary/year-2/cartesian-coordinates.json"
+    },
+    {
+      "id": "secondary-2-isometric-transformations",
+      "level": "secondary-2",
+      "title": "Reflection, Translation and Rotation",
+      "path": "data/secondary/year-2/isometric-transformations.json"
+    },
+    {
+      "id": "secondary-2-probability-complements",
+      "level": "secondary-2",
+      "title": "Probability of Events and Complements",
+      "path": "data/secondary/year-2/probability-complements.json"
+    },
+    {
+      "id": "secondary-2-polygon-angles",
+      "level": "secondary-2",
+      "title": "Interior and Exterior Angles of Polygons",
+      "path": "data/secondary/year-2/polygon-angles.json"
+    },
+    {
+      "id": "secondary-2-circle-area",
+      "level": "secondary-2",
+      "title": "Area and Circumference of Circles",
+      "path": "data/secondary/year-2/circle-area.json"
+    },
+    {
+      "id": "secondary-2-composite-curved-area",
+      "level": "secondary-2",
+      "title": "Composite Areas and Perimeters with Curves",
+      "path": "data/secondary/year-2/composite-curved-area.json"
+    },
+    {
+      "id": "secondary-4-combined-probability",
+      "level": "secondary-4",
+      "title": "Experimental Probability and Combined Events",
+      "path": "data/secondary/year-4/combined-probability.json"
+    },
+    {
+      "id": "secondary-5-enlargement",
+      "level": "secondary-5",
+      "title": "Transformations and Enlargement",
+      "path": "data/secondary/year-5/enlargement.json"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "id": "primary-5-coordinates",
+  "id": "secondary-2-cartesian-coordinates",
   "title": "Coordinates in Four Quadrants",
-  "level": "primary-5",
+  "level": "secondary-2",
   "category": "Geometry",
-  "introduction": "Build on earlier mathematics by studying coordinates in four quadrants.",
+  "introduction": "Explore coordinates in four quadrants through explanations and worked examples.",
   "definition": "The Cartesian plane has perpendicular x and y axes crossing at the origin. A point (x,y) gives the horizontal and vertical coordinates. Positive x moves right, negative x left; positive y moves up, negative y down. Quadrants I, II, III and IV are numbered anticlockwise starting at the upper right.",
   "visuals": [
     {
@@ -601,6 +601,6 @@
   "summary": "The Cartesian plane has perpendicular x and y axes crossing at the origin. A point (x,y) gives the horizontal and vertical coordinates. Positive x moves right, negative x left; positive y moves up, negative y down. Quadrants I, II, III and IV are numbered anticlockwise starting at the upper right.",
   "relatedTopics": [
     "primary-5-volume",
-    "primary-5-transformations"
+    "secondary-2-isometric-transformations"
   ]
 }

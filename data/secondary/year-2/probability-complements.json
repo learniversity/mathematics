@@ -1,9 +1,9 @@
 {
-  "id": "primary-5-probability",
+  "id": "secondary-2-probability-complements",
   "title": "Probability of Events and Complements",
-  "level": "primary-5",
+  "level": "secondary-2",
   "category": "Probability",
-  "introduction": "Build on earlier mathematics by studying probability of events and complements.",
+  "introduction": "Explore probability of events and complements through explanations and worked examples.",
   "definition": "Probability ranges from 0 to 1. An event's complement consists of all outcomes in which it does not occur. For equally likely outcomes, probability is favourable outcomes divided by total outcomes. An event and its complement have probabilities that sum to 1.",
   "visuals": [
     {

@@ -1,9 +1,9 @@
 {
-  "id": "primary-6-probability",
+  "id": "secondary-4-combined-probability",
   "title": "Experimental Probability and Combined Events",
-  "level": "primary-6",
+  "level": "secondary-4",
   "category": "Probability",
-  "introduction": "Consolidate primary mathematics and prepare for secondary study through experimental probability and combined events.",
+  "introduction": "Explore experimental probability and combined events through explanations and worked examples.",
   "definition": "Theoretical probability uses a mathematical model of outcomes. Experimental probability is observed frequency divided by number of trials. For independent events, the probability of both occurring is the product of their probabilities. For mutually exclusive events, the probability of either is the sum.",
   "visuals": [
     {

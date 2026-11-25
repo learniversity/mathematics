@@ -1,9 +1,9 @@
 {
-  "id": "primary-5-circles",
+  "id": "secondary-2-circumference",
   "title": "Introduction to Circles and Circumference",
-  "level": "primary-5",
+  "level": "secondary-2",
   "category": "Geometry",
-  "introduction": "Build on earlier mathematics by studying introduction to circles and circumference.",
+  "introduction": "Explore introduction to circles and circumference through explanations and worked examples.",
   "definition": "A circle is the set of points in a plane at a fixed distance from its centre. The radius is that distance; a diameter passes through the centre and is twice the radius. Circumference is the distance around the circle. Pi is the constant ratio of circumference to diameter, approximately 3.14.",
   "visuals": [
     {
@@ -154,7 +154,7 @@
   ],
   "summary": "A circle is the set of points in a plane at a fixed distance from its centre. The radius is that distance; a diameter passes through the centre and is twice the radius. Circumference is the distance around the circle. Pi is the constant ratio of circumference to diameter, approximately 3.14.",
   "relatedTopics": [
-    "primary-5-area",
+    "secondary-1-area-parallelograms-trapeziums",
     "primary-5-surface-area"
   ]
 }
