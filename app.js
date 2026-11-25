@@ -18,10 +18,30 @@ async function render(){
  return
  }
  if(route==='learn'||route==='level'){
- main.innerHTML='<h1>Learn mathematics</h1><p class="muted">Browse all published topics by level, or search for a lesson.</p><div class="filters"><label>Learning level <select id="learn-level"></select></label><label>Search topics <input id="search" type="search" placeholder="Search by topic"></label></div><div id="topics"></div>';
+ main.innerHTML='<h1>Learn mathematics</h1><p class="muted">Choose your learning stage or search the entire topic library.</p><div class="filters learn-filters"><label>Learning level <select id="learn-level"></select></label><label>Search topics <input id="search" type="search" placeholder="Search by topic"></label></div><div id="topics"></div>';
  const select=main.querySelector('#learn-level'),search=main.querySelector('#search'),list=main.querySelector('#topics');
  select.add(new Option('All levels',''));for(const l of levels)select.add(new Option(l.title,l.id));if(route==='level'&&levels.some(l=>l.id===id))select.value=id;
- const draw=()=>{list.replaceChildren();const q=search.value.trim().toLowerCase();for(const l of levels.filter(l=>!select.value||l.id===select.value)){const matches=topics.filter(t=>t.level===l.id&&t.title.toLowerCase().includes(q));if(q&&!matches.length)continue;const section=document.createElement('section');const h=document.createElement('h2');h.textContent=l.title;section.append(h);if(!matches.length){const p=document.createElement('p');p.className='muted';p.textContent='Lessons coming later.';section.append(p)}else{const ul=document.createElement('ul');ul.className='lesson-list';for(const t of matches){const li=document.createElement('li');const a=document.createElement('a');a.href='#lesson/'+t.id;a.textContent=t.title;li.append(a);ul.append(li)}section.append(ul)}list.append(section)}if(!list.children.length)list.textContent='No matching topics.'};select.onchange=draw;search.oninput=draw;draw();return
+ const groups=[
+ {title:'Preschool',description:'First steps in mathematics',levels:levels.filter(l=>l.id==='preschool')},
+ {title:'Primary School',description:'Build strong mathematical foundations',levels:levels.filter(l=>l.id.startsWith('primary-'))},
+ {title:'Secondary School',description:'Develop mathematical reasoning and problem solving',levels:levels.filter(l=>l.id.startsWith('secondary-'))},
+ {title:'Higher Mathematics',description:'Explore higher-level and specialised mathematics',levels:levels.filter(l=>['pre-university','university','advanced'].includes(l.id))}
+ ];
+ const draw=()=>{
+ list.replaceChildren();
+ const q=search.value.trim().toLowerCase(), chosen=select.value;
+ if(q||chosen){
+ const matches=topics.filter(t=>(!chosen||t.level===chosen)&&(!q||t.title.toLowerCase().includes(q)));
+ const heading=document.createElement('h2');heading.textContent=q?'Search results':levels.find(l=>l.id===chosen)?.title||'Topics';list.append(heading);
+ const meta=document.createElement('p');meta.className='muted';meta.textContent=matches.length+' published '+(matches.length===1?'topic':'topics');list.append(meta);
+ if(chosen){const back=document.createElement('button');back.type='button';back.textContent='← All learning stages';back.onclick=()=>{location.hash='#learn';select.value='';search.value='';draw()};list.append(back)}
+ if(!matches.length){const p=document.createElement('p');p.textContent=q?'No matching topics.':'Lessons for this level are coming later.';list.append(p);return}
+ const grid=document.createElement('div');grid.className='grid topic-grid';
+ for(const t of matches){const a=document.createElement('a');a.className='tile topic-card';a.href='#lesson/'+t.id;const small=document.createElement('p');small.textContent=levels.find(l=>l.id===t.level)?.title||'';const h=document.createElement('h3');h.textContent=t.title;const open=document.createElement('span');open.className='card-link';open.textContent='Read lesson →';a.append(small,h,open);grid.append(a)}list.append(grid);return
+ }
+ for(const group of groups){if(!group.levels.length)continue;const section=document.createElement('section');section.className='stage-group';const h=document.createElement('h2');h.textContent=group.title;const p=document.createElement('p');p.className='muted stage-description';p.textContent=group.description;section.append(h,p);const grid=document.createElement('div');grid.className='grid stage-grid';for(const l of group.levels){const n=topics.filter(t=>t.level===l.id).length;const a=document.createElement('a');a.href='#level/'+l.id;a.className='tile stage-card';const title=document.createElement('h3');title.textContent=l.title;const meta=document.createElement('p');meta.textContent=n?n+' published '+(n===1?'topic':'topics'):'Not yet published';const bottom=document.createElement('span');bottom.className='card-link';bottom.textContent=n?'Explore topics →':'View stage →';a.append(title,meta,bottom);grid.append(a)}section.append(grid);list.append(section)}
+ };
+ select.onchange=()=>{if(select.value)location.hash='#level/'+select.value;else location.hash='#learn';draw()};search.oninput=draw;draw();return
  }
  if(route==='formulas'||route==='practice'){
  main.innerHTML='<h1>'+ (route==='formulas'?'Formulas':'Practice')+'</h1><p class="muted">'+(route==='formulas'?'Quick reference to formulas in published lessons. Open a linked formula to study its topic.':'Create a random test paper from the published exercise bank, or practise every question in your selection.')+'</p><div class="filters"><label>Learning level <select id="bank-level"></select></label><label>Topic <select id="bank-topic"></select></label></div><div id="bank"></div>';
