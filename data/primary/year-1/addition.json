@@ -1,0 +1,78 @@
+{
+  "id": "primary-1-addition",
+  "title": "Addition",
+  "level": "primary-1",
+  "category": "Arithmetic",
+  "introduction": "Explore addition through definitions, examples and practice.",
+  "definition": "Addition combines quantities to find their total. The numbers added are called addends; the result is the sum.",
+  "formulas": [
+    {
+      "expression": "a + b = c",
+      "description": "a and b are addends; c is their sum."
+    },
+    {
+      "expression": "a + 0 = a",
+      "description": "Adding zero leaves a number unchanged."
+    },
+    {
+      "expression": "a + b = b + a",
+      "description": "Changing the order of the addends does not change the sum."
+    }
+  ],
+  "examples": [
+    {
+      "question": "Find 27 + 15. Add ones: 7 + 5 = 12. Regroup ten ones as one ten. Add tens: 2 + 1 + 1 = 4.",
+      "steps": [],
+      "answer": "42"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "1 + 1",
+      "answer": 2,
+      "solution": "Answer: 2"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "4 + 5",
+      "answer": 9,
+      "solution": "Answer: 9"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "12 + 7",
+      "answer": 19,
+      "solution": "Answer: 19"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "28 + 14",
+      "answer": 42,
+      "solution": "Answer: 42"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "45 + 32",
+      "answer": 77,
+      "solution": "Answer: 77"
+    },
+    {
+      "id": "q6",
+      "type": "numeric",
+      "question": "Sam has 16 pencils and gets 9 more. How many pencils?",
+      "answer": 25,
+      "solution": "Answer: 25"
+    }
+  ],
+  "summary": "Addition combines quantities to find their total. The numbers added are called addends; the result is the sum.",
+  "relatedTopics": [
+    "primary-1-place-value",
+    "primary-1-subtraction"
+  ]
+}
