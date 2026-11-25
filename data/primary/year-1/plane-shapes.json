@@ -1,0 +1,140 @@
+{
+  "id": "primary-1-plane-shapes",
+  "title": "Two-Dimensional Shapes",
+  "level": "primary-1",
+  "category": "Geometry",
+  "introduction": "Learn two-dimensional shapes through explanations and practice.",
+  "definition": "A two-dimensional shape is flat. Polygons have straight sides; circles have curved boundaries. A vertex is a corner where two sides meet.",
+  "visuals": [
+    {
+      "label": "Triangle",
+      "description": "3 sides and 3 vertices.",
+      "alt": "Triangle — 3 sides and 3 vertices.",
+      "elements": [
+        {
+          "tag": "polygon",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "points": "80,10 25,90 135,90"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Square",
+      "description": "4 equal sides and 4 right angles.",
+      "alt": "Square — 4 equal sides and 4 right angles.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x": 40,
+            "y": 10,
+            "width": 80,
+            "height": 80
+          }
+        }
+      ]
+    },
+    {
+      "label": "Rectangle",
+      "description": "4 right angles.",
+      "alt": "Rectangle — 4 right angles.",
+      "elements": [
+        {
+          "tag": "rect",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "x": 20,
+            "y": 22,
+            "width": 120,
+            "height": 56
+          }
+        }
+      ]
+    },
+    {
+      "label": "Circle",
+      "description": "No straight sides or vertices.",
+      "alt": "Circle — No straight sides or vertices.",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 3,
+            "cx": 80,
+            "cy": 50,
+            "r": 40
+          }
+        }
+      ]
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Count the sides and vertices of a triangle.",
+      "steps": [
+        "A triangle has three straight sides.",
+        "The sides meet at three vertices."
+      ],
+      "answer": "3 sides and 3 vertices"
+    },
+    {
+      "question": "Compare a square and a rectangle.",
+      "steps": [
+        "Both have four right angles.",
+        "A square also has four equal sides."
+      ],
+      "answer": "A square is a special rectangle."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "How many vertices does a triangle have?",
+      "answer": 3,
+      "solution": "Answer: 3"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "How many sides does a pentagon have?",
+      "answer": 5,
+      "solution": "Answer: 5"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "How many sides does a hexagon have?",
+      "answer": 6,
+      "solution": "Answer: 6"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Name the shape with four equal sides and four right angles.",
+      "answer": "square",
+      "solution": "Answer: square"
+    },
+    {
+      "id": "q5",
+      "type": "numeric",
+      "question": "How many straight sides does a circle have?",
+      "answer": 0,
+      "solution": "Answer: 0"
+    }
+  ],
+  "summary": "A two-dimensional shape is flat. Polygons have straight sides; circles have curved boundaries. A vertex is a corner where two sides meet.",
+  "relatedTopics": []
+}
