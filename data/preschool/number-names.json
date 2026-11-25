@@ -1,0 +1,454 @@
+{
+  "id": "preschool-number-names",
+  "title": "Number Names 0–20",
+  "level": "preschool",
+  "category": "Arithmetic",
+  "introduction": "Explore number names 0–20 with pictures and practice.",
+  "definition": "A number can be written using digits or words. For example, 7 is written as seven and 12 as twelve.",
+  "visuals": [
+    {
+      "label": "0",
+      "description": "zero",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "0"
+        }
+      ],
+      "alt": "0"
+    },
+    {
+      "label": "1",
+      "description": "one",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "1"
+        }
+      ],
+      "alt": "1"
+    },
+    {
+      "label": "2",
+      "description": "two",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "2"
+        }
+      ],
+      "alt": "2"
+    },
+    {
+      "label": "3",
+      "description": "three",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "3"
+        }
+      ],
+      "alt": "3"
+    },
+    {
+      "label": "4",
+      "description": "four",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "4"
+        }
+      ],
+      "alt": "4"
+    },
+    {
+      "label": "5",
+      "description": "five",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "5"
+        }
+      ],
+      "alt": "5"
+    },
+    {
+      "label": "6",
+      "description": "six",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "6"
+        }
+      ],
+      "alt": "6"
+    },
+    {
+      "label": "7",
+      "description": "seven",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "7"
+        }
+      ],
+      "alt": "7"
+    },
+    {
+      "label": "8",
+      "description": "eight",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "8"
+        }
+      ],
+      "alt": "8"
+    },
+    {
+      "label": "9",
+      "description": "nine",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "9"
+        }
+      ],
+      "alt": "9"
+    },
+    {
+      "label": "10",
+      "description": "ten",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "10"
+        }
+      ],
+      "alt": "10"
+    },
+    {
+      "label": "11",
+      "description": "eleven",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "11"
+        }
+      ],
+      "alt": "11"
+    },
+    {
+      "label": "12",
+      "description": "twelve",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "12"
+        }
+      ],
+      "alt": "12"
+    },
+    {
+      "label": "13",
+      "description": "thirteen",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "13"
+        }
+      ],
+      "alt": "13"
+    },
+    {
+      "label": "14",
+      "description": "fourteen",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "14"
+        }
+      ],
+      "alt": "14"
+    },
+    {
+      "label": "15",
+      "description": "fifteen",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "15"
+        }
+      ],
+      "alt": "15"
+    },
+    {
+      "label": "16",
+      "description": "sixteen",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "16"
+        }
+      ],
+      "alt": "16"
+    },
+    {
+      "label": "17",
+      "description": "seventeen",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "17"
+        }
+      ],
+      "alt": "17"
+    },
+    {
+      "label": "18",
+      "description": "eighteen",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "18"
+        }
+      ],
+      "alt": "18"
+    },
+    {
+      "label": "19",
+      "description": "nineteen",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "19"
+        }
+      ],
+      "alt": "19"
+    },
+    {
+      "label": "20",
+      "description": "twenty",
+      "elements": [
+        {
+          "tag": "text",
+          "attrs": {
+            "x": 80,
+            "y": 64,
+            "font-size": 48,
+            "text-anchor": "middle",
+            "fill": "currentColor"
+          },
+          "text": "20"
+        }
+      ],
+      "alt": "20"
+    }
+  ],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Write 13 in words.",
+      "steps": [
+        "13 is one of the teen numbers."
+      ],
+      "answer": "thirteen"
+    },
+    {
+      "question": "Write twenty using digits.",
+      "steps": [
+        "Twenty is two tens."
+      ],
+      "answer": "20"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Write five using digits.",
+      "answer": 5,
+      "solution": "Answer: 5"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Write eleven using digits.",
+      "answer": 11,
+      "solution": "Answer: 11"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Write nineteen using digits.",
+      "answer": 19,
+      "solution": "Answer: 19"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Write 8 in words.",
+      "answer": "eight",
+      "solution": "Answer: eight"
+    },
+    {
+      "id": "q5",
+      "type": "text",
+      "question": "Write 12 in words.",
+      "answer": "twelve",
+      "solution": "Answer: twelve"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Write 20 in words.",
+      "answer": "twenty",
+      "solution": "Answer: twenty"
+    }
+  ],
+  "summary": "Learn both the numeral and the word for every number from zero to twenty.",
+  "relatedTopics": [
+    "preschool-counting",
+    "preschool-tens-and-ones"
+  ]
+}
