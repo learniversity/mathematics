@@ -38,42 +38,42 @@
       "type": "numeric",
       "question": "How many days are in 4 weeks?",
       "answer": 28,
-      "solution": "4 × 7 = 28."
+      "solution": "4 × 7 = 28 days."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "How many months are in one year?",
       "answer": 12,
-      "solution": "A year has January through December."
+      "solution": "Count January through December: 12 months."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "How many days are in April?",
       "answer": 30,
-      "solution": "April has 30 days."
+      "solution": "April is one of the 30-day months, along with June, September and November."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "How many days are in July?",
       "answer": 31,
-      "solution": "July has 31 days."
+      "solution": "July is one of the 31-day months."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "How many days from 5 May to 8 May, including both dates?",
       "answer": 4,
-      "solution": "8 − 5 + 1 = 4."
+      "solution": "8 − 5 + 1 = 4 days, counting both dates."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "If today is Monday, what day is two days later?",
       "answer": "Wednesday",
-      "solution": "Tuesday is one day later, Wednesday is two."
+      "solution": "Monday → Tuesday (1 day) → Wednesday (2 days)."
     }
   ],
   "summary": "A calendar organises days into weeks, months and years. A week has seven days. Months have 28, 29, 30 or 31 days, depending on the month and whether it is a leap year.",

@@ -218,28 +218,28 @@
       "question": "A ruler starts at zero and an object ends at 8 cm. Length?",
       "answer": 8,
       "type": "numeric",
-      "solution": "Read 8 cm.",
+      "solution": "8 − 0 = 8 cm.",
       "id": "q1"
     },
     {
       "question": "Which unit suits the length of a classroom: cm or m?",
       "answer": "m",
       "type": "text",
-      "solution": "Metres suit room lengths.",
+      "solution": "A classroom is several metres long; metres are more convenient than centimetres for room lengths.",
       "id": "q2"
     },
     {
       "question": "A ribbon is approximately twice as long as a 20 cm ruler. Estimate in cm.",
       "answer": 40,
       "type": "numeric",
-      "solution": "2 × 20.",
+      "solution": "2 × 20 = 40 cm approximately.",
       "id": "q3"
     },
     {
       "question": "Which is longer: 15 cm or 25 cm? Enter number.",
       "answer": 25,
       "type": "numeric",
-      "solution": "25 > 15.",
+      "solution": "25 > 15, so 25 cm is longer.",
       "id": "q4"
     },
     {
@@ -253,7 +253,7 @@
       "question": "A line begins at the 3 cm mark and ends at 11 cm. Length?",
       "answer": 8,
       "type": "numeric",
-      "solution": "11 − 3.",
+      "solution": "11 − 3 = 8 cm.",
       "id": "q6"
     }
   ],

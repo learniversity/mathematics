@@ -87,42 +87,42 @@
       "question": "A jug shows 600 mL. Volume in mL?",
       "answer": 600,
       "type": "numeric",
-      "solution": "Read the level.",
+      "solution": "The liquid level reaches the 600 mL mark, giving 600 mL.",
       "id": "q1"
     },
     {
       "question": "Which unit suits a large bucket: mL or L?",
       "answer": "L",
       "type": "text",
-      "solution": "Litres suit larger containers.",
+      "solution": "A large bucket holds several litres, so L is a convenient unit.",
       "id": "q2"
     },
     {
       "question": "A container holds about four 250 mL cups. Estimate mL.",
       "answer": 1000,
       "type": "numeric",
-      "solution": "4 × 250.",
+      "solution": "4 × 250 = 1,000 mL approximately.",
       "id": "q3"
     },
     {
       "question": "How many millilitres make one litre?",
       "answer": 1000,
       "type": "numeric",
-      "solution": "1 L = 1000 mL.",
+      "solution": "1 L = 1,000 mL.",
       "id": "q4"
     },
     {
       "question": "Which holds more: 200 mL or 750 mL? Enter mL.",
       "answer": 750,
       "type": "numeric",
-      "solution": "750 > 200.",
+      "solution": "750 > 200, so 750 mL is greater.",
       "id": "q5"
     },
     {
       "question": "A bottle is marked 2 L. Capacity in litres?",
       "answer": 2,
       "type": "numeric",
-      "solution": "Read the label.",
+      "solution": "The label gives a capacity of 2 litres.",
       "id": "q6"
     }
   ],

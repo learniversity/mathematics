@@ -115,35 +115,35 @@
       "type": "numeric",
       "question": "How many endpoints has a line segment?",
       "answer": 2,
-      "solution": "A segment has two endpoints."
+      "solution": "A line segment begins at one endpoint and ends at another: 1 + 1 = 2."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "How many vertices has a quadrilateral?",
       "answer": 4,
-      "solution": "A quadrilateral has four sides and four vertices."
+      "solution": "A quadrilateral has four sides meeting at four vertices."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "How many right angles has a rectangle?",
       "answer": 4,
-      "solution": "Each corner is a right angle."
+      "solution": "All four corners of a rectangle are right angles."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Is a circle a polygon? Write yes or no.",
       "answer": "no",
-      "solution": "A circle does not have straight sides."
+      "solution": "A polygon has straight sides; a circle has a curved boundary, so it is not a polygon."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Name a polygon with six sides.",
       "answer": "hexagon",
-      "solution": "Hexa means six."
+      "solution": "The prefix hexa- means six; a six-sided polygon is a hexagon."
     }
   ],
   "summary": "A line segment is straight and has two endpoints. A polygon is a closed flat shape made of straight line segments. Its sides meet at vertices. A right angle is a square corner.",

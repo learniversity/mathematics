@@ -148,35 +148,35 @@
       "type": "numeric",
       "question": "How many lines of symmetry has a square?",
       "answer": 4,
-      "solution": "Two centre lines and two diagonals."
+      "solution": "A square folds into matching halves along two centre lines and two diagonals: 2 + 2 = 4."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "How many lines of symmetry has a non-square rectangle?",
       "answer": 2,
-      "solution": "Horizontal and vertical."
+      "solution": "A non-square rectangle has one horizontal and one vertical line of symmetry: 1 + 1 = 2."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "How many lines of symmetry has an equilateral triangle?",
       "answer": 3,
-      "solution": "One from each vertex to the midpoint opposite."
+      "solution": "Each of the three vertices has a symmetry line to the midpoint of the opposite side: 3 lines."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Does a typical scalene triangle have line symmetry? Write yes or no.",
       "answer": "no",
-      "solution": "Its sides are unequal."
+      "solution": "A scalene triangle has three unequal sides, so no reflection can map its sides onto matching sides."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "How many halves are formed by a line of symmetry?",
       "answer": 2,
-      "solution": "The two halves match."
+      "solution": "A line of symmetry divides a shape into two matching halves."
     }
   ],
   "summary": "A shape has line symmetry when it can be folded along a line so that the two halves match exactly. The fold line is called a line of symmetry.",

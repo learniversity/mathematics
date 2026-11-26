@@ -98,42 +98,42 @@
       "question": "A scale shows 750 g. Mass in g?",
       "answer": 750,
       "type": "numeric",
-      "solution": "Read the scale.",
+      "solution": "The scale reading is 750 and its unit is grams, giving 750 g.",
       "id": "q1"
     },
     {
       "question": "Which unit suits a school bag: g or kg?",
       "answer": "kg",
       "type": "text",
-      "solution": "Kilograms are convenient.",
+      "solution": "A school bag typically weighs several kilograms, so kg is a convenient unit.",
       "id": "q2"
     },
     {
       "question": "Which is heavier, 300 g or 800 g? Enter grams.",
       "answer": 800,
       "type": "numeric",
-      "solution": "800 > 300.",
+      "solution": "800 > 300, so 800 g is heavier.",
       "id": "q3"
     },
     {
       "question": "A box is about twice as heavy as a 500 g reference. Estimate grams.",
       "answer": 1000,
       "type": "numeric",
-      "solution": "2 × 500.",
+      "solution": "2 × 500 = 1,000 g approximately.",
       "id": "q4"
     },
     {
       "question": "How many grams make 1 kg?",
       "answer": 1000,
       "type": "numeric",
-      "solution": "1 kg = 1000 g.",
+      "solution": "1 kg = 1,000 g.",
       "id": "q5"
     },
     {
       "question": "A scale shows 3 kg. Mass in kg?",
       "answer": 3,
       "type": "numeric",
-      "solution": "Read the scale.",
+      "solution": "The scale reading is 3 and its unit is kilograms, giving 3 kg.",
       "id": "q6"
     }
   ],

@@ -595,42 +595,42 @@
       "type": "numeric",
       "question": "How many minutes are in half an hour?",
       "answer": 30,
-      "solution": "60 ÷ 2 = 30."
+      "solution": "60 ÷ 2 = 30 minutes."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "Minute hand points to 3. How many minutes past the hour?",
       "answer": 15,
-      "solution": "3 × 5 = 15."
+      "solution": "Each clock number represents 5 minutes: 3 × 5 = 15 minutes."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "How many minutes are in 2 hours?",
       "answer": 120,
-      "solution": "2 × 60 = 120."
+      "solution": "2 × 60 = 120 minutes."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "A lesson starts at 9:00 and ends at 9:45. Duration in minutes?",
       "answer": 45,
-      "solution": "45 − 0 = 45."
+      "solution": "9:45 − 9:00 = 45 minutes."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "How many minutes are in one hour and 20 minutes?",
       "answer": 80,
-      "solution": "60 + 20 = 80."
+      "solution": "60 + 20 = 80 minutes."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "How many minutes are in a quarter of an hour?",
       "answer": 15,
-      "solution": "60 ÷ 4 = 15."
+      "solution": "60 ÷ 4 = 15 minutes."
     }
   ],
   "summary": "An analogue clock has 12 numbered hour positions. Each interval between numbers represents five minutes. The minute hand makes one full turn in 60 minutes; the hour hand moves gradually between hours.",
