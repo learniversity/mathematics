@@ -1230,42 +1230,42 @@
       "type": "numeric",
       "question": "Write 45/100 as percent (number only).",
       "answer": 45,
-      "solution": "Answer: 45"
+      "solution": "45/100 = 45%."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "Write 0.6 as percent (number only).",
       "answer": 60,
-      "solution": "Answer: 60"
+      "solution": "0.6 × 100% = 60%."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "Write 25% as decimal.",
       "answer": 0.25,
-      "solution": "Answer: 0.25"
+      "solution": "25% = 25/100 = 0.25."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "How many cells shaded for 80% of a 100-cell grid?",
       "answer": 80,
-      "solution": "Answer: 80"
+      "solution": "80/100 × 100 = 80 cells."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "Write 0.09 as percent (number only).",
       "answer": 9,
-      "solution": "Answer: 9"
+      "solution": "0.09 × 100% = 9%."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "Write 100% as a whole number.",
       "answer": 1,
-      "solution": "Answer: 1"
+      "solution": "100% = 100/100 = 1."
     }
   ],
   "summary": "A percentage expresses a quantity out of one hundred. The symbol % means per hundred. A hundred-square grid helps connect decimals, fractions and percentages.",
