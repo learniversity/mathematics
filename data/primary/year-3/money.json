@@ -39,42 +39,42 @@
       "type": "numeric",
       "question": "3 notebooks at RM4.20 each. Total RM?",
       "answer": 12.6,
-      "solution": "4.20 × 3 = 12.60."
+      "solution": "RM4.20 × 3 = RM12.60."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "RM20 − RM8.75. Change in RM?",
       "answer": 11.25,
-      "solution": "20.00 − 8.75."
+      "solution": "RM20.00 − RM8.75 = RM11.25."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "RM12.80 + RM5.45. Total RM?",
       "answer": 18.25,
-      "solution": "1,280 + 545 = 1,825 sen."
+      "solution": "1,280 + 545 = 1,825 sen; 1,825 ÷ 100 = RM18.25."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "Convert 725 sen to RM.",
       "answer": 7.25,
-      "solution": "725 ÷ 100."
+      "solution": "725 ÷ 100 = RM7.25."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "RM30 budget, spend RM17.60. Remaining RM?",
       "answer": 12.4,
-      "solution": "30 − 17.60."
+      "solution": "RM30.00 − RM17.60 = RM12.40."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "Share RM24 equally among 6 children. RM each?",
       "answer": 4,
-      "solution": "24 ÷ 6 = 4."
+      "solution": "RM24 ÷ 6 = RM4.00."
     }
   ],
   "summary": "Calculate total cost, change and the cost of multiple identical items. Convert ringgit to sen if helpful to avoid errors with decimal places. A budget is the amount available to spend.",
