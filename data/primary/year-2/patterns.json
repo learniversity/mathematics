@@ -31,42 +31,42 @@
       "type": "numeric",
       "question": "2, 4, 6, 8, ?",
       "answer": 10,
-      "solution": "Add 2."
+      "solution": "Add 2 each time: 8 + 2 = 10."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "5, 10, 15, ?",
       "answer": 20,
-      "solution": "Add 5."
+      "solution": "Add 5 each time: 15 + 5 = 20."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "100, 90, 80, ?",
       "answer": 70,
-      "solution": "Subtract 10."
+      "solution": "Subtract 10 each time: 80 − 10 = 70."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "20, 25, ?, 35",
       "answer": 30,
-      "solution": "Add 5 each time."
+      "solution": "25 + 5 = 30; 30 + 5 = 35."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "3, 6, 9, 12, ?",
       "answer": 15,
-      "solution": "Add 3."
+      "solution": "Add 3 each time: 12 + 3 = 15."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "7, 14, 21, ?",
       "answer": 28,
-      "solution": "Add 7."
+      "solution": "Add 7 each time: 21 + 7 = 28."
     }
   ],
   "summary": "A number sequence is an ordered list of numbers. Many simple sequences follow a rule such as adding or subtracting the same amount. Identify the rule and apply it consistently.",

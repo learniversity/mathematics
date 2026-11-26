@@ -78,42 +78,42 @@
       "type": "numeric",
       "question": "Numerator of 3/8?",
       "answer": 3,
-      "solution": "Answer: 3"
+      "solution": "The numerator is the top number, which counts selected parts. In 3/8 it is 3."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "Denominator of 7/10?",
       "answer": 10,
-      "solution": "Answer: 10"
+      "solution": "The denominator is the bottom number, which counts all equal parts. In 7/10 it is 10."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "Which numerator is bigger in 2/5 and 4/5?",
       "answer": 4,
-      "solution": "Answer: 4"
+      "solution": "Both fractions have denominator 5; compare numerators: 4 > 2."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "How many fourths make a whole?",
       "answer": 4,
-      "solution": "Answer: 4"
+      "solution": "1/4 + 1/4 + 1/4 + 1/4 = 4/4 = 1 whole."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Write three of ten equal parts as a fraction.",
       "answer": "3/10",
-      "solution": "Answer: 3/10"
+      "solution": "There are 3 selected parts out of 10 equal parts, giving 3/10."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Insert >, < or = : 1/2 __ 1/4",
       "answer": ">",
-      "solution": "Answer: >"
+      "solution": "1/2 = 2/4; 2/4 > 1/4, so 1/2 > 1/4."
     }
   ],
   "summary": "A proper positive fraction has a numerator smaller than its denominator. Use equally sized parts of the same whole. For Year 2 practise denominators up to ten and compare simple fractions using drawings.",

@@ -29,28 +29,28 @@
       "type": "numeric",
       "question": "How many flat faces does a cube have?",
       "answer": 6,
-      "solution": "A cube has six square faces. Answer: 6"
+      "solution": "Count the top, bottom, front, back, left and right square faces: 6."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "How many vertices does a cuboid have?",
       "answer": 8,
-      "solution": "Four top and four bottom vertices. Answer: 8"
+      "solution": "4 top vertices + 4 bottom vertices = 8 vertices."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Which solid has only a curved surface?",
       "answer": "sphere",
-      "solution": "A sphere has no flat faces. Answer: sphere"
+      "solution": "A sphere is curved in every direction and has no flat faces."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "How many circular flat faces does a cylinder have?",
       "answer": 2,
-      "solution": "One at each end. Answer: 2"
+      "solution": "A cylinder has one circular flat face at each end: 1 + 1 = 2."
     }
   ],
   "summary": "Identify solids by their flat and curved surfaces, edges and vertices.",

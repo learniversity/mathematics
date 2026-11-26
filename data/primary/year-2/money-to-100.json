@@ -29,69 +29,69 @@
       "type": "numeric",
       "question": "Three RM20 notes, total RM?",
       "answer": 60,
-      "solution": "Answer: 60"
+      "solution": "3 × 20 = RM60."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "RM50 + RM10 + RM5?",
       "answer": 65,
-      "solution": "Answer: 65"
+      "solution": "50 + 10 + 5 = RM65."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "RM85.50 − RM20.25?",
       "answer": 65.25,
-      "solution": "Answer: 65.25"
+      "solution": "85.50 − 20.25 = RM65.25."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "RM100 paid for RM73.50. Change RM?",
       "answer": 26.5,
-      "solution": "Answer: 26.5"
+      "solution": "100.00 − 73.50 = RM26.50."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "250 sen in RM?",
       "answer": 2.5,
-      "solution": "Answer: 2.5"
+      "solution": "250 ÷ 100 = RM2.50."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "RM12.80 + RM7.20?",
       "answer": 20,
-      "solution": "Answer: 20"
+      "solution": "12.80 + 7.20 = RM20.00."
     },
     {
       "question": "Four items cost RM12.50 each. Total in RM?",
       "answer": 50,
       "type": "numeric",
-      "solution": "4 × 12.50.",
+      "solution": "4 × 12.50 = RM50.00.",
       "id": "q7"
     },
     {
       "question": "Share RM96 equally among 8 children. RM each?",
       "answer": 12,
       "type": "numeric",
-      "solution": "96 ÷ 8.",
+      "solution": "96 ÷ 8 = RM12 per child.",
       "id": "q8"
     },
     {
       "question": "Three payments of RM15.50. Total in RM?",
       "answer": 46.5,
       "type": "numeric",
-      "solution": "3 × 15.50.",
+      "solution": "3 × 15.50 = RM46.50.",
       "id": "q9"
     },
     {
       "question": "Six identical notebooks cost RM42. Cost of one in RM?",
       "answer": 7,
       "type": "numeric",
-      "solution": "42 ÷ 6.",
+      "solution": "42 ÷ 6 = RM7 per notebook.",
       "id": "q10"
     }
   ],
