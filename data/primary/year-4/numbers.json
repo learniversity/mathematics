@@ -213,42 +213,42 @@
       "type": "numeric",
       "question": "Value of 7 in 72,506?",
       "answer": 70000,
-      "solution": "7 × 10,000."
+      "solution": "7 × 10,000 = 70,000."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "Digit in the hundreds place of 46,821?",
       "answer": 8,
-      "solution": "The hundreds digit is 8."
+      "solution": "46,821 = 40,000 + 6,000 + 800 + 20 + 1; hundreds digit = 8."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "Write 30,000 + 5,000 + 200 + 9.",
       "answer": 35209,
-      "solution": "Combine the place values."
+      "solution": "30,000 + 5,000 + 200 + 9 = 35,209."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "What follows 99,999?",
       "answer": 100000,
-      "solution": "Add one."
+      "solution": "99,999 + 1 = 100,000."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "How many thousands make 100,000?",
       "answer": 100,
-      "solution": "100,000 ÷ 1,000."
+      "solution": "100,000 ÷ 1,000 = 100."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "Write sixty thousand and eighteen in digits.",
       "answer": 60018,
-      "solution": "60,000 + 18."
+      "solution": "60,000 + 18 = 60,018."
     }
   ],
   "summary": "Five-digit numbers have ten-thousands, thousands, hundreds, tens and ones. Each position has ten times the value of the position to its right. Zero is a placeholder when a position has no units.",
