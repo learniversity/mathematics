@@ -1,453 +1,2844 @@
 {
   "id": "preschool-number-names",
-  "title": "Number Names 0–20",
+  "title": "Numbers 21–30",
   "level": "preschool",
   "category": "Arithmetic",
-  "introduction": "Explore number names 0–20 with pictures and practice.",
-  "definition": "A number can be written using digits or words. For example, 7 is written as seven and 12 as twelve.",
+  "introduction": "Explore numbers 21 to 30. Look at the numeral, say its name and count the dots on each card. This is supplementary preschool practice.",
+  "definition": "Numbers 21 to 30 can be counted one at a time or in groups of ten and extra ones. A complete outlined group contains ten dots.",
   "visuals": [
     {
-      "label": "0",
-      "description": "zero",
+      "label": "21",
+      "description": "twenty-one",
+      "alt": "21 dots: twenty-one",
       "elements": [
         {
-          "tag": "text",
+          "tag": "rect",
           "attrs": {
-            "x": 80,
-            "y": 64,
-            "font-size": 48,
-            "text-anchor": "middle",
+            "x": 9,
+            "y": 1,
+            "width": 142,
+            "height": 27,
+            "rx": 4,
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "x": 9,
+            "y": 34,
+            "width": 142,
+            "height": 27,
+            "rx": 4,
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 8,
+            "r": 5,
             "fill": "currentColor"
-          },
-          "text": "0"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
         }
-      ],
-      "alt": "0"
+      ]
     },
     {
-      "label": "1",
-      "description": "one",
+      "label": "22",
+      "description": "twenty-two",
+      "alt": "22 dots: twenty-two",
       "elements": [
         {
-          "tag": "text",
+          "tag": "rect",
           "attrs": {
-            "x": 80,
-            "y": 64,
-            "font-size": 48,
-            "text-anchor": "middle",
+            "x": 9,
+            "y": 1,
+            "width": 142,
+            "height": 27,
+            "rx": 4,
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "x": 9,
+            "y": 34,
+            "width": 142,
+            "height": 27,
+            "rx": 4,
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 8,
+            "r": 5,
             "fill": "currentColor"
-          },
-          "text": "1"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
         }
-      ],
-      "alt": "1"
+      ]
     },
     {
-      "label": "2",
-      "description": "two",
+      "label": "23",
+      "description": "twenty-three",
+      "alt": "23 dots: twenty-three",
       "elements": [
         {
-          "tag": "text",
+          "tag": "rect",
           "attrs": {
-            "x": 80,
-            "y": 64,
-            "font-size": 48,
-            "text-anchor": "middle",
+            "x": 9,
+            "y": 1,
+            "width": 142,
+            "height": 27,
+            "rx": 4,
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "x": 9,
+            "y": 34,
+            "width": 142,
+            "height": 27,
+            "rx": 4,
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 8,
+            "r": 5,
             "fill": "currentColor"
-          },
-          "text": "2"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
         }
-      ],
-      "alt": "2"
+      ]
     },
     {
-      "label": "3",
-      "description": "three",
+      "label": "24",
+      "description": "twenty-four",
+      "alt": "24 dots: twenty-four",
       "elements": [
         {
-          "tag": "text",
+          "tag": "rect",
           "attrs": {
-            "x": 80,
-            "y": 64,
-            "font-size": 48,
-            "text-anchor": "middle",
+            "x": 9,
+            "y": 1,
+            "width": 142,
+            "height": 27,
+            "rx": 4,
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "x": 9,
+            "y": 34,
+            "width": 142,
+            "height": 27,
+            "rx": 4,
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 8,
+            "r": 5,
             "fill": "currentColor"
-          },
-          "text": "3"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
         }
-      ],
-      "alt": "3"
+      ]
     },
     {
-      "label": "4",
-      "description": "four",
+      "label": "25",
+      "description": "twenty-five",
+      "alt": "25 dots: twenty-five",
       "elements": [
         {
-          "tag": "text",
+          "tag": "rect",
           "attrs": {
-            "x": 80,
-            "y": 64,
-            "font-size": 48,
-            "text-anchor": "middle",
+            "x": 9,
+            "y": 1,
+            "width": 142,
+            "height": 27,
+            "rx": 4,
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "x": 9,
+            "y": 34,
+            "width": 142,
+            "height": 27,
+            "rx": 4,
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 8,
+            "r": 5,
             "fill": "currentColor"
-          },
-          "text": "4"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
         }
-      ],
-      "alt": "4"
+      ]
     },
     {
-      "label": "5",
-      "description": "five",
+      "label": "26",
+      "description": "twenty-six",
+      "alt": "26 dots: twenty-six",
       "elements": [
         {
-          "tag": "text",
+          "tag": "rect",
           "attrs": {
-            "x": 80,
-            "y": 64,
-            "font-size": 48,
-            "text-anchor": "middle",
+            "x": 9,
+            "y": 1,
+            "width": 142,
+            "height": 27,
+            "rx": 4,
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "x": 9,
+            "y": 34,
+            "width": 142,
+            "height": 27,
+            "rx": 4,
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 8,
+            "r": 5,
             "fill": "currentColor"
-          },
-          "text": "5"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 87,
+            "r": 5,
+            "fill": "currentColor"
+          }
         }
-      ],
-      "alt": "5"
+      ]
     },
     {
-      "label": "6",
-      "description": "six",
+      "label": "27",
+      "description": "twenty-seven",
+      "alt": "27 dots: twenty-seven",
       "elements": [
         {
-          "tag": "text",
+          "tag": "rect",
           "attrs": {
-            "x": 80,
-            "y": 64,
-            "font-size": 48,
-            "text-anchor": "middle",
+            "x": 9,
+            "y": 1,
+            "width": 142,
+            "height": 27,
+            "rx": 4,
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "x": 9,
+            "y": 34,
+            "width": 142,
+            "height": 27,
+            "rx": 4,
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 8,
+            "r": 5,
             "fill": "currentColor"
-          },
-          "text": "6"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 87,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 87,
+            "r": 5,
+            "fill": "currentColor"
+          }
         }
-      ],
-      "alt": "6"
+      ]
     },
     {
-      "label": "7",
-      "description": "seven",
+      "label": "28",
+      "description": "twenty-eight",
+      "alt": "28 dots: twenty-eight",
       "elements": [
         {
-          "tag": "text",
+          "tag": "rect",
           "attrs": {
-            "x": 80,
-            "y": 64,
-            "font-size": 48,
-            "text-anchor": "middle",
+            "x": 9,
+            "y": 1,
+            "width": 142,
+            "height": 27,
+            "rx": 4,
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "x": 9,
+            "y": 34,
+            "width": 142,
+            "height": 27,
+            "rx": 4,
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 8,
+            "r": 5,
             "fill": "currentColor"
-          },
-          "text": "7"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 87,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 87,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 87,
+            "r": 5,
+            "fill": "currentColor"
+          }
         }
-      ],
-      "alt": "7"
+      ]
     },
     {
-      "label": "8",
-      "description": "eight",
+      "label": "29",
+      "description": "twenty-nine",
+      "alt": "29 dots: twenty-nine",
       "elements": [
         {
-          "tag": "text",
+          "tag": "rect",
           "attrs": {
-            "x": 80,
-            "y": 64,
-            "font-size": 48,
-            "text-anchor": "middle",
+            "x": 9,
+            "y": 1,
+            "width": 142,
+            "height": 27,
+            "rx": 4,
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        },
+        {
+          "tag": "rect",
+          "attrs": {
+            "x": 9,
+            "y": 34,
+            "width": 142,
+            "height": 27,
+            "rx": 4,
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 8,
+            "r": 5,
             "fill": "currentColor"
-          },
-          "text": "8"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 8,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 87,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 87,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 87,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 87,
+            "r": 5,
+            "fill": "currentColor"
+          }
         }
-      ],
-      "alt": "8"
+      ]
     },
     {
-      "label": "9",
-      "description": "nine",
+      "label": "30",
+      "description": "thirty",
+      "alt": "30 dots: thirty",
       "elements": [
         {
-          "tag": "text",
+          "tag": "rect",
           "attrs": {
-            "x": 80,
-            "y": 64,
-            "font-size": 48,
-            "text-anchor": "middle",
-            "fill": "currentColor"
-          },
-          "text": "9"
-        }
-      ],
-      "alt": "9"
-    },
-    {
-      "label": "10",
-      "description": "ten",
-      "elements": [
+            "x": 9,
+            "y": 1,
+            "width": 142,
+            "height": 27,
+            "rx": 4,
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        },
         {
-          "tag": "text",
+          "tag": "rect",
           "attrs": {
-            "x": 80,
-            "y": 64,
-            "font-size": 48,
-            "text-anchor": "middle",
-            "fill": "currentColor"
-          },
-          "text": "10"
-        }
-      ],
-      "alt": "10"
-    },
-    {
-      "label": "11",
-      "description": "eleven",
-      "elements": [
+            "x": 9,
+            "y": 34,
+            "width": 142,
+            "height": 27,
+            "rx": 4,
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        },
         {
-          "tag": "text",
+          "tag": "rect",
           "attrs": {
-            "x": 80,
-            "y": 64,
-            "font-size": 48,
-            "text-anchor": "middle",
-            "fill": "currentColor"
-          },
-          "text": "11"
-        }
-      ],
-      "alt": "11"
-    },
-    {
-      "label": "12",
-      "description": "twelve",
-      "elements": [
+            "x": 9,
+            "y": 67,
+            "width": 142,
+            "height": 27,
+            "rx": 4,
+            "fill": "none",
+            "stroke": "currentColor",
+            "stroke-width": 1
+          }
+        },
         {
-          "tag": "text",
+          "tag": "circle",
           "attrs": {
-            "x": 80,
-            "y": 64,
-            "font-size": 48,
-            "text-anchor": "middle",
+            "cx": 24,
+            "cy": 8,
+            "r": 5,
             "fill": "currentColor"
-          },
-          "text": "12"
-        }
-      ],
-      "alt": "12"
-    },
-    {
-      "label": "13",
-      "description": "thirteen",
-      "elements": [
+          }
+        },
         {
-          "tag": "text",
+          "tag": "circle",
           "attrs": {
-            "x": 80,
-            "y": 64,
-            "font-size": 48,
-            "text-anchor": "middle",
+            "cx": 52,
+            "cy": 8,
+            "r": 5,
             "fill": "currentColor"
-          },
-          "text": "13"
-        }
-      ],
-      "alt": "13"
-    },
-    {
-      "label": "14",
-      "description": "fourteen",
-      "elements": [
+          }
+        },
         {
-          "tag": "text",
+          "tag": "circle",
           "attrs": {
-            "x": 80,
-            "y": 64,
-            "font-size": 48,
-            "text-anchor": "middle",
+            "cx": 80,
+            "cy": 8,
+            "r": 5,
             "fill": "currentColor"
-          },
-          "text": "14"
-        }
-      ],
-      "alt": "14"
-    },
-    {
-      "label": "15",
-      "description": "fifteen",
-      "elements": [
+          }
+        },
         {
-          "tag": "text",
+          "tag": "circle",
           "attrs": {
-            "x": 80,
-            "y": 64,
-            "font-size": 48,
-            "text-anchor": "middle",
+            "cx": 108,
+            "cy": 8,
+            "r": 5,
             "fill": "currentColor"
-          },
-          "text": "15"
-        }
-      ],
-      "alt": "15"
-    },
-    {
-      "label": "16",
-      "description": "sixteen",
-      "elements": [
+          }
+        },
         {
-          "tag": "text",
+          "tag": "circle",
           "attrs": {
-            "x": 80,
-            "y": 64,
-            "font-size": 48,
-            "text-anchor": "middle",
+            "cx": 136,
+            "cy": 8,
+            "r": 5,
             "fill": "currentColor"
-          },
-          "text": "16"
-        }
-      ],
-      "alt": "16"
-    },
-    {
-      "label": "17",
-      "description": "seventeen",
-      "elements": [
+          }
+        },
         {
-          "tag": "text",
+          "tag": "circle",
           "attrs": {
-            "x": 80,
-            "y": 64,
-            "font-size": 48,
-            "text-anchor": "middle",
+            "cx": 24,
+            "cy": 21,
+            "r": 5,
             "fill": "currentColor"
-          },
-          "text": "17"
-        }
-      ],
-      "alt": "17"
-    },
-    {
-      "label": "18",
-      "description": "eighteen",
-      "elements": [
+          }
+        },
         {
-          "tag": "text",
+          "tag": "circle",
           "attrs": {
-            "x": 80,
-            "y": 64,
-            "font-size": 48,
-            "text-anchor": "middle",
+            "cx": 52,
+            "cy": 21,
+            "r": 5,
             "fill": "currentColor"
-          },
-          "text": "18"
-        }
-      ],
-      "alt": "18"
-    },
-    {
-      "label": "19",
-      "description": "nineteen",
-      "elements": [
+          }
+        },
         {
-          "tag": "text",
+          "tag": "circle",
           "attrs": {
-            "x": 80,
-            "y": 64,
-            "font-size": 48,
-            "text-anchor": "middle",
+            "cx": 80,
+            "cy": 21,
+            "r": 5,
             "fill": "currentColor"
-          },
-          "text": "19"
-        }
-      ],
-      "alt": "19"
-    },
-    {
-      "label": "20",
-      "description": "twenty",
-      "elements": [
+          }
+        },
         {
-          "tag": "text",
+          "tag": "circle",
           "attrs": {
-            "x": 80,
-            "y": 64,
-            "font-size": 48,
-            "text-anchor": "middle",
+            "cx": 108,
+            "cy": 21,
+            "r": 5,
             "fill": "currentColor"
-          },
-          "text": "20"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 21,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 41,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 54,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 74,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 87,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 87,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 87,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 87,
+            "r": 5,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 87,
+            "r": 5,
+            "fill": "currentColor"
+          }
         }
-      ],
-      "alt": "20"
+      ]
     }
   ],
-  "formulas": [],
+  "rules": [
+    "Point to each dot once as you count.",
+    "Say the number name and match it to the numeral.",
+    "Count each complete group as ten, then count any remaining dots."
+  ],
   "examples": [
     {
-      "question": "Write 13 in words.",
+      "question": "Write twenty-one using digits.",
       "steps": [
-        "13 is one of the teen numbers."
+        "Find the matching number card."
       ],
-      "answer": "thirteen"
+      "answer": "21"
     },
     {
-      "question": "Write twenty using digits.",
+      "question": "Write 30 in words.",
       "steps": [
-        "Twenty is two tens."
+        "Read the number name beneath the dots."
       ],
-      "answer": "20"
+      "answer": "thirty"
+    },
+    {
+      "question": "How many dots are in 3 full groups of ten?",
+      "steps": [
+        "Count ten for each full group."
+      ],
+      "answer": "30"
     }
   ],
   "exercises": [
     {
-      "id": "q1",
+      "id": "number-21",
       "type": "numeric",
-      "question": "Write five using digits.",
-      "answer": 5,
-      "solution": "Answer: 5"
+      "question": "Write the number for twenty-one.",
+      "answer": 21,
+      "solution": "twenty-one is 21."
     },
     {
-      "id": "q2",
+      "id": "name-21",
+      "type": "text",
+      "question": "Write 21 in words.",
+      "answer": "twenty-one",
+      "solution": "21 is written twenty-one."
+    },
+    {
+      "id": "number-22",
       "type": "numeric",
-      "question": "Write eleven using digits.",
-      "answer": 11,
-      "solution": "Answer: 11"
+      "question": "Write the number for twenty-two.",
+      "answer": 22,
+      "solution": "twenty-two is 22."
     },
     {
-      "id": "q3",
+      "id": "name-22",
+      "type": "text",
+      "question": "Write 22 in words.",
+      "answer": "twenty-two",
+      "solution": "22 is written twenty-two."
+    },
+    {
+      "id": "number-23",
       "type": "numeric",
-      "question": "Write nineteen using digits.",
-      "answer": 19,
-      "solution": "Answer: 19"
+      "question": "Write the number for twenty-three.",
+      "answer": 23,
+      "solution": "twenty-three is 23."
     },
     {
-      "id": "q4",
+      "id": "name-23",
       "type": "text",
-      "question": "Write 8 in words.",
-      "answer": "eight",
-      "solution": "Answer: eight"
+      "question": "Write 23 in words.",
+      "answer": "twenty-three",
+      "solution": "23 is written twenty-three."
     },
     {
-      "id": "q5",
-      "type": "text",
-      "question": "Write 12 in words.",
-      "answer": "twelve",
-      "solution": "Answer: twelve"
+      "id": "number-24",
+      "type": "numeric",
+      "question": "Write the number for twenty-four.",
+      "answer": 24,
+      "solution": "twenty-four is 24."
     },
     {
-      "id": "q6",
+      "id": "name-24",
       "type": "text",
-      "question": "Write 20 in words.",
-      "answer": "twenty",
-      "solution": "Answer: twenty"
+      "question": "Write 24 in words.",
+      "answer": "twenty-four",
+      "solution": "24 is written twenty-four."
+    },
+    {
+      "id": "number-25",
+      "type": "numeric",
+      "question": "Write the number for twenty-five.",
+      "answer": 25,
+      "solution": "twenty-five is 25."
+    },
+    {
+      "id": "name-25",
+      "type": "text",
+      "question": "Write 25 in words.",
+      "answer": "twenty-five",
+      "solution": "25 is written twenty-five."
+    },
+    {
+      "id": "number-26",
+      "type": "numeric",
+      "question": "Write the number for twenty-six.",
+      "answer": 26,
+      "solution": "twenty-six is 26."
+    },
+    {
+      "id": "name-26",
+      "type": "text",
+      "question": "Write 26 in words.",
+      "answer": "twenty-six",
+      "solution": "26 is written twenty-six."
+    },
+    {
+      "id": "number-27",
+      "type": "numeric",
+      "question": "Write the number for twenty-seven.",
+      "answer": 27,
+      "solution": "twenty-seven is 27."
+    },
+    {
+      "id": "name-27",
+      "type": "text",
+      "question": "Write 27 in words.",
+      "answer": "twenty-seven",
+      "solution": "27 is written twenty-seven."
+    },
+    {
+      "id": "number-28",
+      "type": "numeric",
+      "question": "Write the number for twenty-eight.",
+      "answer": 28,
+      "solution": "twenty-eight is 28."
+    },
+    {
+      "id": "name-28",
+      "type": "text",
+      "question": "Write 28 in words.",
+      "answer": "twenty-eight",
+      "solution": "28 is written twenty-eight."
+    },
+    {
+      "id": "number-29",
+      "type": "numeric",
+      "question": "Write the number for twenty-nine.",
+      "answer": 29,
+      "solution": "twenty-nine is 29."
+    },
+    {
+      "id": "name-29",
+      "type": "text",
+      "question": "Write 29 in words.",
+      "answer": "twenty-nine",
+      "solution": "29 is written twenty-nine."
+    },
+    {
+      "id": "number-30",
+      "type": "numeric",
+      "question": "Write the number for thirty.",
+      "answer": 30,
+      "solution": "thirty is 30."
+    },
+    {
+      "id": "name-30",
+      "type": "text",
+      "question": "Write 30 in words.",
+      "answer": "thirty",
+      "solution": "30 is written thirty."
+    },
+    {
+      "id": "dots-21",
+      "type": "numeric",
+      "question": "Count the dots: ● ● ● ● ●  ● ● ● ● ●  ● ● ● ● ●  ● ● ● ● ●  ●",
+      "answer": 21,
+      "solution": "There are 21 dots."
+    },
+    {
+      "id": "dots-25",
+      "type": "numeric",
+      "question": "Count the dots: ● ● ● ● ●  ● ● ● ● ●  ● ● ● ● ●  ● ● ● ● ●  ● ● ● ● ●",
+      "answer": 25,
+      "solution": "There are 25 dots."
+    },
+    {
+      "id": "dots-30",
+      "type": "numeric",
+      "question": "Count the dots: ● ● ● ● ●  ● ● ● ● ●  ● ● ● ● ●  ● ● ● ● ●  ● ● ● ● ●  ● ● ● ● ●",
+      "answer": 30,
+      "solution": "There are 30 dots."
     }
   ],
-  "summary": "Learn both the numeral and the word for every number from zero to twenty.",
+  "summary": "Recognise, name and count numbers 21 to 30.",
   "relatedTopics": [
+    "preschool-numbers",
     "preschool-counting",
     "preschool-tens-and-ones"
   ]
