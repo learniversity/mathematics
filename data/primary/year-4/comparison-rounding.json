@@ -31,42 +31,42 @@
       "type": "numeric",
       "question": "Round 36,482 to nearest hundred.",
       "answer": 36500,
-      "solution": "8 tens rounds up."
+      "solution": "36,482 is 18 from 36,500 and 82 from 36,400; round to 36,500."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "Round 71,499 to nearest thousand.",
       "answer": 71000,
-      "solution": "4 hundreds rounds down."
+      "solution": "71,499 is 499 from 71,000 and 501 from 72,000; round to 71,000."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "Round 85,000 to nearest ten-thousand.",
       "answer": 90000,
-      "solution": "Halfway rounds up."
+      "solution": "85,000 is halfway between 80,000 and 90,000; round up to 90,000."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "Round 99,950 to nearest hundred.",
       "answer": 100000,
-      "solution": "5 tens rounds up."
+      "solution": "99,950 is halfway between 99,900 and 100,000; round up to 100,000."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "Larger: 45,019 or 45,091?",
       "answer": 45091,
-      "solution": "Compare tens."
+      "solution": "The tens digits are 1 and 9; 45,091 > 45,019."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Insert >, < or = : 70,099 __ 70,900",
       "answer": "<",
-      "solution": "0 hundreds is less than 9 hundreds."
+      "solution": "The hundreds digits are 0 and 9; 70,099 < 70,900."
     }
   ],
   "summary": "Compare whole numbers from the highest place down. To round to a given place, inspect the digit immediately to its right: 0–4 stays at the lower multiple, 5–9 goes to the next multiple. Replace lower digits with zero.",
