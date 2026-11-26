@@ -1247,42 +1247,42 @@
       "type": "numeric",
       "question": "Write 27/100 as a decimal.",
       "answer": 0.27,
-      "solution": "27 hundredths."
+      "solution": "27 ÷ 100 = 0.27."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "What is the hundredths digit in 5.83?",
       "answer": 3,
-      "solution": "Second digit after the point."
+      "solution": "5.83 = 5 + 0.8 + 0.03; the hundredths digit is 3."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "Write 4 wholes and 9 hundredths.",
       "answer": 4.09,
-      "solution": "4 + 0.09."
+      "solution": "4 + 0.09 = 4.09."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Insert >, < or = : 0.7 __ 0.65",
       "answer": ">",
-      "solution": "0.70 > 0.65."
+      "solution": "0.7 = 0.70; 70 hundredths > 65 hundredths, so 0.7 > 0.65."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Insert >, < or = : 0.4 __ 0.40",
       "answer": "=",
-      "solution": "Trailing zeros do not change value."
+      "solution": "0.4 = 4/10 = 40/100 = 0.40."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "How many hundredths make one tenth?",
       "answer": 10,
-      "solution": "0.1 = 10/100."
+      "solution": "1/10 = 10/100; ten hundredths."
     }
   ],
   "summary": "Decimal places to the right of the point represent tenths, hundredths and smaller parts. A hundredth is one of 100 equal parts. Trailing zeros do not change a decimal value.",
