@@ -207,42 +207,42 @@
       "type": "numeric",
       "question": "Votes: A=12, B=20, C=8. Total?",
       "answer": 40,
-      "solution": "12 + 20 + 8."
+      "solution": "12 + 20 + 8 = 40 votes."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "Votes: A=12, B=20, C=8. Difference B−C?",
       "answer": 12,
-      "solution": "20 − 8."
+      "solution": "20 − 8 = 12 votes."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "A bar chart counts in fives. Fourth interval value?",
       "answer": 20,
-      "solution": "4 × 5."
+      "solution": "4 × 5 = 20."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Books: Mon=15, Tue=10, Wed=25. Least day?",
       "answer": "Tuesday",
-      "solution": "10 is smallest."
+      "solution": "10 < 15 < 25, so Tuesday has the fewest books."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "Pets: cats=14, dogs=11. How many more cats?",
       "answer": 3,
-      "solution": "14 − 11."
+      "solution": "14 − 11 = 3 cats."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "A pictograph symbol represents 4 people; 6 symbols represent?",
       "answer": 24,
-      "solution": "6 × 4."
+      "solution": "6 × 4 = 24 people."
     }
   ],
   "summary": "A bar chart compares categories using bars of equal width and a common scale starting at zero. Labels identify categories and the vertical scale shows frequencies. Compare heights to interpret the data.",
