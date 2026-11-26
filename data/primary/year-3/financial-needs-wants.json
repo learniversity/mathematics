@@ -22,42 +22,42 @@
       "type": "numeric",
       "question": "Budget RM40, essentials RM25. Remaining RM?",
       "answer": 15,
-      "solution": "Answer: 15"
+      "solution": "RM40 − RM25 = RM15."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "RM18 saved from RM50. Remaining to spend RM?",
       "answer": 32,
-      "solution": "Answer: 32"
+      "solution": "RM50 − RM18 = RM32."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "Two needs cost RM12 and RM8. Total RM?",
       "answer": 20,
-      "solution": "Answer: 20"
+      "solution": "RM12 + RM8 = RM20."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "Budget RM60, costs RM35 and RM15. Savings RM?",
       "answer": 10,
-      "solution": "Answer: 10"
+      "solution": "RM60 − (RM35 + RM15) = RM60 − RM50 = RM10."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "RM24 shared equally over 3 days. Daily RM?",
       "answer": 8,
-      "solution": "Answer: 8"
+      "solution": "RM24 ÷ 3 = RM8 per day."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Can you afford RM18 and RM16 from RM30? yes/no",
       "answer": "no",
-      "solution": "Answer: no"
+      "solution": "RM18 + RM16 = RM34; RM34 > RM30, so no."
     }
   ],
   "summary": "A need is something essential in a given situation; a want is something desirable but not essential. Compare costs within a budget, set aside savings and keep a simple record of spending.",
