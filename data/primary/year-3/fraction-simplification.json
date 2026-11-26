@@ -241,42 +241,42 @@
       "type": "text",
       "question": "Simplify 4/8 to lowest terms.",
       "answer": "1/2",
-      "solution": "Divide both by 4."
+      "solution": "4/8 = (4 ÷ 4)/(8 ÷ 4) = 1/2."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Simplify 9/12 to lowest terms.",
       "answer": "3/4",
-      "solution": "Divide both by 3."
+      "solution": "9/12 = (9 ÷ 3)/(12 ÷ 3) = 3/4."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "Complete 3/5 = ?/15",
       "answer": 9,
-      "solution": "Multiply numerator and denominator by 3."
+      "solution": "3/5 = (3 × 3)/(5 × 3) = 9/15."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Insert >, < or = : 3/4 __ 2/3",
       "answer": ">",
-      "solution": "9/12 > 8/12."
+      "solution": "3/4 = 9/12 and 2/3 = 8/12; 9/12 > 8/12."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Insert >, < or = : 4/6 __ 2/3",
       "answer": "=",
-      "solution": "Divide 4 and 6 by 2."
+      "solution": "4/6 = (4 ÷ 2)/(6 ÷ 2) = 2/3."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Simplify 10/15 to lowest terms.",
       "answer": "2/3",
-      "solution": "Divide both by 5."
+      "solution": "10/15 = (10 ÷ 5)/(15 ÷ 5) = 2/3."
     }
   ],
   "summary": "Equivalent fractions represent the same value. Divide the numerator and denominator by a common positive factor to simplify. To compare unlike fractions, express them using a common denominator.",
