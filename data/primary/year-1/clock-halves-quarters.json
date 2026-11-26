@@ -545,42 +545,42 @@
       "type": "numeric",
       "question": "Minute hand at 3 means how many minutes past?",
       "answer": 15,
-      "solution": "Answer: 15"
+      "solution": "Each number on the clock represents 5 minutes: 3 × 5 = 15 minutes."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "Minute hand at 6 means how many minutes past?",
       "answer": 30,
-      "solution": "Answer: 30"
+      "solution": "6 × 5 = 30 minutes."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "Minute hand at 9 means how many minutes past?",
       "answer": 45,
-      "solution": "Answer: 45"
+      "solution": "9 × 5 = 45 minutes."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Half past four in H:MM?",
       "answer": "4:30",
-      "solution": "Answer: 4:30"
+      "solution": "Half an hour = 60 ÷ 2 = 30 minutes; 30 minutes after 4:00 is 4:30."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Quarter past seven in H:MM?",
       "answer": "7:15",
-      "solution": "Answer: 7:15"
+      "solution": "A quarter of an hour = 60 ÷ 4 = 15 minutes; 15 minutes after 7:00 is 7:15."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Quarter to nine in H:MM?",
       "answer": "8:45",
-      "solution": "Answer: 8:45"
+      "solution": "A quarter of an hour is 15 minutes; 9:00 minus 15 minutes is 8:45."
     }
   ],
   "summary": "The hour hand is shorter and the minute hand is longer. When the minute hand points to 12 it is an exact hour; at 3 it is quarter past; at 6 it is half past; at 9 it is quarter to the next hour.",

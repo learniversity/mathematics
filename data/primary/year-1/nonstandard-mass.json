@@ -98,42 +98,42 @@
       "type": "numeric",
       "question": "An apple balances 3 blocks. Mass in blocks?",
       "answer": 3,
-      "solution": "Answer: 3"
+      "solution": "The balance is level with three equal blocks, so the apple has the same mass as 3 blocks."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "Two objects balance 5 and 2 blocks. Heavier object's block count?",
       "answer": 5,
-      "solution": "Answer: 5"
+      "solution": "5 > 2, so the object balancing 5 equal blocks is heavier."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "Difference between 7 and 4 equal weights?",
       "answer": 3,
-      "solution": "Answer: 3"
+      "solution": "7 − 4 = 3 equal weights."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "If both pans balance, are their masses equal? yes/no",
       "answer": "yes",
-      "solution": "Answer: yes"
+      "solution": "A level balance means the two pans have equal mass."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "Two objects each balance 2 blocks. Combined mass?",
       "answer": 4,
-      "solution": "Answer: 4"
+      "solution": "2 + 2 = 4 blocks."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "A bag balances 6 blocks; remove an amount equal to 2 blocks. Remaining?",
       "answer": 4,
-      "solution": "Answer: 4"
+      "solution": "6 − 2 = 4 blocks."
     }
   ],
   "summary": "A balance compares masses. When an object balances three identical weights, its mass equals three of those units. Use equal reference weights for comparison.",

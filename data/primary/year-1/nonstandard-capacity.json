@@ -57,42 +57,42 @@
       "type": "numeric",
       "question": "A bottle holds 3 cups. Another holds 6. Larger capacity in cups?",
       "answer": 6,
-      "solution": "Answer: 6"
+      "solution": "6 > 3, so the bottle holding 6 equal cups has greater capacity."
     },
     {
       "id": "q2",
       "type": "numeric",
-      "question": "A bucket holds 8 cups; add 3 cups. Empty capacity in cups?",
+      "question": "An empty bucket holds 8 cups. Pour in 3 cups. How many more cups can it hold?",
       "answer": 5,
-      "solution": "Answer: 5"
+      "solution": "8 − 3 = 5 cups of space remaining."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "Two jugs hold 4 cups each. Total?",
       "answer": 8,
-      "solution": "Answer: 8"
+      "solution": "4 + 4 = 8 cups."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Should comparison cups have equal size? yes/no",
       "answer": "yes",
-      "solution": "Answer: yes"
+      "solution": "Equal-sized cups represent the same volume, making the comparison fair."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "A jug holds 7 cups; remove 2 from a full jug. Remaining?",
       "answer": 5,
-      "solution": "Answer: 5"
+      "solution": "7 − 2 = 5 cups."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "A cup holds less than a jug of 5 such cups. How many cups fill the jug?",
       "answer": 5,
-      "solution": "Answer: 5"
+      "solution": "The jug holds five cupfuls, so 5 × 1 = 5 cups."
     }
   ],
   "summary": "Capacity describes how much a container can hold. Fill containers with the same sized cup to compare their capacities. Count complete cups and avoid spilling.",
