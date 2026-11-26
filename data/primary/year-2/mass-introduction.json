@@ -88,35 +88,35 @@
       "type": "numeric",
       "question": "2 kg + 4 kg = how many kg?",
       "answer": 6,
-      "solution": "Answer: 6"
+      "solution": "2 + 4 = 6 kg."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "Which is heavier: 300 g or 700 g?",
       "answer": 700,
-      "solution": "Answer: 700"
+      "solution": "700 > 300, so 700 g is heavier."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "How many grams make one kilogram?",
       "answer": 1000,
-      "solution": "Answer: 1000"
+      "solution": "1 kg = 1,000 g."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "A 5 kg bag loses 2 kg. Mass remaining in kg?",
       "answer": 3,
-      "solution": "Answer: 3"
+      "solution": "5 − 2 = 3 kg."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "100 g + 200 g = how many grams?",
       "answer": 300,
-      "solution": "Answer: 300"
+      "solution": "100 + 200 = 300 g."
     }
   ],
   "summary": "Mass measures how much matter an object contains. A balance compares masses. Grams (g) and kilograms (kg) are common units.",

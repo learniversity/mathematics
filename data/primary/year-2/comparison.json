@@ -39,42 +39,42 @@
       "type": "numeric",
       "question": "Which is greater: 738 or 783?",
       "answer": 783,
-      "solution": "The tens digits are 3 and 8."
+      "solution": "Both have 7 hundreds; 8 tens > 3 tens, so 783 > 738."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "Which is smaller: 609 or 690?",
       "answer": 609,
-      "solution": "Zero tens is fewer than nine tens."
+      "solution": "Both have 6 hundreds; 0 tens < 9 tens, so 609 < 690."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Write >, < or = : 412 __ 421",
       "answer": "<",
-      "solution": "Both have four hundreds; one ten is less than two."
+      "solution": "Both have 4 hundreds; 1 ten < 2 tens, so 412 < 421."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Write >, < or = : 900 __ 899",
       "answer": ">",
-      "solution": "900 has nine hundreds."
+      "solution": "900 has 9 hundreds and 899 has 8 hundreds, so 900 > 899."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "Which is the largest of 321, 123 and 312?",
       "answer": 321,
-      "solution": "321 has the greatest tens digit among the numbers with three hundreds."
+      "solution": "321 and 312 have 3 hundreds; 321 has more tens. 321 > 312 > 123."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "Which is the smallest of 509, 590 and 905?",
       "answer": 509,
-      "solution": "509 has five hundreds and zero tens."
+      "solution": "509 and 590 have 5 hundreds; 509 has fewer tens. 509 < 590 < 905."
     }
   ],
   "summary": "Compare hundreds first. If they are equal, compare tens; if those are equal, compare ones. Ascending order goes from smallest to largest, and descending order reverses it.",

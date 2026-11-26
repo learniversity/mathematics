@@ -100,35 +100,35 @@
       "type": "numeric",
       "question": "How many millilitres make one litre?",
       "answer": 1000,
-      "solution": "Answer: 1000"
+      "solution": "1 L = 1,000 mL."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "2 L + 3 L = how many L?",
       "answer": 5,
-      "solution": "Answer: 5"
+      "solution": "2 + 3 = 5 L."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "4 L − 1 L = how many L?",
       "answer": 3,
-      "solution": "Answer: 3"
+      "solution": "4 − 1 = 3 L."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "Which is greater: 200 mL or 500 mL?",
       "answer": 500,
-      "solution": "Answer: 500"
+      "solution": "500 > 200, so 500 mL is greater."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "100 mL + 300 mL = how many mL?",
       "answer": 400,
-      "solution": "Answer: 400"
+      "solution": "100 + 300 = 400 mL."
     }
   ],
   "summary": "Capacity is how much a container can hold. Litres (L) and millilitres (mL) measure liquid volume. Compare quantities using the same unit.",

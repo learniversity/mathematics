@@ -150,42 +150,42 @@
       "type": "numeric",
       "question": "What is the value of 8 in 826?",
       "answer": 800,
-      "solution": "8 is in the hundreds place."
+      "solution": "8 × 100 = 800."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "What is the value of 6 in 364?",
       "answer": 60,
-      "solution": "6 is in the tens place."
+      "solution": "6 × 10 = 60."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "What digit is in the ones place of 907?",
       "answer": 7,
-      "solution": "Read the rightmost digit."
+      "solution": "907 = 900 + 0 + 7; the ones digit is 7."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "400 + 30 + 9",
       "answer": 439,
-      "solution": "Combine the place values."
+      "solution": "400 + 30 + 9 = 439."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "6 hundreds and 5 ones make what number?",
       "answer": 605,
-      "solution": "600 + 0 + 5 = 605."
+      "solution": "6 × 100 + 0 × 10 + 5 = 605."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "How many tens are represented by the tens digit in 572?",
       "answer": 7,
-      "solution": "The tens digit is 7."
+      "solution": "572 = 500 + 70 + 2; 70 ÷ 10 = 7 tens."
     }
   ],
   "summary": "Place value is the value of a digit determined by its position. In a three-digit number, the positions from left to right are hundreds, tens and ones. A zero holds an empty place.",

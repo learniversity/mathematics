@@ -134,35 +134,35 @@
       "type": "numeric",
       "question": "How many equal pieces make two halves?",
       "answer": 2,
-      "solution": "Answer: 2"
+      "solution": "Each half is one of two equal pieces: 1 + 1 = 2 pieces."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "How many quarters make a whole?",
       "answer": 4,
-      "solution": "Answer: 4"
+      "solution": "4 × 1/4 = 1 whole."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Write the fraction for one of two equal parts.",
       "answer": "1/2",
-      "solution": "Answer: 1/2"
+      "solution": "One selected part out of two equal parts gives 1/2."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Write the fraction for one of four equal parts.",
       "answer": "1/4",
-      "solution": "Answer: 1/4"
+      "solution": "One selected part out of four equal parts gives 1/4."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "How many quarters are in one half?",
       "answer": 2,
-      "solution": "Answer: 2"
+      "solution": "1/2 = 2/4, so two quarters make a half."
     }
   ],
   "summary": "A fraction describes equal parts of a whole. One half means one of two equal parts; one quarter means one of four equal parts. The denominator tells how many equal parts the whole is divided into.",

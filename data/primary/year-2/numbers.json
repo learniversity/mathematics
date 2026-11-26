@@ -152,7 +152,7 @@
       "type": "numeric",
       "question": "Write three hundred and nine in digits.",
       "answer": 309,
-      "solution": "300 + 9 = 309."
+      "solution": "300 + 0 + 9 = 309."
     },
     {
       "id": "q3",
@@ -173,14 +173,14 @@
       "type": "text",
       "question": "Write 215 in words.",
       "answer": "two hundred and fifteen",
-      "solution": "215 is two hundred and fifteen."
+      "solution": "215 = 200 + 10 + 5; read two hundred and fifteen."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "How many hundreds make 1,000?",
       "answer": 10,
-      "solution": "10 × 100 = 1,000."
+      "solution": "1,000 ÷ 100 = 10 hundreds."
     }
   ],
   "summary": "Whole numbers can be represented using digits, words and groups of hundreds, tens and ones. The numbers from 0 to 1,000 include 1,001 different whole numbers.",

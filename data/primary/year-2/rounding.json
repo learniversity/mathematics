@@ -226,42 +226,42 @@
       "type": "numeric",
       "question": "Round 23 to the nearest ten.",
       "answer": 20,
-      "solution": "3 is less than 5."
+      "solution": "23 is 3 away from 20 and 7 away from 30; round to 20."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "Round 58 to the nearest ten.",
       "answer": 60,
-      "solution": "8 is at least 5."
+      "solution": "58 is 2 away from 60 and 8 away from 50; round to 60."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "Round 115 to the nearest ten.",
       "answer": 120,
-      "solution": "A halfway value rounds up."
+      "solution": "115 is halfway between 110 and 120; round up to 120."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "Round 304 to the nearest ten.",
       "answer": 300,
-      "solution": "4 is less than 5."
+      "solution": "304 is 4 away from 300 and 6 away from 310; round to 300."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "Round 995 to the nearest ten.",
       "answer": 1000,
-      "solution": "Round up to the next thousand."
+      "solution": "995 is halfway between 990 and 1,000; round up to 1,000."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "Round 760 to the nearest ten.",
       "answer": 760,
-      "solution": "It is already a multiple of ten."
+      "solution": "760 ÷ 10 = 76 with no remainder; it is already a multiple of ten."
     }
   ],
   "summary": "Rounding replaces a number with a nearby multiple of ten. If the ones digit is 0–4, round down; if it is 5–9, round up. A number already ending in zero stays unchanged.",
