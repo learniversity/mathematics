@@ -37,42 +37,42 @@
       "type": "numeric",
       "question": "480 ÷ 12",
       "answer": 40,
-      "solution": "12 × 40 = 480."
+      "solution": "480 ÷ 12 = 40 because 12 × 40 = 480."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "875 ÷ 25",
       "answer": 35,
-      "solution": "25 × 35 = 875."
+      "solution": "875 ÷ 25 = (750 ÷ 25) + (125 ÷ 25) = 30 + 5 = 35."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "1,296 ÷ 18",
       "answer": 72,
-      "solution": "18 × 72 = 1,296."
+      "solution": "1,296 ÷ 18 = (1,260 ÷ 18) + (36 ÷ 18) = 70 + 2 = 72."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "2,340 ÷ 36",
       "answer": 65,
-      "solution": "36 × 65 = 2,340."
+      "solution": "2,340 ÷ 36 = (2,160 ÷ 36) + (180 ÷ 36) = 60 + 5 = 65."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "Whole-number quotient of 765 ÷ 22?",
       "answer": 34,
-      "solution": "22 × 34 = 748."
+      "solution": "765 = 22 × 34 + 17; quotient = 34."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "Remainder of 765 ÷ 22?",
       "answer": 17,
-      "solution": "765 − 748."
+      "solution": "22 × 34 = 748; 765 − 748 = 17."
     }
   ],
   "summary": "Estimate how many times the divisor fits into the leading digits. Multiply, subtract and bring down the next digit. Continue until all digits have been used. The remainder must be smaller than the divisor.",
