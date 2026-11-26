@@ -132,42 +132,42 @@
       "type": "numeric",
       "question": "96 ÷ 4",
       "answer": 24,
-      "solution": "4 × 24 = 96."
+      "solution": "96 ÷ 4 = (80 ÷ 4) + (16 ÷ 4) = 20 + 4 = 24."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "135 ÷ 5",
       "answer": 27,
-      "solution": "5 × 27 = 135."
+      "solution": "135 ÷ 5 = (100 ÷ 5) + (35 ÷ 5) = 20 + 7 = 27."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "648 ÷ 8",
       "answer": 81,
-      "solution": "8 × 81 = 648."
+      "solution": "648 ÷ 8 = (640 ÷ 8) + (8 ÷ 8) = 80 + 1 = 81."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "924 ÷ 7",
       "answer": 132,
-      "solution": "7 × 132 = 924."
+      "solution": "924 ÷ 7 = (700 ÷ 7) + (210 ÷ 7) + (14 ÷ 7) = 100 + 30 + 2 = 132."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "Quotient (whole-number part) of 763 ÷ 5?",
       "answer": 152,
-      "solution": "5 × 152 = 760."
+      "solution": "763 = 5 × 152 + 3; the quotient is 152."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "Remainder of 763 ÷ 5?",
       "answer": 3,
-      "solution": "763 − 760 = 3."
+      "solution": "5 × 152 = 760; 763 − 760 = 3."
     }
   ],
   "summary": "Long division divides place values from left to right. Divide, multiply, subtract, then bring down the next digit. The final remainder is smaller than the positive divisor.",
