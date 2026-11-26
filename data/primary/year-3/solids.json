@@ -133,42 +133,42 @@
       "type": "numeric",
       "question": "Faces of a cube?",
       "answer": 6,
-      "solution": "Six square faces."
+      "solution": "A cube has 2 top/bottom faces + 4 side faces = 6 faces."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "Edges of a cuboid?",
       "answer": 12,
-      "solution": "4 + 4 + 4."
+      "solution": "4 top + 4 bottom + 4 vertical edges = 12 edges."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "Vertices of a triangular prism?",
       "answer": 6,
-      "solution": "3 + 3."
+      "solution": "3 + 3 = 6 vertices."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "Faces of a square-based pyramid?",
       "answer": 5,
-      "solution": "1 square + 4 triangles."
+      "solution": "1 square + 4 triangular faces = 5 faces."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "Vertices of a square-based pyramid?",
       "answer": 5,
-      "solution": "4 base corners + apex."
+      "solution": "4 base corners + 1 apex = 5 vertices."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "Edges of a triangular prism?",
       "answer": 9,
-      "solution": "3 + 3 + 3."
+      "solution": "3 + 3 + 3 = 9 edges."
     }
   ],
   "summary": "Polyhedra are solids with flat polygonal faces. Faces meet along edges, and edges meet at vertices. A cube and cuboid each have 6 faces, 12 edges and 8 vertices. A triangular prism has 5 faces, 9 edges and 6 vertices.",
