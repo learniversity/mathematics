@@ -114,42 +114,42 @@
       "type": "numeric",
       "question": "34 × 12",
       "answer": 408,
-      "solution": "340 + 68."
+      "solution": "34 × (10 + 2) = 340 + 68 = 408."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "125 × 16",
       "answer": 2000,
-      "solution": "1,250 + 750."
+      "solution": "125 × (10 + 6) = 1,250 + 750 = 2,000."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "208 × 25",
       "answer": 5200,
-      "solution": "4,160 + 1,040."
+      "solution": "208 × (20 + 5) = 4,160 + 1,040 = 5,200."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "432 × 31",
       "answer": 13392,
-      "solution": "12,960 + 432."
+      "solution": "432 × (30 + 1) = 12,960 + 432 = 13,392."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "1,205 × 12",
       "answer": 14460,
-      "solution": "12,050 + 2,410."
+      "solution": "1,205 × (10 + 2) = 12,050 + 2,410 = 14,460."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "24 boxes hold 135 items each. Total?",
       "answer": 3240,
-      "solution": "135 × 24."
+      "solution": "135 × (20 + 4) = 2,700 + 540 = 3,240 items."
     }
   ],
   "summary": "Multiply by each place of the multiplier, then add the partial products. The tens digit represents tens, so its partial product is multiplied by ten.",
