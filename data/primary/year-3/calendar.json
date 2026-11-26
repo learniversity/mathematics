@@ -35,42 +35,42 @@
       "type": "numeric",
       "question": "Days in February in 2027?",
       "answer": 28,
-      "solution": "2027 is not divisible by 4."
+      "solution": "2027 ÷ 4 = 506 remainder 3; not a leap year, so February has 28 days."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "Days in February in 2028?",
       "answer": 29,
-      "solution": "2028 is a leap year."
+      "solution": "2028 ÷ 4 = 507; not a century year, so February has 29 days."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "Days in a leap year?",
       "answer": 366,
-      "solution": "One extra day in February."
+      "solution": "365 + 1 = 366 days."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "Days in 5 weeks?",
       "answer": 35,
-      "solution": "5 × 7."
+      "solution": "5 × 7 = 35 days."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "Days from 30 June to 2 July inclusive?",
       "answer": 3,
-      "solution": "June 30 plus July 1 and 2."
+      "solution": "1 day in June + 2 days in July = 3 days."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Is 2100 a leap year? yes/no",
       "answer": "no",
-      "solution": "It is a century year not divisible by 400."
+      "solution": "2100 ÷ 400 = 5 remainder 100; century years must be divisible by 400, so no."
     }
   ],
   "summary": "Calendar calculations use the actual number of days in each month. In the Gregorian calendar, February has 28 days normally and 29 in leap years. A leap year is divisible by 4, except century years must also be divisible by 400.",
