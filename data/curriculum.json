@@ -66,19 +66,19 @@
     {
       "id": "preschool-numbers",
       "level": "preschool",
-      "title": "Numbers 0–20",
+      "title": "Numbers 0–10",
       "path": "data/preschool/numbers.json"
     },
     {
       "id": "preschool-counting",
       "level": "preschool",
-      "title": "Counting to 20",
+      "title": "Numbers 11–20",
       "path": "data/preschool/counting.json"
     },
     {
       "id": "preschool-number-names",
       "level": "preschool",
-      "title": "Number Names 0–20",
+      "title": "Numbers 21–30",
       "path": "data/preschool/number-names.json"
     },
     {
