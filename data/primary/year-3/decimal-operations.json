@@ -95,42 +95,42 @@
       "type": "numeric",
       "question": "2.35 + 1.42",
       "answer": 3.77,
-      "solution": "Add corresponding places."
+      "solution": "Align decimal points: 2.35 + 1.42 = 3.77."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "5.6 + 0.75",
       "answer": 6.35,
-      "solution": "5.60 + 0.75."
+      "solution": "5.60 + 0.75 = 6.35."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "9.2 − 3.47",
       "answer": 5.73,
-      "solution": "9.20 − 3.47."
+      "solution": "9.20 − 3.47 = 5.73."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "10 − 0.85",
       "answer": 9.15,
-      "solution": "10.00 − 0.85."
+      "solution": "10.00 − 0.85 = 9.15."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "4.08 + 2.9",
       "answer": 6.98,
-      "solution": "4.08 + 2.90."
+      "solution": "4.08 + 2.90 = 6.98."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "7.50 − 2.25",
       "answer": 5.25,
-      "solution": "750 hundredths − 225 hundredths."
+      "solution": "750 − 225 = 525 hundredths = 5.25."
     }
   ],
   "summary": "Align decimal points before adding or subtracting. Add trailing zeros if necessary to align place values. The decimal point in the answer remains in the same column.",
