@@ -72,8 +72,14 @@ async function render(){
  const t=topics.find(t=>t.id===id);if(!t){main.textContent='Lesson not found.';return}
  main.textContent='Loading lesson…';let d;try{const res=await fetch(t.path);if(!res.ok)throw Error();d=await res.json()}catch{if(request===renderId)main.textContent='Unable to load this lesson. Please try again.';return}if(request!==renderId)return;main.replaceChildren();
  const layout=document.createElement('div');layout.className='layout';const aside=document.createElement('aside');const article=document.createElement('article');layout.append(aside,article);main.append(layout);
- const back=document.createElement('a');back.href='#level/'+t.level;back.textContent='← '+levels.find(l=>l.id===t.level).title;aside.append(back);
- for(const s of topics.filter(s=>s.level===t.level)){const a=document.createElement('a');a.href='#lesson/'+s.id;a.textContent=s.title;if(s.id===id)a.setAttribute('aria-current','page');aside.append(a)}
+ const stage=levels.find(l=>l.id===t.level), stageTopics=topics.filter(s=>s.level===t.level), position=stageTopics.findIndex(s=>s.id===id);
+ const back=document.createElement('a');back.className='lesson-back';back.href='#level/'+t.level;back.textContent='← '+stage.title;aside.append(back);
+ const menu=document.createElement('details');menu.className='topic-menu';
+ const toggle=document.createElement('summary');const label=document.createElement('strong');label.textContent='Browse topics';const meta=document.createElement('span');meta.className='muted topic-menu-meta';meta.textContent=stage.title+' · '+(position+1)+' of '+stageTopics.length;toggle.append(label,meta);menu.append(toggle);
+ const topicList=document.createElement('nav');topicList.className='topic-list';topicList.setAttribute('aria-label',stage.title+' topics');
+ for(const [i,s] of stageTopics.entries()){const a=document.createElement('a');a.href='#lesson/'+s.id;a.textContent=(i+1)+'. '+s.title;if(s.id===id)a.setAttribute('aria-current','page');a.addEventListener('click',()=>{menu.open=false});topicList.append(a)}
+ menu.append(topicList);aside.append(menu);
+ menu.addEventListener('toggle',()=>{if(menu.open){const current=topicList.querySelector('[aria-current="page"]');if(current)topicList.scrollTop=Math.max(0,current.offsetTop-topicList.offsetTop-topicList.clientHeight/2+current.offsetHeight/2)}});
  const h=document.createElement('h1');h.textContent=d.title;article.append(h);
  const intro=document.createElement('p');intro.textContent=d.introduction;article.append(intro);
  for(const [title,value] of [['Definition',d.definition],['Symbols',d.symbols],['Visual guide',d.visuals],['Formulas',d.formulas],['Rules & Properties',d.rules],['Examples',d.examples],['Common Mistakes',d.commonMistakes],['Exercises',d.exercises],['Summary',d.summary]]){
@@ -94,6 +100,11 @@ async function render(){
  for(const [i,v] of value.entries()){const block=document.createElement('div');block.className=title==='Formulas'?'formula':'example';if(typeof v==='string'){block.textContent=v}else if(title==='Examples'){const q=document.createElement('h3');q.textContent='Example '+(i+1);const p=document.createElement('p');p.textContent=v.question;block.append(q,p);for(const step of v.steps||[]){const s=document.createElement('p');s.textContent=step;block.append(s)}const a=document.createElement('strong');a.textContent='Answer: '+v.answer;block.append(a)}else{const strong=document.createElement('strong');strong.textContent=v.expression||v.symbol||v.title||'';const p=document.createElement('p');p.textContent=v.description||v.meaning||'';block.append(strong,p)}section.append(block)}
  }
  const related=document.createElement('section');const rh=document.createElement('h2');rh.textContent='Related topics';related.append(rh);for(const key of d.relatedTopics||[]){const item=topics.find(x=>x.id===key);if(item){const p=document.createElement('p');const a=document.createElement('a');a.href='#lesson/'+key;a.textContent=item.title;p.append(a);related.append(p)}}if(related.children.length>1)article.append(related);
+ const navigation=document.createElement('nav');navigation.className='lesson-pagination';navigation.setAttribute('aria-label','Lesson navigation');
+ for(const [offset,caption] of [[-1,'← Previous'],[0,''],[1,'Next →']]){
+ if(!offset){const count=document.createElement('span');count.className='muted';count.textContent=(position+1)+' / '+stageTopics.length;navigation.append(count);continue}
+ const item=stageTopics[position+offset];const control=document.createElement(item?'a':'span');control.className='lesson-step';control.textContent=caption;if(item){control.href='#lesson/'+item.id;control.setAttribute('aria-label',caption+': '+item.title);control.title=item.title}else{control.setAttribute('aria-disabled','true')}navigation.append(control)}
+ article.append(navigation);
  const target=sectionId;if(target)document.getElementById(target==='practice'?'exercises':target)?.scrollIntoView();return
  }
  main.textContent='Page not found. Use the navigation to return to the library.';
