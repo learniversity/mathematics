@@ -82,18 +82,6 @@
       "path": "data/preschool/number-names.json"
     },
     {
-      "id": "preschool-tens-and-ones",
-      "level": "preschool",
-      "title": "Tens and Ones",
-      "path": "data/preschool/tens-and-ones.json"
-    },
-    {
-      "id": "preschool-counting-tens",
-      "level": "preschool",
-      "title": "Counting in Tens",
-      "path": "data/preschool/counting-tens.json"
-    },
-    {
       "id": "preschool-number-order",
       "level": "preschool",
       "title": "Number Order",
@@ -104,6 +92,18 @@
       "level": "preschool",
       "title": "More, Less and Equal",
       "path": "data/preschool/comparison.json"
+    },
+    {
+      "id": "preschool-tens-and-ones",
+      "level": "preschool",
+      "title": "Tens and Ones",
+      "path": "data/preschool/tens-and-ones.json"
+    },
+    {
+      "id": "preschool-counting-tens",
+      "level": "preschool",
+      "title": "Counting in Tens",
+      "path": "data/preschool/counting-tens.json"
     },
     {
       "id": "preschool-combining",
@@ -130,16 +130,16 @@
       "path": "data/preschool/solid-shapes.json"
     },
     {
-      "id": "preschool-patterns",
-      "level": "preschool",
-      "title": "Patterns",
-      "path": "data/preschool/patterns.json"
-    },
-    {
       "id": "preschool-sorting",
       "level": "preschool",
       "title": "Sorting and Grouping",
       "path": "data/preschool/sorting.json"
+    },
+    {
+      "id": "preschool-patterns",
+      "level": "preschool",
+      "title": "Patterns",
+      "path": "data/preschool/patterns.json"
     },
     {
       "id": "preschool-measurement",
