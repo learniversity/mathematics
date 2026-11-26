@@ -81,27 +81,27 @@
       "type": "numeric",
       "question": "Cats: 4, dogs: 6. How many pets altogether?",
       "answer": 10,
-      "solution": "Answer: 10"
+      "solution": "4 + 6 = 10 pets."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Red: 3, blue: 7. Which colour has more votes?",
       "answer": "blue",
-      "solution": "Answer: blue"
+      "solution": "7 > 3, so blue has more votes."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "Red: 3, blue: 7. How many more blue votes?",
       "answer": 4,
-      "solution": "Answer: 4"
+      "solution": "7 − 3 = 4 votes."
     },
     {
       "question": "Each picture represents one book. How many books do 3 pictures represent?",
       "answer": 3,
       "type": "numeric",
-      "solution": "Three pictures represent three books.",
+      "solution": "3 × 1 = 3 books.",
       "id": "q4"
     },
     {
@@ -109,7 +109,7 @@
       "type": "numeric",
       "question": "How many tally marks represent five objects?",
       "answer": 5,
-      "solution": "Answer: 5"
+      "solution": "A group of five tally marks has four upright marks and one crossing mark: 4 + 1 = 5."
     }
   ],
   "summary": "Collect simple data by sorting and counting objects. A tally records each object with a mark. A pictograph uses pictures to show data; in this lesson each picture represents one item.",

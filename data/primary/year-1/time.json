@@ -389,35 +389,35 @@
       "type": "numeric",
       "question": "How many minutes are in one hour?",
       "answer": 60,
-      "solution": "Answer: 60"
+      "solution": "One hour contains 60 minutes; the minute hand makes one full turn."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "How many days are in a week?",
       "answer": 7,
-      "solution": "Answer: 7"
+      "solution": "Count Monday, Tuesday, Wednesday, Thursday, Friday, Saturday and Sunday: 7 days."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "How many months are in a year?",
       "answer": 12,
-      "solution": "Answer: 12"
+      "solution": "Count the months from January to December: 12 months."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "What hour is shown when the short hand is at 8 and long hand at 12?",
       "answer": 8,
-      "solution": "Answer: 8"
+      "solution": "The minute hand at 12 means zero minutes; the hour hand at 8 means 8 o’clock."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "How many days are in three weeks?",
       "answer": 21,
-      "solution": "Answer: 21"
+      "solution": "3 × 7 = 21 days."
     }
   ],
   "summary": "A clock measures time. On an analogue clock, the short hand shows the hour and the long hand shows the minutes. When the long hand points to 12, the time is an exact hour. A calendar organises days into weeks and months.",

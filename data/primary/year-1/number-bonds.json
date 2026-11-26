@@ -22,42 +22,42 @@
       "type": "numeric",
       "question": "4 + ? = 10",
       "answer": 6,
-      "solution": "Answer: 6"
+      "solution": "10 − 4 = 6; check: 4 + 6 = 10."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "? + 3 = 8",
       "answer": 5,
-      "solution": "Answer: 5"
+      "solution": "8 − 3 = 5; check: 5 + 3 = 8."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "10,20,30,?",
       "answer": 40,
-      "solution": "Answer: 40"
+      "solution": "Add 10 each time: 30 + 10 = 40."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "2,4,6,?",
       "answer": 8,
-      "solution": "Answer: 8"
+      "solution": "Add 2 each time: 6 + 2 = 8."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "25,20,15,?",
       "answer": 10,
-      "solution": "Answer: 10"
+      "solution": "Subtract 5 each time: 15 − 5 = 10."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "20 + ? = 50",
       "answer": 30,
-      "solution": "Answer: 30"
+      "solution": "50 − 20 = 30; check: 20 + 30 = 50."
     }
   ],
   "summary": "A number bond shows two parts that combine to make a total. Count in ones, twos, fives and tens to recognise repeating increases or decreases.",

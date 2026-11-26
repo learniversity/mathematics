@@ -195,35 +195,35 @@
       "type": "numeric",
       "question": "How many faces does a cube have?",
       "answer": 6,
-      "solution": "Answer: 6"
+      "solution": "Count the top, bottom, front, back, left and right faces: 6."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "How many vertices does a cube have?",
       "answer": 8,
-      "solution": "Answer: 8"
+      "solution": "Count 4 top corners and 4 bottom corners: 4 + 4 = 8."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "How many edges does a cube have?",
       "answer": 12,
-      "solution": "Answer: 12"
+      "solution": "Count 4 top edges, 4 bottom edges and 4 vertical edges: 4 + 4 + 4 = 12."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Name the solid shaped like a ball.",
       "answer": "sphere",
-      "solution": "Answer: sphere"
+      "solution": "A sphere is round in every direction, like a ball."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Name the solid shaped like a can.",
       "answer": "cylinder",
-      "solution": "Answer: cylinder"
+      "solution": "A cylinder has two circular flat faces and one curved surface, like a can."
     }
   ],
   "summary": "Solid shapes occupy space. A face is a flat surface, an edge is where two faces meet on a polyhedron, and a vertex is a corner. Some solids have curved surfaces.",

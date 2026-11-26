@@ -104,35 +104,35 @@
       "type": "numeric",
       "question": "How many vertices does a triangle have?",
       "answer": 3,
-      "solution": "Answer: 3"
+      "solution": "A triangle has three corners where its three sides meet."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "How many sides does a pentagon have?",
       "answer": 5,
-      "solution": "Answer: 5"
+      "solution": "A pentagon is a polygon with five straight sides."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "How many sides does a hexagon have?",
       "answer": 6,
-      "solution": "Answer: 6"
+      "solution": "A hexagon is a polygon with six straight sides."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Name the shape with four equal sides and four right angles.",
       "answer": "square",
-      "solution": "Answer: square"
+      "solution": "A square has four equal straight sides and four right angles."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "How many straight sides does a circle have?",
       "answer": 0,
-      "solution": "Answer: 0"
+      "solution": "A circle has a curved boundary, not a straight side."
     }
   ],
   "summary": "A two-dimensional shape is flat. Polygons have straight sides; circles have curved boundaries. A vertex is a corner where two sides meet.",

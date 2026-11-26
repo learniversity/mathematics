@@ -114,42 +114,42 @@
       "type": "numeric",
       "question": "A ribbon covers 8 blocks and another covers 5. Which is longer? Enter block count.",
       "answer": 8,
-      "solution": "Answer: 8"
+      "solution": "8 > 5, so the ribbon covering 8 blocks is longer when the blocks are equal."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "A line covers 7 equal clips. Length in clips?",
       "answer": 7,
-      "solution": "Answer: 7"
+      "solution": "Count the seven equal clips placed end to end: 7 clips."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "Two lines cover 6 and 4 blocks. Difference?",
       "answer": 2,
-      "solution": "Answer: 2"
+      "solution": "6 − 4 = 2 blocks."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Should units have equal length? yes/no",
       "answer": "yes",
-      "solution": "Answer: yes"
+      "solution": "Equal-length units make the measurements consistent and comparable."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Should there be gaps between units? yes/no",
       "answer": "no",
-      "solution": "Answer: no"
+      "solution": "Gaps leave part of the length unmeasured, so place units end to end."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "A book is 3 hand spans long. Another is 2 hand spans using the same hand. Total spans?",
       "answer": 5,
-      "solution": "Answer: 5"
+      "solution": "3 + 2 = 5 hand spans."
     }
   ],
   "summary": "Measure length by placing equal-sized objects end to end without gaps or overlaps. Use the same unit when comparing lengths.",

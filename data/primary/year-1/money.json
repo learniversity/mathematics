@@ -65,35 +65,35 @@
       "type": "numeric",
       "question": "How many sen make RM1?",
       "answer": 100,
-      "solution": "Answer: 100"
+      "solution": "RM1 = 100 sen."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "How many sen make RM2?",
       "answer": 200,
-      "solution": "Answer: 200"
+      "solution": "2 × 100 = 200 sen."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "A book costs RM4 and a pen costs RM3. Total in RM?",
       "answer": 7,
-      "solution": "Answer: 7"
+      "solution": "4 + 3 = RM7."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "Change in RM from RM10 after paying RM6?",
       "answer": 4,
-      "solution": "Answer: 4"
+      "solution": "10 − 6 = RM4."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "50 sen + 20 sen = how many sen?",
       "answer": 70,
-      "solution": "Answer: 70"
+      "solution": "50 + 20 = 70 sen."
     }
   ],
   "summary": "Money has a value. In Malaysia, one ringgit equals 100 sen. Add or subtract amounts in the same unit, or convert them first.",
