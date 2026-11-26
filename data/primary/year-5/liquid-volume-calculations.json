@@ -1,0 +1,58 @@
+{
+  "id": "primary-5-liquid-volume-calculations",
+  "title": "Liquid Volume Calculations",
+  "level": "primary-5",
+  "category": "Arithmetic",
+  "introduction": "Use 1 L = 1000 mL and convert to common units.",
+  "definition": "Use 1 L = 1000 mL and convert to common units.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Find 1.25 L + 500 mL in L.",
+      "steps": [
+        "1.25 + 0.5 = 1.75."
+      ],
+      "answer": "1.75"
+    },
+    {
+      "question": "Find 3/5 L in mL.",
+      "steps": [
+        "1000 × 3/5 = 600."
+      ],
+      "answer": "600"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Find 1.25 L + 500 mL in L.",
+      "answer": 1.75,
+      "solution": "1.25 + 0.5 = 1.75. Answer: 1.75"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Find 3/5 L in mL.",
+      "answer": 600,
+      "solution": "1000 × 3/5 = 600. Answer: 600"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Find 5 × 0.25 L in L.",
+      "answer": 1.25,
+      "solution": "5 × 0.25 = 1.25. Answer: 1.25"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Divide 4.8 L into 8 equal portions in L.",
+      "answer": 0.6,
+      "solution": "4.8 ÷ 8 = 0.6. Answer: 0.6"
+    }
+  ],
+  "summary": "Use 1 L = 1000 mL and convert to common units.",
+  "relatedTopics": []
+}

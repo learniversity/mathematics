@@ -74,6 +74,20 @@
       "question": "1,800 mL shared among 9 cups, mL each?",
       "answer": 200,
       "solution": "1,800 ÷ 9."
+    },
+    {
+      "id": "q7",
+      "type": "numeric",
+      "question": "Convert 2 kg 300 g to g.",
+      "answer": 2300,
+      "solution": "2000 + 300 = 2300. Answer: 2300"
+    },
+    {
+      "id": "q8",
+      "type": "numeric",
+      "question": "Convert 1 L 250 mL to mL.",
+      "answer": 1250,
+      "solution": "1000 + 250 = 1250. Answer: 1250"
     }
   ],
   "summary": "Mass measures matter and liquid volume measures the space occupied by liquid. Kilograms and grams measure mass; litres and millilitres measure liquid volume. Do not add quantities of different kinds.",

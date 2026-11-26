@@ -80,6 +80,20 @@
       "type": "numeric",
       "solution": "100 ÷ 10 = 10.",
       "id": "q8"
+    },
+    {
+      "id": "q9",
+      "type": "numeric",
+      "question": "Which is a better estimate for 19 beads: 10 or 20?",
+      "answer": 20,
+      "solution": "19 is closer to 20. Answer: 20"
+    },
+    {
+      "id": "q10",
+      "type": "numeric",
+      "question": "Estimate the number of objects in three groups of about 10.",
+      "answer": 30,
+      "solution": "3 × 10 = 30. Answer: 30"
     }
   ],
   "summary": "Whole numbers are 0, 1, 2, 3 and so on. In Year 1, read, write, count, compare and represent whole numbers from 0 to 100. Ten ones form one ten, and ten tens form one hundred.",

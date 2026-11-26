@@ -75,6 +75,20 @@
       "question": "You have RM5 and spend RM1.80. Remaining RM?",
       "answer": 3.2,
       "solution": "500 − 180 = 320 sen."
+    },
+    {
+      "id": "q7",
+      "type": "numeric",
+      "question": "You have RM20 and spend RM12. How many ringgit remain?",
+      "answer": 8,
+      "solution": "20 − 12 = 8. Answer: 8"
+    },
+    {
+      "id": "q8",
+      "type": "numeric",
+      "question": "Save RM3 each day for 5 days. How many ringgit?",
+      "answer": 15,
+      "solution": "3 × 5 = 15. Answer: 15"
     }
   ],
   "summary": "Ringgit and sen measure money in Malaysia. Write amounts with two decimal places, where RM1 = 100 sen. Add and subtract matching place values, or convert all amounts into sen first.",

@@ -269,6 +269,20 @@
       "type": "numeric",
       "solution": "150 − 45.",
       "id": "q12"
+    },
+    {
+      "id": "q13",
+      "type": "numeric",
+      "question": "Convert 1.5 hours to minutes.",
+      "answer": 90,
+      "solution": "1.5 × 60 = 90. Answer: 90"
+    },
+    {
+      "id": "q14",
+      "type": "numeric",
+      "question": "Convert 2.5 days to hours.",
+      "answer": 60,
+      "solution": "2.5 × 24 = 60. Answer: 60"
     }
   ],
   "summary": "Elapsed time is the interval between start and finish. Timetables record events at specified times. Convert durations to common units before adding, allow for midnight crossings and distinguish waiting time from travel time. Time can also be expressed using fractions and decimals of an hour, day, week or year. Convert to matching units before operating; use actual calendar lengths when counting dates.",

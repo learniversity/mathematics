@@ -148,6 +148,20 @@
       "type": "numeric",
       "solution": "230 + 180 + 45.",
       "id": "q6"
+    },
+    {
+      "id": "q7",
+      "type": "numeric",
+      "question": "Convert 3 m 25 cm to cm.",
+      "answer": 325,
+      "solution": "3 × 100 + 25 = 325. Answer: 325"
+    },
+    {
+      "id": "q8",
+      "type": "numeric",
+      "question": "Find 2 m 40 cm + 85 cm in cm.",
+      "answer": 325,
+      "solution": "240 + 85 = 325. Answer: 325"
     }
   ],
   "summary": "Use common units and apply arithmetic to lengths.",

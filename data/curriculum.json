@@ -274,6 +274,12 @@
       "path": "data/primary/year-1/clock-halves-quarters.json"
     },
     {
+      "id": "primary-1-basic-fractions",
+      "level": "primary-1",
+      "title": "Halves and Quarters",
+      "path": "data/primary/year-1/basic-fractions.json"
+    },
+    {
       "id": "primary-2-halves-and-quarters",
       "level": "primary-2",
       "title": "Introduction to Fractions",
@@ -446,6 +452,12 @@
       "level": "primary-2",
       "title": "Recognising and Comparing Proper Fractions",
       "path": "data/primary/year-2/proper-fractions.json"
+    },
+    {
+      "id": "primary-2-solid-shapes",
+      "level": "primary-2",
+      "title": "Three-Dimensional Shapes",
+      "path": "data/primary/year-2/solid-shapes.json"
     },
     {
       "id": "primary-3-equivalent-fractions",
@@ -820,6 +832,12 @@
       "path": "data/primary/year-4/unitary-method.json"
     },
     {
+      "id": "primary-4-fraction-of-quantity",
+      "level": "primary-4",
+      "title": "Fractions of Quantities",
+      "path": "data/primary/year-4/fraction-of-quantity.json"
+    },
+    {
       "id": "primary-5-fraction-multiplication",
       "level": "primary-5",
       "title": "Multiplying Fractions",
@@ -944,6 +962,24 @@
       "level": "primary-5",
       "title": "Perimeter and Area of Combined Shapes",
       "path": "data/primary/year-5/composite-shapes.json"
+    },
+    {
+      "id": "primary-5-length-calculations",
+      "level": "primary-5",
+      "title": "Length Calculations",
+      "path": "data/primary/year-5/length-calculations.json"
+    },
+    {
+      "id": "primary-5-mass-calculations",
+      "level": "primary-5",
+      "title": "Mass Calculations",
+      "path": "data/primary/year-5/mass-calculations.json"
+    },
+    {
+      "id": "primary-5-liquid-volume-calculations",
+      "level": "primary-5",
+      "title": "Liquid Volume Calculations",
+      "path": "data/primary/year-5/liquid-volume-calculations.json"
     },
     {
       "id": "primary-6-fraction-division",

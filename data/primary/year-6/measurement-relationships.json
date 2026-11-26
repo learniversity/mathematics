@@ -58,6 +58,20 @@
       "question": "A 5 L container fills 250 mL cups. Number?",
       "answer": 20,
       "solution": "Answer: 20"
+    },
+    {
+      "id": "q7",
+      "type": "numeric",
+      "question": "Six bottles each contain 750 mL. Find total in L.",
+      "answer": 4.5,
+      "solution": "6 × 750 ÷ 1000 = 4.5. Answer: 4.5"
+    },
+    {
+      "id": "q8",
+      "type": "numeric",
+      "question": "Find the mass in kg of 12 packs of 350 g.",
+      "answer": 4.2,
+      "solution": "12 × 350 ÷ 1000 = 4.2. Answer: 4.2"
     }
   ],
   "summary": "Use given relationships between length, mass and liquid volume in practical problems, without treating unlike units as interchangeable. A stated rate such as grams per metre or millilitres per container links quantities.",

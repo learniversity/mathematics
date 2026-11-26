@@ -1,0 +1,58 @@
+{
+  "id": "primary-2-solid-shapes",
+  "title": "Three-Dimensional Shapes",
+  "level": "primary-2",
+  "category": "Arithmetic",
+  "introduction": "Identify solids by their flat and curved surfaces, edges and vertices.",
+  "definition": "Identify solids by their flat and curved surfaces, edges and vertices.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "How many flat faces does a cube have?",
+      "steps": [
+        "A cube has six square faces."
+      ],
+      "answer": "6"
+    },
+    {
+      "question": "How many vertices does a cuboid have?",
+      "steps": [
+        "Four top and four bottom vertices."
+      ],
+      "answer": "8"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "How many flat faces does a cube have?",
+      "answer": 6,
+      "solution": "A cube has six square faces. Answer: 6"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "How many vertices does a cuboid have?",
+      "answer": 8,
+      "solution": "Four top and four bottom vertices. Answer: 8"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Which solid has only a curved surface?",
+      "answer": "sphere",
+      "solution": "A sphere has no flat faces. Answer: sphere"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "How many circular flat faces does a cylinder have?",
+      "answer": 2,
+      "solution": "One at each end. Answer: 2"
+    }
+  ],
+  "summary": "Identify solids by their flat and curved surfaces, edges and vertices.",
+  "relatedTopics": []
+}

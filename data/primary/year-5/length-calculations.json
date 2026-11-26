@@ -1,0 +1,58 @@
+{
+  "id": "primary-5-length-calculations",
+  "title": "Length Calculations",
+  "level": "primary-5",
+  "category": "Arithmetic",
+  "introduction": "Convert lengths to common units before calculating with fractions and decimals.",
+  "definition": "Convert lengths to common units before calculating with fractions and decimals.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Find 1.5 m + 75 cm in m.",
+      "steps": [
+        "1.5 + 0.75 = 2.25."
+      ],
+      "answer": "2.25"
+    },
+    {
+      "question": "Find 3/4 km in m.",
+      "steps": [
+        "1000 × 3/4 = 750."
+      ],
+      "answer": "750"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Find 1.5 m + 75 cm in m.",
+      "answer": 2.25,
+      "solution": "1.5 + 0.75 = 2.25. Answer: 2.25"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Find 3/4 km in m.",
+      "answer": 750,
+      "solution": "1000 × 3/4 = 750. Answer: 750"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Find 4 × 1.25 m in m.",
+      "answer": 5,
+      "solution": "4 × 1.25 = 5. Answer: 5"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Divide 2.4 km into 3 equal lengths in km.",
+      "answer": 0.8,
+      "solution": "2.4 ÷ 3 = 0.8. Answer: 0.8"
+    }
+  ],
+  "summary": "Convert lengths to common units before calculating with fractions and decimals.",
+  "relatedTopics": []
+}

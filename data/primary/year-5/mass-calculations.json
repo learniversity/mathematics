@@ -1,0 +1,58 @@
+{
+  "id": "primary-5-mass-calculations",
+  "title": "Mass Calculations",
+  "level": "primary-5",
+  "category": "Arithmetic",
+  "introduction": "Use 1 kg = 1000 g and convert to common units.",
+  "definition": "Use 1 kg = 1000 g and convert to common units.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Find 2.5 kg + 750 g in kg.",
+      "steps": [
+        "2.5 + 0.75 = 3.25."
+      ],
+      "answer": "3.25"
+    },
+    {
+      "question": "Find 3/4 kg in g.",
+      "steps": [
+        "1000 × 3/4 = 750."
+      ],
+      "answer": "750"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Find 2.5 kg + 750 g in kg.",
+      "answer": 3.25,
+      "solution": "2.5 + 0.75 = 3.25. Answer: 3.25"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Find 3/4 kg in g.",
+      "answer": 750,
+      "solution": "1000 × 3/4 = 750. Answer: 750"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Find 4 × 0.35 kg in kg.",
+      "answer": 1.4,
+      "solution": "4 × 0.35 = 1.4. Answer: 1.4"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Divide 3.6 kg into 6 equal portions in kg.",
+      "answer": 0.6,
+      "solution": "3.6 ÷ 6 = 0.6. Answer: 0.6"
+    }
+  ],
+  "summary": "Use 1 kg = 1000 g and convert to common units.",
+  "relatedTopics": []
+}

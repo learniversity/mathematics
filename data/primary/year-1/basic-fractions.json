@@ -1,0 +1,58 @@
+{
+  "id": "primary-1-basic-fractions",
+  "title": "Halves and Quarters",
+  "level": "primary-1",
+  "category": "Arithmetic",
+  "introduction": "Divide a whole into equal parts.",
+  "definition": "Divide a whole into equal parts.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "How many halves make a whole?",
+      "steps": [
+        "Two equal halves make one whole."
+      ],
+      "answer": "2"
+    },
+    {
+      "question": "How many quarters make a whole?",
+      "steps": [
+        "Four equal quarters make one whole."
+      ],
+      "answer": "4"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "How many halves make a whole?",
+      "answer": 2,
+      "solution": "Two equal halves make one whole. Answer: 2"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "How many quarters make a whole?",
+      "answer": 4,
+      "solution": "Four equal quarters make one whole. Answer: 4"
+    },
+    {
+      "id": "q3",
+      "type": "text",
+      "question": "Write one of two equal parts as a fraction.",
+      "answer": "1/2",
+      "solution": "One out of two equal parts is 1/2. Answer: 1/2"
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "question": "Write one of four equal parts as a fraction.",
+      "answer": "1/4",
+      "solution": "One out of four equal parts is 1/4. Answer: 1/4"
+    }
+  ],
+  "summary": "Divide a whole into equal parts.",
+  "relatedTopics": []
+}

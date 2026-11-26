@@ -1,0 +1,58 @@
+{
+  "id": "primary-4-fraction-of-quantity",
+  "title": "Fractions of Quantities",
+  "level": "primary-4",
+  "category": "Arithmetic",
+  "introduction": "Divide the quantity by the denominator and multiply by the numerator.",
+  "definition": "Divide the quantity by the denominator and multiply by the numerator.",
+  "visuals": [],
+  "formulas": [],
+  "examples": [
+    {
+      "question": "Find 1/4 of 20.",
+      "steps": [
+        "20 ÷ 4 = 5."
+      ],
+      "answer": "5"
+    },
+    {
+      "question": "Find 3/5 of 30.",
+      "steps": [
+        "30 ÷ 5 × 3 = 18."
+      ],
+      "answer": "18"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1",
+      "type": "numeric",
+      "question": "Find 1/4 of 20.",
+      "answer": 5,
+      "solution": "20 ÷ 4 = 5. Answer: 5"
+    },
+    {
+      "id": "q2",
+      "type": "numeric",
+      "question": "Find 3/5 of 30.",
+      "answer": 18,
+      "solution": "30 ÷ 5 × 3 = 18. Answer: 18"
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "question": "Find 2/3 of 24.",
+      "answer": 16,
+      "solution": "24 ÷ 3 × 2 = 16. Answer: 16"
+    },
+    {
+      "id": "q4",
+      "type": "numeric",
+      "question": "Find 3/8 of 40.",
+      "answer": 15,
+      "solution": "40 ÷ 8 × 3 = 15. Answer: 15"
+    }
+  ],
+  "summary": "Divide the quantity by the denominator and multiply by the numerator.",
+  "relatedTopics": []
+}
