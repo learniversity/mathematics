@@ -1,27 +1,27 @@
 {
   "id": "preschool-numbers",
-  "title": "Numbers 0–20",
+  "title": "Numbers 0–10",
   "level": "preschool",
   "category": "Arithmetic",
-  "introduction": "Look at each number card, say its name and count its dots.",
-  "definition": "A number tells us how many objects there are. Zero means none. Digits are the ten symbols 0 to 9. We use these digits together to write larger numbers, such as 10, 11 and 20.",
+  "introduction": "Explore numbers 0 to 10. Look at the numeral, say its name and count the dots on each card.",
+  "definition": "A number tells us how many objects there are. Zero means none. The ten digits 0 to 9 are used to write all numbers.",
   "visuals": [
     {
       "label": "0",
       "description": "zero",
-      "alt": "No dots",
+      "alt": "0 dots: zero",
       "elements": []
     },
     {
       "label": "1",
       "description": "one",
-      "alt": "1 dot",
+      "alt": "1 dot: one",
       "elements": [
         {
           "tag": "circle",
           "attrs": {
             "cx": 24,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -31,13 +31,13 @@
     {
       "label": "2",
       "description": "two",
-      "alt": "2 dots",
+      "alt": "2 dots: two",
       "elements": [
         {
           "tag": "circle",
           "attrs": {
             "cx": 24,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -46,7 +46,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 52,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -56,13 +56,13 @@
     {
       "label": "3",
       "description": "three",
-      "alt": "3 dots",
+      "alt": "3 dots: three",
       "elements": [
         {
           "tag": "circle",
           "attrs": {
             "cx": 24,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -71,7 +71,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 52,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -80,7 +80,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 80,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -90,13 +90,13 @@
     {
       "label": "4",
       "description": "four",
-      "alt": "4 dots",
+      "alt": "4 dots: four",
       "elements": [
         {
           "tag": "circle",
           "attrs": {
             "cx": 24,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -105,7 +105,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 52,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -114,7 +114,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 80,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -123,7 +123,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 108,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -133,13 +133,13 @@
     {
       "label": "5",
       "description": "five",
-      "alt": "5 dots",
+      "alt": "5 dots: five",
       "elements": [
         {
           "tag": "circle",
           "attrs": {
             "cx": 24,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -148,7 +148,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 52,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -157,7 +157,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 80,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -166,7 +166,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 108,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -175,7 +175,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 136,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -185,13 +185,13 @@
     {
       "label": "6",
       "description": "six",
-      "alt": "6 dots",
+      "alt": "6 dots: six",
       "elements": [
         {
           "tag": "circle",
           "attrs": {
             "cx": 24,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -200,7 +200,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 52,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -209,7 +209,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 80,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -218,7 +218,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 108,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -227,7 +227,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 136,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -236,7 +236,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 24,
-            "cy": 39,
+            "cy": 50,
             "r": 7,
             "fill": "currentColor"
           }
@@ -246,13 +246,13 @@
     {
       "label": "7",
       "description": "seven",
-      "alt": "7 dots",
+      "alt": "7 dots: seven",
       "elements": [
         {
           "tag": "circle",
           "attrs": {
             "cx": 24,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -261,7 +261,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 52,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -270,7 +270,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 80,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -279,7 +279,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 108,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -288,7 +288,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 136,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -297,7 +297,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 24,
-            "cy": 39,
+            "cy": 50,
             "r": 7,
             "fill": "currentColor"
           }
@@ -306,7 +306,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 52,
-            "cy": 39,
+            "cy": 50,
             "r": 7,
             "fill": "currentColor"
           }
@@ -316,13 +316,13 @@
     {
       "label": "8",
       "description": "eight",
-      "alt": "8 dots",
+      "alt": "8 dots: eight",
       "elements": [
         {
           "tag": "circle",
           "attrs": {
             "cx": 24,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -331,7 +331,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 52,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -340,7 +340,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 80,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -349,7 +349,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 108,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -358,7 +358,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 136,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -367,7 +367,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 24,
-            "cy": 39,
+            "cy": 50,
             "r": 7,
             "fill": "currentColor"
           }
@@ -376,7 +376,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 52,
-            "cy": 39,
+            "cy": 50,
             "r": 7,
             "fill": "currentColor"
           }
@@ -385,7 +385,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 80,
-            "cy": 39,
+            "cy": 50,
             "r": 7,
             "fill": "currentColor"
           }
@@ -395,13 +395,13 @@
     {
       "label": "9",
       "description": "nine",
-      "alt": "9 dots",
+      "alt": "9 dots: nine",
       "elements": [
         {
           "tag": "circle",
           "attrs": {
             "cx": 24,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -410,7 +410,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 52,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -419,7 +419,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 80,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -428,7 +428,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 108,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -437,7 +437,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 136,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -446,7 +446,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 24,
-            "cy": 39,
+            "cy": 50,
             "r": 7,
             "fill": "currentColor"
           }
@@ -455,7 +455,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 52,
-            "cy": 39,
+            "cy": 50,
             "r": 7,
             "fill": "currentColor"
           }
@@ -464,7 +464,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 80,
-            "cy": 39,
+            "cy": 50,
             "r": 7,
             "fill": "currentColor"
           }
@@ -473,7 +473,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 108,
-            "cy": 39,
+            "cy": 50,
             "r": 7,
             "fill": "currentColor"
           }
@@ -483,13 +483,13 @@
     {
       "label": "10",
       "description": "ten",
-      "alt": "10 dots",
+      "alt": "10 dots: ten",
       "elements": [
         {
           "tag": "circle",
           "attrs": {
             "cx": 24,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -498,7 +498,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 52,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -507,7 +507,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 80,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -516,7 +516,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 108,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -525,7 +525,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 136,
-            "cy": 17,
+            "cy": 26,
             "r": 7,
             "fill": "currentColor"
           }
@@ -534,7 +534,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 24,
-            "cy": 39,
+            "cy": 50,
             "r": 7,
             "fill": "currentColor"
           }
@@ -543,7 +543,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 52,
-            "cy": 39,
+            "cy": 50,
             "r": 7,
             "fill": "currentColor"
           }
@@ -552,7 +552,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 80,
-            "cy": 39,
+            "cy": 50,
             "r": 7,
             "fill": "currentColor"
           }
@@ -561,7 +561,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 108,
-            "cy": 39,
+            "cy": 50,
             "r": 7,
             "fill": "currentColor"
           }
@@ -570,1472 +570,7 @@
           "tag": "circle",
           "attrs": {
             "cx": 136,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        }
-      ]
-    },
-    {
-      "label": "11",
-      "description": "eleven",
-      "alt": "11 dots",
-      "elements": [
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 80,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 108,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 136,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 80,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 108,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 136,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        }
-      ]
-    },
-    {
-      "label": "12",
-      "description": "twelve",
-      "alt": "12 dots",
-      "elements": [
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 80,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 108,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 136,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 80,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 108,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 136,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        }
-      ]
-    },
-    {
-      "label": "13",
-      "description": "thirteen",
-      "alt": "13 dots",
-      "elements": [
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 80,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 108,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 136,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 80,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 108,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 136,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 80,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        }
-      ]
-    },
-    {
-      "label": "14",
-      "description": "fourteen",
-      "alt": "14 dots",
-      "elements": [
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 80,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 108,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 136,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 80,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 108,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 136,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 80,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 108,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        }
-      ]
-    },
-    {
-      "label": "15",
-      "description": "fifteen",
-      "alt": "15 dots",
-      "elements": [
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 80,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 108,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 136,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 80,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 108,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 136,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 80,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 108,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 136,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        }
-      ]
-    },
-    {
-      "label": "16",
-      "description": "sixteen",
-      "alt": "16 dots",
-      "elements": [
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 80,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 108,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 136,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 80,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 108,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 136,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 80,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 108,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 136,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 83,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        }
-      ]
-    },
-    {
-      "label": "17",
-      "description": "seventeen",
-      "alt": "17 dots",
-      "elements": [
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 80,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 108,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 136,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 80,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 108,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 136,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 80,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 108,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 136,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 83,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 83,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        }
-      ]
-    },
-    {
-      "label": "18",
-      "description": "eighteen",
-      "alt": "18 dots",
-      "elements": [
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 80,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 108,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 136,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 80,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 108,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 136,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 80,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 108,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 136,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 83,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 83,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 80,
-            "cy": 83,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        }
-      ]
-    },
-    {
-      "label": "19",
-      "description": "nineteen",
-      "alt": "19 dots",
-      "elements": [
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 80,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 108,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 136,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 80,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 108,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 136,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 80,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 108,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 136,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 83,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 83,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 80,
-            "cy": 83,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 108,
-            "cy": 83,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        }
-      ]
-    },
-    {
-      "label": "20",
-      "description": "twenty",
-      "alt": "20 dots",
-      "elements": [
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 80,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 108,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 136,
-            "cy": 17,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 80,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 108,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 136,
-            "cy": 39,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 80,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 108,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 136,
-            "cy": 61,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 24,
-            "cy": 83,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 52,
-            "cy": 83,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 80,
-            "cy": 83,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 108,
-            "cy": 83,
-            "r": 7,
-            "fill": "currentColor"
-          }
-        },
-        {
-          "tag": "circle",
-          "attrs": {
-            "cx": 136,
-            "cy": 83,
+            "cy": 50,
             "r": 7,
             "fill": "currentColor"
           }
@@ -2043,188 +578,215 @@
       ]
     }
   ],
-  "formulas": [],
+  "rules": [
+    "Point to each dot once as you count.",
+    "Say the number name and match it to the numeral.",
+    "Two rows of five make ten."
+  ],
   "examples": [
     {
-      "question": "What does 0 mean?",
+      "question": "Write zero using digits.",
       "steps": [
-        "There are no objects in the group."
+        "Find the matching number card."
       ],
       "answer": "0"
     },
     {
-      "question": "Which number shows four objects?",
+      "question": "Write 10 in words.",
       "steps": [
-        "Count one, two, three, four."
+        "Read the number name beneath the dots."
       ],
-      "answer": "4"
+      "answer": "ten"
     },
     {
-      "question": "How many dots are in three rows of five?",
+      "question": "How many dots are in 1 full groups of ten?",
       "steps": [
-        "Count five, ten, fifteen. You can also count each dot once."
+        "Count ten for each full group."
       ],
-      "answer": "15"
+      "answer": "10"
     }
   ],
   "exercises": [
     {
-      "id": "q1",
+      "id": "number-0",
       "type": "numeric",
       "question": "Write the number for zero.",
       "answer": 0,
-      "solution": "Answer: 0"
+      "solution": "zero is 0."
     },
     {
-      "id": "q2",
+      "id": "name-0",
+      "type": "text",
+      "question": "Write 0 in words.",
+      "answer": "zero",
+      "solution": "0 is written zero."
+    },
+    {
+      "id": "number-1",
       "type": "numeric",
       "question": "Write the number for one.",
       "answer": 1,
-      "solution": "Answer: 1"
+      "solution": "one is 1."
     },
     {
-      "id": "q3",
+      "id": "name-1",
+      "type": "text",
+      "question": "Write 1 in words.",
+      "answer": "one",
+      "solution": "1 is written one."
+    },
+    {
+      "id": "number-2",
       "type": "numeric",
       "question": "Write the number for two.",
       "answer": 2,
-      "solution": "Answer: 2"
+      "solution": "two is 2."
     },
     {
-      "id": "q4",
+      "id": "name-2",
+      "type": "text",
+      "question": "Write 2 in words.",
+      "answer": "two",
+      "solution": "2 is written two."
+    },
+    {
+      "id": "number-3",
       "type": "numeric",
       "question": "Write the number for three.",
       "answer": 3,
-      "solution": "Answer: 3"
+      "solution": "three is 3."
     },
     {
-      "id": "q5",
+      "id": "name-3",
+      "type": "text",
+      "question": "Write 3 in words.",
+      "answer": "three",
+      "solution": "3 is written three."
+    },
+    {
+      "id": "number-4",
       "type": "numeric",
       "question": "Write the number for four.",
       "answer": 4,
-      "solution": "Answer: 4"
+      "solution": "four is 4."
     },
     {
-      "id": "q6",
+      "id": "name-4",
+      "type": "text",
+      "question": "Write 4 in words.",
+      "answer": "four",
+      "solution": "4 is written four."
+    },
+    {
+      "id": "number-5",
       "type": "numeric",
       "question": "Write the number for five.",
       "answer": 5,
-      "solution": "Answer: 5"
+      "solution": "five is 5."
     },
     {
-      "id": "q7",
+      "id": "name-5",
+      "type": "text",
+      "question": "Write 5 in words.",
+      "answer": "five",
+      "solution": "5 is written five."
+    },
+    {
+      "id": "number-6",
       "type": "numeric",
       "question": "Write the number for six.",
       "answer": 6,
-      "solution": "Answer: 6"
+      "solution": "six is 6."
     },
     {
-      "id": "q8",
+      "id": "name-6",
+      "type": "text",
+      "question": "Write 6 in words.",
+      "answer": "six",
+      "solution": "6 is written six."
+    },
+    {
+      "id": "number-7",
       "type": "numeric",
       "question": "Write the number for seven.",
       "answer": 7,
-      "solution": "Answer: 7"
+      "solution": "seven is 7."
     },
     {
-      "id": "q9",
+      "id": "name-7",
+      "type": "text",
+      "question": "Write 7 in words.",
+      "answer": "seven",
+      "solution": "7 is written seven."
+    },
+    {
+      "id": "number-8",
       "type": "numeric",
       "question": "Write the number for eight.",
       "answer": 8,
-      "solution": "Answer: 8"
+      "solution": "eight is 8."
     },
     {
-      "id": "q10",
+      "id": "name-8",
+      "type": "text",
+      "question": "Write 8 in words.",
+      "answer": "eight",
+      "solution": "8 is written eight."
+    },
+    {
+      "id": "number-9",
       "type": "numeric",
       "question": "Write the number for nine.",
       "answer": 9,
-      "solution": "Answer: 9"
+      "solution": "nine is 9."
     },
     {
-      "id": "q11",
-      "type": "numeric",
-      "question": "How many dots? ● ● ●",
-      "answer": 3,
-      "solution": "Answer: 3"
+      "id": "name-9",
+      "type": "text",
+      "question": "Write 9 in words.",
+      "answer": "nine",
+      "solution": "9 is written nine."
     },
     {
       "id": "number-10",
       "type": "numeric",
       "question": "Write the number for ten.",
       "answer": 10,
-      "solution": "Answer: 10"
+      "solution": "ten is 10."
     },
     {
-      "id": "number-11",
-      "type": "numeric",
-      "question": "Write the number for eleven.",
-      "answer": 11,
-      "solution": "Answer: 11"
+      "id": "name-10",
+      "type": "text",
+      "question": "Write 10 in words.",
+      "answer": "ten",
+      "solution": "10 is written ten."
     },
     {
-      "id": "number-12",
+      "id": "dots-0",
       "type": "numeric",
-      "question": "Write the number for twelve.",
-      "answer": 12,
-      "solution": "Answer: 12"
+      "question": "How many dots are in an empty group?",
+      "answer": 0,
+      "solution": "There are 0 dots."
     },
     {
-      "id": "number-13",
+      "id": "dots-5",
       "type": "numeric",
-      "question": "Write the number for thirteen.",
-      "answer": 13,
-      "solution": "Answer: 13"
+      "question": "Count the dots: ● ● ● ● ●",
+      "answer": 5,
+      "solution": "There are 5 dots."
     },
     {
-      "id": "number-14",
+      "id": "dots-10",
       "type": "numeric",
-      "question": "Write the number for fourteen.",
-      "answer": 14,
-      "solution": "Answer: 14"
-    },
-    {
-      "id": "number-15",
-      "type": "numeric",
-      "question": "Write the number for fifteen.",
-      "answer": 15,
-      "solution": "Answer: 15"
-    },
-    {
-      "id": "number-16",
-      "type": "numeric",
-      "question": "Write the number for sixteen.",
-      "answer": 16,
-      "solution": "Answer: 16"
-    },
-    {
-      "id": "number-17",
-      "type": "numeric",
-      "question": "Write the number for seventeen.",
-      "answer": 17,
-      "solution": "Answer: 17"
-    },
-    {
-      "id": "number-18",
-      "type": "numeric",
-      "question": "Write the number for eighteen.",
-      "answer": 18,
-      "solution": "Answer: 18"
-    },
-    {
-      "id": "number-19",
-      "type": "numeric",
-      "question": "Write the number for nineteen.",
-      "answer": 19,
-      "solution": "Answer: 19"
-    },
-    {
-      "id": "number-20",
-      "type": "numeric",
-      "question": "Write the number for twenty.",
-      "answer": 20,
-      "solution": "Answer: 20"
+      "question": "Count the dots: ● ● ● ● ●  ● ● ● ● ●",
+      "answer": 10,
+      "solution": "There are 10 dots."
     }
   ],
-  "summary": "Numbers from 0 to 20 tell us how many objects there are. Each card has exactly that many dots. The ten digits 0–9 are used to write all these numbers.",
+  "summary": "Recognise, name and count numbers 0 to 10.",
   "relatedTopics": [
-    "preschool-counting"
+    "preschool-counting",
+    "preschool-number-names",
+    "preschool-tens-and-ones"
   ]
 }
