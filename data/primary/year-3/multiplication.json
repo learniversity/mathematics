@@ -113,42 +113,42 @@
       "type": "numeric",
       "question": "23 × 4",
       "answer": 92,
-      "solution": "80 + 12 = 92."
+      "solution": "(20 × 4) + (3 × 4) = 80 + 12 = 92."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "56 × 7",
       "answer": 392,
-      "solution": "350 + 42 = 392."
+      "solution": "(50 × 7) + (6 × 7) = 350 + 42 = 392."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "124 × 5",
       "answer": 620,
-      "solution": "500 + 100 + 20 = 620."
+      "solution": "(100 × 5) + (20 × 5) + (4 × 5) = 500 + 100 + 20 = 620."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "307 × 6",
       "answer": 1842,
-      "solution": "1,800 + 42 = 1,842."
+      "solution": "(300 × 6) + (7 × 6) = 1,800 + 42 = 1,842."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "486 × 3",
       "answer": 1458,
-      "solution": "1,200 + 240 + 18 = 1,458."
+      "solution": "(400 × 3) + (80 × 3) + (6 × 3) = 1,200 + 240 + 18 = 1,458."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "8 boxes each contain 125 pencils. Total?",
       "answer": 1000,
-      "solution": "125 × 8 = 1,000."
+      "solution": "8 × 125 = (8 × 100) + (8 × 20) + (8 × 5) = 800 + 160 + 40 = 1,000 pencils."
     }
   ],
   "summary": "Multiply each place value by the one-digit factor, starting with ones. Regroup as needed. The distributive property explains why multiplying expanded parts and adding the products gives the same result.",

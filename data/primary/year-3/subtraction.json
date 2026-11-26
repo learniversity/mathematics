@@ -35,42 +35,42 @@
       "type": "numeric",
       "question": "5,432 − 2,111",
       "answer": 3321,
-      "solution": "Subtract matching places."
+      "solution": "(5,000 − 2,000) + (400 − 100) + (30 − 10) + (2 − 1) = 3,321."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "8,000 − 3,456",
       "answer": 4544,
-      "solution": "Regroup across zeros."
+      "solution": "8,000 − 3,000 = 5,000; − 400 = 4,600; − 50 = 4,550; − 6 = 4,544."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "9,100 − 875",
       "answer": 8225,
-      "solution": "9,100 − 900 + 25."
+      "solution": "9,100 − 900 + 25 = 8,200 + 25 = 8,225."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "6,205 − 2,789",
       "answer": 3416,
-      "solution": "Regroup ones and hundreds as needed."
+      "solution": "6,205 − 2,000 = 4,205; − 700 = 3,505; − 80 = 3,425; − 9 = 3,416."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "4,000 − 1",
       "answer": 3999,
-      "solution": "One less than 4,000."
+      "solution": "4,000 − 1 = 3,999."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "A shop has 5,120 items and sells 1,875. Remaining?",
       "answer": 3245,
-      "solution": "5,120 − 1,875 = 3,245."
+      "solution": "5,120 − 1,000 − 800 − 70 − 5 = 3,245 items."
     }
   ],
   "summary": "Subtract corresponding digits from right to left, regrouping from a higher place when necessary. If a place contains zero, regroup across it. Verify by adding the difference to the subtrahend.",

@@ -30,42 +30,42 @@
       "type": "numeric",
       "question": "Larger: 7,308 or 7,380?",
       "answer": 7380,
-      "solution": "8 tens is greater than 0 tens."
+      "solution": "Both have 7 thousands and 3 hundreds; 8 tens > 0 tens, so 7,380 > 7,308."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "Smaller: 5,099 or 5,900?",
       "answer": 5099,
-      "solution": "0 hundreds is less than 9 hundreds."
+      "solution": "Both have 5 thousands; 0 hundreds < 9 hundreds, so 5,099 < 5,900."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Insert >, < or = : 9,002 __ 8,999",
       "answer": ">",
-      "solution": "9 thousands exceeds 8 thousands."
+      "solution": "9 thousands > 8 thousands, so 9,002 > 8,999."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Insert >, < or = : 4,800 __ 4,800",
       "answer": "=",
-      "solution": "All digits match."
+      "solution": "All corresponding digits match, so 4,800 = 4,800."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "Largest of 3,810, 3,801, 3,180?",
       "answer": 3810,
-      "solution": "Compare hundreds, then tens."
+      "solution": "3,810 and 3,801 have 8 hundreds; 3,810 has more tens. 3,810 > 3,801 > 3,180."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "Smallest of 7,502, 7,205, 7,520?",
       "answer": 7205,
-      "solution": "7,205 has the fewest hundreds."
+      "solution": "All have 7 thousands; 7,205 has only 2 hundreds while the others have 5. 7,205 < 7,502 < 7,520."
     }
   ],
   "summary": "Compare digits starting from the highest place value. At the first different digit, the larger digit identifies the larger number. Ascending means smallest to largest; descending means largest to smallest.",

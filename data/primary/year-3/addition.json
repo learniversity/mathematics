@@ -116,42 +116,42 @@
       "type": "numeric",
       "question": "2,341 + 1,527",
       "answer": 3868,
-      "solution": "Add matching places."
+      "solution": "(2,000 + 1,000) + (300 + 500) + (40 + 20) + (1 + 7) = 3,868."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "4,678 + 2,456",
       "answer": 7134,
-      "solution": "Regroup ones, tens and hundreds."
+      "solution": "4,678 + 2,000 = 6,678; + 400 = 7,078; + 50 = 7,128; + 6 = 7,134."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "3,999 + 1",
       "answer": 4000,
-      "solution": "Carry through all lower places."
+      "solution": "3,999 + 1 = 4,000; regroup 10 ones, then 10 tens, then 10 hundreds."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "5,080 + 930",
       "answer": 6010,
-      "solution": "5,080 + 900 + 30."
+      "solution": "5,080 + 900 = 5,980; 5,980 + 30 = 6,010."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "6,542 + 1,358",
       "answer": 7900,
-      "solution": "Add in columns."
+      "solution": "6,542 + 1,000 + 300 + 50 + 8 = 7,900."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "A library has 3,258 books and receives 1,467. Total?",
       "answer": 4725,
-      "solution": "3,258 + 1,467 = 4,725."
+      "solution": "3,258 + 1,000 + 400 + 60 + 7 = 4,725 books."
     }
   ],
   "summary": "Add corresponding place values from right to left. Regroup whenever a column total reaches ten. Use estimation to check whether an answer is reasonable.",

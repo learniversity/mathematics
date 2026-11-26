@@ -178,42 +178,42 @@
       "type": "numeric",
       "question": "Value of 5 in 5,381?",
       "answer": 5000,
-      "solution": "5 is in the thousands place."
+      "solution": "5 × 1,000 = 5,000."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "Value of 7 in 4,709?",
       "answer": 700,
-      "solution": "7 is in the hundreds place."
+      "solution": "7 × 100 = 700."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "Tens digit of 8,035?",
       "answer": 3,
-      "solution": "The tens digit is 3."
+      "solution": "8,035 = 8,000 + 30 + 5; 30 = 3 × 10, so the tens digit is 3."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "6,000 + 400 + 8",
       "answer": 6408,
-      "solution": "The tens place is zero."
+      "solution": "6,000 + 400 + 0 + 8 = 6,408."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "How many hundreds are in 3,000?",
       "answer": 30,
-      "solution": "3,000 ÷ 100 = 30."
+      "solution": "3,000 ÷ 100 = 30 hundreds."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "What is the value of the 2 in 9,024?",
       "answer": 20,
-      "solution": "2 tens = 20."
+      "solution": "2 × 10 = 20."
     }
   ],
   "summary": "The value of each digit is its digit multiplied by its place. In 7,254 the places are thousands, hundreds, tens and ones. A zero holds a place without adding value.",
