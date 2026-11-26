@@ -31,42 +31,42 @@
       "type": "numeric",
       "question": "6 boxes of 48 books, then 75 more books. Total?",
       "answer": 363,
-      "solution": "6 × 48 + 75."
+      "solution": "6 × 48 = 288; 288 + 75 = 363 books."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "A farmer has 960 eggs, packs 8 per box, sells 35 boxes. Boxes left?",
       "answer": 85,
-      "solution": "960 ÷ 8 − 35."
+      "solution": "960 ÷ 8 = 120; 120 − 35 = 85 boxes."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "A trip is 3 km; 1,250 m walked. Remaining metres?",
       "answer": 1750,
-      "solution": "3,000 − 1,250."
+      "solution": "3 km = 3,000 m; 3,000 − 1,250 = 1,750 m."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "Buy 3 items at RM6.50 and pay RM25. Change RM?",
       "answer": 5.5,
-      "solution": "25 − 3 × 6.50."
+      "solution": "3 × RM6.50 = RM19.50; RM25.00 − RM19.50 = RM5.50."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "Four bottles each hold 750 mL. Pour out 1 L. Remaining mL?",
       "answer": 2000,
-      "solution": "4 × 750 − 1,000."
+      "solution": "4 × 750 = 3,000 mL; 3,000 − 1,000 = 2,000 mL."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "A class has 36 pupils. One third leave, then 4 return. Total?",
       "answer": 28,
-      "solution": "36 − 12 + 4."
+      "solution": "36 ÷ 3 = 12; 36 − 12 + 4 = 28 pupils."
     }
   ],
   "summary": "A multi-step problem requires a plan. Identify relevant quantities, use matching units, choose operations, calculate in a logical order and check the final answer against the question.",
