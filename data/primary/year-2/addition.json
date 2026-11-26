@@ -117,21 +117,21 @@
       "type": "numeric",
       "question": "123 + 245",
       "answer": 368,
-      "solution": "100 + 200 + 20 + 40 + 3 + 5 = 368."
+      "solution": "(100 + 200) + (20 + 40) + (3 + 5) = 300 + 60 + 8 = 368."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "276 + 148",
       "answer": 424,
-      "solution": "Regroup ones and tens."
+      "solution": "276 + 100 = 376; 376 + 40 = 416; 416 + 8 = 424."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "389 + 211",
       "answer": 600,
-      "solution": "9 + 1 = 10; 8 + 1 + 1 = 10; 3 + 2 + 1 = 6."
+      "solution": "389 + 200 = 589; 589 + 11 = 600."
     },
     {
       "id": "q4",
@@ -152,7 +152,7 @@
       "type": "numeric",
       "question": "A library has 248 books and receives 136 more. Total?",
       "answer": 384,
-      "solution": "248 + 136 = 384."
+      "solution": "248 + 100 + 30 + 6 = 384 books."
     }
   ],
   "summary": "Addition combines quantities. Align hundreds, tens and ones in columns. Regroup ten ones as one ten and ten tens as one hundred whenever necessary.",

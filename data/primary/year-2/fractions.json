@@ -135,14 +135,14 @@
       "type": "numeric",
       "question": "What is the numerator of 3/5?",
       "answer": 3,
-      "solution": "The numerator is the top number."
+      "solution": "The numerator counts selected parts. In 3/5, the top number is 3."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "What is the denominator of 2/7?",
       "answer": 7,
-      "solution": "The denominator is the bottom number."
+      "solution": "The denominator counts all equal parts. In 2/7, the bottom number is 7."
     },
     {
       "id": "q3",
@@ -163,14 +163,14 @@
       "type": "numeric",
       "question": "Find two thirds of 12.",
       "answer": 8,
-      "solution": "12 ÷ 3 × 2 = 8."
+      "solution": "12 ÷ 3 = 4; 4 × 2 = 8."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Write the fraction for 3 of 8 equal parts.",
       "answer": "3/8",
-      "solution": "Three selected parts out of eight."
+      "solution": "The numerator is 3 selected parts and the denominator is 8 equal parts, giving 3/8."
     }
   ],
   "summary": "The denominator is the number of equal parts; the numerator counts the selected parts. To find a unit fraction of a group, divide its size by the denominator. To find several such parts, multiply by the numerator.",

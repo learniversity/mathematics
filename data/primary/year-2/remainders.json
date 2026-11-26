@@ -156,35 +156,35 @@
       "type": "numeric",
       "question": "What is the remainder when 13 is divided by 4?",
       "answer": 1,
-      "solution": "13 = 4 × 3 + 1."
+      "solution": "4 × 3 = 12; 13 − 12 = 1."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "How many complete groups of 5 can be made from 27?",
       "answer": 5,
-      "solution": "5 × 5 = 25, with 2 left."
+      "solution": "5 × 5 = 25; 27 − 25 = 2 left over, so there are 5 complete groups."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "What is the remainder when 29 is divided by 6?",
       "answer": 5,
-      "solution": "29 = 6 × 4 + 5."
+      "solution": "6 × 4 = 24; 29 − 24 = 5."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "What is the remainder when 24 is divided by 8?",
       "answer": 0,
-      "solution": "24 = 8 × 3."
+      "solution": "8 × 3 = 24; 24 − 24 = 0."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "How many complete groups of 3 can be made from 20?",
       "answer": 6,
-      "solution": "20 = 3 × 6 + 2."
+      "solution": "3 × 6 = 18; 20 − 18 = 2 left over, so there are 6 complete groups."
     }
   ],
   "summary": "Sometimes equal grouping leaves some objects unused. The remainder is the amount left after making as many complete groups as possible. It must be less than the positive divisor.",

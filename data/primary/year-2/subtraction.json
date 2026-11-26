@@ -41,28 +41,28 @@
       "type": "numeric",
       "question": "386 − 124",
       "answer": 262,
-      "solution": "Subtract each place value."
+      "solution": "(300 − 100) + (80 − 20) + (6 − 4) = 200 + 60 + 2 = 262."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "742 − 356",
       "answer": 386,
-      "solution": "Regroup ones and tens."
+      "solution": "742 − 300 = 442; 442 − 50 = 392; 392 − 6 = 386."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "500 − 236",
       "answer": 264,
-      "solution": "500 − 200 − 36 = 264."
+      "solution": "500 − 200 − 30 − 6 = 264."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "900 − 1",
       "answer": 899,
-      "solution": "One less than 900 is 899."
+      "solution": "900 − 1 = 899."
     },
     {
       "id": "q5",
@@ -76,7 +76,7 @@
       "type": "numeric",
       "question": "A shop has 725 notebooks and sells 289. How many remain?",
       "answer": 436,
-      "solution": "725 − 289 = 436."
+      "solution": "725 − 200 = 525; 525 − 80 = 445; 445 − 9 = 436 notebooks."
     }
   ],
   "summary": "Subtraction finds a difference or the quantity remaining. Align place values. If a digit is too small to subtract, regroup from the next place; check by adding the difference back to the subtracted number.",

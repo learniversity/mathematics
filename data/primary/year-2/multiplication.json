@@ -203,42 +203,42 @@
       "type": "numeric",
       "question": "6 × 6",
       "answer": 36,
-      "solution": "Six groups of six."
+      "solution": "6 + 6 + 6 + 6 + 6 + 6 = 36."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "7 × 9",
       "answer": 63,
-      "solution": "7 × 10 − 7 = 63."
+      "solution": "7 × 10 − 7 = 70 − 7 = 63."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "8 × 8",
       "answer": 64,
-      "solution": "Eight groups of eight."
+      "solution": "8 × 4 = 32; 32 + 32 = 64."
     },
     {
       "id": "q7",
       "type": "numeric",
       "question": "9 × 10",
       "answer": 90,
-      "solution": "Nine tens make ninety."
+      "solution": "9 × 10 = 90."
     },
     {
       "id": "q8",
       "type": "numeric",
       "question": "0 × 8",
       "answer": 0,
-      "solution": "Zero groups contain zero objects."
+      "solution": "Zero groups contain no objects: 0 × 8 = 0."
     },
     {
       "id": "q9",
       "type": "numeric",
       "question": "1 × 7",
       "answer": 7,
-      "solution": "One group of seven."
+      "solution": "One group of seven contains 7 objects: 1 × 7 = 7."
     }
   ],
   "summary": "Multiplication combines equal groups. The factors are the numbers being multiplied, and the product is the result. Tables help us calculate quickly; multiplication can be checked using repeated addition.",

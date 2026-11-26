@@ -31,42 +31,42 @@
       "type": "numeric",
       "question": "150 + 60 − 40",
       "answer": 170,
-      "solution": "210 − 40 = 170."
+      "solution": "150 + 60 = 210; 210 − 40 = 170."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "500 − 125 + 25",
       "answer": 400,
-      "solution": "375 + 25 = 400."
+      "solution": "500 − 125 = 375; 375 + 25 = 400."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "80 + (40 − 15)",
       "answer": 105,
-      "solution": "80 + 25 = 105."
+      "solution": "40 − 15 = 25; 80 + 25 = 105."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "300 − (90 + 60)",
       "answer": 150,
-      "solution": "300 − 150 = 150."
+      "solution": "90 + 60 = 150; 300 − 150 = 150."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "260 − 80 − 30",
       "answer": 150,
-      "solution": "180 − 30 = 150."
+      "solution": "260 − 80 = 180; 180 − 30 = 150."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "A tank contains 200 L, gains 40 L and loses 75 L. Remaining litres?",
       "answer": 165,
-      "solution": "200 + 40 − 75 = 165."
+      "solution": "200 + 40 = 240 L; 240 − 75 = 165 L."
     }
   ],
   "summary": "Addition and subtraction have equal priority. Without brackets, calculate from left to right. If brackets are present, calculate the expression inside first.",
