@@ -32,42 +32,42 @@
       "type": "numeric",
       "question": "250 − 6 × 24",
       "answer": 106,
-      "solution": "250 − 144."
+      "solution": "6 × 24 = 144; 250 − 144 = 106."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "(160 + 80) ÷ 12",
       "answer": 20,
-      "solution": "240 ÷ 12."
+      "solution": "160 + 80 = 240; 240 ÷ 12 = 20."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "360 ÷ 9 × 4",
       "answer": 160,
-      "solution": "40 × 4."
+      "solution": "360 ÷ 9 = 40; 40 × 4 = 160."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "75 + 25 × 8",
       "answer": 275,
-      "solution": "75 + 200."
+      "solution": "25 × 8 = 200; 75 + 200 = 275."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "Estimate 4,189 + 7,634 by rounding each to nearest thousand.",
       "answer": 12000,
-      "solution": "4,000 + 8,000."
+      "solution": "4,189 rounds to 4,000; 7,634 rounds to 8,000; 4,000 + 8,000 = 12,000."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "Estimate 49 × 21 by rounding each to nearest ten.",
       "answer": 1000,
-      "solution": "50 × 20."
+      "solution": "49 rounds to 50; 21 rounds to 20; 50 × 20 = 1,000."
     }
   ],
   "summary": "Use brackets first, then multiplication and division left to right, then addition and subtraction left to right. Estimation uses rounded numbers to approximate a result and check its size.",
