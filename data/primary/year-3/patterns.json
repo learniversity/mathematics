@@ -29,42 +29,42 @@
       "type": "numeric",
       "question": "15, 30, 45, ? (add 15)",
       "answer": 60,
-      "solution": "45 + 15."
+      "solution": "45 + 15 = 60."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "4, 12, 36, ? (multiply by 3)",
       "answer": 108,
-      "solution": "36 × 3."
+      "solution": "36 × 3 = 108."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "250, 225, 200, ? (subtract 25)",
       "answer": 175,
-      "solution": "200 − 25."
+      "solution": "200 − 25 = 175."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "8, 16, ?, 64 (double)",
       "answer": 32,
-      "solution": "16 × 2."
+      "solution": "16 × 2 = 32; 32 × 2 = 64."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "2, 5, 7, 10, 12, ? (alternate +3,+2)",
       "answer": 15,
-      "solution": "12 + 3."
+      "solution": "The last step was +2, so next is +3: 12 + 3 = 15."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "? + 35 = 100",
       "answer": 65,
-      "solution": "100 − 35."
+      "solution": "100 − 35 = 65; check: 65 + 35 = 100."
     }
   ],
   "summary": "A sequence follows an ordering rule. Rules may involve repeated addition, subtraction, multiplication or alternating steps. Use the stated rule or a simple consistent rule to find missing terms.",
