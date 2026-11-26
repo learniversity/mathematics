@@ -9,13 +9,14 @@
     {
       "label": "Count five",
       "description": "Touch each dot once.",
+      "alt": "5 dots",
       "elements": [
         {
           "tag": "circle",
           "attrs": {
             "cx": 24,
-            "cy": 32,
-            "r": 8,
+            "cy": 17,
+            "r": 7,
             "fill": "currentColor"
           }
         },
@@ -23,8 +24,8 @@
           "tag": "circle",
           "attrs": {
             "cx": 52,
-            "cy": 32,
-            "r": 8,
+            "cy": 17,
+            "r": 7,
             "fill": "currentColor"
           }
         },
@@ -32,8 +33,8 @@
           "tag": "circle",
           "attrs": {
             "cx": 80,
-            "cy": 32,
-            "r": 8,
+            "cy": 17,
+            "r": 7,
             "fill": "currentColor"
           }
         },
@@ -41,8 +42,8 @@
           "tag": "circle",
           "attrs": {
             "cx": 108,
-            "cy": 32,
-            "r": 8,
+            "cy": 17,
+            "r": 7,
             "fill": "currentColor"
           }
         },
@@ -50,24 +51,24 @@
           "tag": "circle",
           "attrs": {
             "cx": 136,
-            "cy": 32,
-            "r": 8,
+            "cy": 17,
+            "r": 7,
             "fill": "currentColor"
           }
         }
-      ],
-      "alt": "Count five"
+      ]
     },
     {
       "label": "Count ten",
       "description": "Two rows of five.",
+      "alt": "10 dots",
       "elements": [
         {
           "tag": "circle",
           "attrs": {
             "cx": 24,
-            "cy": 32,
-            "r": 8,
+            "cy": 17,
+            "r": 7,
             "fill": "currentColor"
           }
         },
@@ -75,8 +76,8 @@
           "tag": "circle",
           "attrs": {
             "cx": 52,
-            "cy": 32,
-            "r": 8,
+            "cy": 17,
+            "r": 7,
             "fill": "currentColor"
           }
         },
@@ -84,8 +85,8 @@
           "tag": "circle",
           "attrs": {
             "cx": 80,
-            "cy": 32,
-            "r": 8,
+            "cy": 17,
+            "r": 7,
             "fill": "currentColor"
           }
         },
@@ -93,8 +94,8 @@
           "tag": "circle",
           "attrs": {
             "cx": 108,
-            "cy": 32,
-            "r": 8,
+            "cy": 17,
+            "r": 7,
             "fill": "currentColor"
           }
         },
@@ -102,8 +103,8 @@
           "tag": "circle",
           "attrs": {
             "cx": 136,
-            "cy": 32,
-            "r": 8,
+            "cy": 17,
+            "r": 7,
             "fill": "currentColor"
           }
         },
@@ -111,8 +112,8 @@
           "tag": "circle",
           "attrs": {
             "cx": 24,
-            "cy": 64,
-            "r": 8,
+            "cy": 39,
+            "r": 7,
             "fill": "currentColor"
           }
         },
@@ -120,8 +121,8 @@
           "tag": "circle",
           "attrs": {
             "cx": 52,
-            "cy": 64,
-            "r": 8,
+            "cy": 39,
+            "r": 7,
             "fill": "currentColor"
           }
         },
@@ -129,8 +130,8 @@
           "tag": "circle",
           "attrs": {
             "cx": 80,
-            "cy": 64,
-            "r": 8,
+            "cy": 39,
+            "r": 7,
             "fill": "currentColor"
           }
         },
@@ -138,8 +139,8 @@
           "tag": "circle",
           "attrs": {
             "cx": 108,
-            "cy": 64,
-            "r": 8,
+            "cy": 39,
+            "r": 7,
             "fill": "currentColor"
           }
         },
@@ -147,42 +148,341 @@
           "tag": "circle",
           "attrs": {
             "cx": 136,
-            "cy": 64,
-            "r": 8,
+            "cy": 39,
+            "r": 7,
             "fill": "currentColor"
           }
         }
-      ],
-      "alt": "Count ten"
+      ]
     },
     {
-      "label": "Count from 11 to 20",
-      "description": "Say the numbers in order.",
+      "label": "Count fifteen",
+      "description": "Three rows of five.",
+      "alt": "15 dots",
       "elements": [
         {
-          "tag": "text",
+          "tag": "circle",
           "attrs": {
-            "x": 80,
-            "y": 34,
-            "font-size": 18,
-            "text-anchor": "middle",
+            "cx": 24,
+            "cy": 17,
+            "r": 7,
             "fill": "currentColor"
-          },
-          "text": "11 12 13 14 15"
+          }
         },
         {
-          "tag": "text",
+          "tag": "circle",
           "attrs": {
-            "x": 80,
-            "y": 70,
-            "font-size": 18,
-            "text-anchor": "middle",
+            "cx": 52,
+            "cy": 17,
+            "r": 7,
             "fill": "currentColor"
-          },
-          "text": "16 17 18 19 20"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 17,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 17,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 17,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 39,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 39,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 39,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 39,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 39,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 61,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 61,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 61,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 61,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 61,
+            "r": 7,
+            "fill": "currentColor"
+          }
         }
-      ],
-      "alt": "Count from 11 to 20"
+      ]
+    },
+    {
+      "label": "Count twenty",
+      "description": "Four rows of five.",
+      "alt": "20 dots",
+      "elements": [
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 17,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 17,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 17,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 17,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 17,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 39,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 39,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 39,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 39,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 39,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 61,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 61,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 61,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 61,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 61,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 24,
+            "cy": 83,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 52,
+            "cy": 83,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 80,
+            "cy": 83,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 108,
+            "cy": 83,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        },
+        {
+          "tag": "circle",
+          "attrs": {
+            "cx": 136,
+            "cy": 83,
+            "r": 7,
+            "fill": "currentColor"
+          }
+        }
+      ]
     }
   ],
   "formulas": [],
@@ -250,5 +550,10 @@
   "relatedTopics": [
     "preschool-numbers",
     "preschool-number-names"
+  ],
+  "rules": [
+    "Start with 1 and count each dot once.",
+    "A full row has five dots. Two full rows have ten.",
+    "Practise every number from 0 to 20 in the Numbers 0–20 lesson."
   ]
 }
