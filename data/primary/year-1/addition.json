@@ -32,42 +32,42 @@
       "type": "numeric",
       "question": "1 + 1",
       "answer": 2,
-      "solution": "Answer: 2"
+      "solution": "1 + 1 = 2"
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "4 + 5",
       "answer": 9,
-      "solution": "Answer: 9"
+      "solution": "4 + 5 = 9"
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "12 + 7",
       "answer": 19,
-      "solution": "Answer: 19"
+      "solution": "12 + 7 = 19"
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "28 + 14",
       "answer": 42,
-      "solution": "Answer: 42"
+      "solution": "28 + 14 = 28 + 10 + 4 = 42"
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "45 + 32",
       "answer": 77,
-      "solution": "Answer: 77"
+      "solution": "45 + 32 = 45 + 30 + 2 = 77"
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "Sam has 16 pencils and gets 9 more. How many pencils?",
       "answer": 25,
-      "solution": "Answer: 25"
+      "solution": "16 + 9 = 25 pencils"
     }
   ],
   "summary": "Addition combines quantities to find their total. The numbers added are called addends; the result is the sum.",

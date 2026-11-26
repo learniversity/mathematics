@@ -30,55 +30,55 @@
       "type": "numeric",
       "question": "What comes after 9?",
       "answer": 10,
-      "solution": "Answer: 10"
+      "solution": "9 + 1 = 10"
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "What comes before 15?",
       "answer": 14,
-      "solution": "Answer: 14"
+      "solution": "15 − 1 = 14"
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "How many tens are in 30?",
       "answer": 3,
-      "solution": "Answer: 3"
+      "solution": "30 ÷ 10 = 3"
     },
     {
       "question": "Write ninety-six in digits.",
       "answer": 96,
       "type": "numeric",
-      "solution": "Nine tens and six ones.",
+      "solution": "Nine tens and six ones = 90 + 6 = 96",
       "id": "q4"
     },
     {
       "question": "What comes after 99?",
       "answer": 100,
       "type": "numeric",
-      "solution": "99 + 1 = 100.",
+      "solution": "99 + 1 = 100",
       "id": "q5"
     },
     {
       "question": "What number has 7 tens and 3 ones?",
       "answer": 73,
       "type": "numeric",
-      "solution": "70 + 3.",
+      "solution": "70 + 3 = 73",
       "id": "q6"
     },
     {
       "question": "Write 58 in words.",
       "answer": "fifty-eight",
       "type": "text",
-      "solution": "Five tens and eight ones.",
+      "solution": "58 = 50 + 8; read fifty-eight.",
       "id": "q7"
     },
     {
       "question": "How many tens make 100?",
       "answer": 10,
       "type": "numeric",
-      "solution": "100 ÷ 10 = 10.",
+      "solution": "100 ÷ 10 = 10",
       "id": "q8"
     },
     {
@@ -86,14 +86,14 @@
       "type": "numeric",
       "question": "Which is a better estimate for 19 beads: 10 or 20?",
       "answer": 20,
-      "solution": "19 is closer to 20. Answer: 20"
+      "solution": "19 is 1 away from 20 and 9 away from 10."
     },
     {
       "id": "q10",
       "type": "numeric",
       "question": "Estimate the number of objects in three groups of about 10.",
       "answer": 30,
-      "solution": "3 × 10 = 30. Answer: 30"
+      "solution": "3 × 10 = 30"
     }
   ],
   "summary": "Whole numbers are 0, 1, 2, 3 and so on. In Year 1, read, write, count, compare and represent whole numbers from 0 to 100. Ten ones form one ten, and ten tens form one hundred.",

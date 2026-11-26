@@ -28,42 +28,42 @@
       "type": "numeric",
       "question": "5 − 2",
       "answer": 3,
-      "solution": "Answer: 3"
+      "solution": "5 − 2 = 3"
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "10 − 4",
       "answer": 6,
-      "solution": "Answer: 6"
+      "solution": "10 − 4 = 6"
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "19 − 7",
       "answer": 12,
-      "solution": "Answer: 12"
+      "solution": "19 − 7 = 12"
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "42 − 15",
       "answer": 27,
-      "solution": "Answer: 27"
+      "solution": "42 − 15 = 42 − 10 − 5 = 27"
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "80 − 30",
       "answer": 50,
-      "solution": "Answer: 50"
+      "solution": "80 − 30 = 50"
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "There are 23 apples. 8 are eaten. How many remain?",
       "answer": 15,
-      "solution": "Answer: 15"
+      "solution": "23 − 8 = 15 apples"
     }
   ],
   "summary": "Subtraction finds the amount left after taking away a quantity, or the difference between two quantities.",

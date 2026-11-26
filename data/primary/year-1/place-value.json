@@ -24,21 +24,21 @@
       "type": "numeric",
       "question": "What is the value of 6 in 63?",
       "answer": 60,
-      "solution": "Answer: 60"
+      "solution": "6 is in the tens place: 6 × 10 = 60"
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "How many ones are in 28?",
       "answer": 8,
-      "solution": "Answer: 8"
+      "solution": "28 = 20 + 8, so there are 8 ones."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "What number has 5 tens and 2 ones?",
       "answer": 52,
-      "solution": "Answer: 52"
+      "solution": "5 × 10 + 2 = 52"
     }
   ],
   "summary": "A digit's position determines its value. In a two-digit number, the left digit counts tens and the right digit counts ones.",

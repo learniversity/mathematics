@@ -24,21 +24,21 @@
       "type": "numeric",
       "question": "6 ÷ 2",
       "answer": 3,
-      "solution": "Answer: 3"
+      "solution": "6 ÷ 2 = 3 because 2 × 3 = 6"
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "10 ÷ 5",
       "answer": 2,
-      "solution": "Answer: 2"
+      "solution": "10 ÷ 5 = 2 because 5 × 2 = 10"
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "15 ÷ 3",
       "answer": 5,
-      "solution": "Answer: 5"
+      "solution": "15 ÷ 3 = 5 because 3 × 5 = 15"
     }
   ],
   "summary": "Division can mean sharing a quantity equally or finding how many equal groups fit into it.",

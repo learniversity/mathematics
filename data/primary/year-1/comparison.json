@@ -39,35 +39,35 @@
       "type": "numeric",
       "question": "Which is greater: 36 or 63?",
       "answer": 63,
-      "solution": "Answer: 63"
+      "solution": "63 has 6 tens; 36 has 3 tens. 63 > 36."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "Which is smaller: 72 or 27?",
       "answer": 27,
-      "solution": "Answer: 27"
+      "solution": "27 has 2 tens; 72 has 7 tens. 27 < 72."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "What number is between 49 and 51?",
       "answer": 50,
-      "solution": "Answer: 50"
+      "solution": "49 + 1 = 50; 50 + 1 = 51."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Write >, < or = : 45 __ 54",
       "answer": "<",
-      "solution": "Answer: <"
+      "solution": "45 has 4 tens and 54 has 5 tens, so 45 < 54."
     },
     {
       "id": "q5",
       "type": "text",
       "question": "Write >, < or = : 80 __ 80",
       "answer": "=",
-      "solution": "Answer: ="
+      "solution": "Both numbers have 8 tens and 0 ones, so 80 = 80."
     }
   ],
   "summary": "Compare whole numbers by checking the tens digit first, then the ones digit. The symbols >, < and = mean greater than, less than and equal to.",

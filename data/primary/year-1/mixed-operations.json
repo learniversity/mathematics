@@ -36,35 +36,35 @@
       "type": "numeric",
       "question": "6 + 4 − 3",
       "answer": 7,
-      "solution": "Answer: 7"
+      "solution": "6 + 4 = 10; 10 − 3 = 7"
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "20 − 5 + 2",
       "answer": 17,
-      "solution": "Answer: 17"
+      "solution": "20 − 5 = 15; 15 + 2 = 17"
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "14 + 9 − 8",
       "answer": 15,
-      "solution": "Answer: 15"
+      "solution": "14 + 9 = 23; 23 − 8 = 15"
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "50 − 20 − 10",
       "answer": 20,
-      "solution": "Answer: 20"
+      "solution": "50 − 20 = 30; 30 − 10 = 20"
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "12 − 2 + 9",
       "answer": 19,
-      "solution": "Answer: 19"
+      "solution": "12 − 2 = 10; 10 + 9 = 19"
     }
   ],
   "summary": "When an expression contains only addition and subtraction and no brackets, calculate from left to right. Use the result of each step in the next step.",

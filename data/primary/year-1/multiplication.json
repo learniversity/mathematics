@@ -24,21 +24,21 @@
       "type": "numeric",
       "question": "2 × 3",
       "answer": 6,
-      "solution": "Answer: 6"
+      "solution": "2 + 2 + 2 = 6"
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "4 × 2",
       "answer": 8,
-      "solution": "Answer: 8"
+      "solution": "4 + 4 = 8"
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "5 × 3",
       "answer": 15,
-      "solution": "Answer: 15"
+      "solution": "5 + 5 + 5 = 15"
     }
   ],
   "summary": "Multiplication counts equal groups efficiently. For whole numbers, it can be understood as repeated addition.",
