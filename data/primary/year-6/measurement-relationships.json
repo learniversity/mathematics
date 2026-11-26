@@ -22,56 +22,56 @@
       "type": "numeric",
       "question": "A rope weighs 200 g per metre. Mass of 4 m in g?",
       "answer": 800,
-      "solution": "Answer: 800"
+      "solution": "200 g × 4 = 800 g"
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "A bottle holds 750 mL. Six bottles hold how many mL?",
       "answer": 4500,
-      "solution": "Answer: 4500"
+      "solution": "750 mL × 6 = 4,500 mL"
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "3 kg of material is split into 250 g portions. Number?",
       "answer": 12,
-      "solution": "Answer: 12"
+      "solution": "3 kg = 3,000 g; 3,000 ÷ 250 = 12 portions"
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "Each metre of pipe holds 2 L. 7 m holds L?",
       "answer": 14,
-      "solution": "Answer: 14"
+      "solution": "2 L × 7 = 14 L"
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "A liquid has mass 800 g per L. Mass of 2 L in g?",
       "answer": 1600,
-      "solution": "Answer: 1600"
+      "solution": "800 g × 2 = 1,600 g"
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "A 5 L container fills 250 mL cups. Number?",
       "answer": 20,
-      "solution": "Answer: 20"
+      "solution": "5 L = 5,000 mL; 5,000 ÷ 250 = 20 cups"
     },
     {
       "id": "q7",
       "type": "numeric",
       "question": "Six bottles each contain 750 mL. Find total in L.",
       "answer": 4.5,
-      "solution": "6 × 750 ÷ 1000 = 4.5. Answer: 4.5"
+      "solution": "6 × 750 mL = 4,500 mL; 4,500 ÷ 1,000 = 4.5 L"
     },
     {
       "id": "q8",
       "type": "numeric",
       "question": "Find the mass in kg of 12 packs of 350 g.",
       "answer": 4.2,
-      "solution": "12 × 350 ÷ 1000 = 4.2. Answer: 4.2"
+      "solution": "12 × 350 g = 4,200 g; 4,200 ÷ 1,000 = 4.2 kg"
     }
   ],
   "summary": "Use given relationships between length, mass and liquid volume in practical problems, without treating unlike units as interchangeable. A stated rate such as grams per metre or millilitres per container links quantities.",
