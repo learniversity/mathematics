@@ -39,42 +39,42 @@
       "type": "numeric",
       "question": "3 minutes in seconds?",
       "answer": 180,
-      "solution": "3 × 60."
+      "solution": "3 × 60 = 180 seconds."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "2 hours 20 minutes in minutes?",
       "answer": 140,
-      "solution": "120 + 20."
+      "solution": "2 × 60 + 20 = 140 minutes."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "90 seconds = 1 minute and how many seconds?",
       "answer": 30,
-      "solution": "90 − 60."
+      "solution": "90 − 60 = 30 seconds."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "Duration from 7:40 to 8:15 a.m., in minutes?",
       "answer": 35,
-      "solution": "20 + 15."
+      "solution": "7:40 to 8:00 = 20 minutes; 8:00 to 8:15 = 15 minutes; 20 + 15 = 35 minutes."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "Duration from 2:15 to 4:00 p.m., in minutes?",
       "answer": 105,
-      "solution": "45 + 60."
+      "solution": "2:15 to 3:00 = 45 minutes; 3:00 to 4:00 = 60 minutes; 45 + 60 = 105 minutes."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "1 hour in seconds?",
       "answer": 3600,
-      "solution": "60 × 60."
+      "solution": "60 × 60 = 3,600 seconds."
     }
   ],
   "summary": "Time duration measures how long an event lasts. One minute is 60 seconds and one hour is 60 minutes. Convert to a common unit before adding or subtracting durations.",
