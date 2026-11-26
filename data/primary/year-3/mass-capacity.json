@@ -38,56 +38,56 @@
       "type": "numeric",
       "question": "3 kg 75 g in grams?",
       "answer": 3075,
-      "solution": "3,000 + 75."
+      "solution": "3 × 1,000 + 75 = 3,075 g."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "2 kg − 750 g in grams?",
       "answer": 1250,
-      "solution": "2,000 − 750."
+      "solution": "2 kg = 2,000 g; 2,000 − 750 = 1,250 g."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "4 packets of 250 g total grams?",
       "answer": 1000,
-      "solution": "4 × 250."
+      "solution": "4 × 250 = 1,000 g."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "2 L 450 mL in mL?",
       "answer": 2450,
-      "solution": "2,000 + 450."
+      "solution": "2 × 1,000 + 450 = 2,450 mL."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "5 L − 1,600 mL in mL?",
       "answer": 3400,
-      "solution": "5,000 − 1,600."
+      "solution": "5 L = 5,000 mL; 5,000 − 1,600 = 3,400 mL."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "1,800 mL shared among 9 cups, mL each?",
       "answer": 200,
-      "solution": "1,800 ÷ 9."
+      "solution": "1,800 ÷ 9 = 200 mL."
     },
     {
       "id": "q7",
       "type": "numeric",
       "question": "Convert 2 kg 300 g to g.",
       "answer": 2300,
-      "solution": "2000 + 300 = 2300. Answer: 2300"
+      "solution": "2 × 1,000 + 300 = 2,300 g."
     },
     {
       "id": "q8",
       "type": "numeric",
       "question": "Convert 1 L 250 mL to mL.",
       "answer": 1250,
-      "solution": "1000 + 250 = 1250. Answer: 1250"
+      "solution": "1 × 1,000 + 250 = 1,250 mL."
     }
   ],
   "summary": "Mass measures matter and liquid volume measures the space occupied by liquid. Kilograms and grams measure mass; litres and millilitres measure liquid volume. Do not add quantities of different kinds.",
