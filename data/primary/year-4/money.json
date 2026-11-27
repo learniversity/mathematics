@@ -40,42 +40,42 @@
       "type": "numeric",
       "question": "10% discount on RM90. Sale price in RM?",
       "answer": 81,
-      "solution": "90 − 9."
+      "solution": "Discount = RM90 × 10/100 = RM9. Sale price = RM90 − RM9 = RM81."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "25% discount on RM120. Discount in RM?",
       "answer": 30,
-      "solution": "120 × 0.25."
+      "solution": "Discount = RM120 × 25/100 = RM30."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "Budget RM200, spend RM146.75. Remaining RM?",
       "answer": 53.25,
-      "solution": "200 − 146.75."
+      "solution": "Remaining budget = RM200.00 − RM146.75 = RM53.25."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "4 items at RM12.50. Total RM?",
       "answer": 50,
-      "solution": "4 × 12.50."
+      "solution": "Total cost = 4 × RM12.50 = RM50.00."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "RM100 paid for RM67.85. Change RM?",
       "answer": 32.15,
-      "solution": "100 − 67.85."
+      "solution": "Change = RM100.00 − RM67.85 = RM32.15."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "20% discount on RM75. Sale price RM?",
       "answer": 60,
-      "solution": "75 − 15."
+      "solution": "Discount = RM75 × 20/100 = RM15. Sale price = RM75 − RM15 = RM60."
     }
   ],
   "summary": "A budget sets a spending limit. A discount reduces an original price. Calculate the discount from the original price and subtract it to obtain the sale price. Work in matching currency units.",
