@@ -141,42 +141,42 @@
       "type": "numeric",
       "question": "Write 125/1000 as a decimal.",
       "answer": 0.125,
-      "solution": "125 thousandths."
+      "solution": "125/1000 means 125 thousandths, so 125 ÷ 1000 = 0.125."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "Thousandths digit of 8.046?",
       "answer": 6,
-      "solution": "Third digit after the decimal point."
+      "solution": "In 8.046, the tenths digit is 0, hundredths is 4 and thousandths is 6."
     },
     {
       "id": "q3",
       "type": "text",
       "question": "Insert >, < or = : 0.305 __ 0.35",
       "answer": "<",
-      "solution": "0.305 < 0.350."
+      "solution": "Write 0.35 as 0.350. Compare 305 and 350 thousandths: 305 < 350, so 0.305 < 0.35."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "Round 3.746 to two decimal places.",
       "answer": 3.75,
-      "solution": "6 rounds up."
+      "solution": "The thousandths digit is 6, so increase the hundredths digit from 4 to 5: 3.75."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "Round 8.249 to one decimal place.",
       "answer": 8.2,
-      "solution": "4 rounds down."
+      "solution": "The hundredths digit is 4, so keep the tenths digit 2: 8.2."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "Write 2 + 0.05 + 0.009.",
       "answer": 2.059,
-      "solution": "Align place values."
+      "solution": "Align place values: 2.000 + 0.050 + 0.009 = 2.059."
     }
   ],
   "summary": "The first three decimal places are tenths, hundredths and thousandths. Compare decimals by matching corresponding places, adding trailing zeros if needed. Round using the digit immediately after the required place.",
