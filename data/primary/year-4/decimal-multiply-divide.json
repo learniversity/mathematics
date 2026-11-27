@@ -39,56 +39,56 @@
       "type": "numeric",
       "question": "3.426 × 10",
       "answer": 34.26,
-      "solution": "Each digit moves one place higher."
+      "solution": "Multiply by 10: each digit moves one place higher, so 3.426 × 10 = 34.26."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "4.7 × 100",
       "answer": 470,
-      "solution": "Each digit moves two places higher."
+      "solution": "Multiply by 100: each digit moves two places higher, so 4.7 × 100 = 470."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "85 ÷ 100",
       "answer": 0.85,
-      "solution": "Move digits two places lower."
+      "solution": "Divide by 100: 85 ÷ 100 = 0.85."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "1.25 × 8",
       "answer": 10,
-      "solution": "125 × 8 = 1,000 hundredths."
+      "solution": "125 hundredths × 8 = 1,000 hundredths = 10."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "9.6 ÷ 4",
       "answer": 2.4,
-      "solution": "96 tenths ÷ 4."
+      "solution": "96 tenths ÷ 4 = 24 tenths = 2.4."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "6.75 ÷ 5",
       "answer": 1.35,
-      "solution": "675 hundredths ÷ 5."
+      "solution": "675 hundredths ÷ 5 = 135 hundredths = 1.35."
     },
     {
       "id": "q7",
       "type": "numeric",
       "question": "Calculate 2.35 × 4.",
       "answer": 9.4,
-      "solution": "235 hundredths × 4 = 940 hundredths = 9.4. Answer: 9.4"
+      "solution": "235 hundredths × 4 = 940 hundredths = 9.4."
     },
     {
       "id": "q8",
       "type": "numeric",
       "question": "Calculate 6.48 ÷ 3.",
       "answer": 2.16,
-      "solution": "648 hundredths ÷ 3 = 216 hundredths = 2.16. Answer: 2.16"
+      "solution": "648 hundredths ÷ 3 = 216 hundredths = 2.16."
     }
   ],
   "summary": "Multiplying by 10, 100 or 1,000 moves digits to higher place values; dividing moves them to lower places. For a decimal times a whole number, multiply as integers then restore the decimal places. Divide decimals using place values and extend with zeros when needed.",
