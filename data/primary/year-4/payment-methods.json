@@ -22,42 +22,42 @@
       "type": "numeric",
       "question": "Cash RM50, purchase RM32. Change RM?",
       "answer": 18,
-      "solution": "Answer: 18"
+      "solution": "Change = RM50 − RM32 = RM18."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "Debit account RM120, payment RM45. Balance RM?",
       "answer": 75,
-      "solution": "Answer: 75"
+      "solution": "Account balance = RM120 − RM45 = RM75."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "E-wallet RM30, top up RM20. Balance RM?",
       "answer": 50,
-      "solution": "Answer: 50"
+      "solution": "New balance = RM30 + RM20 = RM50."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "RM100 credit purchase, repay RM40. Debt RM?",
       "answer": 60,
-      "solution": "Answer: 60"
+      "solution": "Remaining debt = RM100 − RM40 = RM60."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "Three RM8 electronic payments total RM?",
       "answer": 24,
-      "solution": "Answer: 24"
+      "solution": "Total payments = 3 × RM8 = RM24."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Does unpaid credit-card spending create debt? yes/no",
       "answer": "yes",
-      "solution": "Answer: yes"
+      "solution": "Yes. Credit-card spending uses borrowed money, which remains a debt until repaid."
     }
   ],
   "summary": "Cash uses notes and coins. Debit cards and electronic wallets pay using available balances, while credit cards can create debt. Record payments, balances and change; do not assume that all payment methods have the same fees.",
