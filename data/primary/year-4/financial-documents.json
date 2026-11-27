@@ -22,42 +22,42 @@
       "type": "numeric",
       "question": "4 items at RM8 each. Invoice subtotal?",
       "answer": 32,
-      "solution": "Answer: 32"
+      "solution": "Subtotal = 4 × RM8 = RM32."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "RM50 bill, RM5 voucher. Amount due?",
       "answer": 45,
-      "solution": "Answer: 45"
+      "solution": "Amount due = RM50 − RM5 = RM45."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "RM80 paid on a RM100 invoice. Balance?",
       "answer": 20,
-      "solution": "Answer: 20"
+      "solution": "Outstanding balance = RM100 − RM80 = RM20."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "Receipt shows RM25 and RM15. Total?",
       "answer": 40,
-      "solution": "Answer: 40"
+      "solution": "Total = RM25 + RM15 = RM40."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "RM60 purchase with RM10 voucher and RM50 payment. Balance?",
       "answer": 0,
-      "solution": "Answer: 0"
+      "solution": "Amount due after voucher = RM60 − RM10 = RM50. Balance = RM50 − RM50 = RM0."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Which document records payment: invoice or receipt?",
       "answer": "receipt",
-      "solution": "Answer: receipt"
+      "solution": "An invoice requests payment; a receipt confirms payment received. Therefore, the receipt records payment."
     }
   ],
   "summary": "A bill states an amount due, an invoice requests payment for goods or services, a receipt records payment, and a voucher may provide a specified reduction. Read quantities, prices, totals and amounts paid.",
