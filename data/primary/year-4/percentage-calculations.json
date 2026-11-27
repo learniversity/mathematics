@@ -1460,42 +1460,42 @@
       "type": "numeric",
       "question": "10% of 350",
       "answer": 35,
-      "solution": "350 ÷ 10."
+      "solution": "10/100 × 350 = 350 ÷ 10 = 35."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "50% of 126",
       "answer": 63,
-      "solution": "126 ÷ 2."
+      "solution": "50/100 × 126 = 126 ÷ 2 = 63."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "25% of 96",
       "answer": 24,
-      "solution": "96 ÷ 4."
+      "solution": "25/100 × 96 = 96 ÷ 4 = 24."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "20% of 150",
       "answer": 30,
-      "solution": "150 × 0.2."
+      "solution": "20/100 × 150 = 150 ÷ 5 = 30."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "5% of 400",
       "answer": 20,
-      "solution": "400 × 0.05."
+      "solution": "5/100 × 400 = 5 × 4 = 20."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "75% of 80",
       "answer": 60,
-      "solution": "80 × 0.75."
+      "solution": "75/100 × 80 = 3/4 × 80 = 3 × 20 = 60."
     }
   ],
   "summary": "To find a percentage of a quantity, divide the percentage by 100 and multiply by the quantity. Useful mental strategies include finding 10%, 5%, 25% or 50% first.",
