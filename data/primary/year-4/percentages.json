@@ -2885,42 +2885,42 @@
       "type": "numeric",
       "question": "Convert 1/2 to percent (number only).",
       "answer": 50,
-      "solution": "1/2 = 50/100."
+      "solution": "Multiply numerator and denominator by 50: 1/2 = 50/100 = 50%."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "Convert 0.25 to percent (number only).",
       "answer": 25,
-      "solution": "0.25 × 100."
+      "solution": "0.25 × 100 = 25, so 0.25 = 25%."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "Convert 80% to decimal.",
       "answer": 0.8,
-      "solution": "80 ÷ 100."
+      "solution": "80% = 80/100 = 0.8."
     },
     {
       "id": "q4",
       "type": "text",
       "question": "Convert 20% to a fraction in lowest terms.",
       "answer": "1/5",
-      "solution": "20/100 = 1/5."
+      "solution": "20% = 20/100. Divide numerator and denominator by 20: 1/5."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "Convert 3/5 to percent (number only).",
       "answer": 60,
-      "solution": "3/5 × 100."
+      "solution": "Multiply numerator and denominator by 20: 3/5 = 60/100 = 60%."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "Convert 0.07 to percent (number only).",
       "answer": 7,
-      "solution": "0.07 × 100."
+      "solution": "0.07 × 100 = 7, so 0.07 = 7%."
     }
   ],
   "summary": "A percentage is a number expressed per hundred. The symbol % means divide by 100. Convert between fractions, decimals and percentages by expressing the same quantity in different notation.",
