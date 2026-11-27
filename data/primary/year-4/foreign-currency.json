@@ -22,42 +22,42 @@
       "type": "text",
       "question": "Currency code of Malaysian ringgit?",
       "answer": "MYR",
-      "solution": "Answer: MYR"
+      "solution": "The international currency code for Malaysian ringgit is MYR."
     },
     {
       "id": "q2",
       "type": "text",
       "question": "Currency code of Singapore dollar?",
       "answer": "SGD",
-      "solution": "Answer: SGD"
+      "solution": "The international currency code for Singapore dollar is SGD."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "At USD1 = RM4, USD10 in RM?",
       "answer": 40,
-      "solution": "Answer: 40"
+      "solution": "USD10 × RM4 per USD = RM40."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "At SGD1 = RM3, RM18 in SGD?",
       "answer": 6,
-      "solution": "Answer: 6"
+      "solution": "RM18 ÷ RM3 per SGD = SGD6."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "At THB10 = RM1, THB50 in RM?",
       "answer": 5,
-      "solution": "Answer: 5"
+      "solution": "THB50 ÷ 10 = 5 groups of THB10. Each group equals RM1, so the total is RM5."
     },
     {
       "id": "q6",
       "type": "text",
       "question": "Can currencies be compared without an exchange rate? yes/no",
       "answer": "no",
-      "solution": "Answer: no"
+      "solution": "No. An exchange rate is needed to compare monetary values in different currencies."
     }
   ],
   "summary": "Countries use different currencies. MYR denotes Malaysian ringgit, SGD Singapore dollar, USD US dollar, JPY Japanese yen and THB Thai baht. Currency amounts cannot be compared directly without an exchange rate. Use given hypothetical rates, not current market rates.",
