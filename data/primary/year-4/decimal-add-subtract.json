@@ -31,42 +31,42 @@
       "type": "numeric",
       "question": "4.125 + 2.34",
       "answer": 6.465,
-      "solution": "4.125 + 2.340."
+      "solution": "Align decimal points: 4.125 + 2.340 = 6.465."
     },
     {
       "id": "q2",
       "type": "numeric",
       "question": "9.7 − 3.485",
       "answer": 6.215,
-      "solution": "9.700 − 3.485."
+      "solution": "Write 9.7 as 9.700. Subtract: 9.700 − 3.485 = 6.215."
     },
     {
       "id": "q3",
       "type": "numeric",
       "question": "0.999 + 0.001",
       "answer": 1,
-      "solution": "1,000 thousandths."
+      "solution": "999 thousandths + 1 thousandth = 1,000 thousandths = 1."
     },
     {
       "id": "q4",
       "type": "numeric",
       "question": "15.006 − 7.008",
       "answer": 7.998,
-      "solution": "Regroup across decimal places."
+      "solution": "Subtract in thousandths: 15,006 − 7,008 = 7,998. Divide by 1,000: 7.998."
     },
     {
       "id": "q5",
       "type": "numeric",
       "question": "5.08 + 6.925",
       "answer": 12.005,
-      "solution": "5.080 + 6.925."
+      "solution": "Align decimal points: 5.080 + 6.925 = 12.005."
     },
     {
       "id": "q6",
       "type": "numeric",
       "question": "30 − 19.875",
       "answer": 10.125,
-      "solution": "30.000 − 19.875."
+      "solution": "Write 30 as 30.000. Subtract: 30.000 − 19.875 = 10.125."
     }
   ],
   "summary": "Align decimal points so equal place values line up. Fill empty decimal places with zeros. Regroup in the same way as whole numbers and keep the point aligned in the result.",
